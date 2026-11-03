@@ -1,0 +1,100 @@
+{
+  "slug": "n132-un-sales",
+  "level": "junior",
+  "profession": "sales",
+  "band": "2-5",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tyler Jankowski",
+    "headline": "Account Executive – Mid-Market SaaS | Customer Onboarding Background",
+    "contact": {
+      "email": "tyler.jankowski@example.com",
+      "phone": "+1 312 0000 132",
+      "location": "Chicago, IL",
+      "links": []
+    },
+    "summary": "SaaS seller with three years split between closing new business and onboarding customers for a logistics software company. Equally at home running discovery calls and leading implementations, and open to either sales or customer success roles.",
+    "experience": [
+      {
+        "title": "Account Executive, Mid-Market",
+        "company": "Freightline Cloud",
+        "location": "Chicago, IL",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own a mid-market territory in the Midwest; closed $640K in new ARR in 2025 (112% of quota)",
+          "Run discovery, demos and pricing negotiations with operations and finance buyers",
+          "Partner with solutions engineers on security reviews and pilot plans",
+          "Hand over closed deals with detailed success plans to the onboarding team"
+        ]
+      },
+      {
+        "title": "Onboarding Specialist",
+        "company": "Freightline Cloud",
+        "location": "Chicago, IL",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Onboarded 45 new customers, configuring carrier integrations and training dispatch teams",
+          "Kept 30-day activation rate above 90% for my cohort"
+        ]
+      },
+      {
+        "title": "Sales Development Representative",
+        "company": "Lakeshore Payroll Services",
+        "location": "Chicago, IL",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Booked meetings through outbound calls and sequences in Outreach"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Communication Studies",
+        "school": "Loyola University Chicago",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Salesforce, Outreach, Gong, Gainsight",
+      "MEDDICC qualification, discovery and demos",
+      "Customer onboarding and training",
+      "Logistics and transportation software",
+      "Renewal and upsell conversations"
+    ],
+    "languages": [
+      "English (native)",
+      "Polish (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "n146-au-hr",
+  "level": "mid",
+  "profession": "hr",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "People & Culture Advisor"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Developer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Daniel Karamanlis",
+    "headline": "HR Business Partner | Retail & Hospitality | Former Store Manager",
+    "contact": {
+      "email": "daniel.karamanlis@example.com",
+      "phone": "+61 422 0000 146",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "HR business partner with six years in people and culture, following eight years in retail store management. Brings operational credibility with frontline leaders and solid knowledge of the Fair Work Act and modern awards.",
+    "experience": [
+      {
+        "title": "HR Business Partner",
+        "company": "Greenfield Grocers Pty Ltd",
+        "location": "Sydney",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Partner with the NSW operations leadership team covering 2,100 employees in 38 stores",
+          "Advise managers on performance management, investigations and terminations under the Fair Work Act",
+          "Support enterprise agreement negotiations and award compliance reviews",
+          "Reduced first-year turnover of store managers from 34% to 21%"
+        ]
+      },
+      {
+        "title": "People & Culture Advisor",
+        "company": "Bondi Hospitality Group",
+        "location": "Sydney",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Handled employee relations cases and onboarding across 12 venues",
+          "Ran payroll checks against the Hospitality Industry (General) Award"
+        ]
+      },
+      {
+        "title": "Store Manager",
+        "company": "Parramatta Homewares Co.",
+        "location": "Parramatta",
+        "dates": "2012 – 2020",
+        "bullets": [
+          "Managed a store team of 55 and A$12M in annual sales",
+          "Recruited and trained assistant managers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduate Diploma in Human Resource Management",
+        "school": "University of Technology Sydney",
+        "dates": "2018 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Business",
+        "school": "Western Sydney University",
+        "dates": "2008 – 2011",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Employee relations and investigations",
+      "Fair Work Act, modern awards, enterprise agreements",
+      "Workday, Deputy",
+      "Change management",
+      "Coaching frontline leaders"
+    ],
+    "languages": [
+      "English (native)",
+      "Greek (conversational)"
+    ],
+    "certifications": [
+      "AHRI Certified Practitioner"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

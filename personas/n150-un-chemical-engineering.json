@@ -1,0 +1,103 @@
+{
+  "slug": "n150-un-chemical-engineering",
+  "level": "mid",
+  "profession": "chemical engineering",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Process Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Process Development Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Financial Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Kulkarni",
+    "headline": "Process Engineer – Pulp, Paper & Specialty Chemicals",
+    "contact": {
+      "email": "priya.kulkarni@example.com",
+      "phone": "+1 678 0000 150",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Chemical engineer with six years in process engineering for pulp and paper and specialty chemicals plants in Georgia. Focused on yield improvement, process safety and supporting operations on the floor.",
+    "experience": [
+      {
+        "title": "Process Engineer II",
+        "company": "Chattahoochee Specialty Chemicals",
+        "location": "Atlanta, GA",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Process engineer for a resin plant running three continuous reactor lines",
+          "Led a distillation column optimization that raised solvent recovery by 6%",
+          "Facilitate HAZOP and MOC reviews for process changes",
+          "Support operators on troubleshooting and write updated SOPs"
+        ]
+      },
+      {
+        "title": "Process Engineer",
+        "company": "Altamaha Paper Mill",
+        "location": "Savannah, GA",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Supported the bleach plant and recovery boiler areas",
+          "Built Aspen Plus models to evaluate chemical usage"
+        ]
+      },
+      {
+        "title": "Co-op Engineer",
+        "company": "Brunswick Cellulose Products",
+        "location": "Brunswick, GA",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Collected process data and supported a pump reliability study"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Chemical and Biomolecular Engineering",
+        "school": "Georgia Institute of Technology",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Aspen Plus, Aspen HYSYS, AVEVA PI",
+      "HAZOP, MOC, PSM (OSHA 1910.119)",
+      "Six Sigma Green Belt methods",
+      "P&ID review, mass and energy balances"
+    ],
+    "languages": [
+      "English (native)",
+      "Marathi (fluent)",
+      "Hindi (fluent)"
+    ],
+    "certifications": [
+      "Engineer in Training (EIT), Georgia",
+      "Lean Six Sigma Green Belt"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

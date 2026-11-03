@@ -1,0 +1,112 @@
+{
+  "slug": "n142-au-program-management",
+  "level": "mid",
+  "profession": "program management",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Projektmanager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Kindergartenpädagogin"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Stefan Kollmann",
+    "headline": "Program Manager | Automotive & E-Mobility Programs | Engineering-to-Launch",
+    "contact": {
+      "email": "stefan.kollmann@example.com",
+      "phone": "+43 664 0000 142",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Program manager with seven years in automotive engineering in Styria, with moves between supplier, OEM contracting, a short start-up stint and back to the supplier side. Coordinates cross-functional vehicle and component programs through SOP.",
+    "experience": [
+      {
+        "title": "Program Manager",
+        "company": "Murtal Drive Systems GmbH",
+        "location": "Graz",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run an e-axle program for a European OEM from B-sample to SOP with a team of 35",
+          "Manage program budget, timing and risks through the APQP gates",
+          "Weekly steering with the customer's purchasing and engineering teams",
+          "Brought the PPAP back on track after a three-month delay at a casting supplier"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "company": "Voltaplan e-Mobility Start-up",
+        "location": "Vienna",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Coordinated the prototype build of a charging robot; the company stopped operations after 10 months"
+        ]
+      },
+      {
+        "title": "Project Engineer (contractor)",
+        "company": "Grazer Fahrzeugtechnik Engineering GmbH",
+        "location": "Graz",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Coordinated test vehicle builds and change requests on assignment at a vehicle manufacturer"
+        ]
+      },
+      {
+        "title": "Test Engineer",
+        "company": "Murtal Drive Systems GmbH",
+        "location": "Graz",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Planned and evaluated durability tests on gearbox test benches"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. (MSc) Mechanical Engineering and Business Economics",
+        "school": "Technische Universität Graz",
+        "dates": "2012 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "APQP, PPAP, VDA 6.3",
+      "Program budget and timing",
+      "MS Project, Jira, Windchill",
+      "Risk management",
+      "Customer steering meetings"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "Slovenian (basic)"
+    ],
+    "certifications": [
+      "IPMA Level C, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "n130-ca-marketing",
+  "level": "mid",
+  "profession": "marketing",
+  "band": "5-8",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Directrice marketing"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gestionnaire de marque"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Geneviève Kirouac",
+    "headline": "Gestionnaire marketing | Marque, contenu et campagnes multicanal | Ex-journaliste",
+    "contact": {
+      "email": "genevieve.kirouac@example.com",
+      "phone": "+1 514 0000 130",
+      "location": "Montréal, QC",
+      "links": []
+    },
+    "summary": "Ancienne journaliste culturelle passée au marketing il y a six ans. Je gère la marque et les campagnes d'une entreprise d'alimentation québécoise, avec une solide expérience de la rédaction, des relations médias et de la mesure de la performance.",
+    "experience": [
+      {
+        "title": "Gestionnaire marketing",
+        "company": "Fromagerie des Deux-Rivières inc.",
+        "location": "Montréal",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Responsable de la stratégie de marque et du plan marketing annuel pour trois gammes de produits",
+          "Gestion d'un budget de 1,2 M$ et de deux agences (création et médias)",
+          "Lancement d'une gamme bio en épicerie; 18 % de croissance des ventes la première année",
+          "Coordination avec les ventes pour les promotions en magasin chez les grands détaillants",
+          "Encadrement d'une coordonnatrice et d'une stagiaire"
+        ]
+      },
+      {
+        "title": "Coordonnatrice marketing et contenu",
+        "company": "Maison Belcourt Thés & Tisanes",
+        "location": "Montréal",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Rédaction et planification du contenu pour le site web, l'infolettre et les réseaux sociaux",
+          "Mise en place de rapports mensuels dans Google Analytics et HubSpot"
+        ]
+      },
+      {
+        "title": "Journaliste culturelle",
+        "company": "Le Courrier de Lanaudière",
+        "location": "Joliette",
+        "dates": "2013 – 2020",
+        "bullets": [
+          "Couverture des arts et de la vie locale, plus de 600 articles publiés",
+          "Animation d'une chronique hebdomadaire à la radio communautaire"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Certificat en marketing",
+        "school": "HEC Montréal",
+        "dates": "2019 – 2021",
+        "details": ""
+      },
+      {
+        "degree": "Baccalauréat en communication (journalisme)",
+        "school": "Université du Québec à Montréal",
+        "dates": "2009 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Stratégie de marque, positionnement",
+      "Planification de campagnes, gestion d'agences",
+      "HubSpot, Google Analytics 4, Meta Ads Manager",
+      "Rédaction, relations médias",
+      "Commerce de détail alimentaire"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

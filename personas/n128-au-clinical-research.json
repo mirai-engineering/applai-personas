@@ -1,0 +1,108 @@
+{
+  "slug": "n128-au-clinical-research",
+  "level": "mid",
+  "profession": "clinical research",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Clinical Research Associate"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Clinical Trial Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Mei Kwan",
+    "headline": "Clinical Research Associate II | Oncology & Haematology Trials | ANZ Monitoring",
+    "contact": {
+      "email": "mei.kwan@example.com",
+      "phone": "+61 412 0000 128",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Clinical research associate with six years in site monitoring for Phase I–III oncology and haematology studies across Victoria, NSW and New Zealand. Comfortable with risk-based monitoring, site start-up and CTN submissions.",
+    "experience": [
+      {
+        "title": "Clinical Research Associate II",
+        "company": "Southern Cross Clinical Research Pty Ltd",
+        "location": "Melbourne",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Monitor 9 sites across VIC and NZ for two Phase III oncology studies under a risk-based monitoring plan",
+          "Lead site start-up for new studies, including CTN notifications and ethics submissions via ERM",
+          "Reduced open queries at my sites by 45% within six months through targeted site retraining",
+          "Mentor two junior CRAs during their first co-monitoring visits"
+        ]
+      },
+      {
+        "title": "Clinical Research Associate I",
+        "company": "Southern Cross Clinical Research Pty Ltd",
+        "location": "Melbourne",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Performed source data verification and drug accountability for haematology studies",
+          "Prepared monitoring visit reports in Veeva Vault CTMS within five working days"
+        ]
+      },
+      {
+        "title": "Clinical Trial Coordinator",
+        "company": "Bayside Cancer Centre",
+        "location": "Melbourne",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Coordinated patient visits, eCRF entry and sample shipments for 11 sponsor studies"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Clinical Research",
+        "school": "Monash University",
+        "dates": "2017 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Biomedical Science",
+        "school": "La Trobe University",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ICH-GCP E6(R2), NHMRC National Statement, TGA CTN scheme",
+      "Risk-based monitoring, SDV, site start-up",
+      "Veeva Vault CTMS, Medidata Rave, Oracle InForm",
+      "Oncology, haematology"
+    ],
+    "languages": [
+      "English (native)",
+      "Cantonese (fluent)"
+    ],
+    "certifications": [
+      "ICH-GCP certification (renewed 2025)",
+      "IATA dangerous goods shipping"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

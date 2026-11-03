@@ -1,0 +1,118 @@
+{
+  "slug": "n139-fr-digital-marketing",
+  "level": "mid",
+  "profession": "digital marketing",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Chargé de marketing digital"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Traffic Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Technicien de maintenance"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Jérémy Kerjean",
+    "headline": "Spécialiste marketing digital | SEA, SEO et automatisation | E-commerce et tourisme",
+    "contact": {
+      "email": "jeremy.kerjean@example.com",
+      "phone": "+33 7 0000 139",
+      "location": "Nantes",
+      "links": []
+    },
+    "summary": "Six ans de marketing digital en agence, chez l'annonceur et en indépendant. Un parcours fait de missions courtes et de changements de secteur, avec une constante : l'acquisition payante et la mesure des résultats.",
+    "experience": [
+      {
+        "title": "Chargé de marketing digital",
+        "company": "Océane Voyages",
+        "location": "Nantes",
+        "dates": "2025 – aujourd'hui",
+        "bullets": [
+          "Pilotage des campagnes Google Ads et Meta pour les séjours en Bretagne et Vendée",
+          "Refonte du tracking avec Google Tag Manager et GA4",
+          "Mise en place de scénarios d'emailing automatisés dans Brevo",
+          "Baisse du coût par réservation de 22 % sur la saison 2025"
+        ]
+      },
+      {
+        "title": "Traffic manager freelance",
+        "company": "Indépendant",
+        "location": "Nantes",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Gestion des campagnes SEA pour une dizaine de PME locales",
+          "Audits SEO techniques et recommandations de contenu"
+        ]
+      },
+      {
+        "title": "Consultant SEA",
+        "company": "Agence Pixel Loire",
+        "location": "Nantes",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Gestion d'un portefeuille de 15 comptes Google Ads"
+        ]
+      },
+      {
+        "title": "Assistant e-commerce",
+        "company": "Cycles Atlantique",
+        "location": "Saint-Nazaire",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Mise en ligne des produits et suivi des ventes sur la boutique Shopify"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licence professionnelle e-commerce et marketing numérique",
+        "school": "Université de Nantes",
+        "dates": "2019 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "BTS Négociation et digitalisation de la relation client",
+        "school": "Lycée Livet",
+        "dates": "2017 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads, LinkedIn Ads",
+      "SEO technique, Semrush, Screaming Frog",
+      "GA4, Google Tag Manager, Looker Studio",
+      "Brevo, HubSpot, Shopify"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification",
+      "Google Analytics Certification"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

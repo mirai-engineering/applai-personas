@@ -1,0 +1,117 @@
+{
+  "slug": "n147-sp-supply-chain",
+  "level": "mid",
+  "profession": "supply chain",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Demand Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Profesor de secundaria"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Alba Jover Sanchis",
+    "headline": "Supply Chain Analyst | Demand Planning, S&OP and Port Logistics",
+    "contact": {
+      "email": "alba.jover@example.com",
+      "phone": "+34 6 0000 147",
+      "location": "Valencia",
+      "links": []
+    },
+    "summary": "Supply chain analyst with six years across a port logistics operator, a ceramics manufacturer and a short spell in e-commerce. Lateral moves between planning, logistics and analytics rather than a straight ladder.",
+    "experience": [
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Cerámicas Turia S.A.",
+        "location": "Castellón de la Plana",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Run the monthly S&OP data cycle for tile production across two plants",
+          "Build demand forecasts in SAP IBP and review them with sales and production",
+          "Inventory optimisation project reduced slow-moving stock by €1.1M",
+          "Maintain Power BI dashboards for service level and inventory KPIs"
+        ]
+      },
+      {
+        "title": "Operations Analyst",
+        "company": "Naranja Express (e-commerce)",
+        "location": "Valencia",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Analysed last-mile delivery performance; left after 11 months when the warehouse moved to Madrid"
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "Terminal Mediterránea de Contenedores",
+        "location": "Valencia",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Coordinated container flows between the terminal, rail and road hauliers",
+          "Prepared weekly yard occupancy reports"
+        ]
+      },
+      {
+        "title": "Demand Planning Trainee",
+        "company": "Horchatería Industrial del Levante",
+        "location": "Alboraya",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Supported seasonal forecasting for beverages"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster en Logística y Supply Chain Management",
+        "school": "Universitat Politècnica de València",
+        "dates": "2019 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Administración y Dirección de Empresas",
+        "school": "Universitat de València",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Demand planning and S&OP",
+      "SAP IBP, SAP MM, Power BI, Excel",
+      "Inventory optimisation",
+      "Port and intermodal logistics",
+      "SQL basics"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "Valencian (native)",
+      "English (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

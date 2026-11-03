@@ -1,0 +1,103 @@
+{
+  "slug": "n145-ir-product-marketing",
+  "level": "junior",
+  "profession": "product marketing",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Content Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Electrician"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Aoife Keane",
+    "headline": "Product Marketing – B2B SaaS | Launches, Messaging & Sales Enablement",
+    "contact": {
+      "email": "aoife.keane@example.com",
+      "phone": "+353 87 0000 145",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "Product marketer with three years in Cork-based B2B software companies. Writes positioning and launch materials, works with sales on enablement, and is moving from associate-level work towards owning products.",
+    "experience": [
+      {
+        "title": "PMM II / Product Marketing Associate",
+        "company": "Harbourside Analytics Ltd",
+        "location": "Cork",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own messaging and launch plans for two features of a compliance analytics platform",
+          "Created battlecards and demo scripts used by a 20-person sales team",
+          "Run win/loss interviews with customers each quarter",
+          "Launch of the audit trail module generated 140 sales-qualified leads in its first quarter"
+        ]
+      },
+      {
+        "title": "Mktg Exec. – Content (Grade 3)",
+        "company": "Lee Valley Software",
+        "location": "Cork",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Wrote case studies, blog posts and webinar copy",
+          "Managed the website CMS in WordPress"
+        ]
+      },
+      {
+        "title": "Marketing Graduate (rotational)",
+        "company": "Munster Credit Union Services",
+        "location": "Cork",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Rotated through digital, events and member communications"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BComm (Marketing)",
+        "school": "University College Cork",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Positioning and messaging",
+      "Launch planning",
+      "Sales enablement (battlecards, demos)",
+      "HubSpot, Gong, Figma, WordPress",
+      "Customer interviews"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (good)",
+      "French (basic)"
+    ],
+    "certifications": [
+      "Pragmatic Institute – Foundations"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

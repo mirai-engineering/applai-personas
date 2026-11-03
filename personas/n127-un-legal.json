@@ -1,0 +1,110 @@
+{
+  "slug": "n127-un-legal",
+  "level": "mid",
+  "profession": "legal",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Legal Counsel"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Healthcare Compliance Counsel"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Danielle Kowalczyk",
+    "headline": "Corporate Counsel – Healthcare Regulatory & Commercial Contracts",
+    "contact": {
+      "email": "danielle.kowalczyk@example.com",
+      "phone": "+1 212 0000 127",
+      "location": "New York, NY",
+      "links": []
+    },
+    "summary": "Attorney admitted in New York with five years of practice after an earlier career as an ICU nurse. Advises healthcare providers and digital health companies on HIPAA, provider agreements and regulatory investigations, drawing on clinical experience to work closely with medical teams.",
+    "experience": [
+      {
+        "title": "Corporate Counsel",
+        "company": "Brightwater Health Partners",
+        "location": "New York, NY",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Lead counsel for vendor, payer and physician services agreements across 14 outpatient sites",
+          "Advise clinical and IT leadership on HIPAA privacy and security questions, including breach assessments",
+          "Built a contract playbook and clause library in Ironclad; standard NDAs now close in two days instead of a week",
+          "Support Stark Law and Anti-Kickback reviews for new physician arrangements"
+        ]
+      },
+      {
+        "title": "Associate",
+        "company": "Ferrante Lowell LLP",
+        "location": "New York, NY",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Drafted motions and discovery responses in medical malpractice defense matters",
+          "Reviewed clinical records and prepared expert witness outlines for 30+ depositions"
+        ]
+      },
+      {
+        "title": "Registered Nurse – Medical ICU",
+        "company": "Saint Columba Hospital",
+        "location": "Newark, NJ",
+        "dates": "2012 – 2018",
+        "bullets": [
+          "Cared for critically ill adult patients in a 24-bed ICU; charge nurse on night shifts"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Juris Doctor",
+        "school": "Fordham University School of Law",
+        "dates": "2018 – 2021",
+        "details": "Health Law Concentration; Moot Court Board"
+      },
+      {
+        "degree": "Bachelor of Science in Nursing",
+        "school": "Rutgers University",
+        "dates": "2008 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "HIPAA, HITECH, Stark Law, Anti-Kickback Statute",
+      "Commercial contract drafting and negotiation",
+      "Litigation support, discovery, deposition preparation",
+      "Ironclad, Westlaw, Relativity",
+      "Clinical documentation review"
+    ],
+    "languages": [
+      "English (native)",
+      "Polish (conversational)"
+    ],
+    "certifications": [
+      "Admitted to the New York State Bar, 2022"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Volunteer, Legal Aid clinic for patients with medical debt"
+    ]
+  }
+}

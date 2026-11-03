@@ -1,0 +1,108 @@
+{
+  "slug": "n136-sw-communications",
+  "level": "mid",
+  "profession": "communications",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Responsable communication"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chargée de communication"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingénieur électricien"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Aurélie Kohler",
+    "headline": "Responsable communication | Organisations internationales et ONG",
+    "contact": {
+      "email": "aurelie.kohler@example.com",
+      "phone": "+41 78 0000 136",
+      "location": "Genève",
+      "links": []
+    },
+    "summary": "Spécialiste de la communication avec sept ans d'expérience dans des organisations à but non lucratif à Genève. Je pilote la communication institutionnelle, les relations avec la presse et les campagnes numériques en français et en anglais.",
+    "experience": [
+      {
+        "title": "Responsable communication",
+        "company": "Fondation Léman pour l'Eau",
+        "location": "Genève",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Pilotage de la stratégie de communication et du budget annuel de la fondation",
+          "Relations avec la presse suisse et internationale; plus de 120 retombées en 2025",
+          "Coordination du rapport annuel et des contenus pour les bailleurs de fonds",
+          "Encadrement d'une chargée de communication et d'un stagiaire"
+        ]
+      },
+      {
+        "title": "Chargée de communication",
+        "company": "Réseau Humanitaire Alpin",
+        "location": "Genève",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Rédaction de communiqués, articles web et newsletters en français et en anglais",
+          "Gestion des réseaux sociaux; communauté LinkedIn passée de 4 000 à 11 000 abonnés"
+        ]
+      },
+      {
+        "title": "Assistante communication",
+        "company": "Ville de Lausanne – Service de la culture",
+        "location": "Lausanne",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Soutien à la promotion des événements culturels de la ville"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master en communication et médias",
+        "school": "Université de Genève",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor en sciences politiques",
+        "school": "Université de Lausanne",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Communication institutionnelle, relations presse",
+      "Gestion de crise",
+      "LinkedIn, Meltwater, Canva, WordPress",
+      "Rédaction bilingue FR/EN",
+      "Rapports annuels et communication bailleurs"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Allemand (intermédiaire)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

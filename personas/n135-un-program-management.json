@@ -1,0 +1,108 @@
+{
+  "slug": "n135-un-program-management",
+  "level": "junior",
+  "profession": "program management",
+  "band": "2-5",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Project Coordinator"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Jasmine Kendrick",
+    "headline": "Associate Program Manager – Public Health Programs",
+    "contact": {
+      "email": "jasmine.kendrick@example.com",
+      "phone": "+1 404 0000 135",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Program manager with three years coordinating grant-funded public health programs in Georgia. Experienced with federal reporting, partner coordination and keeping multi-site programs on schedule and on budget.",
+    "experience": [
+      {
+        "title": "Associate Program Manager",
+        "company": "Peachtree Community Health Alliance",
+        "location": "Atlanta, GA",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Manage a $2.4M CDC-funded diabetes prevention program across 7 partner clinics",
+          "Track milestones, budgets and deliverables and prepare quarterly federal progress reports",
+          "Coordinate monthly partner calls and site visits",
+          "Program enrollment grew from 380 to 610 participants in one year"
+        ]
+      },
+      {
+        "title": "Program Coordinator",
+        "company": "Peachtree Community Health Alliance",
+        "location": "Atlanta, GA",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Maintained participant data in REDCap and supported data quality checks",
+          "Organized community outreach events in DeKalb and Clayton counties"
+        ]
+      },
+      {
+        "title": "Program Assistant (AmeriCorps)",
+        "company": "Southside Food Access Network",
+        "location": "Atlanta, GA",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Supported volunteer scheduling for a weekly food distribution serving 900 families"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Public Health",
+        "school": "Emory University, Rollins School of Public Health",
+        "dates": "2021 – 2023",
+        "details": "Concentration: Health Policy and Management"
+      },
+      {
+        "degree": "B.S. Biology",
+        "school": "Spelman College",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Grant management, federal reporting",
+      "Smartsheet, REDCap, Excel",
+      "Budget tracking",
+      "Partner coordination",
+      "Community outreach"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "CAPM, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

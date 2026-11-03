@@ -1,0 +1,108 @@
+{
+  "slug": "n137-fr-controlling",
+  "level": "mid",
+  "profession": "controlling",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Contrôleur de gestion"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Responsable contrôle de gestion"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Thomas Keller",
+    "headline": "Contrôleur de gestion industriel | Budget, prix de revient et reporting",
+    "contact": {
+      "email": "thomas.keller@example.com",
+      "phone": "+33 6 0000 137",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Contrôleur de gestion avec six ans d'expérience dans l'industrie, d'abord en cabinet d'audit puis en usine. Je construis les budgets, analyse les écarts et accompagne les équipes de production dans le pilotage de leurs coûts.",
+    "experience": [
+      {
+        "title": "Contrôleur de gestion industriel",
+        "company": "Rhodalis Équipements",
+        "location": "Lyon",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Responsable du contrôle de gestion de deux sites de production (210 M€ de chiffre d'affaires)",
+          "Élaboration du budget annuel et des reprévisions trimestrielles avec les directeurs de site",
+          "Mise à jour des prix de revient standards dans SAP CO et analyse des écarts mensuels",
+          "Création d'un reporting Power BI qui a réduit la clôture mensuelle de deux jours"
+        ]
+      },
+      {
+        "title": "Contrôleur de gestion",
+        "company": "Verlaine Emballages",
+        "location": "Villeurbanne",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Suivi des investissements et des frais généraux pour la direction financière",
+          "Participation au projet de valorisation des stocks"
+        ]
+      },
+      {
+        "title": "Auditeur financier junior",
+        "company": "Cabinet Delorme & Associés",
+        "location": "Lyon",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Audit des comptes de PME industrielles et participation aux inventaires physiques"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Contrôle de gestion et audit organisationnel",
+        "school": "IAE Lyon",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Licence Économie-Gestion",
+        "school": "Université Lumière Lyon 2",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Budget, forecast, analyse des écarts",
+      "Coûts de revient, valorisation des stocks",
+      "SAP CO, Power BI, Excel avancé (VBA)",
+      "Normes comptables françaises (PCG), IFRS",
+      "Business partnering avec la production"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (professionnel)",
+      "Allemand (scolaire)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

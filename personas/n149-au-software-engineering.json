@@ -1,0 +1,99 @@
+{
+  "slug": "n149-au-software-engineering",
+  "level": "junior",
+  "profession": "software engineering",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Software Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Frontend Developer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Coordinator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Hamish Kerr",
+    "headline": "Software Engineer – TypeScript, React, Node | Product start-ups",
+    "contact": {
+      "email": "hamish.kerr@example.com",
+      "phone": "+61 437 0000 149",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Software engineer with three years across three start-ups and a contract role. Mostly full-stack TypeScript, with some time on mobile and data tooling; comfortable owning features end to end in small teams.",
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Pantry Pal Pty Ltd",
+        "location": "Melbourne",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Build features in React and Node.js for a grocery inventory app used by 40,000 households",
+          "Moved the API to PostgreSQL with Prisma and wrote the migration scripts",
+          "Set up Playwright end-to-end tests in CI; production regressions dropped noticeably",
+          "Take part in on-call rotation and incident reviews"
+        ]
+      },
+      {
+        "title": "Contract Developer",
+        "company": "Rivergum Digital (agency)",
+        "location": "Melbourne",
+        "dates": "2024 – 2025",
+        "bullets": [
+          "Six-month contract building a React Native booking app for a physio clinic chain"
+        ]
+      },
+      {
+        "title": "Junior Developer",
+        "company": "Tidepool Analytics",
+        "location": "Melbourne",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Wrote Python ETL jobs and internal dashboards; role ended after a funding round fell through"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "school": "Swinburne University of Technology",
+        "dates": "2019 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "TypeScript, React, React Native, Node.js",
+      "PostgreSQL, Prisma, Python",
+      "AWS (Lambda, RDS), Docker",
+      "Playwright, Jest, GitHub Actions"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Side project: open-source tram timetable widget for Melbourne (GitHub, ~300 stars)"
+    ],
+    "extra_sections": []
+  }
+}

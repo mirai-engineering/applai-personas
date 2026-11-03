@@ -1,0 +1,91 @@
+{
+  "slug": "n148-ir-accounting",
+  "level": "junior",
+  "profession": "accounting",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Accountant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Management Accountant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Ciarán Kiely",
+    "headline": "Newly Qualified Chartered Accountant (ACA) – Audit & Financial Reporting",
+    "contact": {
+      "email": "ciaran.kiely@example.com",
+      "phone": "+353 86 0000 148",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "Chartered accountant who qualified in 2025 after a three-year training contract in audit. Experienced with statutory audits of Irish SMEs and subsidiaries reporting under FRS 102 and IFRS, now looking for an industry accounting role.",
+    "experience": [
+      {
+        "title": "Audit Senior (Newly Qualified)",
+        "company": "Barry Crowley & Partners",
+        "location": "Cork",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Run fieldwork for statutory audits of manufacturing and agri-food clients",
+          "Prepare financial statements under FRS 102 and review junior staff work",
+          "Supervise teams of two to three trainees on site"
+        ]
+      },
+      {
+        "title": "Trainee Accountant (ACA)",
+        "company": "Barry Crowley & Partners",
+        "location": "Cork",
+        "dates": "2022 – 2025",
+        "bullets": [
+          "Performed audit testing on revenue, payroll and fixed assets",
+          "Prepared year-end corporation tax computations for small companies"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Accounting",
+        "school": "Munster Technological University",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Statutory audit, FRS 102, IFRS",
+      "CaseWare, Sage, Xero",
+      "Corporation tax basics",
+      "Excel (pivot tables, lookups)"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [
+      "Chartered Accountants Ireland (ACA), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

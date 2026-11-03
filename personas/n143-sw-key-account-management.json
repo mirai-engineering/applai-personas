@@ -1,0 +1,110 @@
+{
+  "slug": "n143-sw-key-account-management",
+  "level": "senior",
+  "profession": "key account management",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Development Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Quality Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Fabienne Kunz",
+    "headline": "Senior Key Account Manager – Pharma & Biotech | Laboratory Equipment and Services",
+    "contact": {
+      "email": "fabienne.kunz@example.com",
+      "phone": "+41 76 0000 143",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Key account manager with ten years selling laboratory instruments and service contracts to pharma and biotech companies in Switzerland and southern Germany. Trained as a biotechnologist, comfortable with scientific users and procurement alike.",
+    "experience": [
+      {
+        "title": "Senior Key Account Manager",
+        "company": "Laborix Instruments AG",
+        "location": "Basel",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Manage four strategic pharma accounts with annual revenue of CHF 14M",
+          "Negotiate multi-year framework agreements and service contracts with global procurement",
+          "Grew the largest account by 27% over three years through service and consumables bundles",
+          "Coordinate application specialists and service engineers for account plans"
+        ]
+      },
+      {
+        "title": "Key Account Manager",
+        "company": "Laborix Instruments AG",
+        "location": "Basel",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Developed biotech accounts in the Basel and Freiburg region",
+          "Achieved 105–118% of target each year"
+        ]
+      },
+      {
+        "title": "Sales Representative, Life Sciences",
+        "company": "Rheintal Lab Supplies GmbH",
+        "location": "Freiburg im Breisgau",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Sold consumables and small equipment to university and hospital labs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Biotechnology",
+        "school": "ZHAW Zurich University of Applied Sciences",
+        "dates": "2013 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "BSc Biotechnology",
+        "school": "Hochschule Furtwangen",
+        "dates": "2010 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Strategic account planning",
+      "Framework agreements and tenders",
+      "Salesforce, SAP SD",
+      "Pharma GMP environment",
+      "Chromatography and lab automation"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "French (good)"
+    ],
+    "certifications": [
+      "Miller Heiman Strategic Selling"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

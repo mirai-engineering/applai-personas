@@ -1,0 +1,105 @@
+{
+  "slug": "n129-ne-construction",
+  "level": "junior",
+  "profession": "construction",
+  "band": "2-5",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Construction Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Uitvoerder"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Account Manager"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Bram Kuijpers",
+    "headline": "Junior Construction Manager / Werkvoorbereider – Residential & Timber Construction",
+    "contact": {
+      "email": "bram.kuijpers@example.com",
+      "phone": "+31 6 0000 129",
+      "location": "Amsterdam",
+      "links": []
+    },
+    "summary": "Civil engineer with three years on residential construction sites in Amsterdam and Almere. Has worked as work planner and assistant site manager on timber-frame and concrete housing projects and now looks for a construction manager role.",
+    "experience": [
+      {
+        "title": "Asst. Uitvoerder / Jr. Construction Mgr",
+        "company": "Bouwbedrijf Van Rijckevorsel",
+        "location": "Amsterdam",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Day-to-day site coordination for 64 timber-frame apartments in Amsterdam-Noord",
+          "Plan subcontractors weekly and run the morning site meetings",
+          "Keep the site diary, safety inspections (VCA) and snag lists in Dalux",
+          "Handled two weeks of independent site management during the site manager's leave"
+        ]
+      },
+      {
+        "title": "Werkvoorbereider (trainee grade B)",
+        "company": "Bouwbedrijf Van Rijckevorsel",
+        "location": "Amsterdam",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Prepared purchase orders and quantity take-offs for prefab elements",
+          "Updated the construction schedule in MS Project after design changes"
+        ]
+      },
+      {
+        "title": "Graduation intern – BIM",
+        "company": "Kade Bouwadvies",
+        "location": "Almere",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Built Revit models for clash checks between structure and installations"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Civil Engineering (Bouwkunde)",
+        "school": "Hogeschool van Amsterdam",
+        "dates": "2019 – 2023",
+        "details": "Graduation project: planning of prefab timber housing"
+      }
+    ],
+    "skills": [
+      "Site coordination, subcontractor planning",
+      "Dalux, MS Project, Revit, Solibri",
+      "VCA VOL, Bouwbesluit 2012 / BBL",
+      "Quantity take-off, purchasing",
+      "Snagging and handover"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [
+      "VCA VOL",
+      "BHV (company emergency response)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

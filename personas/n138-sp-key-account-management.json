@@ -1,0 +1,108 @@
+{
+  "slug": "n138-sp-key-account-management",
+  "level": "senior",
+  "profession": "key account management",
+  "band": "8-12",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Trade Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero de software"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Núria Jordà Puig",
+    "headline": "Key Account Manager Gran Distribución | Trade Marketing | Gran consumo",
+    "contact": {
+      "email": "nuria.jorda@example.com",
+      "phone": "+34 6 0000 138",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Profesional del gran consumo con diez años alternando la gestión de grandes cuentas y el trade marketing. He negociado con las principales cadenas de distribución y también he diseñado planes de activación en el punto de venta, por lo que puedo aportar en ambos perfiles.",
+    "experience": [
+      {
+        "title": "Key Account Manager – Distribución Moderna",
+        "company": "Conservas Maresme S.A.",
+        "location": "Barcelona",
+        "dates": "2021 – actualidad",
+        "bullets": [
+          "Gestión de tres cuentas nacionales con una facturación conjunta de 38 M€",
+          "Negociación anual de condiciones, surtido y promociones con los compradores",
+          "Crecimiento del 14 % en la cuenta principal en 2024 gracias a un nuevo acuerdo de marca propia",
+          "Coordinación con logística y finanzas para el plan de cuenta y el seguimiento del P&L"
+        ]
+      },
+      {
+        "title": "Trade Marketing Manager",
+        "company": "Bebidas Montseny S.L.",
+        "location": "Sabadell",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Diseño de planes de activación en el punto de venta para hipermercados y canal horeca",
+          "Análisis de sell-out con datos de Nielsen para optimizar las promociones",
+          "Gestión de un presupuesto de trade de 2,5 M€"
+        ]
+      },
+      {
+        "title": "Category Analyst",
+        "company": "Distribuciones Llobregat",
+        "location": "L'Hospitalet de Llobregat",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Elaboración de informes de categoría y propuestas de surtido para clientes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Administración y Dirección de Empresas",
+        "school": "Universitat Pompeu Fabra",
+        "dates": "2010 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "Máster en Dirección de Marketing",
+        "school": "ESIC Business & Marketing School",
+        "dates": "2014 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Negociación con gran distribución, planes de cuenta, P&L de cliente",
+      "Trade marketing, category management",
+      "Nielsen, Salesforce, SAP SD, Excel avanzado",
+      "Promociones y revenue management"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Catalán (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

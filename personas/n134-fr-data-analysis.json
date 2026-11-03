@@ -1,0 +1,119 @@
+{
+  "slug": "n134-fr-data-analysis",
+  "level": "senior",
+  "profession": "data analysis",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analytics Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chef de projet BTP"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Yanis Khelifi",
+    "headline": "Senior Data Analyst | Product & Pricing Analytics | SQL, Python, dbt",
+    "contact": {
+      "email": "yanis.khelifi@example.com",
+      "phone": "+33 6 0000 134",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Data analyst with ten years across retail, mobility, freelance consulting and a fintech scale-up. Has moved between product analytics, pricing and BI rather than up a single ladder, and enjoys turning messy data into decisions.",
+    "experience": [
+      {
+        "title": "Senior Data Analyst – Pricing",
+        "company": "Pliant Paiement SAS",
+        "location": "Paris",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own pricing analytics for merchant fees; built the elasticity model behind the 2025 price grid",
+          "Model data in dbt on BigQuery and publish self-serve dashboards in Looker",
+          "Price change based on my analysis raised gross margin by 1.8 points without higher churn",
+          "Work with product managers on A/B test design and readouts"
+        ]
+      },
+      {
+        "title": "Freelance Data Analyst",
+        "company": "Self-employed",
+        "location": "Paris",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Missions for four clients (e-commerce, a museum, two start-ups): KPI frameworks and dashboards",
+          "Set up a Metabase stack for a 30-person start-up"
+        ]
+      },
+      {
+        "title": "Product Analyst",
+        "company": "Trotti Mobility",
+        "location": "Paris",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Analysed ride data for scooter rebalancing; left after the company's French operations closed"
+        ]
+      },
+      {
+        "title": "BI Analyst",
+        "company": "Maison Arlequin Retail",
+        "location": "Lille",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Built weekly sales reporting for 120 stores in Power BI",
+          "Automated the store stock report with SQL Server and SSIS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master in Statistics and Econometrics",
+        "school": "Université Toulouse 1 Capitole",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "Licence in Mathematics",
+        "school": "Université de Lille",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (BigQuery, PostgreSQL, SQL Server), Python (pandas, statsmodels)",
+      "dbt, Looker, Power BI, Metabase",
+      "A/B testing, price elasticity, cohort analysis",
+      "Stakeholder workshops and data storytelling"
+    ],
+    "languages": [
+      "French (native)",
+      "Arabic (fluent)",
+      "English (professional)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Open-source dbt package for French public holiday calendars"
+    ],
+    "extra_sections": []
+  }
+}

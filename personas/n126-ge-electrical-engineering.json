@@ -1,0 +1,118 @@
+{
+  "slug": "n126-ge-electrical-engineering",
+  "level": "exec",
+  "profession": "electrical engineering",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of Electrical Engineering"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Technischer Leiter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerberater"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Henrike Janßen",
+    "headline": "Leiterin Elektrotechnik | Mittelspannung, Batteriespeicher & Netzintegration",
+    "contact": {
+      "email": "henrike.janssen@example.com",
+      "phone": "+49 160 0000 126",
+      "location": "Berlin",
+      "links": []
+    },
+    "summary": "Elektroingenieurin mit über 16 Jahren Erfahrung in Energieversorgung, Bahntechnik und Speichersystemen. Wechsel zwischen Konzern, Ingenieurbüro und Scale-up; heute verantwortlich für die gesamte Elektroplanung von Großbatteriespeichern mit einem Team von 22 Ingenieurinnen und Ingenieuren.",
+    "experience": [
+      {
+        "title": "Head of Electrical Engineering",
+        "company": "Spreeakku Systems GmbH",
+        "location": "Berlin",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Fachliche und disziplinarische Leitung von 22 Elektroingenieuren in drei Teams (Primärtechnik, Sekundärtechnik, Netzstudien)",
+          "Verantwortung für die Elektroplanung von Batteriespeichern bis 250 MW / 500 MWh inklusive Netzanschluss nach VDE-AR-N 4110 und 4120",
+          "Einführung standardisierter Schaltanlagen-Baukästen; Planungszeit pro Projekt um rund 30 % gesenkt",
+          "Abstimmung mit Übertragungsnetzbetreibern und Zertifizierern für Anlagenzertifikate",
+          "Aufbau der Zusammenarbeit mit einem Engineering-Partner in Polen"
+        ]
+      },
+      {
+        "title": "Teamleiter Netzintegration (Interim)",
+        "company": "Havelstrom Consult GbR",
+        "location": "Potsdam",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Freiberufliche Interimsleitung eines Netzstudien-Teams für Wind- und PV-Parks",
+          "Erstellung von Netzverträglichkeitsuntersuchungen mit PowerFactory"
+        ]
+      },
+      {
+        "title": "Projektingenieurin Bahnstromversorgung",
+        "company": "Kettler & Adam Ingenieure GmbH",
+        "location": "Berlin",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Planung von Unterwerken 15 kV/16,7 Hz in den Leistungsphasen 3–5",
+          "Bauüberwachung bei zwei Unterwerksneubauten in Brandenburg"
+        ]
+      },
+      {
+        "title": "Entwicklungsingenieurin Schutztechnik",
+        "company": "Siemens AG",
+        "location": "Berlin",
+        "dates": "2010 – 2016",
+        "bullets": [
+          "Parametrierung und Typprüfung digitaler Schutzgeräte für Mittelspannungsnetze",
+          "Betreuung internationaler Kunden bei der Inbetriebnahme in Skandinavien"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. Elektrotechnik (Energietechnik)",
+        "school": "Technische Universität Berlin",
+        "dates": "2004 – 2010",
+        "details": "Diplomarbeit: Schutzkonzepte für Netze mit hohem Anteil dezentraler Erzeugung"
+      }
+    ],
+    "skills": [
+      "Mittel- und Hochspannung, Schutztechnik, Netzanschlussrichtlinien VDE-AR-N 4110/4120",
+      "DIgSILENT PowerFactory, EPLAN Electric P8, ETAP",
+      "Batteriespeicher, Umrichtertechnik, Netzstudien",
+      "Führung, Budgetverantwortung bis 9 Mio. €",
+      "HOAI, Bauüberwachung, Inbetriebnahme"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Schwedisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Elektrofachkraft für festgelegte Tätigkeiten / Schaltberechtigung bis 30 kV"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Mitglied im VDE-Arbeitskreis Speichersysteme"
+    ]
+  }
+}

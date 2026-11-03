@@ -1,0 +1,92 @@
+{
+  "slug": "n140-au-marketing",
+  "level": "intern",
+  "profession": "marketing",
+  "band": "0-2",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Marketing Assistant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accounts Payable Officer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Chloe Kaur",
+    "headline": "Marketing Intern / Mktg Assoc. (casual) | Social & Events | Final-year Commerce student",
+    "contact": {
+      "email": "chloe.kaur@example.com",
+      "phone": "+61 433 0000 140",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Final-year commerce student majoring in marketing, with a year of part-time marketing work for a fitness brand and an events internship. Looking for a graduate marketing role in Sydney.",
+    "experience": [
+      {
+        "title": "Mktg Assoc. (Casual, Level 2)",
+        "company": "Harbourline Fitness Pty Ltd",
+        "location": "Sydney",
+        "dates": "Feb 2025 – Present",
+        "bullets": [
+          "Schedule Instagram and TikTok content for 6 gyms using Later",
+          "Coordinate member referral campaigns with the club managers",
+          "Wrote email newsletters in Klaviyo; open rate improved from 31% to 38%"
+        ]
+      },
+      {
+        "title": "Events & Marketing Intern (unpaid, uni placement)",
+        "company": "Northshore Wine Collective",
+        "location": "Sydney",
+        "dates": "Nov 2024 – Jan 2025",
+        "bullets": [
+          "Helped run three tasting events and the sign-up process for each"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Marketing)",
+        "school": "Macquarie University",
+        "dates": "2023 – 2026",
+        "details": "Expected completion: December 2026; WAM 76"
+      }
+    ],
+    "skills": [
+      "Social media scheduling (Later, Meta Business Suite)",
+      "Klaviyo, Canva, Google Analytics 4",
+      "Event coordination",
+      "Copywriting",
+      "Basic Excel reporting"
+    ],
+    "languages": [
+      "English (native)",
+      "Punjabi (fluent)",
+      "Hindi (conversational)"
+    ],
+    "certifications": [
+      "HubSpot Content Marketing Certification"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

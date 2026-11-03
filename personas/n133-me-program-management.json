@@ -1,0 +1,110 @@
+{
+  "slug": "n133-me-program-management",
+  "level": "mid",
+  "profession": "program management",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente de Proyectos"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Diseñador gráfico"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Karla Jiménez Ocampo",
+    "headline": "Program Manager | PMO | Banca digital y transformación",
+    "contact": {
+      "email": "karla.jimenez@example.com",
+      "phone": "+52 55 0000 133",
+      "location": "Ciudad de México",
+      "links": []
+    },
+    "summary": "Profesional con siete años en gestión de programas y proyectos de tecnología para banca y seguros. Coordino portafolios con varios equipos ágiles, proveedores y áreas de negocio, con foco en el cumplimiento de fechas regulatorias y presupuesto.",
+    "experience": [
+      {
+        "title": "Sr. Program Mgr. (Banda G7)",
+        "company": "Banco Mercantil del Altiplano",
+        "location": "Ciudad de México",
+        "dates": "2023 – actualidad",
+        "bullets": [
+          "Dirijo el programa de migración de banca móvil con 6 células ágiles y dos proveedores externos",
+          "Gestión del presupuesto del programa (MXN 85 M) y reportes mensuales para el comité de dirección",
+          "Coordinación con el área de riesgos para cumplir los requisitos de la CNBV en tiempo",
+          "Implementación de tableros de seguimiento en Jira Align para toda la cartera"
+        ]
+      },
+      {
+        "title": "PM / Líder de Proyecto TI – Nivel III",
+        "company": "Seguros Volcán S.A. de C.V.",
+        "location": "Ciudad de México",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Lideré la implementación del nuevo sistema de emisión de pólizas para autos",
+          "Reducción del tiempo de emisión de 3 días a 4 horas tras la salida a producción"
+        ]
+      },
+      {
+        "title": "Analista PMO Jr.",
+        "company": "Consultoría Atlatl",
+        "location": "Ciudad de México",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Seguimiento de cronogramas y riesgos de proyectos para clientes financieros"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial",
+        "school": "Universidad Iberoamericana",
+        "dates": "2013 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Diplomado en Dirección de Proyectos",
+        "school": "Tecnológico de Monterrey",
+        "dates": "2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Gestión de portafolio, PMO, gestión de riesgos",
+      "SAFe, Scrum, Kanban",
+      "Jira Align, MS Project, Power BI",
+      "Gestión de proveedores y contratos",
+      "Regulación bancaria CNBV"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "PMP, 2022",
+      "SAFe 6 Agilist"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

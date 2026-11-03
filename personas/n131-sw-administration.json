@@ -1,0 +1,112 @@
+{
+  "slug": "n131-sw-administration",
+  "level": "mid",
+  "profession": "administration",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Executive Assistant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Office Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Laura Kessler-Moretti",
+    "headline": "Executive Assistant to C-Level | Former Hotel Front Office Manager",
+    "contact": {
+      "email": "laura.kesslermoretti@example.com",
+      "phone": "+41 79 0000 131",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Executive assistant with six years supporting senior leaders in life sciences, after an earlier career in luxury hotel operations. Brings calm under pressure, guest-level service and fluent German, English and Italian.",
+    "experience": [
+      {
+        "title": "Executive Assistant to the Chief Medical Officer",
+        "company": "Rheinfeld Therapeutics AG",
+        "location": "Basel",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Manage the CMO's calendar, travel and board meeting preparation across three time zones",
+          "Organise quarterly leadership offsites for up to 40 people, including budget and vendors",
+          "Prepare presentations, minutes and follow-up actions for the Medical Leadership Team",
+          "Introduced a shared action tracker in MS Teams/Planner used by the whole leadership team"
+        ]
+      },
+      {
+        "title": "Team Assistant, Clinical Operations",
+        "company": "Rheinfeld Therapeutics AG",
+        "location": "Basel",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Supported a team of 18; coordinated expense reports in SAP Concur and contract filing",
+          "Onboarded new joiners and kept the department intranet up to date"
+        ]
+      },
+      {
+        "title": "Front Office Manager",
+        "company": "Grand Hotel Rheinterrasse",
+        "location": "Basel",
+        "dates": "2014 – 2020",
+        "bullets": [
+          "Led a front office team of 12 in a 5-star hotel with 180 rooms",
+          "Handled VIP guest arrangements and complaint resolution"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diploma in Executive Assistance (Direktionsassistentin mit eidg. FA)",
+        "school": "KV Business School Basel",
+        "dates": "2019 – 2021",
+        "details": ""
+      },
+      {
+        "degree": "Diploma in Hotel Management",
+        "school": "Ecole hôtelière de Lausanne",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Calendar and travel management",
+      "Board and offsite organisation",
+      "MS 365, SAP Concur, Teams/Planner",
+      "Minute taking",
+      "Stakeholder communication in DE/EN/IT"
+    ],
+    "languages": [
+      "German (native)",
+      "Italian (native)",
+      "English (fluent)",
+      "French (good)"
+    ],
+    "certifications": [
+      "Direktionsassistentin mit eidg. Fachausweis"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

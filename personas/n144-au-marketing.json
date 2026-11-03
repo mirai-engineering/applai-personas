@@ -1,0 +1,115 @@
+{
+  "slug": "n144-au-marketing",
+  "level": "exec",
+  "profession": "marketing",
+  "band": "12+",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Chief Marketing Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Marketing"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Rebecca Kingston",
+    "headline": "CMO / GM Marketing – Retail, Consumer & Membership Brands",
+    "contact": {
+      "email": "rebecca.kingston@example.com",
+      "phone": "+61 418 0000 144",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Marketing executive with 18 years across retail, consumer goods and member-based organisations in Australia. Has led marketing teams of up to 45 and budgets above A$20M, with a focus on brand, loyalty and customer data.",
+    "experience": [
+      {
+        "title": "GM – Mktg & Member Exp. (Exec Leadership Team)",
+        "company": "Southern Motorists Association",
+        "location": "Melbourne",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead marketing, member experience and insights; team of 45 and budget of A$22M",
+          "Repositioned the brand for younger members; under-35 membership up 19% in two years",
+          "Delivered a new loyalty program with 14 retail and travel partners",
+          "Member of the executive leadership team reporting to the CEO"
+        ]
+      },
+      {
+        "title": "Head of Brand & Comms (Dir. grade)",
+        "company": "Coastline Home Retail",
+        "location": "Melbourne",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Owned brand strategy, media and creative agencies for 140 stores"
+        ]
+      },
+      {
+        "title": "Sr. Brand Mgr / Mktg Mgr – Snacks",
+        "company": "Hillcrest Foods Australia",
+        "location": "Sydney",
+        "dates": "2011 – 2016",
+        "bullets": [
+          "Managed a A$90M snacks portfolio and two product relaunches"
+        ]
+      },
+      {
+        "title": "Asst. Brand Manager",
+        "company": "Unilever Australia",
+        "location": "Sydney",
+        "dates": "2007 – 2011",
+        "bullets": [
+          "Supported launches in personal care and the annual brand plan"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Business Administration",
+        "school": "Melbourne Business School",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "Queensland University of Technology",
+        "dates": "2003 – 2006",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Brand strategy and positioning",
+      "Loyalty and CRM programs",
+      "Agency and media management",
+      "Customer insights",
+      "Executive and board reporting"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Graduate, Australian Institute of Company Directors (GAICD)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

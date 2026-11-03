@@ -1,0 +1,116 @@
+{
+  "slug": "n141-un-product-management",
+  "level": "exec",
+  "profession": "product management",
+  "band": "12+",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "VP of Product"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chief Product Officer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Construction Project Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Marcus Kingsley",
+    "headline": "VP of Product – B2B Fintech & Payments Platforms",
+    "contact": {
+      "email": "marcus.kingsley@example.com",
+      "phone": "+1 470 0000 141",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Product leader with 17 years in payments and B2B software, the last seven leading product organizations. Has grown product teams from 6 to 40, launched new business lines and works closely with engineering, sales and the CEO on strategy.",
+    "experience": [
+      {
+        "title": "VP of Product",
+        "company": "Clearstead Payments",
+        "location": "Atlanta, GA",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead a product organization of 38 (product managers, designers, analysts) across four product lines",
+          "Set the multi-year product strategy and roadmap with the executive team and board",
+          "Launched an embedded payments offering that reached $45M ARR within three years",
+          "Introduced quarterly product reviews and a shared metrics framework with engineering"
+        ]
+      },
+      {
+        "title": "Director of Product Management",
+        "company": "Clearstead Payments",
+        "location": "Atlanta, GA",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Managed the merchant onboarding and risk products; cut onboarding time from 9 days to 2",
+          "Built the first product operations function"
+        ]
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Ridgeview Software Group",
+        "location": "Alpharetta, GA",
+        "dates": "2013 – 2018",
+        "bullets": [
+          "Owned invoicing and accounts receivable modules for mid-market customers"
+        ]
+      },
+      {
+        "title": "Business Systems Analyst",
+        "company": "Fidelity National Information Services (FIS)",
+        "location": "Atlanta, GA",
+        "dates": "2009 – 2013",
+        "bullets": [
+          "Wrote requirements for card processing system changes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA",
+        "school": "Georgia State University, J. Mack Robinson College of Business",
+        "dates": "2011 – 2013",
+        "details": ""
+      },
+      {
+        "degree": "B.S. Industrial Engineering",
+        "school": "Georgia Institute of Technology",
+        "dates": "2005 – 2009",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Product strategy and portfolio management",
+      "Payments, card processing, risk and KYC",
+      "Org design and hiring",
+      "Pricing and packaging",
+      "Board and executive communication"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Mentor, Atlanta Tech Village product mentorship program"
+    ]
+  }
+}
