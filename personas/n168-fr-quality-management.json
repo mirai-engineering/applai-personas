@@ -1,0 +1,111 @@
+{
+  "slug": "n168-fr-quality-management",
+  "level": "mid",
+  "profession": "quality management",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingénieur qualité"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingénieur qualité fournisseur"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chargé de recrutement"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Inès Lahlou",
+    "headline": "Ingénieure qualité | Dispositifs médicaux | ISO 13485 et MDR",
+    "contact": {
+      "email": "ines.lahlou@example.com",
+      "phone": "+33 6 0000 168",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Technicienne de laboratoire en agroalimentaire pendant trois ans, j'ai repris un master en alternance pour devenir ingénieure qualité. Je travaille aujourd'hui dans les dispositifs médicaux, sur la qualité fournisseurs et le traitement des non-conformités.",
+    "experience": [
+      {
+        "title": "Ingénieure qualité fournisseurs",
+        "company": "Orthalis Medical SAS",
+        "location": "Massy",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Qualification et suivi de 45 fournisseurs d'implants et de composants selon l'ISO 13485 et le règlement (UE) 2017/745",
+          "Réalisation de 12 audits fournisseurs par an, en France et en Italie",
+          "Pilotage des CAPA et des dérogations avec les achats et la production",
+          "Baisse de 30 % des non-conformités fournisseurs en deux ans grâce à des plans de surveillance"
+        ]
+      },
+      {
+        "title": "Ingénieure qualité en alternance",
+        "company": "Biovéa Diagnostics",
+        "location": "Évry-Courcouronnes",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Mise à jour du système documentaire et préparation de l'audit de certification ISO 13485",
+          "Animation d'analyses de risques (AMDEC) avec l'équipe de développement"
+        ]
+      },
+      {
+        "title": "Technicienne de laboratoire contrôle qualité",
+        "company": "Laiterie du Val de Brie",
+        "location": "Meaux",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Analyses microbiologiques des produits finis et suivi du plan HACCP"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Ingénierie de la santé – parcours qualité (alternance)",
+        "school": "Université de Technologie de Compiègne",
+        "dates": "2021 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "DUT Génie biologique",
+        "school": "IUT de Créteil-Vitry",
+        "dates": "2016 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISO 13485, règlement MDR 2017/745, ISO 14971",
+      "Audits fournisseurs, CAPA, AMDEC",
+      "Maîtrise statistique des procédés (MSP)",
+      "Ennov, SAP QM",
+      "HACCP"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (B2)",
+      "Arabe (courant)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2024",
+      "Auditeur interne ISO 13485, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

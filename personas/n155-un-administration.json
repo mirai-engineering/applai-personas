@@ -1,0 +1,93 @@
+{
+  "slug": "n155-un-administration",
+  "level": "intern",
+  "profession": "administration",
+  "band": "0-2",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Executive Assistant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Personal Assistant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Junior Data Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Amara Lewis",
+    "headline": "Graduate Executive Assistant | Diary, Travel and Board Support",
+    "contact": {
+      "email": "amara.lewis@example.com",
+      "phone": "+44 7700 0000 155",
+      "location": "London",
+      "links": []
+    },
+    "summary": "History graduate starting a career in executive support. Currently interning in a partners' office at a corporate finance boutique, managing diaries, travel and meeting papers, with two years of part-time office work behind me.",
+    "experience": [
+      {
+        "title": "Executive Assistant Intern",
+        "company": "Fenwick Hale Capital",
+        "location": "London",
+        "dates": "Jun 2026 – Present",
+        "bullets": [
+          "Manage complex diaries for three partners across UK and US time zones",
+          "Book travel and prepare itineraries, expenses and visa paperwork",
+          "Compile board and client meeting packs and take minutes for weekly partner meetings",
+          "Reorganised the shared drive and contact database; partners now find deal documents in one place"
+        ]
+      },
+      {
+        "title": "Office and Events Assistant (part-time)",
+        "company": "Bankside Co-Working Ltd",
+        "location": "London",
+        "dates": "Sep 2024 – May 2026",
+        "bullets": [
+          "Front desk, room bookings and supplier invoices for a 300-member workspace",
+          "Helped run 40+ community events, from catering orders to guest lists"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Hons) History, 2:1",
+        "school": "Queen Mary University of London",
+        "dates": "2023 – 2026",
+        "details": "Dissertation on post-war London housing"
+      }
+    ],
+    "skills": [
+      "Microsoft 365 (Outlook, Excel, PowerPoint)",
+      "Diary and travel management",
+      "Minute taking",
+      "Expenses in Concur",
+      "Discretion with confidential information"
+    ],
+    "languages": [
+      "English (native)",
+      "French (intermediate)"
+    ],
+    "certifications": [
+      "Microsoft Office Specialist: Excel Associate (2025)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

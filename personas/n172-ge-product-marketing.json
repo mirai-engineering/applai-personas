@@ -1,0 +1,108 @@
+{
+  "slug": "n172-ge-product-marketing",
+  "level": "mid",
+  "profession": "product marketing",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Produktmanager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Financial Accountant"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Felix Lindner",
+    "headline": "Product Marketing Manager | Industrielle Sensorik und IoT | Go-to-Market B2B",
+    "contact": {
+      "email": "felix.lindner@example.com",
+      "phone": "+49 157 0000 172",
+      "location": "Stuttgart",
+      "links": []
+    },
+    "summary": "Product Marketing Manager mit sieben Jahren Erfahrung in der Vermarktung erklärungsbedürftiger Industrieprodukte. Ich übersetze Technik in klare Botschaften für Vertrieb und Kunden und verantworte Markteinführungen von der Positionierung bis zur Vertriebsschulung.",
+    "experience": [
+      {
+        "title": "Product Marketing Manager",
+        "company": "Filder Sensorik GmbH",
+        "location": "Leinfelden-Echterdingen",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortung für Positionierung und Go-to-Market einer Produktfamilie für Zustandsüberwachung von Maschinen",
+          "Markteinführung einer neuen Sensorplattform in sechs Ländern mit Vertrieb und Partnern",
+          "Erstellung von Battlecards, Anwendungsberichten und Schulungen für 40 Vertriebsmitarbeitende",
+          "Leadgenerierung über Fachmessen und Webinare; 30 % mehr qualifizierte Leads im ersten Jahr"
+        ]
+      },
+      {
+        "title": "Junior Product Marketing Manager",
+        "company": "Remstal Industrie-Software AG",
+        "location": "Waiblingen",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Wettbewerbsanalysen und Pflege der Produktseiten für eine MES-Software",
+          "Organisation des Auftritts auf der Hannover Messe"
+        ]
+      },
+      {
+        "title": "Werkstudent Produktmarketing",
+        "company": "Robert Bosch GmbH",
+        "location": "Stuttgart",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Unterstützung bei Marktanalysen und Präsentationen für Elektrowerkzeuge"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Marketing Management",
+        "school": "Universität Hohenheim",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "B.A. International Business",
+        "school": "Hochschule Pforzheim",
+        "dates": "2013 – 2017",
+        "details": "Auslandssemester in Lyon"
+      }
+    ],
+    "skills": [
+      "Positionierung und Messaging",
+      "Go-to-Market und Sales Enablement",
+      "Wettbewerbs- und Marktanalyse",
+      "HubSpot, Salesforce, Adobe InDesign",
+      "Messe- und Webinarmarketing"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Französisch (gut)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

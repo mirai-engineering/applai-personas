@@ -1,0 +1,92 @@
+{
+  "slug": "n164-ne-accounting",
+  "level": "intern",
+  "profession": "accounting",
+  "band": "0-2",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Assistant Accountant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Junior Auditor"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Coordinator"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Lotte Lammers",
+    "headline": "Accountancy graduate | Bookkeeping, VAT and year-end support",
+    "contact": {
+      "email": "lotte.lammers@example.com",
+      "phone": "+31 6 0000 164",
+      "location": "Utrecht",
+      "links": []
+    },
+    "summary": "Final-year accountancy student finishing a graduation internship at a mid-sized accounting firm. Hands-on with bookkeeping, VAT returns and year-end files for SME clients, and keen to continue as an assistant accountant.",
+    "experience": [
+      {
+        "title": "Graduation Intern – Assistant Accountant",
+        "company": "Brinkhorst & Mulder Accountants",
+        "location": "Utrecht",
+        "dates": "Sep 2026 – Present",
+        "bullets": [
+          "Prepare year-end files and draft financial statements for 15 SME clients under Dutch GAAP",
+          "Process bank statements and purchase invoices in Exact Online and Twinfield",
+          "Prepare quarterly VAT returns (btw-aangifte) for review by the senior",
+          "Writing my graduation thesis on automating bank reconciliations for small clients"
+        ]
+      },
+      {
+        "title": "Part-time Bookkeeping Assistant",
+        "company": "Kantoorservice Lombok",
+        "location": "Utrecht",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Bookkeeping and invoicing for freelancers and small shops, around 12 hours per week"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor Accountancy",
+        "school": "Hogeschool Utrecht",
+        "dates": "2022 – 2027",
+        "details": "Final semester: graduation internship; expected graduation February 2027"
+      }
+    ],
+    "skills": [
+      "Exact Online, Twinfield",
+      "Dutch GAAP (Title 9 Book 2 BW)",
+      "VAT returns",
+      "Excel (pivot tables, XLOOKUP)",
+      "Bank reconciliations"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

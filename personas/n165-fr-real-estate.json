@@ -1,0 +1,110 @@
+{
+  "slug": "n165-fr-real-estate",
+  "level": "junior",
+  "profession": "real estate",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Gestionnaire locatif"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gestionnaire de copropriété"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Développeur web"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Antoine Le Gall",
+    "headline": "Gestionnaire locatif | Habitation et petits commerces | Reconversion après la vente",
+    "contact": {
+      "email": "antoine.legall@example.com",
+      "phone": "+33 6 0000 165",
+      "location": "Nantes",
+      "links": []
+    },
+    "summary": "Après trois ans dans la vente en magasin, je me suis reconverti dans l'immobilier par un BTS en alternance. Je gère aujourd'hui un portefeuille de logements et de petits commerces, avec le sens du service client acquis en boutique.",
+    "experience": [
+      {
+        "title": "Gestionnaire locatif",
+        "company": "Atlantique Gestion Immobilière",
+        "location": "Nantes",
+        "dates": "2024 – aujourd'hui",
+        "bullets": [
+          "Gestion d'un portefeuille de 420 lots d'habitation et de 15 locaux commerciaux pour le compte de propriétaires",
+          "Rédaction des baux, états des lieux et révisions de loyer selon la loi de 1989 et la loi ALUR",
+          "Suivi des impayés et des procédures avec l'huissier ; impayés réduits de 18 % en un an",
+          "Commande et suivi des travaux avec les artisans et les assureurs"
+        ]
+      },
+      {
+        "title": "Assistant gestion locative (alternance)",
+        "company": "Cabinet Erdre Immobilier",
+        "location": "Nantes",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Quittancement, relances des locataires et accueil téléphonique",
+          "Préparation des régularisations de charges sur le logiciel ICS"
+        ]
+      },
+      {
+        "title": "Vendeur conseil",
+        "company": "Decathlon",
+        "location": "Nantes",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Conseil client et gestion du rayon randonnée avec un chiffre d'affaires de 1,2 M€"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BTS Professions immobilières (alternance)",
+        "school": "IMSI Nantes",
+        "dates": "2022 – 2024",
+        "details": ""
+      },
+      {
+        "degree": "Licence STAPS – Management du sport",
+        "school": "Nantes Université",
+        "dates": "2016 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Loi de 1989, loi ALUR, bail commercial",
+      "Logiciels ICS et Crypto",
+      "États des lieux et gestion des sinistres",
+      "Recouvrement des impayés",
+      "Relation client"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (B2)",
+      "Breton (notions)"
+    ],
+    "certifications": [
+      "Carte professionnelle (attestation d'habilitation), 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

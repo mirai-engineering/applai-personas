@@ -1,0 +1,95 @@
+{
+  "slug": "n160-ca-product-management",
+  "level": "junior",
+  "profession": "product management",
+  "band": "2-5",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Émilie Lavoie",
+    "headline": "Gestionnaire de produit | SaaS B2B | Paie et RH pour PME",
+    "contact": {
+      "email": "emilie.lavoie@example.com",
+      "phone": "+1 416 0000 160",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Gestionnaire de produit franco-ontarienne avec quatre ans d'expérience en produit et en analyse dans le logiciel B2B. Je travaille avec les équipes de développement et le service à la clientèle pour livrer des fonctionnalités utiles aux petites entreprises.",
+    "experience": [
+      {
+        "title": "Gestionnaire de produit",
+        "company": "Lumen Paie Inc.",
+        "location": "Toronto",
+        "dates": "2024 – aujourd'hui",
+        "bullets": [
+          "Responsable du module de congés et d'absences d'une plateforme de paie utilisée par 3 000 PME",
+          "Rédaction des récits utilisateurs et priorisation du carnet de produit avec deux équipes agiles",
+          "Lancement du calcul automatique des vacances selon les normes de l'Ontario et du Québec",
+          "Hausse de 22 % de l'adoption du module après la refonte du parcours d'accueil",
+          "Entrevues mensuelles avec des clients pour valider les maquettes"
+        ]
+      },
+      {
+        "title": "Analyste produit",
+        "company": "Cartographe Numérique Ltée",
+        "location": "Ottawa",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Analyse de l'utilisation du produit avec SQL et Amplitude pour l'équipe de direction",
+          "Coordination des tests d'acceptation avec les clients municipaux"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat spécialisé en informatique",
+        "school": "Université d'Ottawa",
+        "dates": "2018 – 2022",
+        "details": "Régime coop, deux stages en développement"
+      }
+    ],
+    "skills": [
+      "Jira, Confluence, Figma",
+      "SQL, Amplitude, Looker",
+      "Méthodes agiles (Scrum)",
+      "Recherche utilisateur",
+      "Normes d'emploi (Ontario, Québec)"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (bilingue)"
+    ],
+    "certifications": [
+      "Professional Scrum Product Owner I (PSPO I), 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

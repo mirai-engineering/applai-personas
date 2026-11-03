@@ -1,0 +1,100 @@
+{
+  "slug": "n158-sp-hr",
+  "level": "intern",
+  "profession": "hr",
+  "band": "0-2",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Técnica de Recursos Humanos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "HR Business Partner junior"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Diseñador gráfico"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Lucía Lozano Ferrer",
+    "headline": "Recursos Humanos en prácticas | Relaciones laborales y selección",
+    "contact": {
+      "email": "lucia.lozano@example.com",
+      "phone": "+34 611 0000 158",
+      "location": "Valencia",
+      "links": []
+    },
+    "summary": "Graduada en Relaciones Laborales que retoma su carrera tras una pausa dedicada al cuidado de un familiar. Ahora curso el Máster en Dirección de Recursos Humanos y hago prácticas en el departamento de personas de una empresa agroalimentaria.",
+    "experience": [
+      {
+        "title": "Becaria de Recursos Humanos (prácticas de máster)",
+        "company": "Grupo Hortofrutícola Albufera",
+        "location": "Valencia",
+        "dates": "feb. 2026 – actualidad",
+        "bullets": [
+          "Apoyo en procesos de selección para campaña con más de 200 contrataciones temporales",
+          "Gestión de altas y bajas en la Seguridad Social y preparación de contratos con el sistema RED",
+          "Organización del plan de acogida para personal de almacén y actualización del manual",
+          "Participación en el diagnóstico del plan de igualdad junto con la responsable de RR. HH."
+        ]
+      },
+      {
+        "title": "Auxiliar administrativa (media jornada)",
+        "company": "Gestoría Benimaclet",
+        "location": "Valencia",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Tramitación de nóminas y contratos para pequeños clientes con A3NOM"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster en Dirección de Recursos Humanos",
+        "school": "Universitat de València",
+        "dates": "2025 – 2026",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Relaciones Laborales y Recursos Humanos",
+        "school": "Universitat de València",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Estatuto de los Trabajadores y contratación laboral",
+      "Sistema RED, A3NOM",
+      "Selección por competencias",
+      "Planes de igualdad",
+      "Excel (tablas dinámicas)"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Valenciano (C1)",
+      "Inglés (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Pausa profesional (2021 – 2024): cuidado de un familiar dependiente; cursos online de legislación laboral y Excel avanzado"
+    ]
+  }
+}

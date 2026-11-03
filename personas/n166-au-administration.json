@@ -1,0 +1,109 @@
+{
+  "slug": "n166-au-administration",
+  "level": "mid",
+  "profession": "administration",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Executive Assistant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Office Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tegan Lockwood",
+    "headline": "Executive Assistant | CEO Support | Public sector, arts and health",
+    "contact": {
+      "email": "tegan.lockwood@example.com",
+      "phone": "+61 421 0000 166",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Executive assistant with seven years of admin and office leadership across mining, allied health, the arts and a water utility. Moves easily between sectors and takes on whatever keeps the office running.",
+    "experience": [
+      {
+        "title": "Executive Assistant to the CEO",
+        "company": "Moreton Bay Water Alliance",
+        "location": "Brisbane",
+        "dates": "Feb 2025 – Present",
+        "bullets": [
+          "Manage the CEO's diary, correspondence and stakeholder meetings with councils and state agencies",
+          "Coordinate board and committee papers, minutes and action registers",
+          "Introduced a briefing note template now used across the executive team",
+          "Arrange domestic travel and regional site visits"
+        ]
+      },
+      {
+        "title": "Personal Assistant (12-month contract)",
+        "company": "Riverstage Arts Festival",
+        "location": "Brisbane",
+        "dates": "Jan 2024 – Jan 2025",
+        "bullets": [
+          "Supported the Artistic Director and General Manager through the festival season",
+          "Booked travel and accommodation for 120 visiting artists"
+        ]
+      },
+      {
+        "title": "Practice Manager",
+        "company": "Kangaroo Point Physio Group",
+        "location": "Brisbane",
+        "dates": "Jul 2020 – Dec 2023",
+        "bullets": [
+          "Ran three clinics' front desk, rosters and Medicare and WorkCover billing in Cliniko",
+          "Reduced unpaid invoices over 60 days by half"
+        ]
+      },
+      {
+        "title": "Site Administration Officer (FIFO)",
+        "company": "Bowen Basin Mining Services",
+        "location": "Moranbah, QLD",
+        "dates": "Mar 2019 – Jun 2020",
+        "bullets": [
+          "Timesheets, inductions and camp bookings for a crew of 90"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diploma of Business Administration",
+        "school": "TAFE Queensland",
+        "dates": "2018 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Microsoft 365, SharePoint, Diligent Boards",
+      "Diary and stakeholder management",
+      "Board papers and minutes",
+      "Cliniko, Xero",
+      "Event coordination"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

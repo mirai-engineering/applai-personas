@@ -1,0 +1,130 @@
+{
+  "slug": "n153-ge-healthcare",
+  "level": "exec",
+  "profession": "healthcare",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Pflegedirektorin"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Pflegedienstleitung"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Controller"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Sabine Lorenz",
+    "headline": "Pflegedirektorin | Pflegemanagement im Krankenhaus | Personalentwicklung und Qualität",
+    "contact": {
+      "email": "sabine.lorenz@example.com",
+      "phone": "+49 160 0000 153",
+      "location": "Berlin",
+      "links": []
+    },
+    "summary": "Pflegedirektorin mit über 20 Jahren Berufserfahrung in der Pflege, davon zwölf Jahre in Leitungsfunktionen. Ich verantworte den Pflegedienst eines Krankenhauses der Schwerpunktversorgung und verbinde Personalgewinnung, Qualität und Wirtschaftlichkeit mit einer klaren Haltung für gute Arbeitsbedingungen.",
+    "experience": [
+      {
+        "title": "Pflegedirektorin, Mitglied der Krankenhausbetriebsleitung",
+        "company": "Klinikum Spreebogen gGmbH",
+        "location": "Berlin",
+        "dates": "2019 – heute",
+        "bullets": [
+          "Gesamtverantwortung für den Pflege- und Funktionsdienst mit rund 1.100 Beschäftigten und 620 Betten",
+          "Senkung der Leasingquote in der Pflege von 9 % auf 3 % durch einen eigenen Springerpool und flexible Dienstmodelle",
+          "Umsetzung der Pflegepersonaluntergrenzen (PpUGV) und Vorbereitung auf die PPR 2.0",
+          "Aufbau der generalistischen Pflegeausbildung mit 180 Ausbildungsplätzen und einer Kooperation mit zwei Pflegeschulen",
+          "Mitarbeit in der Budgetplanung und bei den Pflegebudgetverhandlungen mit den Kostenträgern"
+        ]
+      },
+      {
+        "title": "Pflegedienstleitung / stellv. Pflegedirektorin",
+        "company": "Evangelisches Krankenhaus Havelland",
+        "location": "Falkensee",
+        "dates": "2013 – 2019",
+        "bullets": [
+          "Leitung der operativen Bereiche und der Intensivmedizin mit 14 Stationsleitungen",
+          "Einführung eines strukturierten Einarbeitungskonzepts für internationale Pflegekräfte"
+        ]
+      },
+      {
+        "title": "Stationsleitung Interdisziplinäre Intensivstation",
+        "company": "Charité – Universitätsmedizin Berlin",
+        "location": "Berlin",
+        "dates": "2008 – 2013",
+        "bullets": [
+          "Führung eines Teams von 45 Pflegekräften auf einer Intensivstation mit 18 Betten"
+        ]
+      },
+      {
+        "title": "Gesundheits- und Krankenpflegerin",
+        "company": "Kreisklinikum Märkisch-Oderland",
+        "location": "Strausberg",
+        "dates": "2004 – 2008",
+        "bullets": [
+          "Pflege auf der Inneren Medizin und später in der Anästhesie- und Intensivpflege"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.A. Management im Gesundheitswesen",
+        "school": "Hochschule Neubrandenburg",
+        "dates": "2014 – 2016",
+        "details": "Berufsbegleitend"
+      },
+      {
+        "degree": "B.A. Pflegemanagement",
+        "school": "Alice Salomon Hochschule Berlin",
+        "dates": "2009 – 2012",
+        "details": "Berufsbegleitend"
+      },
+      {
+        "degree": "Ausbildung zur Gesundheits- und Krankenpflegerin",
+        "school": "Krankenpflegeschule am Kreisklinikum Märkisch-Oderland",
+        "dates": "2001 – 2004",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Pflegemanagement und Personalbedarfsplanung (PpUGV, PPR 2.0)",
+      "Pflegebudget, DRG-System und Kennzahlensteuerung",
+      "Qualitätsmanagement nach KTQ und DIN EN ISO 9001",
+      "Generalistische Pflegeausbildung (PflBG)",
+      "Führung, Change Management, Konfliktmoderation",
+      "SAP IS-H, Dienstplanung mit SP-Expert"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (gut)",
+      "Polnisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Fachweiterbildung Intensiv- und Anästhesiepflege (DKG), 2007",
+      "Leitung einer Station / eines Bereiches (DKG), 2009"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Ehrenamt: Mitglied im Landespflegerat Berlin-Brandenburg"
+    ]
+  }
+}

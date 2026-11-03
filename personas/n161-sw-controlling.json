@@ -1,0 +1,108 @@
+{
+  "slug": "n161-sw-controlling",
+  "level": "mid",
+  "profession": "controlling",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Financial Controller"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Controller"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Manager"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Jonas Lüthi",
+    "headline": "Financial Controller | Swiss GAAP FER | Vom Hotelier zum Controlling",
+    "contact": {
+      "email": "jonas.luethi@example.com",
+      "phone": "+41 78 0000 161",
+      "location": "Genf",
+      "links": []
+    },
+    "summary": "Ursprünglich Hotelier und Gastronom, seit vier Jahren im Controlling tätig. Ich verbinde die Sicht aus dem operativen Betrieb mit soliden Kenntnissen im Rechnungswesen und bin heute für Abschluss, Budget und Reporting eines Industrieunternehmens in Genf verantwortlich.",
+    "experience": [
+      {
+        "title": "Financial Controller",
+        "company": "Léman Precision Instruments SA",
+        "location": "Genf",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Verantwortung für den Monats- und Jahresabschluss nach Swiss GAAP FER mit der Treuhand",
+          "Erstellung von Budget und Forecast für drei Profitcenter und Abweichungsanalysen für die Geschäftsleitung",
+          "Aufbau eines Reportings in Power BI, das die manuellen Excel-Berichte ablöst",
+          "Verkürzung des Monatsabschlusses von zwölf auf sieben Arbeitstage"
+        ]
+      },
+      {
+        "title": "Junior Controller",
+        "company": "Lakeside Hospitality Group SA",
+        "location": "Genf",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Kostenkontrolle und Kennzahlen für vier Hotels und die Gastronomie",
+          "Unterstützung bei der Einführung von Abacus als neues ERP"
+        ]
+      },
+      {
+        "title": "Assistant Food & Beverage Manager",
+        "company": "Grand Hôtel du Rhône",
+        "location": "Genf",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Führung von 25 Mitarbeitenden und Verantwortung für die Wareneinsatzquote der Restaurants"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Fachmann im Finanz- und Rechnungswesen mit eidg. Fachausweis",
+        "school": "KV Zürich Business School",
+        "dates": "2021 – 2023",
+        "details": "Berufsbegleitend"
+      },
+      {
+        "degree": "dipl. Hotelier-Gastronom HF",
+        "school": "Schweizerische Hotelfachschule Luzern (SHL)",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Swiss GAAP FER, OR-Rechnungslegung",
+      "Abacus, SAP FI/CO (Grundlagen)",
+      "Power BI, Excel (Power Query)",
+      "Budgetierung, Forecast, Kostenrechnung",
+      "MWST-Abrechnung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Französisch (C1)",
+      "Englisch (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

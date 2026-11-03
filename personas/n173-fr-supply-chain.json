@@ -1,0 +1,112 @@
+{
+  "slug": "n173-fr-supply-chain",
+  "level": "senior",
+  "profession": "supply chain",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Demand Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Legal Counsel"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Yasmine Larbi",
+    "headline": "Senior Supply Chain Analyst | Demand Planning & S&OP | Beauty and consumer goods",
+    "contact": {
+      "email": "yasmine.larbi@example.com",
+      "phone": "+33 6 0000 173",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Supply chain analyst with ten years in logistics, demand planning and S&OP. Back in Paris after a two-year career break abroad, now running forecasting and S&OP analytics for a cosmetics group.",
+    "experience": [
+      {
+        "title": "Senior Supply Chain Analyst",
+        "company": "Maison Verlaine Cosmétiques",
+        "location": "Paris",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run the monthly S&OP data cycle for 1,800 SKUs across Europe and the Middle East",
+          "Improved forecast accuracy by 9 points through new promotion uplift models",
+          "Built inventory health dashboards in Power BI for the supply and finance teams",
+          "Support the rollout of SAP IBP for demand planning"
+        ]
+      },
+      {
+        "title": "Demand Planner / Supply Chain Analyst",
+        "company": "Groupe Soléane",
+        "location": "Lyon",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Forecasting for small household appliances sold through retailers and e-commerce",
+          "Reduced obsolete stock by €1.4M with an end-of-life process"
+        ]
+      },
+      {
+        "title": "Junior Logistics Analyst",
+        "company": "Seine Logistique Services",
+        "location": "Gennevilliers",
+        "dates": "2013 – 2016",
+        "bullets": [
+          "Warehouse KPIs and transport cost analysis for retail clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master in Management – Supply Chain specialisation",
+        "school": "KEDGE Business School",
+        "dates": "2011 – 2013",
+        "details": ""
+      },
+      {
+        "degree": "MicroMasters in Supply Chain Management (online)",
+        "school": "MITx / edX",
+        "dates": "2021 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Demand planning and S&OP",
+      "SAP IBP, SAP APO",
+      "Power BI, Python (pandas), SQL",
+      "Inventory optimisation",
+      "Promotion forecasting"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent)",
+      "Arabic (conversational)"
+    ],
+    "certifications": [
+      "APICS CPIM, 2018"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break (2020 – 2022): relocated to Montréal with my family; completed an online MicroMasters in supply chain"
+    ]
+  }
+}

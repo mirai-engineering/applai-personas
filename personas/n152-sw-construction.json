@@ -1,0 +1,108 @@
+{
+  "slug": "n152-sw-construction",
+  "level": "mid",
+  "profession": "construction",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Conducteur de travaux"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Bauleiter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Noémie Lachat",
+    "headline": "Conductrice de travaux | Bâtiments résidentiels et administratifs | Bâle et Jura",
+    "contact": {
+      "email": "noemie.lachat@example.com",
+      "phone": "+41 79 0000 152",
+      "location": "Bâle",
+      "links": []
+    },
+    "summary": "Conductrice de travaux avec sept ans d'expérience sur des chantiers de logements et de bâtiments administratifs entre Bâle et l'Arc jurassien. Je pilote les sous-traitants, le budget et la sécurité du gros œuvre jusqu'à la réception, avec une bonne maîtrise des normes SIA.",
+    "experience": [
+      {
+        "title": "Conductrice de travaux principale",
+        "company": "Weibel & Rossier Bau AG",
+        "location": "Bâle",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Conduite d'un ensemble de 86 logements (CHF 38 mio) à Bâle-Campagne, du terrassement à la remise des clés",
+          "Coordination de 22 sous-traitants et suivi hebdomadaire des coûts par CFC",
+          "Mise en place d'un planning Lean (Last Planner) avec les chefs d'équipe ; retard résorbé de cinq semaines",
+          "Responsable de la sécurité du chantier et des contrôles avec la SUVA"
+        ]
+      },
+      {
+        "title": "Conductrice de travaux",
+        "company": "Entreprise Grisoni-Matthey SA",
+        "location": "Delémont",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Rénovation et surélévation de bâtiments administratifs pour la commune et le canton du Jura",
+          "Établissement des métrés, situations mensuelles et décomptes finaux selon la SIA 118"
+        ]
+      },
+      {
+        "title": "Assistante conductrice de travaux",
+        "company": "Entreprise Grisoni-Matthey SA",
+        "location": "Delémont",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Préparation des soumissions et suivi des commandes de matériaux"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science HES-SO en génie civil",
+        "school": "Haute école d'ingénierie et d'architecture de Fribourg",
+        "dates": "2015 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "CFC de dessinatrice orientation génie civil",
+        "school": "Ceff Industrie, Saint-Imier",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Normes SIA 118, SIA 102 et code des frais de construction (CFC)",
+      "Messerli BauAd, MS Project",
+      "Planification Lean / Last Planner",
+      "Gestion de sous-traitants et de budgets",
+      "Sécurité au travail (SUVA, OTConst)"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (C1, compréhension du suisse allemand)",
+      "Anglais (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

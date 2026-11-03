@@ -1,0 +1,110 @@
+{
+  "slug": "n174-ge-manufacturing",
+  "level": "mid",
+  "profession": "manufacturing",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Production Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Produktionsleiter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Generalist"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Erik Lundgren",
+    "headline": "Production Manager – Food Manufacturing | From professional kitchens to the factory floor",
+    "contact": {
+      "email": "erik.lundgren@example.com",
+      "phone": "+49 151 0000 174",
+      "location": "Munich",
+      "links": []
+    },
+    "summary": "Production manager in food manufacturing who started out as a chef. Moved into industrial production in 2021, earned the IHK master craftsman qualification and now runs three ready-meal lines with 85 people.",
+    "experience": [
+      {
+        "title": "Production Manager",
+        "company": "Isartal Feinkost GmbH",
+        "location": "Munich",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Responsible for three ready-meal lines, 85 employees in two shifts and output of 40 t per day",
+          "Raised OEE from 61% to 72% through changeover reduction and daily shop-floor meetings",
+          "Led the IFS Food v8 audit preparation; site kept Higher Level",
+          "Plan shifts, maintenance windows and capacity with planning in SAP PP"
+        ]
+      },
+      {
+        "title": "Production Shift Supervisor",
+        "company": "Alpenkorn Backwaren GmbH",
+        "location": "Freising",
+        "dates": "2021 – 2024",
+        "bullets": [
+          "Led a night shift of 20 on two bread lines",
+          "Introduced 5S and allergen changeover checklists"
+        ]
+      },
+      {
+        "title": "Sous Chef",
+        "company": "Restaurant Lindwurm",
+        "location": "Munich",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Ran a kitchen team of eight, menu costing and HACCP documentation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Certified Industrial Master – Food (Industriemeister Lebensmittel, IHK)",
+        "school": "IHK Akademie München",
+        "dates": "2022 – 2023",
+        "details": "Part-time"
+      },
+      {
+        "degree": "Upper secondary diploma, Restaurant and Food Programme",
+        "school": "Hotell- och restaurangskolan, Stockholm",
+        "dates": "2012 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "IFS Food, HACCP, allergen management",
+      "OEE, SMED, 5S",
+      "SAP PP",
+      "Shift and capacity planning",
+      "Team leadership on the shop floor"
+    ],
+    "languages": [
+      "Swedish (native)",
+      "English (fluent)",
+      "German (C1)"
+    ],
+    "certifications": [
+      "Ausbildereignung (AEVO), IHK, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

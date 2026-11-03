@@ -1,0 +1,116 @@
+{
+  "slug": "n151-ne-electrical-engineering",
+  "level": "mid",
+  "profession": "electrical engineering",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Electrical Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Elektrotechnisch Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Account Manager"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Ravi Lachman",
+    "headline": "Electrical Engineer | LV/MV Design, Shore Power & Process Installations",
+    "contact": {
+      "email": "ravi.lachman@example.com",
+      "phone": "+31 6 0000 151",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Electrical engineer with seven years across switchgear design, field service and E&I projects in the Rotterdam port and process industry. Moved between design office, site and contract roles on purpose, and now leads the electrical scope of shore-power projects for port terminals.",
+    "experience": [
+      {
+        "title": "Electrical Engineer",
+        "company": "Havenkracht Installaties B.V.",
+        "location": "Rotterdam",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Lead electrical design for shore-power connections (6.6 kV / 11 kV) at two container and ferry terminals",
+          "Load-flow and short-circuit studies in ETAP; selectivity reviews with the grid operator",
+          "Prepared single-line diagrams and cable calculations according to NEN 1010 and IEC 61936",
+          "Commissioned the first berth connection three weeks ahead of the vessel trial date"
+        ]
+      },
+      {
+        "title": "Project Engineer E&I (contract)",
+        "company": "Delta Proces Techniek",
+        "location": "Botlek, Rotterdam",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Electrical and instrumentation scope for a tank-terminal expansion in an ATEX zone",
+          "Reviewed vendor documentation and FAT reports for MCC panels"
+        ]
+      },
+      {
+        "title": "Field Service Engineer",
+        "company": "Noordzee Drives B.V.",
+        "location": "Schiedam",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Fault-finding and retrofits of variable-speed drives on dredging and offshore vessels"
+        ]
+      },
+      {
+        "title": "Junior Electrical Designer",
+        "company": "Brabant Schakeltechniek",
+        "location": "Eindhoven",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Designed LV distribution boards in EPLAN Electric P8 to IEC 61439",
+          "Cut drawing revision rounds from four to two by introducing standard macros"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Electrical and Electronic Engineering",
+        "school": "Hogeschool Rotterdam",
+        "dates": "2015 – 2019",
+        "details": "Graduation project: harmonic filtering for port cranes"
+      }
+    ],
+    "skills": [
+      "ETAP, EPLAN Electric P8, AutoCAD Electrical",
+      "NEN 1010, NEN 3140, IEC 61439, IEC 61936",
+      "MV switchgear and transformer specification",
+      "ATEX installations",
+      "Siemens S7 / TIA Portal (basic)",
+      "Commissioning and FAT/SAT"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "Sranan Tongo (conversational)"
+    ],
+    "certifications": [
+      "VCA VOL (2024)",
+      "NEN 3140 Operational Manager (Installatieverantwoordelijke)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

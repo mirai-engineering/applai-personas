@@ -1,0 +1,104 @@
+{
+  "slug": "n170-ca-real-estate",
+  "level": "senior",
+  "profession": "real estate",
+  "band": "8-12",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Gestionnaire immobilier"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Property Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Analyste de données"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Mathieu Lapointe",
+    "headline": "Gestionnaire immobilier principal | Immeubles commerciaux et de bureaux | Grand Montréal",
+    "contact": {
+      "email": "mathieu.lapointe@example.com",
+      "phone": "+1 514 0000 170",
+      "location": "Montréal, QC",
+      "links": []
+    },
+    "summary": "Gestionnaire immobilier avec onze ans d'expérience en gestion résidentielle puis commerciale. Je gère aujourd'hui un portefeuille de bureaux et de commerces, avec la responsabilité des budgets d'exploitation, des baux et des relations avec les locataires.",
+    "experience": [
+      {
+        "title": "Gestionnaire immobilier principal",
+        "company": "Société immobilière Maisonneuve",
+        "location": "Montréal",
+        "dates": "2021 – aujourd'hui",
+        "bullets": [
+          "Gestion de neuf immeubles de bureaux et de commerces totalisant 780 000 pi²",
+          "Préparation et suivi des budgets d'exploitation et des réconciliations de frais communs",
+          "Renouvellement de baux commerciaux avec l'équipe de location ; taux d'occupation maintenu à 96 %",
+          "Planification des travaux majeurs de toiture et de CVC avec les entrepreneurs",
+          "Supervision de deux gestionnaires adjoints et de l'équipe d'entretien"
+        ]
+      },
+      {
+        "title": "Gestionnaire immobilier",
+        "company": "Placements Saint-Laurent Ltée",
+        "location": "Laval",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Gestion de 1 100 logements locatifs et des dossiers au Tribunal administratif du logement",
+          "Réduction des délais de relocation de 40 jours à 18 jours"
+        ]
+      },
+      {
+        "title": "Coordonnateur des opérations immobilières",
+        "company": "Placements Saint-Laurent Ltée",
+        "location": "Laval",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Suivi des bons de travail et des inspections annuelles"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en administration des affaires, concentration immobilier",
+        "school": "École des sciences de la gestion (ESG UQAM)",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Yardi Voyager",
+      "Baux commerciaux et Code civil du Québec",
+      "Budgets d'exploitation et frais communs",
+      "Gestion de travaux et d'entrepreneurs",
+      "Relations avec les locataires"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [
+      "Real Property Administrator (RPA), BOMI, 2019"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

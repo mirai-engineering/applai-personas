@@ -1,0 +1,93 @@
+{
+  "slug": "n159-ca-logistics",
+  "level": "junior",
+  "profession": "logistics",
+  "band": "2-5",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Logistics Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Import Coordinator"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Joshua Lacson",
+    "headline": "Logistics Coordinator | Ocean & Cross-Border Freight | Customs Documentation",
+    "contact": {
+      "email": "joshua.lacson@example.com",
+      "phone": "+1 604 0000 159",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Logistics coordinator with four years in freight forwarding and food distribution around the Port of Vancouver. Handles bookings, customs paperwork and carrier follow-up for import and cross-border shipments.",
+    "experience": [
+      {
+        "title": "Logistics Coordinator",
+        "company": "Fraser Gateway Freight Ltd.",
+        "location": "Delta, BC",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Coordinate 60–80 ocean and truck shipments per week for importers of furniture and consumer goods",
+          "Prepare customs documentation with brokers under CBSA CARM and track releases",
+          "Reduced demurrage charges by 35% by flagging containers at risk of free-time expiry",
+          "Update shipment status in CargoWise and keep customers informed of delays"
+        ]
+      },
+      {
+        "title": "Logistics Assistant / Dispatch",
+        "company": "Pacific Rim Produce Distributors",
+        "location": "Burnaby, BC",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Planned daily delivery routes for a fleet of 12 refrigerated trucks",
+          "Handled carrier invoices and proof-of-delivery records"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration, Supply Chain Management",
+        "school": "Kwantlen Polytechnic University",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "CargoWise One, Descartes route planning",
+      "Incoterms 2020, CBSA CARM",
+      "Carrier and broker coordination",
+      "Excel (XLOOKUP, pivot tables)",
+      "Cold chain basics"
+    ],
+    "languages": [
+      "English (native)",
+      "Tagalog (fluent)"
+    ],
+    "certifications": [
+      "Transportation of Dangerous Goods (TDG) certificate, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

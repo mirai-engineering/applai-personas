@@ -1,0 +1,104 @@
+{
+  "slug": "n162-ge-hr",
+  "level": "mid",
+  "profession": "hr",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Personalreferentin"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Vertriebsingenieur"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Melanie Lang",
+    "headline": "HR Business Partnerin | Personalreferentin | Metall- und Elektroindustrie",
+    "contact": {
+      "email": "melanie.lang@example.com",
+      "phone": "+49 171 0000 162",
+      "location": "Stuttgart",
+      "links": []
+    },
+    "summary": "Personalerin mit sieben Jahren Erfahrung in tarifgebundenen Industrieunternehmen der Region Stuttgart. Ich betreue Führungskräfte in allen Personalthemen, arbeite eng mit dem Betriebsrat zusammen und habe Restrukturierungen und Recruiting-Projekte begleitet.",
+    "experience": [
+      {
+        "title": "HRBP / Sr. Personalreferentin (AT)",
+        "company": "Neckarwerk Antriebstechnik GmbH",
+        "location": "Stuttgart-Feuerbach",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Ansprechpartnerin für Produktion und Entwicklung mit rund 650 Beschäftigten",
+          "Verhandlung von Betriebsvereinbarungen zu mobiler Arbeit und Schichtmodellen mit dem Betriebsrat",
+          "Begleitung eines Personalabbaus von 80 Stellen über Freiwilligenprogramm und Altersteilzeit",
+          "Einführung von Personio für Bewerbermanagement und Mitarbeitergespräche"
+        ]
+      },
+      {
+        "title": "Referentin Personal (EG 11 ERA)",
+        "company": "Schwäbische Fördertechnik AG",
+        "location": "Esslingen am Neckar",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Eingruppierungen nach ERA-TV und Vorbereitung von Arbeitsrechtsfällen mit der Kanzlei",
+          "Reduktion der Time-to-Hire für Fachkräfte von 74 auf 51 Tage"
+        ]
+      },
+      {
+        "title": "Jr. HR Generalist / Personalsachbearbeitung",
+        "company": "Kessmann Logistik GmbH",
+        "location": "Ludwigsburg",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Vertragsverwaltung, Zeugnisse und Vorbereitung der Entgeltabrechnung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. BWL – Personalmanagement",
+        "school": "DHBW Stuttgart",
+        "dates": "2016 – 2019",
+        "details": "Duales Studium mit der Kessmann Logistik GmbH"
+      }
+    ],
+    "skills": [
+      "Arbeitsrecht, BetrVG, Tarifvertrag Metall- und Elektroindustrie (ERA)",
+      "SAP HCM, Personio",
+      "Verhandlungen mit dem Betriebsrat",
+      "Recruiting und Employer Branding",
+      "Workforce Planning"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Italienisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Systemischer Coach (IHK), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

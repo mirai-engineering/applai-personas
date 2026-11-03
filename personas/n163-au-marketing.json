@@ -1,0 +1,117 @@
+{
+  "slug": "n163-au-marketing",
+  "level": "exec",
+  "profession": "marketing",
+  "band": "12+",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Chief Marketing Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Marketing"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Operations Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Nadia Lombardi",
+    "headline": "Chief Marketing Officer | Financial Services & Health | Brand-led Growth",
+    "contact": {
+      "email": "nadia.lombardi@example.com",
+      "phone": "+61 418 0000 163",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Marketing executive with 17 years in consumer brands, lending and health insurance. Sits on the executive team of a member-owned health fund, leading brand, digital, member experience and a team of 38.",
+    "experience": [
+      {
+        "title": "Chief Marketing Officer",
+        "company": "Southbank Mutual Health",
+        "location": "Melbourne",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead brand, digital acquisition, CRM and member experience; team of 38 and A$21M budget",
+          "Repositioned the brand around preventative health; net member growth of 7% in a flat market",
+          "Moved 60% of media spend to digital channels with in-house performance capability",
+          "Board reporting on brand health, acquisition cost and retention"
+        ]
+      },
+      {
+        "title": "Head of Marketing",
+        "company": "Collins Lane Home Loans",
+        "location": "Melbourne",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Built the marketing function for a non-bank lender from three to fifteen people",
+          "Launched broker marketing program supporting A$1.2B in annual settlements"
+        ]
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Mornington Peninsula Wines Group",
+        "location": "Melbourne",
+        "dates": "2012 – 2016",
+        "bullets": [
+          "Managed four wine brands across retail, export and cellar door"
+        ]
+      },
+      {
+        "title": "Assistant Brand Manager / Brand Manager",
+        "company": "Unilever Australia",
+        "location": "Sydney",
+        "dates": "2009 – 2012",
+        "bullets": [
+          "Brand plans and launches for personal care products"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Executive MBA",
+        "school": "AGSM @ UNSW Business School",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Commerce (Marketing and Economics)",
+        "school": "The University of Melbourne",
+        "dates": "2005 – 2008",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Brand strategy and positioning",
+      "Executive leadership and board reporting",
+      "Customer experience and CRM",
+      "Performance marketing and martech",
+      "Regulated advertising (AHPRA, ASIC RG 234)"
+    ],
+    "languages": [
+      "English (native)",
+      "Italian (conversational)"
+    ],
+    "certifications": [
+      "Graduate, Australian Institute of Company Directors (GAICD), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

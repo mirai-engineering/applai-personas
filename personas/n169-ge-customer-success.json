@@ -1,0 +1,106 @@
+{
+  "slug": "n169-ge-customer-success",
+  "level": "senior",
+  "profession": "customer success",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Manager SaaS"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Bauingenieur"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Nicole Lindemann",
+    "headline": "Senior Customer Success Managerin | B2B-SaaS | Mittelstand",
+    "contact": {
+      "email": "nicole.lindemann@example.com",
+      "phone": "+49 176 0000 169",
+      "location": "Köln",
+      "links": []
+    },
+    "summary": "Customer Success Managerin mit zehn Jahren Erfahrung in Kundenbetreuung und SaaS, nach einer Familienzeit seit 2024 wieder voll im Beruf. Ich betreue mittelständische Kunden vom Onboarding bis zur Vertragsverlängerung und arbeite gern an Prozessen und Playbooks.",
+    "experience": [
+      {
+        "title": "Senior Customer Success Managerin",
+        "company": "Rheinwolke Software GmbH",
+        "location": "Köln",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Betreuung von 60 Mittelstandskunden mit einem jährlichen Vertragsvolumen von 4,2 Mio. €",
+          "Net Revenue Retention im Portfolio von 103 % auf 112 % gesteigert",
+          "Entwicklung eines Onboarding-Playbooks mit dem Produktteam und der Implementierung",
+          "Durchführung von Quarterly Business Reviews mit Geschäftsführung und HR-Leitung der Kunden"
+        ]
+      },
+      {
+        "title": "Customer Success Managerin / Teamlead",
+        "company": "Domstadt Digital AG",
+        "location": "Köln",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Aufbau des CS-Teams auf fünf Personen und Einführung von Gainsight",
+          "Senkung der Kündigungsquote von 14 % auf 8 % pro Jahr"
+        ]
+      },
+      {
+        "title": "Account Managerin Inbound",
+        "company": "Ehrenfeld Media GmbH",
+        "location": "Köln",
+        "dates": "2013 – 2017",
+        "bullets": [
+          "Betreuung von Werbekunden und Verlängerung von Jahresverträgen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Medienwirtschaft",
+        "school": "Technische Hochschule Köln",
+        "dates": "2009 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Gainsight, HubSpot, Salesforce",
+      "Onboarding und Adoption",
+      "Renewals und Upselling",
+      "SaaS-Kennzahlen (NRR, Churn, Health Score)",
+      "Workshop-Moderation"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)",
+      "Niederländisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Gainsight Admin Certification, 2023"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Familienzeit 09/2021 – 12/2023: Elternzeit und Pflege eines Angehörigen; Online-Weiterbildung zu SaaS-Kennzahlen"
+    ]
+  }
+}

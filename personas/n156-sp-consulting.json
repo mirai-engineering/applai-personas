@@ -1,0 +1,109 @@
+{
+  "slug": "n156-sp-consulting",
+  "level": "mid",
+  "profession": "consulting",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Consultor de estrategia"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Consultor de operaciones"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero de calidad"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Marta Llorens Puig",
+    "headline": "Consultora sénior de estrategia y operaciones | Retail y gran consumo",
+    "contact": {
+      "email": "marta.llorens@example.com",
+      "phone": "+34 600 0000 156",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Consultora con siete años de experiencia en proyectos de estrategia, eficiencia operativa y transformación para empresas de retail y gran consumo. Lidero equipos pequeños, preparo comités de dirección y me ocupo de que las recomendaciones se implanten.",
+    "experience": [
+      {
+        "title": "Consultora sénior",
+        "company": "Vallmajor Consultores",
+        "location": "Barcelona",
+        "dates": "2023 – actualidad",
+        "bullets": [
+          "Dirección de proyectos de 3 a 5 consultores para clientes de retail alimentario y moda",
+          "Rediseño de la red de tiendas de una cadena de 140 puntos de venta, con un ahorro estimado de 6,2 M€ anuales",
+          "Preparación de comités de dirección y seguimiento de la implantación con los equipos del cliente",
+          "Formación de analistas recién incorporados en modelización financiera y presentación de resultados"
+        ]
+      },
+      {
+        "title": "Consultora",
+        "company": "Vallmajor Consultores",
+        "location": "Barcelona",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Análisis de costes logísticos y de surtido para una cooperativa de distribución",
+          "Desarrollo de un modelo de pricing con el equipo comercial del cliente"
+        ]
+      },
+      {
+        "title": "Analista",
+        "company": "Deloitte Consulting",
+        "location": "Madrid",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Apoyo en proyectos de due diligence operativa y planes de negocio para fondos de capital riesgo"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster Universitario en Dirección de Operaciones",
+        "school": "Universitat Politècnica de Catalunya",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Administración y Dirección de Empresas",
+        "school": "Universitat Pompeu Fabra",
+        "dates": "2014 – 2018",
+        "details": "Intercambio en la Université Catholique de Louvain"
+      }
+    ],
+    "skills": [
+      "Modelización financiera y business cases en Excel",
+      "Análisis de datos con Power BI y SQL básico",
+      "Due diligence operativa",
+      "Gestión del cambio y facilitación de talleres",
+      "PowerPoint y comunicación ejecutiva"
+    ],
+    "languages": [
+      "Catalán (nativo)",
+      "Español (nativo)",
+      "Inglés (C1)",
+      "Francés (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

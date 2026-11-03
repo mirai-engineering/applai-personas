@@ -1,0 +1,110 @@
+{
+  "slug": "n167-ge-project-management",
+  "level": "senior",
+  "profession": "project management",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Projektmanager IT"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Programmmanager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Personalreferent"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Tobias Leitner",
+    "headline": "Senior IT-Projektleiter | Banken & Regulatorik | DORA, Kernbanken, SAFe",
+    "contact": {
+      "email": "tobias.leitner@example.com",
+      "phone": "+49 152 0000 167",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "IT-Projektleiter mit elf Jahren Erfahrung in Banken und Beratung. Ich leite regulatorische und technische Großprojekte mit Budget- und Personalverantwortung und bringe Fachbereich, IT und Dienstleister an einen Tisch.",
+    "experience": [
+      {
+        "title": "Sr. PM / Projektleiter Regulatorik (AT)",
+        "company": "Mainufer Privatbank AG",
+        "location": "Frankfurt am Main",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Gesamtprojektleitung der DORA-Umsetzung mit einem Budget von 6,5 Mio. € und 14 internen und externen Mitarbeitenden",
+          "Steuerung der Migration auf ein neues Kernbankensystem für 40.000 Kundenkonten, ohne Ausfall am Umstellungswochenende",
+          "Einführung von SAFe-Elementen und eines gemeinsamen Release-Kalenders für drei Teams",
+          "Berichterstattung an Vorstand und Prüfer, Steuerung von Feststellungen aus der Jahresabschlussprüfung"
+        ]
+      },
+      {
+        "title": "Senior Consultant (Band 6) – PM/PMO",
+        "company": "Taunus Advisory Partners GmbH",
+        "location": "Frankfurt am Main",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Projektleitung bei Meldewesen-Projekten (AnaCredit, BCBS 239) für Landes- und Privatbanken",
+          "Aufbau eines Projektportfolio-Reportings für einen Kunden mit 60 laufenden Projekten"
+        ]
+      },
+      {
+        "title": "Consultant / PMO (Teamleiter komm.)",
+        "company": "Rheinmain IT Services GmbH",
+        "location": "Eschborn",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Projektcontrolling und Ressourcenplanung für Infrastrukturprojekte"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Wirtschaftsinformatik",
+        "school": "Technische Universität Darmstadt",
+        "dates": "2013 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Wirtschaftsinformatik",
+        "school": "Universität Mannheim",
+        "dates": "2010 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Hybrides Projektmanagement (PMI, SAFe, Scrum)",
+      "DORA, BAIT, MaRisk",
+      "Jira, Confluence, MS Project",
+      "Budget- und Dienstleistersteuerung",
+      "Kernbanken- und Datenmigration"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [
+      "Project Management Professional (PMP), 2019",
+      "SAFe 6 Practitioner, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

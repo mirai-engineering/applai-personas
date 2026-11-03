@@ -1,0 +1,111 @@
+{
+  "slug": "n171-ca-administration",
+  "level": "mid",
+  "profession": "administration",
+  "band": "5-8",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Executive Assistant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Adjointe de direction"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Rachel Leung",
+    "headline": "Executive Assistant | Bilingual EN/FR | Studios, academia and law",
+    "contact": {
+      "email": "rachel.leung@example.com",
+      "phone": "+1 514 0000 171",
+      "location": "Montréal, QC",
+      "links": []
+    },
+    "summary": "Bilingual executive assistant with seven years in a law firm, a university department, events and now a game studio. Organised, calm under deadlines and used to switching between English and French all day.",
+    "experience": [
+      {
+        "title": "Executive Assistant to the President",
+        "company": "Mile End Interactive",
+        "location": "Montréal",
+        "dates": "Sep 2024 – Present",
+        "bullets": [
+          "Manage the President's calendar, travel to conferences and investor meetings",
+          "Prepare board materials and track action items for the leadership team",
+          "Coordinate visas and onboarding logistics for international hires",
+          "Organised the studio's 10-year anniversary event for 250 guests"
+        ]
+      },
+      {
+        "title": "Event & Office Coordinator (contract)",
+        "company": "Lachine Canal Conference Group",
+        "location": "Montréal",
+        "dates": "Nov 2023 – Aug 2024",
+        "bullets": [
+          "Coordinated client events and supplier contracts during the busy season"
+        ]
+      },
+      {
+        "title": "Administrative Coordinator, Department of Medicine",
+        "company": "McGill University",
+        "location": "Montréal",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Handled faculty recruitment files and committee scheduling",
+          "Processed research expense claims in the university financial system"
+        ]
+      },
+      {
+        "title": "Legal Assistant",
+        "company": "Bérubé Shapiro LLP",
+        "location": "Montréal",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Prepared court filings and managed deadlines for two litigation partners"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA, Communication Studies",
+        "school": "Concordia University",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Microsoft 365, Google Workspace",
+      "Calendar and travel management",
+      "Board and meeting preparation",
+      "Event planning",
+      "Bilingual correspondence (EN/FR)"
+    ],
+    "languages": [
+      "English (native)",
+      "French (fluent)",
+      "Cantonese (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

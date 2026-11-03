@@ -1,0 +1,101 @@
+{
+  "slug": "n154-au-marketing",
+  "level": "junior",
+  "profession": "marketing",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Payroll Officer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Chloe Lam",
+    "headline": "Brand & Marketing Executive – FMCG and Fitness | Sydney",
+    "contact": {
+      "email": "chloe.lam@example.com",
+      "phone": "+61 412 0000 154",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Marketer with four years in FMCG and consumer fitness, covering brand calendars, paid social, retailer promotions and launches. Comfortable with Nielsen data and with briefing agencies, looking for my first role that owns the marketing plan for a brand.",
+    "experience": [
+      {
+        "title": "Brand Exec (Level B3) – Snacks portfolio",
+        "company": "Southerly Snacks Co.",
+        "location": "Alexandria, NSW",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Run the annual brand calendar for two snack lines sold through Coles, Woolworths and independents",
+          "Coordinated the launch of a lower-sugar range; reached 18% of target distribution in the first quarter",
+          "Brief creative and media agencies; manage a A$650k working media budget with the Brand Manager",
+          "Prepare monthly Nielsen and Circana share reports for the sales team"
+        ]
+      },
+      {
+        "title": "Mktg Coordinator / Digital",
+        "company": "Kurrajong Fitness Group",
+        "location": "Sydney",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Managed Meta and Google ads for 9 gym sites; cost per member lead down 27% in 12 months",
+          "Built email journeys for trial members in Klaviyo"
+        ]
+      },
+      {
+        "title": "Mktg Asst (casual)",
+        "company": "Glebe Bookhouse",
+        "location": "Glebe, NSW",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Social content and event listings for author nights"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "University of Technology Sydney",
+        "dates": "2018 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Meta Ads Manager, Google Ads, GA4",
+      "Klaviyo, Canva, Adobe Express",
+      "Nielsen / Circana scan data",
+      "Trade marketing and retailer range reviews",
+      "Agency briefing",
+      "Budget tracking in Excel"
+    ],
+    "languages": [
+      "English (native)",
+      "Cantonese (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

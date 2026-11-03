@@ -1,0 +1,93 @@
+{
+  "slug": "n175-au-finance",
+  "level": "junior",
+  "profession": "finance",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Financial Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "FP&A Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Teacher"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Oliver Ly",
+    "headline": "Financial Analyst | Renewable energy | Modelling and reporting",
+    "contact": {
+      "email": "oliver.ly@example.com",
+      "phone": "+61 422 0000 175",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Financial analyst with four years in logistics and renewable energy. Builds project and budget models, prepares management reporting and is completing the Chartered Accountants program.",
+    "experience": [
+      {
+        "title": "Financial Analyst",
+        "company": "Westgate Renewables Pty Ltd",
+        "location": "Melbourne",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Maintain project finance models for solar and battery projects in development",
+          "Prepare monthly management accounts and variance commentary for the CFO",
+          "Supported financial close of a 120 MW solar farm, including lender model reviews",
+          "Automated the capex tracker with Power Query, saving two days each month"
+        ]
+      },
+      {
+        "title": "Graduate Financial Analyst",
+        "company": "Laverton Logistics Group",
+        "location": "Melbourne",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Budgeting and forecasting for warehouse sites in TM1",
+          "Analysed customer profitability for contract renewals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Finance and Accounting)",
+        "school": "RMIT University",
+        "dates": "2018 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Financial modelling (DCF, project finance)",
+      "Excel, Power Query, Power BI",
+      "IBM Planning Analytics (TM1)",
+      "AASB reporting basics",
+      "Variance analysis"
+    ],
+    "languages": [
+      "English (native)",
+      "Vietnamese (fluent)"
+    ],
+    "certifications": [
+      "Chartered Accountants ANZ program (in progress)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

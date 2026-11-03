@@ -1,0 +1,99 @@
+{
+  "slug": "n157-au-marketing",
+  "level": "mid",
+  "profession": "marketing",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ecommerce Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Hamish Lowe",
+    "headline": "Marketing Manager – Retail & Outdoor | Omnichannel campaigns",
+    "contact": {
+      "email": "hamish.lowe@example.com",
+      "phone": "+61 413 0000 157",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Marketing manager with seven years in specialty retail and events. Leads a small team across brand, CRM and paid media for an outdoor retailer with stores and a growing online business.",
+    "experience": [
+      {
+        "title": "Marketing Manager",
+        "company": "Otway Outdoor Supply",
+        "location": "Melbourne",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Lead a team of four covering brand, CRM, social and in-store marketing for 14 stores and online",
+          "Own the A$2.3M annual marketing budget and the seasonal campaign calendar",
+          "Relaunched the loyalty program; active members grew from 41k to 96k in 18 months",
+          "Work with buying and visual merchandising on range launches and catalogue"
+        ]
+      },
+      {
+        "title": "Senior Marketing Executive",
+        "company": "Bayside Cycles Australia",
+        "location": "Melbourne",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Managed paid search and social for the e-commerce site; online revenue share rose from 12% to 30%",
+          "Ran partnerships with cycling clubs and community events"
+        ]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "company": "Fitzroy Events Collective",
+        "location": "Melbourne",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Promoted festivals and markets through social, EDMs and local media"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Marketing)",
+        "school": "Monash University",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Campaign planning and budgeting",
+      "Salesforce Marketing Cloud, Shopify Plus",
+      "Google Ads, Meta, GA4",
+      "Loyalty and CRM programs",
+      "Agency and team management"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
