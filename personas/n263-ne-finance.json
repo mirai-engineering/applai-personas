@@ -1,0 +1,109 @@
+{
+  "slug": "n263-ne-finance",
+  "level": "mid",
+  "profession": "finance",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Financial Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "FP&A Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Ruben Zwart",
+    "headline": "Financial Analyst – FP&A, forecasting and business partnering",
+    "contact": {
+      "email": "ruben.zwart@example.com",
+      "phone": "+31 6 0000 0263",
+      "location": "Utrecht",
+      "links": []
+    },
+    "summary": "Financial analyst with six years in FP&A at a consumer goods company and a pension administrator. I build forecasts and budgets with the business, look for the story behind the variances and keep reporting simple for management.",
+    "experience": [
+      {
+        "title": "Financial Analyst FP&A",
+        "company": "Domstad Koffie & Thee B.V.",
+        "location": "Utrecht",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Lead the annual budget and rolling forecast for the Benelux business unit (€310M revenue)",
+          "Business partner for sales and marketing on trade spend and promotion ROI",
+          "Built a driver-based forecast model that shortened the forecast cycle from ten to six working days",
+          "Prepare the monthly management report and variance commentary for the leadership team"
+        ]
+      },
+      {
+        "title": "Junior Financial Analyst",
+        "company": "Vecht Pensioenbeheer",
+        "location": "Utrecht",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Prepared cost allocation and pricing analyses for pension fund clients",
+          "Automated monthly reporting packs in Excel and Power Query"
+        ]
+      },
+      {
+        "title": "Finance Intern",
+        "company": "Amersfoort Logistiek Groep",
+        "location": "Amersfoort",
+        "dates": "2019",
+        "bullets": [
+          "Supported month-end closing and accruals review"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Finance",
+        "school": "Tilburg University",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc Economics and Business Economics",
+        "school": "Utrecht University",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Budgeting, rolling forecasts, variance analysis",
+      "Excel (advanced), Power Query, Power BI",
+      "SAP S/4HANA, Anaplan",
+      "IFRS basics, management reporting",
+      "Business partnering"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Treasurer, Utrecht amateur rowing club (since 2021)"
+    ]
+  }
+}

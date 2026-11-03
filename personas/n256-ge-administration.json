@@ -1,0 +1,110 @@
+{
+  "slug": "n256-ge-administration",
+  "level": "mid",
+  "profession": "administration",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Executive Assistant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Office Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Developer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Sophie Wendland",
+    "headline": "Executive Assistant to the Managing Director | Office & Events Management",
+    "contact": {
+      "email": "sophie.wendland@example.com",
+      "phone": "+49 171 0000 256",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Executive assistant with seven years supporting managing directors in shipping and consumer goods. I also run the office side of a 120-person site, from facility contracts to onboarding and company events, so I can work as an EA or as an office manager.",
+    "experience": [
+      {
+        "title": "Executive Assistant to the Managing Director",
+        "company": "Elbkai Reederei GmbH",
+        "location": "Hamburg",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Manage the calendar, travel and correspondence of the managing director and two board members",
+          "Prepare board meetings, minutes and follow-up tracking for the supervisory board",
+          "Run office management for the Hamburg site: facility contracts, budget of around €400k, supplier negotiations",
+          "Organised the company's 150th anniversary event for 600 guests",
+          "Coordinate onboarding logistics for new hires with HR and IT"
+        ]
+      },
+      {
+        "title": "Team Assistant Marketing & Sales",
+        "company": "Nordlicht Naturkosmetik GmbH",
+        "location": "Hamburg",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Supported a team of 14 with trade-fair planning, purchase orders and travel",
+          "Introduced a shared booking tool for meeting rooms and pool cars"
+        ]
+      },
+      {
+        "title": "Office Assistant (part-time)",
+        "company": "Kanzlei Brandt & Partner",
+        "location": "Hamburg",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Front desk, incoming mail and appointment scheduling for a law firm"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Geprüfte Kauffrau für Büromanagement (IHK)",
+        "school": "Handelskammer Hamburg",
+        "dates": "2014 – 2017",
+        "details": ""
+      },
+      {
+        "degree": "Certificate in Business English",
+        "school": "Hamburg School of Business Administration",
+        "dates": "2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "MS 365 (Outlook, Teams, SharePoint), SAP Concur",
+      "Board and meeting preparation",
+      "Event and travel management",
+      "Facility management and supplier contracts",
+      "DATEV basics, invoice approval",
+      "Confidential correspondence in German and English"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "Danish (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "n264-ca-sales",
+  "level": "junior",
+  "profession": "sales",
+  "band": "2-5",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Représentante des ventes"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingénieur civil"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Émilie Tremblay-Wong",
+    "headline": "Représentante des ventes B2B – SaaS et services aux entreprises",
+    "contact": {
+      "email": "emilie.tremblaywong@example.com",
+      "phone": "+1 604 0000 264",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Représentante des ventes avec trois ans d'expérience en vente B2B, de retour sur le marché du travail après un congé parental prolongé et un déménagement de Montréal à Vancouver. J'aime gérer un cycle de vente complet, de la prospection à la signature, avec une clientèle bilingue.",
+    "experience": [
+      {
+        "title": "Représentante des ventes (contrat)",
+        "company": "Coastline Payroll Solutions",
+        "location": "Vancouver, BC",
+        "dates": "Avril 2026 – aujourd'hui",
+        "bullets": [
+          "Prospection et vente d'une solution de paie infonuagique aux PME de la Colombie-Britannique",
+          "Gestion d'un portefeuille de 60 comptes actifs dans HubSpot",
+          "Démonstrations du produit en français et en anglais pour les clients du Québec et de l'Ontario",
+          "Atteinte de 108 % du quota trimestriel au premier trimestre complet"
+        ]
+      },
+      {
+        "title": "Représentante au développement des affaires",
+        "company": "Logiciels Mont-Royal",
+        "location": "Montréal, QC",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Prise de rendez-vous qualifiés pour les directeurs de comptes, environ 15 par mois",
+          "Participation à la mise en place d'une séquence de prospection dans Salesloft"
+        ]
+      },
+      {
+        "title": "Conseillère service à la clientèle",
+        "company": "Telco Laurentides",
+        "location": "Laval, QC",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Traitement des demandes clients et ventes additionnelles de forfaits"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en administration des affaires, marketing",
+        "school": "HEC Montréal",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "HubSpot, Salesforce, Salesloft",
+      "Prospection et qualification (BANT, MEDDIC)",
+      "Démonstrations et négociation",
+      "Gestion de pipeline et prévisions"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Cantonais (notions)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Congé parental et déménagement, 2023 – 2026"
+    ]
+  }
+}

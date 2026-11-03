@@ -1,0 +1,93 @@
+{
+  "slug": "n266-au-communications",
+  "level": "junior",
+  "profession": "communications",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Communications Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Media Advisor"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Jasmine Tuhiwai",
+    "headline": "Communications Advisor – Resources, community engagement & media",
+    "contact": {
+      "email": "jasmine.tuhiwai@example.com",
+      "phone": "+61 423 0000 266",
+      "location": "Perth, WA",
+      "links": []
+    },
+    "summary": "Communications professional with three years in the resources sector and local government in Western Australia. I write clearly for very different audiences, from community newsletters to media releases, and enjoy organising stakeholder events.",
+    "experience": [
+      {
+        "title": "Communications Advisor",
+        "company": "Pilbara Iron Ventures",
+        "location": "Perth, WA",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Write media releases, internal newsletters and intranet stories for a 2,000-person workforce",
+          "Coordinate community engagement for a mine expansion, including three town hall sessions",
+          "Manage LinkedIn and Facebook channels; follower base grew by 40% in 2025",
+          "Support issues management and draft holding statements with the corporate affairs manager"
+        ]
+      },
+      {
+        "title": "Communications Officer",
+        "company": "City of Fremantle Council",
+        "location": "Fremantle, WA",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Produced the monthly community e-newsletter and event promotions",
+          "Coordinated photography and copy for the annual report"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Arts (Communication and Media)",
+        "school": "Curtin University",
+        "dates": "2018 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Media releases and key messages",
+      "Stakeholder and community engagement (IAP2)",
+      "Canva, Adobe InDesign",
+      "Meltwater, Hootsuite",
+      "Internal communications, intranet (SharePoint)"
+    ],
+    "languages": [
+      "English (native)",
+      "Māori (basic)"
+    ],
+    "certifications": [
+      "IAP2 Foundations in Public Participation, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "n253-au-data-analysis",
+  "level": "junior",
+  "profession": "data analysis",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "BI Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Electrician"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Mitchell Tran",
+    "headline": "Data Analyst – Retail & Customer Analytics",
+    "contact": {
+      "email": "mitchell.tran@example.com",
+      "phone": "+61 412 0000 253",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Data analyst with three years in retail and customer analytics. I build reliable SQL models and dashboards that store and category managers actually use, and enjoy digging into why a number moved.",
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "Moreton Grocers Co-operative",
+        "location": "Brisbane",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own weekly sales and promotions dashboards in Tableau for 64 stores",
+          "Built a basket-analysis model in SQL and Python that informed a range review across three categories",
+          "Automated the monthly loyalty report, saving the team around two days per month",
+          "Work with category managers to define KPIs and clean up conflicting metric definitions"
+        ]
+      },
+      {
+        "title": "Junior Data Analyst",
+        "company": "Sunshine Coast Energy Retail",
+        "location": "Maroochydore",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Analysed churn drivers for residential customers using survey and billing data",
+          "Maintained data quality checks on the customer data warehouse"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science (Mathematics and Statistics)",
+        "school": "Queensland University of Technology",
+        "dates": "2019 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (Snowflake, PostgreSQL)",
+      "Python – pandas, scikit-learn",
+      "Tableau, Power BI",
+      "A/B test analysis, regression",
+      "dbt basics, Git"
+    ],
+    "languages": [
+      "English (native)",
+      "Vietnamese (conversational)"
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

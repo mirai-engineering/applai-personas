@@ -1,0 +1,99 @@
+{
+  "slug": "n259-ca-project-management",
+  "level": "intern",
+  "profession": "project management",
+  "band": "0-2",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Stagiaire en gestion de projet"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Coordonnateur de projets"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Hygiéniste dentaire"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Mathis Thériault",
+    "headline": "Étudiant en gestion de projet – stages en construction et en événementiel",
+    "contact": {
+      "email": "mathis.theriault@example.com",
+      "phone": "+1 416 0000 259",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Étudiant franco-ontarien en dernière année, avec deux stages courts dans des secteurs différents et un emploi étudiant en événementiel. Je cherche un stage ou un premier poste en coordination de projets, idéalement dans un milieu bilingue.",
+    "experience": [
+      {
+        "title": "Stagiaire, coordination de projets",
+        "company": "Groupe Bâtisseurs du Nord",
+        "location": "Toronto, ON",
+        "dates": "Mai 2026 – août 2026",
+        "bullets": [
+          "Mise à jour de l'échéancier MS Project pour la rénovation d'une école francophone",
+          "Préparation des comptes rendus de réunions de chantier et suivi des actions",
+          "Suivi des demandes d'information (RFI) avec les sous-traitants",
+          "Création d'un tableau de bord Excel des coûts engagés"
+        ]
+      },
+      {
+        "title": "Assistant aux événements (temps partiel)",
+        "company": "Festival franco-ontarien de Toronto",
+        "location": "Toronto, ON",
+        "dates": "Sept 2025 – avril 2026",
+        "bullets": [
+          "Coordination logistique de 30 bénévoles pour trois événements",
+          "Gestion des réservations de fournisseurs et du budget de petite caisse"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en administration des affaires (en cours)",
+        "school": "Université de l'Ontario français",
+        "dates": "2023 – 2027",
+        "details": "Concentration gestion de projet"
+      },
+      {
+        "degree": "Session en sciences de la nature (non complétée)",
+        "school": "Collège Boréal",
+        "dates": "2022 – 2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "MS Project, Excel, Smartsheet",
+      "Notions PMBOK, gestion des risques",
+      "Rédaction de comptes rendus",
+      "Coordination de bénévoles et fournisseurs"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Projet de cours : plan de gestion de projet pour un jardin communautaire (budget 25 000 $)"
+    ],
+    "extra_sections": []
+  }
+}

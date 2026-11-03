@@ -1,0 +1,103 @@
+{
+  "slug": "n265-ir-operations",
+  "level": "junior",
+  "profession": "operations",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Operations Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Operations Coordinator"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Scientist"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Conor Walsh",
+    "headline": "Operations Manager – Food delivery & last-mile logistics",
+    "contact": {
+      "email": "conor.walsh@example.com",
+      "phone": "+353 86 0000 265",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Operations professional with four years in last-mile delivery, recently promoted to run day-to-day operations for a Dublin dark-store network. Practical, data-minded and used to fixing problems on the floor.",
+    "experience": [
+      {
+        "title": "Operations Manager",
+        "company": "Liffey Fresh Delivery",
+        "location": "Dublin",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Run daily operations for four dark stores with around 90 pickers and riders",
+          "Cut average order-to-door time from 31 to 24 minutes by redesigning store layouts and shift patterns",
+          "Plan weekly rosters and labour budgets against demand forecasts",
+          "Handle health and safety, incident reporting and HACCP audits"
+        ]
+      },
+      {
+        "title": "Operations Coordinator",
+        "company": "Liffey Fresh Delivery",
+        "location": "Dublin",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Coordinated rider scheduling and monitored live delivery performance",
+          "Introduced a daily stock-accuracy check that reduced substitutions"
+        ]
+      },
+      {
+        "title": "Shift Supervisor",
+        "company": "Northside Parcel Hub",
+        "location": "Dublin",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Supervised a sorting team of 20 on night shifts"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Logistics and Supply Chain Management",
+        "school": "Technological University Dublin",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Workforce planning and rostering",
+      "KPI dashboards (Looker Studio, Excel)",
+      "Lean basics, 5S",
+      "HACCP, health and safety",
+      "Deputy, Onfleet"
+    ],
+    "languages": [
+      "English (native)",
+      "Polish (basic)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Yellow Belt, 2024",
+      "Manual Handling Instructor (QQI)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

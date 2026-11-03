@@ -1,0 +1,118 @@
+{
+  "slug": "n257-fr-electrical-engineering",
+  "level": "junior",
+  "profession": "electrical engineering",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingénieur électricien"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingénieur automatismes"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chargé de communication"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Théo Vaillant",
+    "headline": "Ingénieur électricien – Courants forts, automatismes et énergies renouvelables",
+    "contact": {
+      "email": "theo.vaillant@example.com",
+      "phone": "+33 6 0000 0257",
+      "location": "Nantes",
+      "links": []
+    },
+    "summary": "Ingénieur électricien avec trois ans d'expérience entre bureau d'études, chantier naval et énergies marines. Un parcours varié qui m'a donné une bonne vision de la conception jusqu'à la mise en service, et l'envie de me stabiliser sur des projets de distribution électrique.",
+    "experience": [
+      {
+        "title": "Ingénieur électricien",
+        "company": "Loire Énergies Marines",
+        "location": "Nantes",
+        "dates": "2025 – aujourd'hui",
+        "bullets": [
+          "Conception des schémas unifilaires et dimensionnement des câbles pour un démonstrateur hydrolien",
+          "Rédaction des cahiers des charges pour les tableaux BT et le poste de livraison HTA",
+          "Calculs de court-circuit et de sélectivité avec Caneco BT",
+          "Participation aux essais de mise en service avec le fournisseur de convertisseurs"
+        ]
+      },
+      {
+        "title": "Ingénieur automatismes (CDD)",
+        "company": "Chantiers de l'Estuaire",
+        "location": "Saint-Nazaire",
+        "dates": "2024 – 2025",
+        "bullets": [
+          "Programmation d'automates Siemens S7-1500 pour les systèmes auxiliaires d'un navire",
+          "Suivi des essais à quai avec l'armateur"
+        ]
+      },
+      {
+        "title": "Technicien bureau d'études",
+        "company": "Ouest Électricité Industrielle",
+        "location": "Nantes",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Mise à jour des plans électriques sous See Electrical pour des clients agroalimentaires"
+        ]
+      },
+      {
+        "title": "Ingénieur d'études junior (période d'essai non concluante)",
+        "company": "Volta Conseil",
+        "location": "Angers",
+        "dates": "2023",
+        "bullets": [
+          "Études d'éclairage et notes de calcul pour des bâtiments tertiaires"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur – Génie électrique",
+        "school": "Polytech Nantes",
+        "dates": "2020 – 2023",
+        "details": "Stage de fin d'études en électronique de puissance"
+      },
+      {
+        "degree": "DUT Génie électrique et informatique industrielle",
+        "school": "IUT de Saint-Nazaire",
+        "dates": "2018 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Caneco BT, See Electrical, AutoCAD Electrical",
+      "NF C 15-100, NF C 13-100",
+      "Automates Siemens TIA Portal, Schneider",
+      "Calculs de court-circuit et sélectivité",
+      "Habilitation électrique B2V BR H0V"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant, TOEIC 890)"
+    ],
+    "certifications": [
+      "Habilitation électrique B2V-BR-BC-H0V, 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

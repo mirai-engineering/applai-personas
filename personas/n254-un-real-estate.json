@@ -1,0 +1,107 @@
+{
+  "slug": "n254-un-real-estate",
+  "level": "mid",
+  "profession": "real estate",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Property Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Community Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Pharmacy Technician"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Danielle Whitaker",
+    "headline": "Property Manager | Multifamily & Mixed-Use | CAM",
+    "contact": {
+      "email": "danielle.whitaker@example.com",
+      "phone": "+1 512 0000 254",
+      "location": "Austin, TX",
+      "links": []
+    },
+    "summary": "Property manager with six years running multifamily communities in Central Texas. Back in the industry after a two-year break to care for a family member, with a renewed TREC licence and CAM credential. Strong on resident retention, budgets and vendor management.",
+    "experience": [
+      {
+        "title": "Property Manager",
+        "company": "Pecan Street Residential",
+        "location": "Austin, TX",
+        "dates": "Jun 2025 – Present",
+        "bullets": [
+          "Manage a 280-unit Class B multifamily community and a team of seven",
+          "Raised occupancy from 89% to 95% within nine months through a renewal and referral program",
+          "Prepare the annual operating budget and monthly variance reports for ownership",
+          "Oversee make-ready turns, vendor contracts and capital projects including a roof replacement"
+        ]
+      },
+      {
+        "title": "Assistant Property Manager",
+        "company": "Hill Country Living Partners",
+        "location": "Round Rock, TX",
+        "dates": "2019 – 2023",
+        "bullets": [
+          "Handled leasing, delinquency follow-up and evictions in line with Texas Property Code",
+          "Rolled out Yardi Breeze for online payments and maintenance requests"
+        ]
+      },
+      {
+        "title": "Leasing Consultant",
+        "company": "Barton Creek Apartments",
+        "location": "Austin, TX",
+        "dates": "2017 – 2019",
+        "bullets": [
+          "Led tours and closed leases; top leasing consultant in the portfolio in 2018"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BBA, Marketing",
+        "school": "Texas State University",
+        "dates": "2013 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Yardi Voyager, Yardi Breeze, RealPage",
+      "Operating budgets and variance reporting",
+      "Fair Housing compliance",
+      "Lease administration and renewals",
+      "Vendor and contractor management",
+      "Bilingual resident relations (Spanish)"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (professional working)"
+    ],
+    "certifications": [
+      "Certified Apartment Manager (CAM), NAA, 2025",
+      "Texas Real Estate Sales Agent Licence (TREC)"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2023 – 2025: family caregiving"
+    ]
+  }
+}

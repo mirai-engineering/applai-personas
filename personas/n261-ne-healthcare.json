@@ -1,0 +1,112 @@
+{
+  "slug": "n261-ne-healthcare",
+  "level": "senior",
+  "profession": "healthcare",
+  "band": "8-12",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Registered Nurse"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Senior Verpleegkundige"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Account Manager"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Ingrid van der Wal",
+    "headline": "Senior Registered Nurse – Intensive Care | BIG-registered",
+    "contact": {
+      "email": "ingrid.vanderwal@example.com",
+      "phone": "+31 6 0000 0261",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "BIG-registered intensive care nurse with ten years of clinical experience in academic and teaching hospitals. I combine bedside care with a coordinating role on the unit, mentor student nurses and lead the unit's work on delirium prevention.",
+    "experience": [
+      {
+        "title": "Senior IC Nurse / Shift Coordinator",
+        "company": "Maasstad Academisch Zorgcentrum",
+        "location": "Rotterdam",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Coordinate shifts on a 24-bed mixed ICU and allocate patients across a team of up to 14 nurses",
+          "Lead the delirium prevention working group; screening compliance rose from 60% to 92%",
+          "Mentor student nurses and newly qualified IC nurses during their training",
+          "Care for ventilated patients, CRRT and post-cardiac surgery patients"
+        ]
+      },
+      {
+        "title": "IC Nurse",
+        "company": "Zuid-Holland Ziekenhuis",
+        "location": "Dordrecht",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Provided intensive care nursing and took part in the rapid response team",
+          "Supported the introduction of a new patient data management system"
+        ]
+      },
+      {
+        "title": "Registered Nurse, Surgical Ward",
+        "company": "Zuid-Holland Ziekenhuis",
+        "location": "Dordrecht",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Delivered pre- and post-operative care on a 30-bed general surgery ward"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Specialisation Intensive Care Nursing",
+        "school": "Erasmus MC Academie",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Nursing (HBO-V)",
+        "school": "Hogeschool Rotterdam",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Mechanical ventilation and CRRT",
+      "ABCDE assessment, early warning scores",
+      "HiX / ChipSoft patient records",
+      "Delirium screening (CAM-ICU)",
+      "Clinical mentoring",
+      "Infection prevention protocols"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (good)"
+    ],
+    "certifications": [
+      "BIG registration (Verpleegkundige)",
+      "ALS Provider (European Resuscitation Council), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

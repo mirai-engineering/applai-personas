@@ -1,0 +1,103 @@
+{
+  "slug": "n258-un-digital-marketing",
+  "level": "mid",
+  "profession": "digital marketing",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Digital Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Performance Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Kendra Yoshida",
+    "headline": "Digital Marketing Specialist – Paid Search, Paid Social & Lifecycle",
+    "contact": {
+      "email": "kendra.yoshida@example.com",
+      "phone": "+1 206 0000 258",
+      "location": "Seattle, WA",
+      "links": []
+    },
+    "summary": "Digital marketer with six years in e-commerce and outdoor retail. I run paid search and paid social programs end to end, from audience strategy and creative testing to budget pacing and reporting, and work closely with the CRM team on lifecycle email.",
+    "experience": [
+      {
+        "title": "Digital Marketing Specialist",
+        "company": "Cascade Trailworks",
+        "location": "Seattle, WA",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Manage a $2.4M annual paid media budget across Google Ads, Meta and Pinterest",
+          "Lowered blended CAC by 21% through restructured campaigns and first-party audience lists",
+          "Plan and run monthly creative tests with the in-house design team",
+          "Set up GA4 and server-side tagging with the web team during the site replatform"
+        ]
+      },
+      {
+        "title": "Digital Marketing Coordinator",
+        "company": "Puget Home Goods",
+        "location": "Tacoma, WA",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Ran Klaviyo email flows and weekly newsletters for 180k subscribers",
+          "Supported SEO content planning and on-page optimization for category pages"
+        ]
+      },
+      {
+        "title": "Marketing Assistant",
+        "company": "Emerald City Bike Co.",
+        "location": "Seattle, WA",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Scheduled social posts and coordinated local event sponsorships"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA Communication, minor in Business",
+        "school": "University of Washington",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads Manager, Pinterest Ads",
+      "GA4, Google Tag Manager, Looker Studio",
+      "Klaviyo, HubSpot",
+      "Budget pacing and attribution",
+      "SEO fundamentals, Semrush"
+    ],
+    "languages": [
+      "English (native)",
+      "Japanese (conversational)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification",
+      "Meta Certified Media Buying Professional"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

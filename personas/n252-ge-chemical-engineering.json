@@ -1,0 +1,109 @@
+{
+  "slug": "n252-ge-chemical-engineering",
+  "level": "mid",
+  "profession": "chemical engineering",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Verfahrensingenieur"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Process Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerfachangestellte"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Jonas Ulbricht",
+    "headline": "Verfahrensingenieur | Prozessentwicklung & Scale-up | Spezialchemie",
+    "contact": {
+      "email": "jonas.ulbricht@example.com",
+      "phone": "+49 160 0000 252",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "Chemieingenieur mit sieben Jahren Erfahrung in der Prozessentwicklung und im Anlagenbetrieb der Spezialchemie. Schwerpunkt auf Scale-up vom Technikum in den Produktionsmaßstab, Prozesssicherheit und die Optimierung von Batch-Prozessen.",
+    "experience": [
+      {
+        "title": "Process Engineer (E13 / Sr.)",
+        "company": "Mainchem Spezialitäten GmbH",
+        "location": "Frankfurt-Höchst",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortlich für die Prozessbetreuung von drei Mehrzweckanlagen für Polymeradditive",
+          "Scale-up von zwei neuen Produkten vom 50-L-Technikum auf 12-m³-Reaktoren",
+          "Durchführung von HAZOP-Studien und Pflege der Prozessdokumentation nach Störfall-Verordnung",
+          "Reduktion der Batchzeit um 18 % durch Anpassung der Dosierstrategie und Temperaturführung",
+          "Ansprechpartner für Produktion und Qualität bei Abweichungen und CAPA-Maßnahmen"
+        ]
+      },
+      {
+        "title": "Ing. Verfahrenstechnik / Betriebsingenieur",
+        "company": "Taunus Pharmachemie AG",
+        "location": "Bad Homburg",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Betreuung der Lösemittelrückgewinnung und Destillationskolonnen im Schichtbetrieb",
+          "Mitarbeit an der Einführung von Aspen Plus für Bilanzierungen im Betrieb"
+        ]
+      },
+      {
+        "title": "Trainee Process Dev.",
+        "company": "Rheinhessen Feinchemie GmbH",
+        "location": "Mainz",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Laborversuche und Auswertung für die Kristallisation eines Pharmazwischenprodukts"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Chemieingenieurwesen",
+        "school": "Technische Universität Darmstadt",
+        "dates": "2016 – 2018",
+        "details": "Masterarbeit zur Reaktionskinetik in Rührkesselreaktoren"
+      },
+      {
+        "degree": "B.Sc. Chemieingenieurwesen",
+        "school": "Hochschule Darmstadt",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Aspen Plus, CHEMCAD, MATLAB",
+      "HAZOP, PAAG, Störfall-Verordnung, Ex-Schutz",
+      "Scale-up, Batch-Optimierung, Destillation",
+      "GMP, Abweichungsmanagement, CAPA",
+      "SAP PM, PI System"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Französisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

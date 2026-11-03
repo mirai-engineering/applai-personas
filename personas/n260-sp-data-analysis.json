@@ -1,0 +1,109 @@
+{
+  "slug": "n260-sp-data-analysis",
+  "level": "mid",
+  "profession": "data analysis",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Intelligence Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Enfermero"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Laia Vidal Torrent",
+    "headline": "Data Analyst | Former hotel revenue manager | SQL, Python, Looker",
+    "contact": {
+      "email": "laia.vidal@example.com",
+      "phone": "+34 612 0000 260",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Data analyst who moved into analytics from hotel revenue management. After four years setting prices and forecasting demand for city hotels, I completed a data analytics master's and now work on marketplace analytics for a travel tech company.",
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "Rutaviva Travel Tech",
+        "location": "Barcelona",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Build Looker dashboards for supply and demand on a vacation-rental marketplace",
+          "Designed the analysis framework for pricing experiments with the product team",
+          "Wrote a Python forecasting model for weekly bookings with around 8% MAPE",
+          "Translate questions from commercial teams into SQL queries and clear recommendations"
+        ]
+      },
+      {
+        "title": "Junior Data Analyst",
+        "company": "Mercat Digital Agency",
+        "location": "Barcelona",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Prepared campaign performance reports for retail clients in BigQuery and Looker Studio"
+        ]
+      },
+      {
+        "title": "Revenue Manager",
+        "company": "Hoteles Brisa Mediterránea",
+        "location": "Barcelona",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Set daily rates for three city hotels using demand forecasts and competitor data",
+          "Increased RevPAR by 9% year on year at the flagship property"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's in Data Science and Business Analytics",
+        "school": "Barcelona School of Management – UPF",
+        "dates": "2022 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Turismo",
+        "school": "Universitat de Barcelona",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (BigQuery, PostgreSQL)",
+      "Python – pandas, statsmodels",
+      "Looker, Looker Studio, Tableau",
+      "Forecasting and experiment analysis",
+      "Revenue management systems (IDeaS)"
+    ],
+    "languages": [
+      "Catalan (native)",
+      "Spanish (native)",
+      "English (C1)",
+      "French (B1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

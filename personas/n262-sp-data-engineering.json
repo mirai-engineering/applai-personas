@@ -1,0 +1,110 @@
+{
+  "slug": "n262-sp-data-engineering",
+  "level": "mid",
+  "profession": "data engineering",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniero de datos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Profesora de primaria"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Iker Urrutia Etxeberria",
+    "headline": "Ingeniero de datos | Plataformas cloud, pipelines y modelado | Industria y energía",
+    "contact": {
+      "email": "iker.urrutia@example.com",
+      "phone": "+34 655 0000 262",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Ingeniero de datos con seis años de experiencia en el sector energético e industrial. Diseño y mantengo pipelines de datos en la nube, con foco en la calidad del dato y en dar a los equipos de analítica una base fiable para trabajar.",
+    "experience": [
+      {
+        "title": "Ingeniero de datos",
+        "company": "Ibaizabal Energía Renovable",
+        "location": "Bilbao",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Diseño de la plataforma de datos en Azure (Data Lake, Databricks) para la telemetría de 40 parques eólicos",
+          "Desarrollo de pipelines en PySpark y orquestación con Airflow para la ingesta de datos SCADA",
+          "Implantación de dbt y tests de calidad, con lo que se redujeron las incidencias en informes un 35 %",
+          "Colaboración con el equipo de mantenimiento predictivo para preparar los datasets de entrenamiento"
+        ]
+      },
+      {
+        "title": "Desarrollador ETL",
+        "company": "Txorierri Industrial Software",
+        "location": "Derio",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Construcción de procesos ETL con SSIS y SQL Server para clientes del sector siderúrgico",
+          "Migración de informes heredados a Power BI"
+        ]
+      },
+      {
+        "title": "Becario de analítica de datos",
+        "company": "Deusto Analytics Lab",
+        "location": "Bilbao",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Limpieza y preparación de datos para proyectos de investigación con empresas"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster en Big Data y Ciencia de Datos",
+        "school": "Universidad de Deusto",
+        "dates": "2019 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Ingeniería Informática",
+        "school": "Universidad del País Vasco (UPV/EHU)",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Python, PySpark, SQL",
+      "Azure Data Factory, Databricks, Data Lake",
+      "Airflow, dbt",
+      "SQL Server, PostgreSQL",
+      "Docker, Git, CI/CD con Azure DevOps"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Euskera (nativo)",
+      "Inglés (B2)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Azure Data Engineer Associate (DP-203), 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

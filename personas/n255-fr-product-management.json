@@ -1,0 +1,110 @@
+{
+  "slug": "n255-fr-product-management",
+  "level": "mid",
+  "profession": "product management",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Camille Vasseur",
+    "headline": "Product Manager – B2B SaaS, logistics & field operations",
+    "contact": {
+      "email": "camille.vasseur@example.com",
+      "phone": "+33 6 0000 0255",
+      "location": "Nantes",
+      "links": []
+    },
+    "summary": "Product manager with six years in B2B SaaS, the last four owning field-operations products for logistics customers. I work closely with engineering and design on discovery, prioritise with data and like shipping small increments often.",
+    "experience": [
+      {
+        "title": "Product Manager",
+        "company": "Quaiflow",
+        "location": "Nantes",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Own the mobile driver app and dispatch module used by 12,000 drivers across 140 customers",
+          "Led discovery and launch of proof-of-delivery with photo and e-signature, now used in 70% of deliveries",
+          "Define quarterly OKRs with the engineering lead and run roadmap reviews with sales and support",
+          "Introduced a continuous discovery routine with fortnightly customer interviews"
+        ]
+      },
+      {
+        "title": "Product Owner",
+        "company": "Atlantis Software Logistique",
+        "location": "Saint-Herblain",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Managed the backlog for a warehouse management module in a Scrum team of eight",
+          "Reduced support tickets on inventory counts by 25% after redesigning the counting flow"
+        ]
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Brestoise de Conseil",
+        "location": "Rennes",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Wrote functional specifications for ERP integrations at mid-sized manufacturers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Management des Systèmes d'Information",
+        "school": "IAE Nantes – Économie & Management",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Licence Économie-Gestion",
+        "school": "Université de Nantes",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Product discovery, user interviews, opportunity solution trees",
+      "Roadmapping, OKRs",
+      "Jira, Productboard, Figma",
+      "Amplitude, SQL for product analytics",
+      "Scrum, Kanban"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent, C1)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "Professional Scrum Product Owner I (PSPO I)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

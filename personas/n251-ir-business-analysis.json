@@ -1,0 +1,105 @@
+{
+  "slug": "n251-ir-business-analysis",
+  "level": "junior",
+  "profession": "business analysis",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Business Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Process Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Physiotherapist"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Aoife Twomey",
+    "headline": "Business Analyst | Requirements, process mapping & reporting",
+    "contact": {
+      "email": "aoife.twomey@example.com",
+      "phone": "+353 87 0000 251",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "Business analyst with three years of experience in insurance and shared-services teams, returning after a two-year career break for family care. Comfortable running workshops, writing user stories and turning messy process knowledge into clear documentation for developers and the business.",
+    "experience": [
+      {
+        "title": "Business Analyst (contract)",
+        "company": "Lee Valley Mutual Insurance",
+        "location": "Cork",
+        "dates": "Mar 2026 – Present",
+        "bullets": [
+          "Gather and document requirements for a claims-intake portal replacing paper forms",
+          "Run weekly backlog refinement with the product owner and a team of six developers",
+          "Mapped the end-to-end motor claims process in BPMN and identified four duplicate approval steps",
+          "Write acceptance criteria and support UAT with claims handlers"
+        ]
+      },
+      {
+        "title": "Junior Business Analyst",
+        "company": "Harbourline Shared Services",
+        "location": "Cork",
+        "dates": "2021 – 2024",
+        "bullets": [
+          "Produced weekly operational reports in Power BI for the finance shared-services centre",
+          "Captured requirements for an invoice-matching automation that cut manual touches by roughly 30%",
+          "Supported a SAP Concur rollout to 900 employees with process guides and training sessions"
+        ]
+      },
+      {
+        "title": "Operations Assistant",
+        "company": "Shandon Logistics",
+        "location": "Cork",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Maintained order tracking spreadsheets and handled customer queries for freight bookings"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Hons) Business Information Systems",
+        "school": "University College Cork",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Requirements elicitation, user stories, acceptance criteria",
+      "BPMN 2.0, Visio, Miro",
+      "Jira, Confluence",
+      "Power BI, Excel (Power Query), basic SQL",
+      "UAT planning and stakeholder workshops"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [
+      "IIBA Entry Certificate in Business Analysis (ECBA), 2026"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2024 – 2026: full-time family care; completed ECBA and an online SQL course during this time"
+    ]
+  }
+}
