@@ -1,0 +1,113 @@
+{
+  "slug": "n057-ne-compliance",
+  "level": "senior",
+  "profession": "compliance",
+  "band": "8-12",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Compliance Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Legal Counsel"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Product Designer"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Sanne Dijkstra",
+    "headline": "Senior Compliance Officer & Lawyer | Trade Sanctions, Export Control, AML",
+    "contact": {
+      "email": "sanne.dijkstra@example.com",
+      "phone": "+31 6 0000 0057",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Dutch lawyer turned compliance officer with twelve years in the port and shipping sector. I combine trade sanctions and export control compliance with hands-on contract work, and can move between the compliance function and an in-house legal role.",
+    "experience": [
+      {
+        "title": "Senior Compliance Officer – Trade & Sanctions",
+        "company": "Maasvlakte Bulk Terminals B.V.",
+        "location": "Rotterdam",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Built the sanctions screening process for vessels, cargo owners and counterparties across 3,000 port calls a year",
+          "Advise the board on EU and US sanctions exposure and on dual-use goods under Regulation (EU) 2021/821",
+          "Ran the company-wide compliance training; completion rose from 64% to 97%",
+          "First point of contact for Customs and the Ministry of Foreign Affairs on licence questions"
+        ]
+      },
+      {
+        "title": "Legal Counsel",
+        "company": "Van Brakel Shipping Agencies B.V.",
+        "location": "Rotterdam",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Drafted and negotiated agency, stevedoring and logistics contracts under Dutch and English law",
+          "Handled cargo claims and supported litigation with external counsel",
+          "Set up the KYC process for new principals"
+        ]
+      },
+      {
+        "title": "Advocaat-stagiaire",
+        "company": "Kortenaer Advocaten",
+        "location": "The Hague",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Commercial litigation and transport law cases for SME clients",
+          "Completed the Beroepsopleiding Advocaten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Dutch Law (Master Nederlands Recht)",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2012 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "LLB Law",
+        "school": "Leiden University",
+        "dates": "2009 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "EU sanctions and export control (2021/821, 833/2014)",
+      "AML/KYC, Wwft",
+      "Union Customs Code",
+      "Contract drafting and negotiation",
+      "Compliance risk assessment and training",
+      "Dow Jones Risk & Compliance screening"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (good)"
+    ],
+    "certifications": [
+      "ICA International Diploma in Governance, Risk and Compliance, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "n059-me-clinical-research",
+  "level": "mid",
+  "profession": "clinical research",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Asociado de Investigación Clínica"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Coordinador de Estudios Clínicos"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Contador"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Daniela Esquivel Robles",
+    "headline": "Asociada de Investigación Clínica | Monitoreo de estudios fase II–III",
+    "contact": {
+      "email": "daniela.esquivel@example.com",
+      "phone": "+52 81 0000 0059",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Químico Farmacéutica Bióloga con ocho años en investigación clínica, primero en centro de investigación y después en una CRO. Realizo el monitoreo de estudios de oncología y endocrinología en el norte del país y conozco bien la regulación de COFEPRIS y los comités de ética.",
+    "experience": [
+      {
+        "title": "Asociada de Investigación Clínica",
+        "company": "Norteña Clinical Research S.A. de C.V.",
+        "location": "Monterrey",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Monitoreo de 9 centros en estudios fase II y III de oncología y diabetes tipo 2",
+          "Visitas de inicio, monitoreo y cierre con verificación de datos fuente (SDV) en Medidata Rave",
+          "Reducción del tiempo de resolución de queries de 21 a 9 días en mis centros",
+          "Capacitación de coordinadores nuevos en el uso del CTMS y en el manejo de eventos adversos"
+        ]
+      },
+      {
+        "title": "Coordinadora de Estudios Clínicos",
+        "company": "Centro de Investigación Médica Cumbres",
+        "location": "San Pedro Garza García",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Coordinación de cuatro protocolos patrocinados, desde la selección de pacientes hasta el cierre",
+          "Preparación de los sometimientos al Comité de Ética y al Comité de Investigación"
+        ]
+      },
+      {
+        "title": "Analista de Farmacovigilancia",
+        "company": "Laboratorios Sierra Madre",
+        "location": "Monterrey",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Registro y evaluación de reportes de sospechas de reacciones adversas según la NOM-220-SSA1"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Químico Farmacéutico Biólogo",
+        "school": "Universidad Autónoma de Nuevo León (UANL)",
+        "dates": "2013 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ICH-GCP E6(R3), NOM-012-SSA3-2012, COFEPRIS",
+      "Monitoreo y SDV",
+      "Medidata Rave, Veeva Vault CTMS",
+      "Manejo de eventos adversos (SAE)",
+      "Oncología y endocrinología"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Buenas Prácticas Clínicas ICH-GCP, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

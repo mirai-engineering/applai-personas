@@ -1,0 +1,103 @@
+{
+  "slug": "n063-au-marketing",
+  "level": "senior",
+  "profession": "marketing",
+  "band": "8-12",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Sophie Eastwood",
+    "headline": "Senior Marketing Manager – FMCG & Food",
+    "contact": {
+      "email": "sophie.eastwood@example.com",
+      "phone": "+61 412 0000 063",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Marketing leader with eleven years in Australian food and beverage brands. I manage brand portfolios through the full mix, from consumer insight and packaging to retailer activation with Coles and Woolworths, and lead a team of five.",
+    "experience": [
+      {
+        "title": "Senior Marketing Manager",
+        "company": "Ironbark Pantry Co.",
+        "location": "Melbourne",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead marketing for a portfolio of four pantry brands with a A$6M annual budget",
+          "Relaunched the core sauce range with new packaging; category share grew 2.3 points in 18 months",
+          "Manage the creative and media agencies and the annual brand planning process",
+          "Work with sales on retailer joint business plans and in-store activation",
+          "Line manager for two brand managers and three coordinators"
+        ]
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Bellarine Wine Estates",
+        "location": "Geelong",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Repositioned the mid-price range and launched the cellar door club",
+          "Ran trade marketing for liquor retail and on-premise accounts"
+        ]
+      },
+      {
+        "title": "Assistant Brand Manager",
+        "company": "Southbank Beverages",
+        "location": "Melbourne",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Supported new product launches in the soft drink and water categories",
+          "Analysed scan data and prepared monthly brand reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Marketing)",
+        "school": "Monash University",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Brand strategy and portfolio management",
+      "Consumer insights (Circana, Nielsen)",
+      "Retail activation and shopper marketing",
+      "Agency and budget management",
+      "Packaging development",
+      "Salesforce Marketing Cloud"
+    ],
+    "languages": [
+      "English (native)",
+      "French (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

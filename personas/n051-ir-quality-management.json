@@ -1,0 +1,104 @@
+{
+  "slug": "n051-ir-quality-management",
+  "level": "senior",
+  "profession": "quality management",
+  "band": "8-12",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Quality Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Validation Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Account Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Niamh Dempsey",
+    "headline": "Senior Quality Engineer | Medical Devices | CAPA, Validation & EU MDR",
+    "contact": {
+      "email": "niamh.dempsey@example.com",
+      "phone": "+353 87 0000 051",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Quality engineer with twelve years in Class II and III medical device manufacturing, from moulding floor QC to leading quality engineering for a catheter line. Comfortable owning CAPA, process validation and notified body audits, and happiest working alongside production rather than behind a desk.",
+    "experience": [
+      {
+        "title": "Sr. QE / Quality Engineering Lead (Grade E4)",
+        "company": "Liffeyside Medical Devices Ltd",
+        "location": "Dublin",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead a team of four quality engineers supporting two catheter assembly lines and one cleanroom moulding cell",
+          "Owner of the site CAPA board; cut the average CAPA closure time from 94 to 51 days",
+          "Prepared the line for EU MDR transition and hosted the BSI surveillance audit with zero major findings",
+          "Write and review pFMEAs, control plans and IQ/OQ/PQ protocols for new equipment"
+        ]
+      },
+      {
+        "title": "Quality Engr II",
+        "company": "Corrib Orthopaedics",
+        "location": "Galway",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Supported NPI for a knee implant instrument set through design transfer and first article inspection",
+          "Ran supplier audits and SCARs for machining and passivation vendors"
+        ]
+      },
+      {
+        "title": "QA/QC Tech → Associate Quality Engineer",
+        "company": "Boyne Precision Moulding",
+        "location": "Drogheda",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Moved from incoming inspection to handling customer complaints and non-conformance reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Eng. Biomedical Engineering",
+        "school": "University of Limerick",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISO 13485, EU MDR 2017/745, FDA 21 CFR Part 820",
+      "CAPA, NCR, root cause analysis (8D, 5 Whys)",
+      "pFMEA, control plans, IQ/OQ/PQ, TMV",
+      "Minitab, SPC",
+      "MasterControl, SAP QM",
+      "Supplier quality and audits"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (basic)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2018",
+      "ISO 13485:2016 Lead Auditor (Exemplar Global), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "n072-ir-finance",
+  "level": "mid",
+  "profession": "finance",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Financial Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Management Accountant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Orla Drennan",
+    "headline": "Senior Financial Analyst | ACCA | Life Sciences & Insurance",
+    "contact": {
+      "email": "orla.drennan@example.com",
+      "phone": "+353 87 0000 072",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "ACCA-qualified financial analyst with eight years in Cork, first in practice, then insurance and now life sciences manufacturing. I partner with operations on costing and forecasts and report to a US parent under US GAAP.",
+    "experience": [
+      {
+        "title": "Senior Financial Analyst",
+        "company": "Lee Valley Biologics Ltd",
+        "location": "Ringaskiddy, Co. Cork",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Finance partner to manufacturing operations for a site with a €220M cost base",
+          "Own the standard cost roll and inventory valuation process each year",
+          "Prepare monthly forecasts and commentary for the US parent in Oracle EPM",
+          "Built a capex tracking model that brought project overruns to the site leadership's attention 2 months earlier"
+        ]
+      },
+      {
+        "title": "Financial Analyst",
+        "company": "Munster Mutual Assurance",
+        "location": "Cork",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Monthly management accounts and expense analysis for claims and underwriting",
+          "Supported the Solvency II reporting team with data reconciliations"
+        ]
+      },
+      {
+        "title": "Graduate Accountant",
+        "company": "Murphy Barry & Co. Chartered Accountants",
+        "location": "Cork",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Audit and year-end accounts for SME clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Accounting)",
+        "school": "Munster Technological University",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "FP&A, forecasting and variance analysis",
+      "Standard costing and inventory valuation",
+      "US GAAP reporting",
+      "Oracle EPM (Hyperion), SAP FICO",
+      "Power BI, Excel (VBA)"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "ACCA Member, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "n064-ir-software-engineering",
+  "level": "junior",
+  "profession": "software engineering",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Software Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Backend Developer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Arjun Desai",
+    "headline": "Backend Software Engineer | Java, Kotlin, AWS",
+    "contact": {
+      "email": "arjun.desai@example.com",
+      "phone": "+353 85 0000 064",
+      "location": "Cork",
+      "links": [
+        "github.com/arjundesai-example"
+      ]
+    },
+    "summary": "Backend engineer with four years building payment and analytics services in Cork. I work mostly in Java and Kotlin on AWS, care about tests and on-call sanity, and have mentored our last two graduate hires.",
+    "experience": [
+      {
+        "title": "SWE II (Backend)",
+        "company": "Leeside Payments Ltd",
+        "location": "Cork",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Develop payment authorisation services in Java 17 and Spring Boot handling around 2M transactions a day",
+          "Moved the settlement batch jobs to an event-driven design with Kafka; end-of-day processing now finishes 3 hours earlier",
+          "Part of the on-call rotation and wrote most of the team's runbooks",
+          "Mentor two graduate developers"
+        ]
+      },
+      {
+        "title": "Graduate Developer / Associate Software Eng.",
+        "company": "Blarney Analytics",
+        "location": "Cork",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Built REST APIs and data ingestion jobs in Kotlin for a retail analytics product",
+          "Added integration tests with Testcontainers and set up GitHub Actions pipelines"
+        ]
+      },
+      {
+        "title": "Software Dev Intern (co-op)",
+        "company": "Shandon Systems",
+        "location": "Cork",
+        "dates": "01/2021 – 08/2021",
+        "bullets": [
+          "Worked on an internal booking tool in TypeScript and Node.js"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "school": "University College Cork",
+        "dates": "2018 – 2022",
+        "details": "First Class Honours"
+      }
+    ],
+    "skills": [
+      "Java 17, Kotlin, Spring Boot",
+      "PostgreSQL, Kafka",
+      "AWS (ECS, SQS, Lambda), Terraform",
+      "Docker, Kubernetes",
+      "JUnit, Testcontainers, GitHub Actions"
+    ],
+    "languages": [
+      "English (fluent)",
+      "Gujarati (native)",
+      "Hindi (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

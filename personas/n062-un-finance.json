@@ -1,0 +1,92 @@
+{
+  "slug": "n062-un-finance",
+  "level": "junior",
+  "profession": "finance",
+  "band": "2-5",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Financial Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "FP&A Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Trevor Dawson",
+    "headline": "Financial Analyst | FP&A | Healthcare",
+    "contact": {
+      "email": "trevor.dawson@example.com",
+      "phone": "+1 404 0000 062",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Financial analyst with four years in FP&A for healthcare and hospitality businesses in Atlanta. I own monthly variance reporting and budget models, and I'm the person colleagues ask when an Excel model needs to be rebuilt properly.",
+    "experience": [
+      {
+        "title": "Financial Analyst",
+        "company": "Chattahoochee Health Partners",
+        "location": "Atlanta, GA",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Prepare monthly variance analysis for 14 outpatient clinics and present results to clinic directors",
+          "Rebuilt the annual budget model in Adaptive Planning, reducing the budget cycle from 10 to 6 weeks",
+          "Support payer contract reviews with volume and reimbursement scenarios",
+          "Built Power BI dashboards for labor cost per visit"
+        ]
+      },
+      {
+        "title": "Junior Financial Analyst",
+        "company": "Midtown Restaurant Group",
+        "location": "Atlanta, GA",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Weekly sales and labor reporting for 22 restaurants",
+          "Assisted with month-end close and accrual schedules in NetSuite"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BBA Finance",
+        "school": "Georgia State University, J. Mack Robinson College of Business",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Budgeting, forecasting, variance analysis",
+      "3-statement financial modeling",
+      "Excel (Power Query, Power Pivot)",
+      "Adaptive Planning, NetSuite",
+      "Power BI, SQL (basic)"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "CFA Level I, passed 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

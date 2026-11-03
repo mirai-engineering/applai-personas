@@ -1,0 +1,119 @@
+{
+  "slug": "n053-fr-operations",
+  "level": "exec",
+  "profession": "operations",
+  "band": "12+",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Directeur des opérations"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Directeur supply chain"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Responsable marketing"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Philippe Esnault",
+    "headline": "Directeur des Opérations | Logistique du frais | Multi-sites",
+    "contact": {
+      "email": "philippe.esnault@example.com",
+      "phone": "+33 6 0000 053",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Ingénieur de formation, vingt-quatre ans de carrière dans la logistique et la production agroalimentaire. Je dirige aujourd'hui les opérations de cinq plateformes de produits frais et je pilote la transformation industrielle du groupe, avec une attention constante pour la sécurité et le dialogue social.",
+    "experience": [
+      {
+        "title": "Directeur des Opérations",
+        "company": "Groupe Vercors Distribution",
+        "location": "Corbas",
+        "dates": "2018 – aujourd'hui",
+        "bullets": [
+          "Direction de cinq plateformes logistiques du frais et de l'ultra-frais (650 collaborateurs, 140 M€ de budget)",
+          "Pilotage de la mécanisation du site de Corbas et du déploiement du WMS Reflex sur l'ensemble des sites",
+          "Taux de service porté de 96,1 % à 98,7 % en trois ans",
+          "Animation du comité de direction opérations et du dialogue avec le CSE",
+          "Réduction de 30 % des accidents du travail avec arrêt grâce au programme sécurité « Zéro geste à risque »"
+        ]
+      },
+      {
+        "title": "Directeur de site logistique",
+        "company": "Transports Bressans Martel",
+        "location": "Mâcon",
+        "dates": "2012 – 2018",
+        "bullets": [
+          "Responsable d'un entrepôt multi-températures de 40 000 m² et de 180 salariés",
+          "Reprise du site après la perte d'un client majeur et retour à l'équilibre en deux ans"
+        ]
+      },
+      {
+        "title": "Responsable d'exploitation",
+        "company": "Entrepôts du Grand Lyon",
+        "location": "Saint-Priest",
+        "dates": "2006 – 2012",
+        "bullets": [
+          "Organisation des équipes de préparation en 3x8 et suivi des indicateurs de productivité"
+        ]
+      },
+      {
+        "title": "Ingénieur méthodes logistiques",
+        "company": "Fromageries de l'Ain",
+        "location": "Bourg-en-Bresse",
+        "dates": "2002 – 2006",
+        "bullets": [
+          "Études de flux et implantation d'une nouvelle zone d'expédition"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Executive MBA",
+        "school": "emlyon business school",
+        "dates": "2015 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "Diplôme d'ingénieur, Génie industriel",
+        "school": "INSA Lyon",
+        "dates": "1997 – 2002",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Pilotage multi-sites, P&L, budget d'exploitation",
+      "Lean management, amélioration continue",
+      "WMS (Reflex), TMS, SAP",
+      "Sécurité et prévention (ICPE, document unique)",
+      "Relations sociales et négociation avec le CSE",
+      "Conduite du changement"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (professionnel)",
+      "Espagnol (notions)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

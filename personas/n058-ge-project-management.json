@@ -1,0 +1,95 @@
+{
+  "slug": "n058-ge-project-management",
+  "level": "intern",
+  "profession": "project management",
+  "band": "0-2",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Junior Projektmanager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Projektassistenz"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Moritz Engel",
+    "headline": "Werkstudent Projektmanagement | Wirtschaftsingenieurwesen",
+    "contact": {
+      "email": "moritz.engel@example.com",
+      "phone": "+49 176 0000 058",
+      "location": "München",
+      "links": []
+    },
+    "summary": "Student des Wirtschaftsingenieurwesens im letzten Semester mit praktischer Erfahrung im Projektmanagement für Medizintechnik und Bauprojekte. Ich suche den Einstieg als Junior Projektmanager und arbeite gern an der Schnittstelle zwischen Technik und Organisation.",
+    "experience": [
+      {
+        "title": "Werkstudent Projektmanagement",
+        "company": "Isarwerk Medizintechnik GmbH",
+        "location": "München",
+        "dates": "10/2025 – heute",
+        "bullets": [
+          "Pflege der Projektpläne in MS Project für die Entwicklung eines neuen Infusionssystems",
+          "Vorbereitung der wöchentlichen Statusmeetings und Nachverfolgung der offenen Punkte",
+          "Aufbau eines Risikoregisters in Jira für das Projektteam mit 14 Personen",
+          "Unterstützung bei der Dokumentation der Design-Reviews nach ISO 13485"
+        ]
+      },
+      {
+        "title": "Pflichtpraktikum Projektmanagement Office",
+        "company": "Würmtal Bauprojekte GmbH",
+        "location": "Gräfelfing",
+        "dates": "03/2025 – 08/2025",
+        "bullets": [
+          "Mitarbeit bei der Termin- und Kostenkontrolle für zwei Wohnbauprojekte",
+          "Erstellung eines Excel-Dashboards für den Nachtragsstatus"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Eng. Wirtschaftsingenieurwesen",
+        "school": "Hochschule München",
+        "dates": "2022 – 2026 (voraussichtlich)",
+        "details": "Bachelorarbeit: Agile Methoden in regulierten Entwicklungsprojekten"
+      }
+    ],
+    "skills": [
+      "MS Project, Jira, Confluence",
+      "Terminplanung und Risikomanagement",
+      "Scrum und klassisches Projektmanagement",
+      "Excel (Pivot, SVERWEIS)",
+      "Grundlagen ISO 13485"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (C1)",
+      "Spanisch (A2)"
+    ],
+    "certifications": [
+      "Professional Scrum Master I (PSM I), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

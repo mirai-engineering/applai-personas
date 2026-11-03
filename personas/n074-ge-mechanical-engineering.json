@@ -1,0 +1,110 @@
+{
+  "slug": "n074-ge-mechanical-engineering",
+  "level": "senior",
+  "profession": "mechanical engineering",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Entwicklungsingenieur Maschinenbau"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Konstrukteur"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Personalreferent"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Henrik Dreyer",
+    "headline": "Leitender Entwicklungsingenieur | Antriebstechnik | Windenergie & Maritim",
+    "contact": {
+      "email": "henrik.dreyer@example.com",
+      "phone": "+49 160 0000 074",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Maschinenbauingenieur mit zwölf Jahren Erfahrung in der Entwicklung von Antrieben, Pumpen und Anlagen. Ich verantworte heute die Getriebeentwicklung für Windenergieanlagen und arbeite eng mit der Fertigung, der Zertifizierung und unseren Zulieferern zusammen.",
+    "experience": [
+      {
+        "title": "Leitender Entwicklungsingenieur Antriebstechnik",
+        "company": "Elbwind Antriebstechnik GmbH",
+        "location": "Hamburg",
+        "dates": "2020 – heute",
+        "bullets": [
+          "Fachliche Leitung von sechs Ingenieuren in der Entwicklung von Azimut- und Pitchgetrieben",
+          "Entwicklung einer neuen Getriebebaureihe für Anlagen bis 7 MW, Zertifizierung nach DNV ohne Nacharbeit",
+          "Gewichtsreduktion des Gehäuses um 12 % durch topologieoptimierte Gussteile",
+          "Abstimmung der Zeichnungen und Toleranzen mit Gießereien und Zulieferern",
+          "Durchführung von Schadensanalysen bei Feldausfällen gemeinsam mit dem Service"
+        ]
+      },
+      {
+        "title": "Entwicklungsingenieur Konstruktion",
+        "company": "Hanseatische Pumpenwerke GmbH",
+        "location": "Hamburg-Harburg",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Konstruktion von Kreiselpumpen für den Schiffbau in Siemens NX",
+          "Festigkeitsberechnungen mit ANSYS und Begleitung der Prüfstandsversuche"
+        ]
+      },
+      {
+        "title": "Konstruktionsingenieur",
+        "company": "Stader Anlagenbau GmbH",
+        "location": "Stade",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Konstruktion von Fördertechnik und Stahlbaugruppen für die Chemieindustrie"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Maschinenbau (Produktentwicklung)",
+        "school": "Technische Universität Hamburg (TUHH)",
+        "dates": "2012 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Maschinenbau",
+        "school": "Leibniz Universität Hannover",
+        "dates": "2008 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Siemens NX, Teamcenter",
+      "FEM (ANSYS), KISSsoft",
+      "Form- und Lagetoleranzen (ISO 1101, ISO 286)",
+      "Maschinenrichtlinie 2006/42/EG, DNV-Richtlinien",
+      "Schadensanalyse, FMEA",
+      "Lieferantenabstimmung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Dänisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

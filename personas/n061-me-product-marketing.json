@@ -1,0 +1,102 @@
+{
+  "slug": "n061-me-product-marketing",
+  "level": "junior",
+  "profession": "product marketing",
+  "band": "2-5",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente de Marca"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero civil"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Rodrigo Domínguez Lara",
+    "headline": "Product Marketing | Fintech | Lanzamientos y posicionamiento",
+    "contact": {
+      "email": "rodrigo.dominguez@example.com",
+      "phone": "+52 55 0000 0061",
+      "location": "Ciudad de México",
+      "links": []
+    },
+    "summary": "Mercadólogo con cuatro años de experiencia en producto digital, los últimos dos en fintech. Me encargo del posicionamiento, de los lanzamientos y de la relación con el equipo de producto, y me gusta basar los mensajes en entrevistas con usuarios y en los datos de uso.",
+    "experience": [
+      {
+        "title": "Especialista de Product Marketing",
+        "company": "Plataforma Tlali S.A.P.I. de C.V.",
+        "location": "Ciudad de México",
+        "dates": "2024 – actualidad",
+        "bullets": [
+          "Lanzamiento de la tarjeta de crédito para independientes, con 40 mil solicitudes en los primeros tres meses",
+          "Definición del posicionamiento y del messaging para la app con el equipo de producto y diseño",
+          "Entrevistas mensuales con usuarios para entender las barreras de la contratación",
+          "Preparación de materiales para el equipo de atención y para la fuerza de ventas"
+        ]
+      },
+      {
+        "title": "Analista de Marketing de Producto",
+        "company": "Kioskito",
+        "location": "Ciudad de México",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Análisis de la competencia y de precios para el software de punto de venta",
+          "Coordinación de campañas de correo en HubSpot para la activación de comercios"
+        ]
+      },
+      {
+        "title": "Becario de Marketing Digital",
+        "company": "Agencia Nopal Creativo",
+        "location": "Ciudad de México",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Apoyo en la planeación de pautas en redes sociales para clientes de consumo"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Mercadotecnia",
+        "school": "Tecnológico de Monterrey, Campus Ciudad de México",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Go-to-market y lanzamientos",
+      "Posicionamiento y messaging",
+      "Investigación de usuarios",
+      "HubSpot, Google Analytics 4, Amplitude",
+      "Análisis de competencia y precios",
+      "Figma (básico)"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

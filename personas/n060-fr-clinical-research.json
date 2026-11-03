@@ -1,0 +1,112 @@
+{
+  "slug": "n060-fr-clinical-research",
+  "level": "senior",
+  "profession": "clinical research",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Attaché de recherche clinique"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chef de projet clinique"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Nadia Djebbar",
+    "headline": "Attachée de recherche clinique senior | Oncologie & hématologie",
+    "contact": {
+      "email": "nadia.djebbar@example.com",
+      "phone": "+33 6 0000 060",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "ARC senior avec douze ans d'expérience à l'hôpital puis en CRO et en laboratoire pharmaceutique. Je monitore des essais de phase I à III en oncologie et en hématologie, je forme les nouveaux ARC et je participe aux audits avec le promoteur.",
+    "experience": [
+      {
+        "title": "Attachée de recherche clinique senior",
+        "company": "Rhône Clinical Services",
+        "location": "Lyon",
+        "dates": "2020 – aujourd'hui",
+        "bullets": [
+          "Monitoring de 12 centres en France et en Belgique sur trois essais d'oncologie (phases I à III)",
+          "Mise en place des études : sélection des centres, soumissions CPP et ANSM, visites d'ouverture",
+          "Référente de l'équipe pour la formation et le tutorat de quatre ARC juniors",
+          "Préparation d'un centre à l'inspection de l'ANSM, sans observation critique",
+          "Taux de recrutement de mes centres supérieur de 15 % à l'objectif du promoteur"
+        ]
+      },
+      {
+        "title": "Attachée de recherche clinique",
+        "company": "Laboratoires Bellecour",
+        "location": "Lyon",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Suivi des essais de phase III en hématologie sur une dizaine de centres en Auvergne-Rhône-Alpes",
+          "Revue des eCRF et gestion des queries avec la data management"
+        ]
+      },
+      {
+        "title": "Technicienne d'études cliniques",
+        "company": "Centre Léon Bérard",
+        "location": "Lyon",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Saisie des données et organisation des visites des patients inclus dans les essais"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Sciences du médicament, parcours Recherche clinique",
+        "school": "Université Claude Bernard Lyon 1",
+        "dates": "2012 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "Licence Sciences de la vie",
+        "school": "Université Jean Monnet Saint-Étienne",
+        "dates": "2009 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Bonnes pratiques cliniques (ICH-GCP)",
+      "Loi Jardé, RGPD, MR-001",
+      "Soumissions CPP et ANSM",
+      "Medidata Rave, Veeva Vault CTMS",
+      "Monitoring sur site et à distance",
+      "Gestion des événements indésirables graves"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Arabe (courant)"
+    ],
+    "certifications": [
+      "DIU de Formation des Assistants de Recherche Clinique (FARC-TEC), 2014"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

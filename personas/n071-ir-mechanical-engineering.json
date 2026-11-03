@@ -1,0 +1,94 @@
+{
+  "slug": "n071-ir-mechanical-engineering",
+  "level": "intern",
+  "profession": "mechanical engineering",
+  "band": "0-2",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Mechanical Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Design Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Recruiter"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Seán Daly",
+    "headline": "Graduate Mechanical Engineer | Automation & Mechanical Design",
+    "contact": {
+      "email": "sean.daly@example.com",
+      "phone": "+353 83 0000 071",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Mechanical engineering graduate from the University of Galway, now on a graduate internship in automation equipment design. I paused my studies for three years to care for a family member and came back to finish my degree with a strong final-year project.",
+    "experience": [
+      {
+        "title": "Graduate Mechanical Engineer (internship)",
+        "company": "Corrib Automation Ltd",
+        "location": "Galway",
+        "dates": "Jul 2026 – Present",
+        "bullets": [
+          "Design fixtures and guarding for automated assembly cells in SolidWorks",
+          "Run tolerance stack-ups and create drawings to ASME Y14.5",
+          "Support factory acceptance tests for medical device customers",
+          "Redesigned a gripper bracket, cutting machining cost by about 20%"
+        ]
+      },
+      {
+        "title": "Engineering Co-op Placement – Mechanical Design",
+        "company": "Claddagh Medical Components",
+        "location": "Galway",
+        "dates": "Jan 2025 – Jun 2025",
+        "bullets": [
+          "Updated drawings and BOMs for moulded components after engineering changes",
+          "Helped validate a new leak test fixture"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BEng (Hons) Mechanical Engineering",
+        "school": "University of Galway",
+        "dates": "2019 – 2026",
+        "details": "Studies paused 2020–2023; graduated June 2026 with 2.1 Honours. Final-year project: FEA of a wave energy mooring bracket"
+      }
+    ],
+    "skills": [
+      "SolidWorks, AutoCAD",
+      "GD&T (ASME Y14.5), tolerance stack-ups",
+      "ANSYS Mechanical",
+      "MATLAB",
+      "3D printing and prototyping",
+      "Lean basics"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2020–2023: full-time carer for a family member"
+    ]
+  }
+}

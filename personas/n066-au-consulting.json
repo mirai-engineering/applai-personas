@@ -1,0 +1,100 @@
+{
+  "slug": "n066-au-consulting",
+  "level": "mid",
+  "profession": "consulting",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Management Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Strategy Consultant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Teacher"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Hamish Duncan",
+    "headline": "Senior Consultant | Operations & Cost Transformation | Resources Sector",
+    "contact": {
+      "email": "hamish.duncan@example.com",
+      "phone": "+61 433 0000 066",
+      "location": "Perth, WA",
+      "links": []
+    },
+    "summary": "Management consultant with eight years advising mining, energy and government clients in Western Australia. My work is mostly operating model design and cost transformation, and I have an engineering background that helps on site.",
+    "experience": [
+      {
+        "title": "Senior Consultant",
+        "company": "Swan River Advisory",
+        "location": "Perth",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Led the workstream redesigning maintenance planning for an iron ore producer, identifying A$14M in annual savings",
+          "Run client workshops and steering committee packs for C-suite stakeholders",
+          "Built the business case for consolidating three regional procurement teams",
+          "Coach two analysts on Excel modelling and storylining"
+        ]
+      },
+      {
+        "title": "Consultant",
+        "company": "Kings Park Partners",
+        "location": "Perth",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Delivered operating model reviews for two state government agencies",
+          "Developed cost-to-serve models for a gas distribution business"
+        ]
+      },
+      {
+        "title": "Graduate Analyst",
+        "company": "Pilbara Mining Services",
+        "location": "Perth",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Supported production planning and cost reporting for contract mining sites"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Economics) / Bachelor of Engineering (Chemical)",
+        "school": "University of Western Australia",
+        "dates": "2013 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Operating model design",
+      "Cost transformation and business cases",
+      "Excel financial modelling",
+      "Power BI",
+      "Workshop facilitation",
+      "Mining and energy value chains"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

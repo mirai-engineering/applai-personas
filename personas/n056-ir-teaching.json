@@ -1,0 +1,109 @@
+{
+  "slug": "n056-ir-teaching",
+  "level": "mid",
+  "profession": "teaching",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Maths Teacher"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Physics Teacher"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Ciarán Egan",
+    "headline": "Post-Primary Teacher – Mathematics and Physics",
+    "contact": {
+      "email": "ciaran.egan@example.com",
+      "phone": "+353 86 0000 056",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Registered post-primary teacher of Mathematics and Physics with eight years in DEIS and Educate Together schools. I teach Junior and Senior Cycle to Higher Level, coordinate the school's STEM week and enjoy getting reluctant students to like maths.",
+    "experience": [
+      {
+        "title": "Teacher of Mathematics and Physics",
+        "company": "St. Declan's Community College",
+        "location": "Dublin 12",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Teach Junior Cycle Maths and Leaving Certificate Higher Level Physics and Applied Maths",
+          "Higher Level Maths uptake in my Leaving Cert classes rose from 31% to 48% over three years",
+          "Coordinate Classroom-Based Assessments for the Maths department and moderate SLAR meetings",
+          "Run the school's Young Scientist entries and the Transition Year STEM module"
+        ]
+      },
+      {
+        "title": "Teacher of Mathematics",
+        "company": "Coláiste an Chnoic",
+        "location": "Navan",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Taught Junior and Senior Cycle Maths, including remote teaching on Google Classroom during school closures",
+          "Year head assistant for second year"
+        ]
+      },
+      {
+        "title": "Substitute Teacher",
+        "company": "Ardmore Educate Together Secondary School",
+        "location": "Bray",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Covered Maths and Science classes across first to fifth year"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Professional Master of Education (Post-Primary)",
+        "school": "Maynooth University",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "BSc Mathematical Physics",
+        "school": "University College Dublin",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Junior Cycle and Leaving Certificate curricula",
+      "Differentiated instruction and SEN support",
+      "Assessment for learning, CBAs",
+      "Google Classroom, VSware, GeoGebra",
+      "Lab safety and practical coursework"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (fluent)"
+    ],
+    "certifications": [
+      "Registered with the Teaching Council (Post-Primary, Mathematics and Physics)",
+      "Garda vetting, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

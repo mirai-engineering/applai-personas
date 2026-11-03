@@ -1,0 +1,98 @@
+{
+  "slug": "n069-me-tax",
+  "level": "intern",
+  "profession": "tax",
+  "band": "0-2",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Practicante de Impuestos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Auxiliar Contable"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Diseñador UX"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Valeria Estrada Ruiz",
+    "headline": "Estudiante de Contaduría Pública | Practicante de Impuestos",
+    "contact": {
+      "email": "valeria.estrada@example.com",
+      "phone": "+52 33 0000 0069",
+      "location": "Guadalajara, Jal.",
+      "links": []
+    },
+    "summary": "Estudiante de último semestre de Contaduría Pública. Empecé en Arquitectura y cambié de carrera, trabajé medio tiempo en contabilidad para pagar mis estudios y ahora hago prácticas en un despacho fiscal, donde quiero seguir creciendo en el área de impuestos.",
+    "experience": [
+      {
+        "title": "Practicante de Impuestos",
+        "company": "Despacho Fiscal Chapultepec S.C.",
+        "location": "Guadalajara",
+        "dates": "febrero 2026 – actualidad",
+        "bullets": [
+          "Preparación de las declaraciones mensuales de ISR e IVA para 25 clientes personas morales y físicas",
+          "Cálculo de la DIOT y revisión de los CFDI 4.0 de nómina y de ingresos",
+          "Apoyo en la atención de requerimientos del SAT con el socio del despacho",
+          "Conciliación de la información del buzón tributario con la contabilidad de los clientes"
+        ]
+      },
+      {
+        "title": "Auxiliar contable (medio tiempo)",
+        "company": "Mueblería Hermanos Arceo",
+        "location": "Zapopan",
+        "dates": "junio 2025 – diciembre 2025",
+        "bullets": [
+          "Registro de pólizas y conciliaciones bancarias en CONTPAQi",
+          "Control de facturas de proveedores y de cuentas por pagar"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Contaduría Pública",
+        "school": "Universidad de Guadalajara (CUCEA)",
+        "dates": "2022 – 2026 (en curso)",
+        "details": ""
+      },
+      {
+        "degree": "Arquitectura (tres semestres, sin concluir)",
+        "school": "ITESO",
+        "dates": "2021 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISR, IVA, DIOT",
+      "CFDI 4.0 y Portal del SAT",
+      "CONTPAQi",
+      "Conciliaciones bancarias",
+      "Excel (tablas dinámicas, BUSCARV)"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (intermedio)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

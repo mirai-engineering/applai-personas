@@ -1,0 +1,107 @@
+{
+  "slug": "n075-me-hr",
+  "level": "senior",
+  "profession": "hr",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente de Recursos Humanos"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero de software"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Mariana Elizondo Garza",
+    "headline": "HR Business Partner | Servicios financieros y retail | Desarrollo organizacional",
+    "contact": {
+      "email": "mariana.elizondo@example.com",
+      "phone": "+52 55 0000 0075",
+      "location": "Ciudad de México",
+      "links": []
+    },
+    "summary": "Profesional de Recursos Humanos con once años de experiencia en hotelería, retail y servicios financieros. Como HR Business Partner acompaño a las direcciones de negocio en la planeación de talento, la gestión del cambio y el desempeño, con un enfoque fuerte en datos.",
+    "experience": [
+      {
+        "title": "HR Business Partner",
+        "company": "Financiera Atlántida México",
+        "location": "Ciudad de México",
+        "dates": "2021 – actualidad",
+        "bullets": [
+          "Socia de negocio para las direcciones comercial y de operaciones, con 900 colaboradores",
+          "Diseño del plan de sucesión para 40 posiciones clave y de los programas de desarrollo de líderes",
+          "Acompañamiento de la reestructura de sucursales tras la reforma de subcontratación y el registro REPSE",
+          "Implementación de tableros de people analytics en Power BI para rotación y ausentismo"
+        ]
+      },
+      {
+        "title": "Especialista de Talento y Desarrollo",
+        "company": "Cadena Comercial Mixcoac",
+        "location": "Ciudad de México",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Evaluación de desempeño para 3.000 colaboradores de tiendas y oficinas",
+          "Programa de formación de gerentes de tienda; la rotación de gerentes bajó del 30 % al 18 %"
+        ]
+      },
+      {
+        "title": "Analista de Recursos Humanos",
+        "company": "Hoteles Riviera Alta",
+        "location": "Ciudad de México",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Reclutamiento de personal operativo y administración de expedientes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Maestría en Desarrollo Organizacional",
+        "school": "Universidad Anáhuac",
+        "dates": "2019 – 2021",
+        "details": ""
+      },
+      {
+        "degree": "Licenciatura en Relaciones Industriales",
+        "school": "Universidad Iberoamericana",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Planeación de talento y planes de sucesión",
+      "Evaluación de desempeño y desarrollo de líderes",
+      "Gestión del cambio",
+      "Workday, Power BI",
+      "Ley Federal del Trabajo, REPSE, NOM-035"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado, C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

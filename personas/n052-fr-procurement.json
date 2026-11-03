@@ -1,0 +1,119 @@
+{
+  "slug": "n052-fr-procurement",
+  "level": "junior",
+  "profession": "procurement",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Acheteur"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Approvisionneur"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Développeur web"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Léa Delorme",
+    "headline": "Acheteuse projets | Achats industriels et hors production",
+    "contact": {
+      "email": "lea.delorme@example.com",
+      "phone": "+33 6 0000 052",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Acheteuse avec quatre ans d'expérience dans des contextes variés : industrie, agroalimentaire et secteur hospitalier. J'ai appris les achats sur le terrain, en passant de l'administration des ventes à l'approvisionnement puis aux achats projets, et je cherche maintenant un poste stable dans une équipe achats structurée.",
+    "experience": [
+      {
+        "title": "Acheteuse projets",
+        "company": "Rhodanis Équipements",
+        "location": "Villeurbanne",
+        "dates": "mars 2025 – aujourd'hui",
+        "bullets": [
+          "Consultation et négociation des sous-ensembles mécaniques pour les projets de vannes industrielles",
+          "Mise en place d'une grille de cotation avec le bureau d'études pour comparer les offres fournisseurs",
+          "Économie de 7 % sur le panel de chaudronnerie grâce au regroupement de trois projets",
+          "Suivi des délais et relances avec les fournisseurs en Italie et en Pologne"
+        ]
+      },
+      {
+        "title": "Approvisionneuse (CDD 6 mois)",
+        "company": "Coopérative Laitière du Pilat",
+        "location": "Saint-Étienne",
+        "dates": "sept. 2024 – févr. 2025",
+        "bullets": [
+          "Gestion des commandes d'emballages et d'ingrédients pour deux ateliers de production",
+          "Mise à jour des stocks de sécurité dans le MRP"
+        ]
+      },
+      {
+        "title": "Chargée d'achats hors production",
+        "company": "Groupe Hospitalier Saône-Beaujolais",
+        "location": "Villefranche-sur-Saône",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Rédaction de cahiers des charges pour le nettoyage et la maintenance, dans le cadre du Code de la commande publique",
+          "Analyse des offres et participation aux commissions d'appel d'offres"
+        ]
+      },
+      {
+        "title": "Assistante commerciale export",
+        "company": "Textiles Croix-Rousse SAS",
+        "location": "Lyon",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Traitement des commandes clients et des documents d'export pour l'Europe et le Maghreb"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Management des Achats et de la Supply Chain",
+        "school": "IAE Lyon – Université Jean Moulin Lyon 3",
+        "dates": "2020 – 2022",
+        "details": "En alternance"
+      },
+      {
+        "degree": "Licence Langues Étrangères Appliquées (anglais, italien)",
+        "school": "Université Lumière Lyon 2",
+        "dates": "2017 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Négociation fournisseurs, sourcing, analyse de coûts",
+      "Appels d'offres publics (Code de la commande publique)",
+      "SAP MM, Sage X3",
+      "Incoterms 2020",
+      "Excel (TCD, RECHERCHEX)",
+      "Gestion des stocks et MRP"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Italien (intermédiaire)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

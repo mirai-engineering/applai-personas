@@ -1,0 +1,109 @@
+{
+  "slug": "n054-sw-operations",
+  "level": "mid",
+  "profession": "operations",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Operations Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Martina Egli",
+    "headline": "Operations Manager | Last-mile Delivery & Fulfilment",
+    "contact": {
+      "email": "martina.egli@example.com",
+      "phone": "+41 79 0000 054",
+      "location": "Zurich",
+      "links": []
+    },
+    "summary": "Operations manager with eight years in parcel logistics and quick commerce in the Zurich area. I run daily fulfilment and delivery operations, build the planning tools the team uses, and like turning messy processes into something people can follow on a Monday morning.",
+    "experience": [
+      {
+        "title": "Operations Manager",
+        "company": "Limmatbox AG",
+        "location": "Zurich",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Run fulfilment and delivery for three micro-hubs with 120 riders and pickers",
+          "Introduced demand-based shift planning in Quinyx; overtime hours down 22% year on year",
+          "Negotiate and manage contracts with two staffing agencies and an e-bike leasing partner",
+          "Weekly KPI review with the leadership team on order accuracy, delivery time and cost per order"
+        ]
+      },
+      {
+        "title": "Senior Operations Analyst",
+        "company": "Helvetic Parcel Hub AG",
+        "location": "Dietikon",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Built the hub capacity model used for peak season planning across six depots",
+          "Supported the rollout of a new sorting line and wrote the operating procedures in German and English"
+        ]
+      },
+      {
+        "title": "Operations Analyst",
+        "company": "Seeblick Hotels Group",
+        "location": "Zurich",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Reporting on occupancy, staffing and housekeeping productivity for four city hotels"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Management, Technology and Economics",
+        "school": "ETH Zurich",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "BSc Business Administration",
+        "school": "ZHAW School of Management and Law",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Workforce planning (Quinyx)",
+      "Lean and process mapping",
+      "SQL, Tableau, Excel",
+      "Vendor and contract management",
+      "Swiss labour law basics (ArG)",
+      "Budgeting and cost per order analysis"
+    ],
+    "languages": [
+      "German (native, Swiss German)",
+      "English (fluent)",
+      "French (B1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

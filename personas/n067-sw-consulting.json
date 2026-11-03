@@ -1,0 +1,101 @@
+{
+  "slug": "n067-sw-consulting",
+  "level": "junior",
+  "profession": "consulting",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Management Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Selin Demir",
+    "headline": "Consultant | Life Sciences | Data & Analytics",
+    "contact": {
+      "email": "selin.demir@example.com",
+      "phone": "+41 78 0000 067",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Consultant in life sciences with a background in data analysis. I started in a pharma services company building reports and SQL pipelines, and now work on commercial and operations projects for pharma clients, where I still do much of the analytical work myself.",
+    "experience": [
+      {
+        "title": "Consultant, Life Sciences Practice",
+        "company": "Rheinknie Consulting AG",
+        "location": "Basel",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Supported a launch readiness assessment for a mid-sized biotech entering three European markets",
+          "Built the market sizing and patient flow model used in the client's investment decision",
+          "Ran interviews with 20 key account managers to map the current sales process",
+          "Prepared steering committee materials in English and German"
+        ]
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Dreiländereck Pharma Services AG",
+        "location": "Allschwil",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Wrote SQL and Python pipelines for clinical supply and sales data",
+          "Built Tableau dashboards used by 60 people in supply planning",
+          "Automated the monthly KPI report, saving about two days of work per month"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Business and Economics",
+        "school": "University of Basel",
+        "dates": "2020 – 2022",
+        "details": ""
+      },
+      {
+        "degree": "BSc Economics",
+        "school": "University of Bern",
+        "dates": "2017 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Market sizing and business cases",
+      "SQL, Python (pandas)",
+      "Tableau, Power BI",
+      "Stakeholder interviews and workshops",
+      "Pharma commercial and supply chain processes"
+    ],
+    "languages": [
+      "German (native)",
+      "Turkish (native)",
+      "English (fluent)",
+      "French (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

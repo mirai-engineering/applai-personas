@@ -1,0 +1,103 @@
+{
+  "slug": "n068-au-graphic-design",
+  "level": "mid",
+  "profession": "graphic design",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Graphic Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Payroll Officer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Thao Dang",
+    "headline": "Senior Graphic Designer | Brand, Publishing & Packaging",
+    "contact": {
+      "email": "thao.dang@example.com",
+      "phone": "+61 401 0000 068",
+      "location": "Melbourne, VIC",
+      "links": [
+        "thaodang-portfolio.example.com"
+      ]
+    },
+    "summary": "Graphic designer with seven years in studios, publishing and print in Melbourne. I design brand identities, book covers and packaging, and I know print production well enough to catch problems before they reach the press.",
+    "experience": [
+      {
+        "title": "Snr Designer (Level 3) – Brand Studio",
+        "company": "Collingwood Type & Image",
+        "location": "Melbourne",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Lead designer on identity projects for hospitality, arts and not-for-profit clients",
+          "Designed the packaging range for a local skincare brand, from dielines to press checks",
+          "Present concepts to clients and brief illustrators and photographers",
+          "Review junior designers' print files before they go to the printer"
+        ]
+      },
+      {
+        "title": "Graphic Designer / Production Artist",
+        "company": "Brunswick Street Books",
+        "location": "Melbourne",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Designed around 30 book covers and the internal layouts for non-fiction titles",
+          "Prepared print-ready files and managed proofs with printers in Australia and China"
+        ]
+      },
+      {
+        "title": "Jnr Designer + Mac Op",
+        "company": "Footscray Print Works",
+        "location": "Melbourne",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Prepress, artwork corrections and layout for flyers, menus and signage"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Design (Communication Design)",
+        "school": "Swinburne University of Technology",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Adobe InDesign, Illustrator, Photoshop",
+      "Figma",
+      "Typography and editorial layout",
+      "Prepress and print production (CMYK, Pantone)",
+      "Packaging and dielines",
+      "After Effects (basic)"
+    ],
+    "languages": [
+      "English (native)",
+      "Vietnamese (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

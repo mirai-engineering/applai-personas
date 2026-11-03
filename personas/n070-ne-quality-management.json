@@ -1,0 +1,93 @@
+{
+  "slug": "n070-ne-quality-management",
+  "level": "intern",
+  "profession": "quality management",
+  "band": "0-2",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Quality Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "QA Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Sales Representative"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Daan Evers",
+    "headline": "Chemical Engineering Student | Quality Assurance & Control",
+    "contact": {
+      "email": "daan.evers@example.com",
+      "phone": "+31 6 0000 0070",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Final-year chemical technology student doing my graduation internship in quality engineering at a food ingredients plant. I have lab experience from a part-time QC job and like working on the plant floor with operators to find the real cause of a problem.",
+    "experience": [
+      {
+        "title": "QA/QC Intern (graduation internship – Quality Eng.)",
+        "company": "Nieuwe Maas Food Ingredients B.V.",
+        "location": "Rotterdam",
+        "dates": "Feb 2026 – Present",
+        "bullets": [
+          "Graduation project on reducing out-of-spec batches in the spray-drying line",
+          "Analysed two years of batch data in Minitab and proposed new control limits for moisture content",
+          "Joined internal HACCP and FSSC 22000 audits as an observer and wrote the audit notes",
+          "Led an 8D investigation on foreign material complaints together with production"
+        ]
+      },
+      {
+        "title": "Student Assistant QC Lab (bijbaan)",
+        "company": "Delfshaven Coatings B.V.",
+        "location": "Schiedam",
+        "dates": "2024 – 2025",
+        "bullets": [
+          "Viscosity, gloss and colour testing of incoming raw materials and finished batches",
+          "Entered results in the LIMS and flagged deviations to the lab supervisor"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Chemical Engineering (Chemische Technologie)",
+        "school": "Rotterdam University of Applied Sciences (Hogeschool Rotterdam)",
+        "dates": "2022 – 2026 (expected)",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "HACCP, FSSC 22000, ISO 9001",
+      "8D and root cause analysis",
+      "SPC, Minitab",
+      "LIMS",
+      "Excel"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "n065-au-marketing",
+  "level": "mid",
+  "profession": "marketing",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Growth Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Kara Donovan",
+    "headline": "Marketing Manager | Financial Services & Property",
+    "contact": {
+      "email": "kara.donovan@example.com",
+      "phone": "+61 422 0000 065",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Marketer with eight years across events, property and a member-owned bank in Brisbane. I run brand and acquisition campaigns end to end and have spent the last year acting up into the manager role while the position was restructured.",
+    "experience": [
+      {
+        "title": "Mktg Mgr – Growth & Brand (Band 5)",
+        "company": "Coral Coast Credit Union",
+        "location": "Brisbane",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run acquisition campaigns for home loans and transaction accounts across search, social and radio",
+          "Grew online home loan applications by 35% while cost per application fell",
+          "Manage the brand refresh with an external agency and roll out new guidelines to 18 branches",
+          "Sign off marketing copy against ASIC RG 234 and internal compliance checks"
+        ]
+      },
+      {
+        "title": "Marketing & Comms Specialist / Acting Mgr",
+        "company": "Paddington Property Group",
+        "location": "Brisbane",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Managed launch campaigns for three apartment projects, including display suite events",
+          "Acted as marketing manager for 7 months during parental leave cover"
+        ]
+      },
+      {
+        "title": "Mktg Coord.",
+        "company": "Gabba Events Co.",
+        "location": "Brisbane",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Coordinated ticketing campaigns and sponsor deliverables for festivals and corporate events"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "Queensland University of Technology (QUT)",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads Manager",
+      "HubSpot, GA4, Looker Studio",
+      "CRM segmentation and lifecycle email",
+      "ASIC RG 234 advertising compliance",
+      "Agency management",
+      "Canva, Adobe Express"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "n073-au-operations",
+  "level": "intern",
+  "profession": "operations",
+  "band": "0-2",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Operations Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Graduate"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Harpreet Dhillon",
+    "headline": "Business Student | Operations & Supply Chain",
+    "contact": {
+      "email": "harpreet.dhillon@example.com",
+      "phone": "+61 414 0000 073",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Final-year business student at UTS majoring in operations and supply chain. I switched from a science degree after a year, worked as a café shift supervisor while studying, and now intern in operations at a meal kit company.",
+    "experience": [
+      {
+        "title": "Operations Intern",
+        "company": "Parramatta Fresh Co.",
+        "location": "Sydney",
+        "dates": "Jul 2026 – Present",
+        "bullets": [
+          "Track daily pick and pack performance and report on late orders",
+          "Rewrote the receiving SOP for chilled stock after a supplier audit",
+          "Helped plan the warehouse layout change for the new dessert range",
+          "Cut ingredient write-offs on two lines by around 10% with a simple first-expiry-first-out check"
+        ]
+      },
+      {
+        "title": "Shift Supervisor (casual)",
+        "company": "Bondi Grind Café",
+        "location": "Bondi",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Ran weekend shifts of up to 8 staff, rosters in Deputy and stock ordering",
+          "Trained new baristas and handled cash-up and incident reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Operations and Supply Chain Management)",
+        "school": "University of Technology Sydney",
+        "dates": "2024 – 2026 (expected Dec 2026)",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Science (Biology) – first year, transferred",
+        "school": "Macquarie University",
+        "dates": "2022 – 2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Inventory control and FEFO",
+      "SOP writing",
+      "Rostering (Deputy)",
+      "Excel",
+      "Lean basics",
+      "Food safety (HACCP basics)"
+    ],
+    "languages": [
+      "English (native)",
+      "Punjabi (conversational)"
+    ],
+    "certifications": [
+      "Food Safety Supervisor certificate (NSW), 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

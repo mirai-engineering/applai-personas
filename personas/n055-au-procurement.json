@@ -1,0 +1,103 @@
+{
+  "slug": "n055-au-procurement",
+  "level": "junior",
+  "profession": "procurement",
+  "band": "2-5",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Einkäufer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Strategic Buyer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Grafikdesigner"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Florian Ebner",
+    "headline": "Einkauf | Strategic Sourcing | Haustechnik & Komponenten",
+    "contact": {
+      "email": "florian.ebner@example.com",
+      "phone": "+43 664 0000 055",
+      "location": "Wien",
+      "links": []
+    },
+    "summary": "Junior im strategischen Einkauf mit vier Jahren Erfahrung in der Beschaffung von technischen Komponenten. Ich habe als Sachbearbeiter begonnen und betreue heute eigene Warengruppen für die Haustechnik, von der Lieferantensuche bis zur Vertragsverhandlung.",
+    "experience": [
+      {
+        "title": "Associate Strategic Sourcing (Job Grade 9)",
+        "company": "Donauwerk Haustechnik GmbH",
+        "location": "Wien",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Verantwortung für die Warengruppen Armaturen und Pumpen mit einem Einkaufsvolumen von rund 6 Mio. €",
+          "Durchführung von Ausschreibungen in SAP Ariba und Auswertung der Angebote mit der Technik",
+          "Aufbau von zwei alternativen Lieferanten in Tschechien; Preisreduktion von 4,5 % bei gleicher Qualität",
+          "Jährliche Lieferantenbewertung nach Qualität, Termintreue und Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Sachbearbeiter Einkauf / Junior Buyer",
+        "company": "Wiener Gleis- & Signaltechnik AG",
+        "location": "Wien",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Bestellabwicklung und Terminverfolgung für Ersatzteile in SAP MM",
+          "Pflege der Rahmenverträge und Stammdaten für etwa 300 Lieferanten"
+        ]
+      },
+      {
+        "title": "Praktikant Einkauf",
+        "company": "Pannonia Möbelwerke GmbH",
+        "location": "Wiener Neustadt",
+        "dates": "07/2021 – 09/2021",
+        "bullets": [
+          "Unterstützung bei Preisvergleichen und der Lieferantenbewertung für Holzwerkstoffe"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Wirtschafts- und Sozialwissenschaften (Schwerpunkt Supply Chain Management)",
+        "school": "Wirtschaftsuniversität Wien",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SAP MM, SAP Ariba",
+      "Ausschreibungen und Angebotsvergleich",
+      "Lieferantenbewertung, Lieferantenaudits",
+      "Incoterms 2020",
+      "Vertragsverhandlung",
+      "Excel, Power BI (Grundlagen)"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Tschechisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
