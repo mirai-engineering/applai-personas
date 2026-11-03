@@ -1,0 +1,109 @@
+{
+  "slug": "n214-un-marketing",
+  "level": "senior",
+  "profession": "marketing",
+  "band": "8-12",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Demand Generation Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Grace Pemberton",
+    "headline": "Senior Marketing Manager | B2B SaaS & Healthcare | Former Journalist",
+    "contact": {
+      "email": "grace.pemberton@example.com",
+      "phone": "+1 212 0000 214",
+      "location": "New York, NY",
+      "links": []
+    },
+    "summary": "Marketer who started as a newspaper reporter and moved into content marketing in 2017. Has since built and led demand generation and brand programs for fintech, consumer and digital health companies, now managing a team of six.",
+    "experience": [
+      {
+        "title": "Senior Marketing Manager",
+        "company": "Corvid Health",
+        "location": "New York, NY",
+        "dates": "Feb 2023 – Present",
+        "bullets": [
+          "Own the B2B marketing plan targeting employers and health plans, with a $2.8M annual budget",
+          "Lead a team of six across content, lifecycle and paid media",
+          "Launched an account-based program for 150 target accounts; pipeline from these accounts up 41% year over year",
+          "Rebuilt the website messaging with product marketing and sales"
+        ]
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Bramble Home Goods",
+        "location": "Brooklyn, NY",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Managed email, SMS and paid social for a DTC home brand",
+          "Grew the email list from 60k to 210k subscribers"
+        ]
+      },
+      {
+        "title": "Content Marketing Manager",
+        "company": "Ledgerline",
+        "location": "New York, NY",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Built the blog, newsletter and webinar program from scratch for a small fintech SaaS"
+        ]
+      },
+      {
+        "title": "Staff Reporter",
+        "company": "Hudson Valley Courier",
+        "location": "Poughkeepsie, NY",
+        "dates": "2013 – 2017",
+        "bullets": [
+          "Covered local government and business for print and digital"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Journalism",
+        "school": "S.I. Newhouse School of Public Communications, Syracuse University",
+        "dates": "2009 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Demand generation and ABM",
+      "HubSpot, Salesforce, 6sense",
+      "GA4, Looker Studio",
+      "SEO and content strategy",
+      "Budget planning and agency management"
+    ],
+    "languages": [
+      "English (native)",
+      "French (intermediate)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

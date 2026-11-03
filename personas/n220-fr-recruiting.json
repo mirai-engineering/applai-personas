@@ -1,0 +1,102 @@
+{
+  "slug": "n220-fr-recruiting",
+  "level": "senior",
+  "profession": "recruiting",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Chargé de recrutement"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Talent Acquisition Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingénieur électricien"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Aurélie Noël",
+    "headline": "Consultante recrutement senior | Profils industrie et ingénierie",
+    "contact": {
+      "email": "aurelie.noel@example.com",
+      "phone": "+33 6 0000 220",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Onze ans de recrutement en région lyonnaise, en intérim, en entreprise puis en cabinet. Je recrute surtout des ingénieurs et des cadres industriels, de la définition du besoin jusqu'à l'intégration du candidat.",
+    "experience": [
+      {
+        "title": "Consultante recrutement senior",
+        "company": "Cabinet Saône Talents",
+        "location": "Lyon",
+        "dates": "2020 – aujourd'hui",
+        "bullets": [
+          "Gestion de 25 à 30 mandats par an pour des PME et ETI industrielles (ingénieurs, chefs de projet, directeurs de site)",
+          "Approche directe sur LinkedIn Recruiter et par réseau, avec un taux de réussite des mandats de 85 %",
+          "Accompagnement des clients dans la définition des postes et des rémunérations",
+          "Formation de deux consultantes juniors"
+        ]
+      },
+      {
+        "title": "Chargée de recrutement",
+        "company": "Groupe Rhône-Industrie",
+        "location": "Vénissieux",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Recrutement de 70 à 90 postes par an pour trois usines, de l'opérateur au cadre",
+          "Mise en place d'un ATS et des relations avec les écoles d'ingénieurs"
+        ]
+      },
+      {
+        "title": "Chargée de recrutement intérim",
+        "company": "Confluence Intérim",
+        "location": "Lyon",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Recrutement de profils techniques et gestion des missions d'intérim"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master 2 Gestion des ressources humaines",
+        "school": "Université Lumière Lyon 2",
+        "dates": "2013 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Approche directe, recherche booléenne",
+      "LinkedIn Recruiter, Flatchr",
+      "Entretiens structurés et évaluation des compétences",
+      "Marque employeur",
+      "Droit du travail appliqué au recrutement"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Italien (intermédiaire)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

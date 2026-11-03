@@ -1,0 +1,102 @@
+{
+  "slug": "n221-fr-administration",
+  "level": "mid",
+  "profession": "administration",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Assistante de direction"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Office Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Sophie Ollivier",
+    "headline": "Assistante de direction / Office Manager – PME et laboratoire",
+    "contact": {
+      "email": "sophie.ollivier@example.com",
+      "phone": "+33 6 0000 221",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Assistante de direction avec huit ans d'expérience auprès de dirigeants de PME à Lyon. Gère l'agenda, les déplacements, les conseils d'administration et une partie des services généraux.",
+    "experience": [
+      {
+        "title": "Assist. de direction DG (ETAM niv. 5)",
+        "company": "Laboratoires Fourvière Santé",
+        "location": "Lyon",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Gestion de l'agenda et des déplacements du directeur général et de deux directeurs",
+          "Préparation des comités de direction et des conseils d'administration, rédaction des procès-verbaux",
+          "Suivi des contrats de services généraux et réduction de 15 % du budget fournitures et maintenance",
+          "Organisation du séminaire annuel de 120 personnes"
+        ]
+      },
+      {
+        "title": "Office Mgr / Assistante DG",
+        "company": "Brasserie Croix-Rousse SAS",
+        "location": "Lyon",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Accueil, gestion des fournisseurs et appui administratif aux ressources humaines",
+          "Suivi de la facturation clients et relances"
+        ]
+      },
+      {
+        "title": "Assistante polyvalente (coef. 220)",
+        "company": "Cabinet Grolée Avocats",
+        "location": "Lyon",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Frappe des actes, gestion du courrier et prise de rendez-vous"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BTS Support à l'action managériale",
+        "school": "Lycée La Martinière Duchère, Lyon",
+        "dates": "2016 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Pack Office avancé, Teams, SharePoint",
+      "Organisation d'événements et déplacements",
+      "Rédaction de comptes rendus",
+      "Services généraux et fournisseurs",
+      "Sage 100 (facturation)"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (B2)",
+      "Espagnol (A2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

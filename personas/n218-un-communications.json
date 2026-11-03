@@ -1,0 +1,90 @@
+{
+  "slug": "n218-un-communications",
+  "level": "intern",
+  "profession": "communications",
+  "band": "0-2",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Communications Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Public Relations Assistant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Jasmine Owens",
+    "headline": "Communications Intern | Writing, Social Media & Media Relations",
+    "contact": {
+      "email": "jasmine.owens@example.com",
+      "phone": "+1 404 0000 218",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Recent communication graduate with two roles in nonprofit and university communications. Writes clearly and quickly, and has run social channels, press lists and event publicity.",
+    "experience": [
+      {
+        "title": "Communications Intern",
+        "company": "Peachtree Arts Alliance",
+        "location": "Atlanta, GA",
+        "dates": "Jun 2026 – Present",
+        "bullets": [
+          "Write press releases and newsletter features for exhibitions and community programs",
+          "Manage the Instagram and LinkedIn calendars; Instagram engagement up 25% over the summer",
+          "Maintain the local media list and pitch stories to Atlanta outlets",
+          "Support the director with talking points for donor events"
+        ]
+      },
+      {
+        "title": "Student Writer",
+        "company": "Georgia State University – Office of University Communications",
+        "location": "Atlanta, GA",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Wrote student profiles and event stories for the university news site",
+          "Shot and edited short videos for social media"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Communication (Public Relations concentration)",
+        "school": "Georgia State University",
+        "dates": "2022 – 2026",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "AP style writing and editing",
+      "Media relations and pitching",
+      "Canva, Adobe Premiere Rush",
+      "Meltwater, Sprout Social",
+      "Event publicity"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "n202-fr-chemical-engineering",
+  "level": "junior",
+  "profession": "chemical engineering",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingénieur procédés"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingénieur méthodes"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chargé de recrutement"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Camille Perrin",
+    "headline": "Ingénieure procédés – chimie fine et industrialisation",
+    "contact": {
+      "email": "camille.perrin@example.com",
+      "phone": "+33 6 0000 202",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Ingénieure procédés diplômée de Chimie ParisTech, formée en apprentissage sur un site de chimie fine. Trois ans d'expérience dans l'industrialisation de nouvelles molécules, le suivi de la production et la sécurité des procédés.",
+    "experience": [
+      {
+        "title": "Ingénieure procédés",
+        "company": "Séquana Chimie Fine",
+        "location": "Gennevilliers",
+        "dates": "sept. 2023 – aujourd'hui",
+        "bullets": [
+          "Transfert de quatre procédés du pilote vers l'atelier de production (réacteurs de 2 à 8 m³)",
+          "Animation des analyses de risques HAZOP avec la production et le service HSE",
+          "Amélioration du rendement d'une étape de cristallisation de 71 % à 79 % par ajustement du profil de refroidissement",
+          "Rédaction des instructions de fabrication et formation des opérateurs aux nouvelles consignes"
+        ]
+      },
+      {
+        "title": "Apprentie ingénieure procédés",
+        "company": "Laboratoires Orvalis",
+        "location": "Évry-Courcouronnes",
+        "dates": "sept. 2020 – août 2023",
+        "bullets": [
+          "Réalisation des bilans matière et énergie pour une unité de distillation",
+          "Participation au dossier ATEX de l'atelier de synthèse"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur, filière chimie et génie des procédés (apprentissage)",
+        "school": "Chimie ParisTech – PSL",
+        "dates": "2020 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "Classes préparatoires PC",
+        "school": "Lycée Saint-Louis, Paris",
+        "dates": "2018 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Aspen Plus, bilans matière et énergie",
+      "HAZOP, ATEX, réglementation ICPE et SEVESO",
+      "Lean manufacturing, 5S, AMDEC",
+      "Excel VBA, JMP",
+      "ISO 14001"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (C1, TOEIC 945)",
+      "Allemand (notions)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

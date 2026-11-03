@@ -1,0 +1,101 @@
+{
+  "slug": "n212-un-ux-design",
+  "level": "intern",
+  "profession": "ux design",
+  "band": "0-2",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "UX Design Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "UX Researcher"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Coordinator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Linh Nguyen",
+    "headline": "UX Design Intern | Research-led design | Returning to work",
+    "contact": {
+      "email": "linh.nguyen@example.com",
+      "phone": "+1 512 0000 212",
+      "location": "Austin, TX",
+      "links": []
+    },
+    "summary": "Psychology graduate returning to work after a four-year break raising two children. Completed a UX certificate in 2026 and now interning on a small product team, with a background in patient-facing service work.",
+    "experience": [
+      {
+        "title": "UX Design Intern",
+        "company": "Pecan Street Software",
+        "location": "Austin, TX",
+        "dates": "Aug 2026 – Present",
+        "bullets": [
+          "Run usability tests with eight customers on the new scheduling flow and summarise findings for the team",
+          "Create wireframes and prototypes in Figma for the account settings redesign",
+          "Contribute components and documentation to the design system",
+          "Rewrote error messages in onboarding with the content designer"
+        ]
+      },
+      {
+        "title": "Front Desk Coordinator",
+        "company": "Barton Creek Family Dental",
+        "location": "Austin, TX",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Managed scheduling for four dentists and handled patient questions by phone and in person",
+          "Suggested a new check-in form that cut waiting-room paperwork time"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "UX Design Certificate",
+        "school": "Austin Community College",
+        "dates": "2025 – 2026",
+        "details": "Capstone: redesign of a food bank volunteer sign-up app"
+      },
+      {
+        "degree": "B.A. Psychology",
+        "school": "Texas State University",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Figma, FigJam",
+      "Usability testing, interviews, affinity mapping",
+      "Wireframing and prototyping",
+      "Accessibility basics (WCAG 2.2)",
+      "Maze, Dovetail"
+    ],
+    "languages": [
+      "English (native)",
+      "Vietnamese (fluent)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Food bank volunteer app redesign – capstone case study"
+    ],
+    "extra_sections": [
+      "Career break 2020 – 2024: full-time parent"
+    ]
+  }
+}

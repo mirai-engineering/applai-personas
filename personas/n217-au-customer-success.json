@@ -1,0 +1,91 @@
+{
+  "slug": "n217-au-customer-success",
+  "level": "intern",
+  "profession": "customer success",
+  "band": "0-2",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Associate"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Mia Papadopoulos",
+    "headline": "Commerce Student | Customer Success & Sales Development Intern",
+    "contact": {
+      "email": "mia.papadopoulos@example.com",
+      "phone": "+61 400 0000 217",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Final-year commerce student with internships in customer success and sales development at two Sydney SaaS and media companies. Equally interested in post-sale customer work and outbound sales roles.",
+    "experience": [
+      {
+        "title": "Customer Success Intern",
+        "company": "Bondi Ledger",
+        "location": "Sydney",
+        "dates": "Feb 2026 – Present",
+        "bullets": [
+          "Run onboarding calls for new small-business customers of a bookkeeping app",
+          "Track health scores in HubSpot and flag at-risk accounts to the CSM team",
+          "Wrote 15 help-centre articles; related support tickets fell by about a fifth",
+          "Collect customer feedback for the product team's monthly review"
+        ]
+      },
+      {
+        "title": "Sales Development Intern",
+        "company": "Harbourside Media",
+        "location": "Sydney",
+        "dates": "Jun 2025 – Nov 2025",
+        "bullets": [
+          "Researched prospects and booked meetings for account managers selling advertising packages",
+          "Booked 34 qualified meetings during the internship"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Marketing and Management)",
+        "school": "UNSW Sydney",
+        "dates": "2023 – 2026",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "HubSpot, Intercom, Zendesk",
+      "Customer onboarding",
+      "Outbound prospecting, LinkedIn Sales Navigator",
+      "Excel and Google Sheets",
+      "Presenting to customers"
+    ],
+    "languages": [
+      "English (native)",
+      "Greek (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

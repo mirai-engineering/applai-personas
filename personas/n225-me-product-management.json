@@ -1,0 +1,101 @@
+{
+  "slug": "n225-me-product-management",
+  "level": "junior",
+  "profession": "product management",
+  "band": "2-5",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Construction Manager"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Andrés Ortiz Cantú",
+    "headline": "Product Manager | Fintech & Logistics | Payments, Ops tools",
+    "contact": {
+      "email": "andres.ortiz@example.com",
+      "phone": "+52 81 0000 225",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Systems engineer with five years in product roles at Monterrey startups in payments and logistics. Comfortable with discovery, data and the day-to-day work with engineers.",
+    "experience": [
+      {
+        "title": "PM Jr. / Product Owner – Payments",
+        "company": "Kuali Pagos",
+        "location": "Monterrey",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own the merchant onboarding and payouts backlog for a squad of six engineers",
+          "Run customer interviews with small merchants and turn findings into roadmap items",
+          "Launched same-day payouts, adopted by 30% of active merchants in the first quarter",
+          "Define KPIs and dashboards in Metabase with the data team"
+        ]
+      },
+      {
+        "title": "Product Analyst II",
+        "company": "Rutamax Logística",
+        "location": "Monterrey",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Analysed driver app usage and delivery data to prioritise features",
+          "Wrote specs for the route-planning tool used by dispatchers"
+        ]
+      },
+      {
+        "title": "Ops & Product Assoc.",
+        "company": "Rutamax Logística",
+        "location": "Monterrey",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Handled operations escalations and documented process issues for product"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería en Sistemas Computacionales",
+        "school": "Universidad Autónoma de Nuevo León",
+        "dates": "2016 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Product discovery and customer interviews",
+      "Jira, Notion, Figma",
+      "SQL, Metabase, Amplitude",
+      "Payments (SPEI, card acquiring)",
+      "Agile/Scrum"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

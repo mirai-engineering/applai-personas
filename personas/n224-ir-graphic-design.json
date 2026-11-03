@@ -1,0 +1,106 @@
+{
+  "slug": "n224-ir-graphic-design",
+  "level": "junior",
+  "profession": "graphic design",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Graphic Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Visual Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Tax Consultant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Ciara O'Neill",
+    "headline": "Graphic Designer | Print & Digital | Career changer from pharmacy",
+    "contact": {
+      "email": "ciara.oneill@example.com",
+      "phone": "+353 87 0000 224",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Graphic designer who spent six years as a pharmacy technician before retraining in visual communication. Since 2022 has worked in two Dublin studios on brand, print and social content for retail and hospitality clients.",
+    "experience": [
+      {
+        "title": "Graphic Designer",
+        "company": "Grand Canal Print & Brand",
+        "location": "Dublin",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Design print and digital campaigns for retail and hospitality clients",
+          "Create social media templates and animated assets in After Effects",
+          "Prepare artwork for large-format print and signage",
+          "Rebrand for a chain of four cafés delivered from brief to launch in six weeks"
+        ]
+      },
+      {
+        "title": "Junior Graphic Designer",
+        "company": "Liffey Lane Creative",
+        "location": "Dublin",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Adapted campaign artwork across formats and languages",
+          "Retouched product photography for e-commerce"
+        ]
+      },
+      {
+        "title": "Pharmacy Technician",
+        "company": "Hartigan's Pharmacy",
+        "location": "Dún Laoghaire",
+        "dates": "2015 – 2021",
+        "bullets": [
+          "Dispensing support, stock control and in-store displays"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Higher Diploma in Visual Communication Design",
+        "school": "IADT Dún Laoghaire",
+        "dates": "2021 – 2022",
+        "details": ""
+      },
+      {
+        "degree": "Pharmacy Technician (QQI Level 6)",
+        "school": "Dublin Institute of Technology",
+        "dates": "2013 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Adobe Illustrator, InDesign, Photoshop, After Effects",
+      "Figma",
+      "Print production and large format",
+      "Social content design",
+      "Layout and typography"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

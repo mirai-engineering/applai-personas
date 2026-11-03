@@ -1,0 +1,111 @@
+{
+  "slug": "n208-au-consulting",
+  "level": "mid",
+  "profession": "consulting",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Management Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Unternehmensberater"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Selin Okur",
+    "headline": "Senior Consultant – Operations & Manufacturing Excellence",
+    "contact": {
+      "email": "selin.okur@example.com",
+      "phone": "+43 664 0000 208",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Mechatronics engineer who spent three years running process improvement in a steel plant before moving into consulting in 2021. Now leads operations and cost workstreams for industrial clients in Austria and southern Germany.",
+    "experience": [
+      {
+        "title": "Senior Consultant",
+        "company": "Traunfeld Advisory GmbH",
+        "location": "Linz",
+        "dates": "Jan 2023 – Present",
+        "bullets": [
+          "Lead workstreams of 2–4 consultants on operations diagnostics for automotive suppliers and machine builders",
+          "Designed a make-or-buy analysis that led a client to insource two component families",
+          "Delivered a procurement savings programme worth EUR 3.4M across 120 suppliers",
+          "Run steering committee preparation and client workshops with plant managers"
+        ]
+      },
+      {
+        "title": "Consultant",
+        "company": "Traunfeld Advisory GmbH",
+        "location": "Linz",
+        "dates": "Sep 2021 – Dec 2022",
+        "bullets": [
+          "Value stream mapping and OEE analysis at five production sites",
+          "Built the firm's standard Excel model for overhead benchmarking"
+        ]
+      },
+      {
+        "title": "Process Engineer, Cold Rolling",
+        "company": "Donaustahl Walzwerk GmbH",
+        "location": "Linz",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Reduced unplanned stoppages on the pickling line by 18% through root-cause analysis",
+          "Coordinated maintenance and production during two major line shutdowns"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Mechatronics",
+        "school": "Johannes Kepler University Linz",
+        "dates": "2013 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Certificate in Strategy and Management Consulting",
+        "school": "WU Executive Academy",
+        "dates": "2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Operations diagnostics, OEE, value stream mapping",
+      "Cost reduction and procurement analytics",
+      "Lean Six Sigma",
+      "Excel modelling, Power BI, PowerPoint storylines",
+      "Workshop facilitation"
+    ],
+    "languages": [
+      "Turkish (native)",
+      "German (native)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Black Belt, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

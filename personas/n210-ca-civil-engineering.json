@@ -1,0 +1,105 @@
+{
+  "slug": "n210-ca-civil-engineering",
+  "level": "senior",
+  "profession": "civil engineering",
+  "band": "8-12",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Civil Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Infrastructure Project Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Simran Pannu",
+    "headline": "Senior Civil Engineer, P.Eng., PMP | Municipal Infrastructure",
+    "contact": {
+      "email": "simran.pannu@example.com",
+      "phone": "+1 416 0000 210",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Civil engineer with eleven years in municipal water, roads and transit projects in the Lower Mainland. Designs and stamps drawings but has spent the last four years mostly managing projects end to end, from budget to construction.",
+    "experience": [
+      {
+        "title": "Senior Civil Engineer / Project Manager",
+        "company": "Coastline Municipal Engineering Ltd.",
+        "location": "Vancouver, BC",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Project manager for watermain and sewer renewal contracts worth $4–22M for three municipalities",
+          "Engineer of record for detailed design packages; review and seal drawings",
+          "Manage budgets, schedules and change orders; delivered 2024 program 6% under budget",
+          "Lead a team of five EITs and technologists",
+          "Present to councils and run public open houses"
+        ]
+      },
+      {
+        "title": "Civil Engineer (EIT, then P.Eng.)",
+        "company": "Kestrel Bridge & Transit Consultants",
+        "location": "Burnaby, BC",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Road and intersection design in Civil 3D for transit priority corridors",
+          "Prepared tender documents to MMCD standards"
+        ]
+      },
+      {
+        "title": "Junior Engineer",
+        "company": "City of Surrey – Engineering Department",
+        "location": "Surrey, BC",
+        "dates": "2015 – 2016",
+        "bullets": [
+          "Utility inspections and as-built reviews for development projects"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BASc Civil Engineering",
+        "school": "University of British Columbia",
+        "dates": "2010 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "AutoCAD Civil 3D, EPANET, PCSWMM",
+      "MMCD contracts and tendering",
+      "Budgets, schedules and change orders (MS Project)",
+      "Construction contract administration",
+      "Stakeholder and council presentations"
+    ],
+    "languages": [
+      "English (native)",
+      "Punjabi (fluent)",
+      "Hindi (conversational)"
+    ],
+    "certifications": [
+      "P.Eng., Engineers and Geoscientists BC, 2019",
+      "Project Management Professional (PMP), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "n223-me-business-analysis",
+  "level": "mid",
+  "profession": "business analysis",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Analista de negocio"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Enfermera"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Ricardo Peña Villarreal",
+    "headline": "Analista de Negocio Sr. | Banca y manufactura | BPMN, SQL, Power BI",
+    "contact": {
+      "email": "ricardo.pena@example.com",
+      "phone": "+52 81 0000 223",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Ingeniero industrial con siete años como analista de procesos y de negocio en manufactura y banca. Me encargo de levantar requerimientos, documentar procesos y acompañar a los equipos de desarrollo hasta la puesta en producción.",
+    "experience": [
+      {
+        "title": "Analista de Negocio Sr.",
+        "company": "Banca Cerro de la Silla",
+        "location": "Monterrey",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Levantamiento de requerimientos para la originación digital de créditos PyME",
+          "Documentación de procesos en BPMN y elaboración de historias de usuario con criterios de aceptación",
+          "Coordinación de pruebas UAT con las áreas de riesgo y operaciones",
+          "El nuevo flujo de originación redujo el tiempo de respuesta de 10 a 3 días hábiles"
+        ]
+      },
+      {
+        "title": "Analista de Procesos",
+        "company": "Cementos y Agregados del Norte",
+        "location": "Monterrey",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Mapeo de procesos de facturación y logística para la implementación de SAP",
+          "Elaboración de reportes en Power BI para la dirección de operaciones"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial y de Sistemas",
+        "school": "Tecnológico de Monterrey",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Levantamiento de requerimientos",
+      "BPMN, diagramas de casos de uso",
+      "SQL Server, Power BI",
+      "Jira, Confluence",
+      "SAP SD/MM (usuario funcional)"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Certified Scrum Product Owner (CSPO), 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "n204-sw-hr",
+  "level": "exec",
+  "profession": "hr",
+  "band": "12+",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Directeur des ressources humaines"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingénieur civil"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Nathalie Pasquier",
+    "headline": "Directrice RH | Head of People & Culture | Banque privée et horlogerie",
+    "contact": {
+      "email": "nathalie.pasquier@example.com",
+      "phone": "+41 79 0000 204",
+      "location": "Genève",
+      "links": []
+    },
+    "summary": "Dirigeante RH avec dix-neuf ans d'expérience en Suisse romande, de l'administration du personnel à la direction RH d'une banque privée de 450 collaborateurs. Partenaire de la direction générale pour la transformation, la rémunération et le dialogue social.",
+    "experience": [
+      {
+        "title": "Head of People & Culture (Directrice RH) – membre de la direction",
+        "company": "Banque Privée Rive Gauche SA",
+        "location": "Genève",
+        "dates": "2019 – aujourd'hui",
+        "bullets": [
+          "Pilotage d'une équipe RH de 11 personnes et d'un budget de formation de CHF 1,2 million",
+          "Refonte du système de rémunération variable avec le comité de rémunération et le conseil d'administration",
+          "Accompagnement de la fusion avec une boutique de gestion lausannoise : 80 collaborateurs intégrés",
+          "Mise en place du travail hybride et d'une politique d'égalité salariale certifiée Fair-ON-Pay",
+          "Taux de rotation volontaire ramené de 14 % à 9 % en trois ans"
+        ]
+      },
+      {
+        "title": "HRBP Senior – Grade 14 / Resp. RH Manufacture",
+        "company": "Valdor Horlogerie SA",
+        "location": "Le Sentier",
+        "dates": "2014 – 2019",
+        "bullets": [
+          "Partenaire RH de la direction industrielle pour 600 collaborateurs, y compris la négociation avec la commission du personnel",
+          "Déploiement de SuccessFactors pour les entretiens annuels"
+        ]
+      },
+      {
+        "title": "Resp. RH Opérations (HR Mgr Ops)",
+        "company": "Groupe Hôtelier Léman",
+        "location": "Lausanne",
+        "dates": "2010 – 2014",
+        "bullets": [
+          "Recrutement saisonnier et application de la CCNT pour quatre établissements"
+        ]
+      },
+      {
+        "title": "Chargée RH / Assist. RH",
+        "company": "Fiduciaire Montbrillant",
+        "location": "Genève",
+        "dates": "2007 – 2010",
+        "bullets": [
+          "Administration du personnel, salaires et permis de travail"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master en gestion des ressources humaines et des carrières",
+        "school": "Université de Genève",
+        "dates": "2005 – 2007",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor en management",
+        "school": "HEC Lausanne",
+        "dates": "2002 – 2005",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Droit du travail suisse (CO), CCNT, LTr",
+      "Rémunération et avantages, égalité salariale (Logib)",
+      "SAP SuccessFactors, Abacus Salaires",
+      "Conduite du changement, fusions",
+      "Dialogue social et commissions du personnel"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Allemand (B2)"
+    ],
+    "certifications": [
+      "Brevet fédéral de spécialiste en ressources humaines, 2009",
+      "Coach certifiée ICF (ACC), 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

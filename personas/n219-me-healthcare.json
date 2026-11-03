@@ -1,0 +1,101 @@
+{
+  "slug": "n219-me-healthcare",
+  "level": "mid",
+  "profession": "healthcare",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Registered Nurse"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Enfermera de terapia intensiva"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Business Analyst"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Fernanda Palacios",
+    "headline": "ICU Staff Nurse | Critical Care | Bilingual English–Spanish",
+    "contact": {
+      "email": "fernanda.palacios@example.com",
+      "phone": "+52 81 0000 219",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Licensed nurse with eight years of hospital experience in Monterrey, the last five in an adult intensive care unit. Postgraduate specialty in critical care and fluent English used daily with international patients.",
+    "experience": [
+      {
+        "title": "Staff Nurse, Adult Intensive Care Unit",
+        "company": "Hospital San Jerónimo del Norte",
+        "location": "Monterrey",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Care for two to three critically ill patients per shift, including ventilated and post-cardiac surgery patients",
+          "Manage vasoactive infusions, arterial lines and central venous catheters",
+          "Mentor new graduate nurses during their ICU orientation",
+          "Joined the infection control team that reduced central line infections to zero for 11 consecutive months"
+        ]
+      },
+      {
+        "title": "General Ward Nurse",
+        "company": "Clínica Contry Sur",
+        "location": "Monterrey",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Medical-surgical care for up to eight patients per shift",
+          "Patient and family education at discharge"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Postgraduate Specialty in Critical Care Nursing",
+        "school": "Universidad Autónoma de Nuevo León",
+        "dates": "2021 – 2022",
+        "details": ""
+      },
+      {
+        "degree": "Licenciatura en Enfermería (Bachelor of Nursing)",
+        "school": "Universidad Autónoma de Nuevo León",
+        "dates": "2013 – 2017",
+        "details": "Social service year 2017 – 2018 at a rural health centre in Linares, N.L."
+      }
+    ],
+    "skills": [
+      "Critical care and mechanical ventilation",
+      "Hemodynamic monitoring",
+      "Medication safety and infusion pumps",
+      "Electronic health records",
+      "Infection prevention"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (fluent, C1)"
+    ],
+    "certifications": [
+      "Cédula profesional de Enfermería",
+      "BLS and ACLS (American Heart Association), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

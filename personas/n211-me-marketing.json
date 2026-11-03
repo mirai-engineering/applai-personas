@@ -1,0 +1,102 @@
+{
+  "slug": "n211-me-marketing",
+  "level": "mid",
+  "profession": "marketing",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Gerente de Marketing"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero de calidad"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Mariana Ochoa Garza",
+    "headline": "Marketing y trade marketing | Consumo masivo | Cuentas clave en retail",
+    "contact": {
+      "email": "mariana.ochoa@example.com",
+      "phone": "+52 81 0000 211",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Mercadóloga con ocho años en consumo masivo en el noreste. Combino la gestión de marca con la venta a cadenas de autoservicio, por lo que puedo trabajar tanto en marketing como en la gestión de cuentas clave.",
+    "experience": [
+      {
+        "title": "Jefa de Marketing",
+        "company": "Lácteos Sierra Madre",
+        "location": "Monterrey",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Responsable del plan de marketing de tres marcas de yogur y bebidas lácteas con presupuesto de 18 MDP",
+          "Lanzamiento de una línea sin lactosa que alcanzó el 6 % de participación en el noreste en el primer año",
+          "Coordinación con la agencia creativa y de medios para campañas en TV regional y redes sociales",
+          "Planeación de trade marketing con el equipo comercial para Soriana, HEB y OXXO"
+        ]
+      },
+      {
+        "title": "Ejecutiva de Cuentas Clave – Autoservicio",
+        "company": "Distribuidora Regia de Bebidas",
+        "location": "Monterrey",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Gestión de cinco cadenas regionales con ventas anuales de 140 MDP",
+          "Negociación de espacios, exhibiciones y planes promocionales con compradores",
+          "Crecimiento de 22 % en sell-out de la cuenta principal en 2021"
+        ]
+      },
+      {
+        "title": "Coordinadora de Marketing",
+        "company": "Agencia Cuatro Ciénegas",
+        "location": "San Pedro Garza García",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Coordinación de activaciones en punto de venta para clientes de bebidas"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Mercadotecnia",
+        "school": "Universidad de Monterrey (UDEM)",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Gestión de marca y plan de marketing",
+      "Trade marketing y category management",
+      "Nielsen, Kantar, sell-out",
+      "Negociación con autoservicios",
+      "Meta Ads, Google Analytics 4"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

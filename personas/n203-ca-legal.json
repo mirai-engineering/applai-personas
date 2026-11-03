@@ -1,0 +1,111 @@
+{
+  "slug": "n203-ca-legal",
+  "level": "senior",
+  "profession": "legal",
+  "band": "8-12",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Legal Counsel"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Privacy Officer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Supply Chain Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Daniel Okafor",
+    "headline": "Senior Legal Counsel | Insurance Regulation & Privacy",
+    "contact": {
+      "email": "daniel.okafor@example.com",
+      "phone": "+1 416 0000 203",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Ontario lawyer (called 2016) with ten years across litigation, commercial contracts and in-house regulatory work. For the last five years has also run the privacy program of a mid-sized insurer, so equally at home as counsel or as a privacy and compliance lead.",
+    "experience": [
+      {
+        "title": "Senior Legal Counsel, Privacy & Regulatory",
+        "company": "Lakeshore Mutual Insurance",
+        "location": "Toronto, ON",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Advise business units on FSRA and OSFI requirements, distribution agreements and outsourcing contracts",
+          "Act as designated Privacy Officer under PIPEDA; lead breach response and privacy impact assessments",
+          "Negotiated 40+ vendor and reinsurance-related agreements per year with minimal use of outside counsel",
+          "Built a contract playbook that reduced average review time from 9 to 4 business days",
+          "Train claims and underwriting staff on privacy and complaint-handling obligations"
+        ]
+      },
+      {
+        "title": "Associate",
+        "company": "Brennan Walsh LLP",
+        "location": "Toronto, ON",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Commercial litigation and insurance defence files from pleadings through mediation",
+          "Second chair on two Superior Court trials"
+        ]
+      },
+      {
+        "title": "Articling Student",
+        "company": "Brennan Walsh LLP",
+        "location": "Toronto, ON",
+        "dates": "2015 – 2016",
+        "bullets": [
+          "Research memos, motions and discoveries for the insurance defence group"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Juris Doctor (JD)",
+        "school": "Osgoode Hall Law School, York University",
+        "dates": "2012 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "B.A. (Hons) Political Science",
+        "school": "McMaster University",
+        "dates": "2008 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Commercial contracts and outsourcing agreements",
+      "PIPEDA, privacy impact assessments, breach response",
+      "Insurance regulation (FSRA, OSFI Guideline B-10)",
+      "Litigation management",
+      "Ironclad CLM, Lexis+"
+    ],
+    "languages": [
+      "English (native)",
+      "French (intermediate)",
+      "Igbo (conversational)"
+    ],
+    "certifications": [
+      "Law Society of Ontario, called to the Bar 2016",
+      "CIPP/C – Certified Information Privacy Professional (Canada), 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

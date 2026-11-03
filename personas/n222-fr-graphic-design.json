@@ -1,0 +1,94 @@
+{
+  "slug": "n222-fr-graphic-design",
+  "level": "junior",
+  "profession": "graphic design",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Graphic Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Hugo Paillard",
+    "headline": "Graphic Designer | Brand identity, editorial & packaging",
+    "contact": {
+      "email": "hugo.paillard@example.com",
+      "phone": "+33 6 0000 222",
+      "location": "Nantes",
+      "links": [
+        "behance.net/hugopaillard-example"
+      ]
+    },
+    "summary": "Graphic designer with three years in studio work in Nantes, focused on brand identities, editorial layouts and packaging for food and cultural clients. Strong on typography and prepress.",
+    "experience": [
+      {
+        "title": "Graphic Designer",
+        "company": "Studio Erdre",
+        "location": "Nantes",
+        "dates": "Sep 2023 – Present",
+        "bullets": [
+          "Design brand identities and guidelines for small businesses, festivals and local institutions",
+          "Lay out a quarterly cultural magazine of 64 pages in InDesign",
+          "Prepare print-ready files and check proofs with printers",
+          "Redesigned the packaging range for a Breton biscuit maker, used across 18 products"
+        ]
+      },
+      {
+        "title": "Junior Designer",
+        "company": "Atelier Talensac",
+        "location": "Nantes",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Packaging mock-ups and adaptations for food and cosmetics brands",
+          "Photo retouching and exports for e-commerce"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master in Graphic Design",
+        "school": "L'École de design Nantes Atlantique",
+        "dates": "2017 – 2022",
+        "details": "Includes a six-month internship in a packaging agency"
+      }
+    ],
+    "skills": [
+      "Adobe InDesign, Illustrator, Photoshop",
+      "Figma",
+      "Typography and editorial layout",
+      "Packaging and prepress",
+      "Brand guidelines"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

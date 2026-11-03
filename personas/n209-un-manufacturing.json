@@ -1,0 +1,94 @@
+{
+  "slug": "n209-un-manufacturing",
+  "level": "intern",
+  "profession": "manufacturing",
+  "band": "0-2",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Trainee Production Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Graduate Manufacturing Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Recruitment Consultant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Jordan Nolan",
+    "headline": "Manufacturing Engineering Student | Placement in Production Management",
+    "contact": {
+      "email": "jordan.nolan@example.com",
+      "phone": "+44 7700 0000 209",
+      "location": "Manchester",
+      "links": []
+    },
+    "summary": "Mature engineering student returning to education after two years as a full-time carer. Currently on an industrial placement in production management, with earlier hands-on experience in warehousing and shift work.",
+    "experience": [
+      {
+        "title": "Production Management Placement Student",
+        "company": "Barton Moss Fabrications Ltd",
+        "location": "Manchester",
+        "dates": "Jun 2026 – Present",
+        "bullets": [
+          "Support the production manager with daily shift planning for three CNC machining cells",
+          "Track scrap and rework in a shared Power BI report; scrap on cell 2 down 12% since July",
+          "Run 5S audits and follow up actions with team leaders",
+          "Help prepare the monthly capacity review with sales and planning"
+        ]
+      },
+      {
+        "title": "Warehouse Operative",
+        "company": "Trafford Park Distribution",
+        "location": "Manchester",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Picking, packing and loading on rotating shifts; trained new starters on scanner use"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BEng (Hons) Manufacturing Engineering (sandwich, expected 2027)",
+        "school": "University of Salford",
+        "dates": "2023 – Present",
+        "details": "Modules: Production Systems, Quality Engineering, Engineering Materials"
+      }
+    ],
+    "skills": [
+      "Shift planning and capacity basics",
+      "5S, Kaizen, root cause analysis (5 Whys)",
+      "Power BI, Excel",
+      "SolidWorks (basic)",
+      "Health and safety awareness"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "IOSH Working Safely, 2026",
+      "Counterbalance forklift licence"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2021 – 2023: full-time carer for a family member"
+    ]
+  }
+}

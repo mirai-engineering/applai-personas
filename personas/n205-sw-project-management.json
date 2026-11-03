@@ -1,0 +1,99 @@
+{
+  "slug": "n205-sw-project-management",
+  "level": "intern",
+  "profession": "project management",
+  "band": "0-2",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Junior Project Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "PMO Assistant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Léa Oberson",
+    "headline": "Stagiaire en gestion de projet – industrie pharmaceutique",
+    "contact": {
+      "email": "lea.oberson@example.com",
+      "phone": "+41 79 0000 205",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Étudiante en master à l'Université de Bâle, originaire de Fribourg, en stage dans la gestion de projets de sous-traitance pharmaceutique. Rigoureuse et à l'aise pour faire le lien entre équipes francophones et germanophones.",
+    "experience": [
+      {
+        "title": "Stagiaire gestion de projet (PMO)",
+        "company": "Rheinpharm Services AG",
+        "location": "Basel",
+        "dates": "mars 2026 – aujourd'hui",
+        "bullets": [
+          "Suivi du planning de trois projets de transfert technologique dans MS Project et mise à jour hebdomadaire des jalons",
+          "Préparation des comptes rendus des comités de pilotage et suivi des actions ouvertes",
+          "Création d'un tableau de bord Power BI des risques projets, adopté par l'équipe PMO",
+          "Coordination des demandes de documents entre le client et l'assurance qualité"
+        ]
+      },
+      {
+        "title": "Stagiaire administration et projets",
+        "company": "Commune de Bulle",
+        "location": "Bulle",
+        "dates": "juil. 2024 – sept. 2024",
+        "bullets": [
+          "Organisation de la consultation publique pour un projet de mobilité douce"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science in Business and Economics (en cours)",
+        "school": "Universität Basel",
+        "dates": "2024 – aujourd'hui",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor en économie d'entreprise",
+        "school": "Haute école de gestion de Fribourg (HES-SO)",
+        "dates": "2021 – 2024",
+        "details": "Travail de bachelor sur la gestion des risques dans les PME"
+      }
+    ],
+    "skills": [
+      "MS Project, Power BI, Excel",
+      "Méthodes Scrum et Kanban",
+      "Gestion des risques, suivi budgétaire",
+      "Rédaction de procès-verbaux"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (B2)",
+      "Anglais (C1)"
+    ],
+    "certifications": [
+      "PRINCE2 Foundation, 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

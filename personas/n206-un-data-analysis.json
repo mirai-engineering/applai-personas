@@ -1,0 +1,108 @@
+{
+  "slug": "n206-un-data-analysis",
+  "level": "mid",
+  "profession": "data analysis",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Intelligence Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Marcus Pierce",
+    "headline": "Data Analyst | SQL, Tableau, Experimentation | Former Math Teacher",
+    "contact": {
+      "email": "marcus.pierce@example.com",
+      "phone": "+1 212 0000 206",
+      "location": "Chicago, IL",
+      "links": []
+    },
+    "summary": "Former high school math teacher who moved into analytics in 2021 after a bootcamp. Now five years into data work in healthcare and logistics, building dashboards, defining metrics and running the analysis behind operational decisions.",
+    "experience": [
+      {
+        "title": "Data Analyst II",
+        "company": "Fulton Street Logistics",
+        "location": "Chicago, IL",
+        "dates": "Aug 2023 – Present",
+        "bullets": [
+          "Own carrier performance reporting in Tableau used by the operations leadership team every week",
+          "Wrote SQL models in Snowflake and dbt for on-time delivery and cost-per-shipment metrics",
+          "Analysis of route exceptions identified $1.3M in annual accessorial charges for renegotiation",
+          "Partner with product managers to design and read out A/B tests on the shipper portal"
+        ]
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Northbrook Health Partners",
+        "location": "Evanston, IL",
+        "dates": "Jun 2021 – Jul 2023",
+        "bullets": [
+          "Built patient no-show dashboards for 14 outpatient clinics",
+          "Automated monthly quality reporting with Python, saving about two days of manual work per month"
+        ]
+      },
+      {
+        "title": "Mathematics Teacher",
+        "company": "Chicago Public Schools – Lane Tech College Prep",
+        "location": "Chicago, IL",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Taught Algebra II and AP Statistics to classes of 30+ students"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Mathematics",
+        "school": "Illinois State University",
+        "dates": "2014 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Data Analytics Bootcamp",
+        "school": "Northwestern University School of Professional Studies",
+        "dates": "2020 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (Snowflake, PostgreSQL), dbt",
+      "Python (pandas, statsmodels)",
+      "Tableau, Looker",
+      "A/B testing and statistics",
+      "Stakeholder workshops and metric definitions"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (basic)"
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

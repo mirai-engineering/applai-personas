@@ -1,0 +1,102 @@
+{
+  "slug": "n216-ne-business-analysis",
+  "level": "mid",
+  "profession": "business analysis",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Business Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Sanne Pietersen",
+    "headline": "Business Analyst | Port Logistics & Insurance IT",
+    "contact": {
+      "email": "sanne.pietersen@example.com",
+      "phone": "+31 6 0000 216",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Business analyst with seven years in insurance and port logistics IT. Translates operational processes into clear requirements and works closely with developers in Scrum teams.",
+    "experience": [
+      {
+        "title": "Business Analyst",
+        "company": "Maasvlakte Terminal Systems",
+        "location": "Rotterdam",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Analyse and document requirements for the terminal operating system's gate and yard modules",
+          "Model as-is and to-be processes in BPMN with planners and the customs desk",
+          "Write user stories and acceptance criteria for two Scrum teams; maintain the backlog with the Product Owner",
+          "Requirements for the truck appointment system helped cut average gate time by 9 minutes"
+        ]
+      },
+      {
+        "title": "Junior Business Analyst",
+        "company": "Havenkade Verzekeringen",
+        "location": "Rotterdam",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Gathered requirements for the claims portal and tested releases",
+          "Built SQL queries to analyse claims data for the change board"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Business Information Management",
+        "school": "Rotterdam School of Management, Erasmus University",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc Bedrijfskunde",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "BPMN 2.0, UML",
+      "Requirements and user stories",
+      "Jira, Confluence",
+      "SQL, Power BI",
+      "Scrum"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [
+      "Professional Scrum Product Owner I (PSPO I), 2021",
+      "IREB CPRE Foundation Level, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

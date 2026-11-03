@@ -1,0 +1,93 @@
+{
+  "slug": "n201-un-compliance",
+  "level": "junior",
+  "profession": "compliance",
+  "band": "2-5",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Compliance Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "AML Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Natarajan",
+    "headline": "Compliance Analyst | BSA/AML, KYC & Regulatory Reporting",
+    "contact": {
+      "email": "priya.natarajan@example.com",
+      "phone": "+1 212 0000 201",
+      "location": "New York, NY",
+      "links": []
+    },
+    "summary": "Compliance analyst with three and a half years in community banking and broker-dealer compliance. Works across transaction monitoring, customer due diligence and FINRA/SEC exam preparation, and is comfortable turning messy alert data into clear findings for the BSA Officer.",
+    "experience": [
+      {
+        "title": "Compliance Analyst",
+        "company": "Hudson Ridge Savings Bank",
+        "location": "New York, NY",
+        "dates": "Mar 2023 – Present",
+        "bullets": [
+          "Review and disposition transaction monitoring alerts in Actimize; escalate unusual activity and draft SAR narratives",
+          "Perform enhanced due diligence on high-risk customers, including MSBs and cash-intensive businesses",
+          "Rebuilt the OFAC false-positive tuning log, cutting weekly manual reviews by roughly 30%",
+          "Coordinated document requests for the 2024 FDIC BSA examination with no findings for the compliance team"
+        ]
+      },
+      {
+        "title": "Compliance Associate",
+        "company": "Calloway & Stern Securities",
+        "location": "New York, NY",
+        "dates": "Jun 2021 – Feb 2023",
+        "bullets": [
+          "Monitored employee trading and outside business activity disclosures against FINRA Rule 3210 and 3270",
+          "Maintained the firm's marketing review log and archived approved communications"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Economics, minor in Mathematics",
+        "school": "Fordham University",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "BSA/AML, KYC/CDD/EDD, OFAC sanctions screening",
+      "NICE Actimize, LexisNexis Bridger",
+      "FINRA and SEC rules, Reg S-P",
+      "SAR narrative writing",
+      "Excel (pivot tables, Power Query), basic SQL"
+    ],
+    "languages": [
+      "English (native)",
+      "Tamil (conversational)"
+    ],
+    "certifications": [
+      "Certified Anti-Money Laundering Specialist (CAMS), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

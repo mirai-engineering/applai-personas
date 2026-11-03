@@ -1,0 +1,95 @@
+{
+  "slug": "n215-sw-accounting",
+  "level": "mid",
+  "profession": "accounting",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Accountant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Buchhalter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Product Manager"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Julien Perroud",
+    "headline": "Comptable avec brevet fédéral | Fiduciaire et PME",
+    "contact": {
+      "email": "julien.perroud@example.com",
+      "phone": "+41 76 0000 215",
+      "location": "Zurich",
+      "links": []
+    },
+    "summary": "Comptable romand installé à Zurich depuis 2021, avec huit ans d'expérience en fiduciaire. Je tiens la comptabilité et prépare les bouclements d'un portefeuille de PME, et je travaille au quotidien en français et en allemand.",
+    "experience": [
+      {
+        "title": "Comptable",
+        "company": "Treuhand Limmat AG",
+        "location": "Zurich",
+        "dates": "2021 – aujourd'hui",
+        "bullets": [
+          "Tenue de la comptabilité et bouclements annuels pour un portefeuille de 35 PME et indépendants",
+          "Préparation des décomptes TVA trimestriels et des déclarations d'impôt des sociétés",
+          "Migration de 12 mandats de Banana vers Abacus avec le service informatique",
+          "Interlocuteur des clients romands du cabinet"
+        ]
+      },
+      {
+        "title": "Collaborateur comptable",
+        "company": "Fiduciaire du Jura bernois SA",
+        "location": "Moutier",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Saisie comptable, salaires et décomptes AVS pour des clients artisans et associations",
+          "Préparation des dossiers de révision limitée"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor en économie d'entreprise",
+        "school": "Haute école de gestion Arc, Neuchâtel",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Swiss GAAP RPC, Code des obligations",
+      "TVA suisse, impôts des sociétés",
+      "Abacus, Bexio, Banana Comptabilité",
+      "Salaires et assurances sociales",
+      "Excel avancé"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (C1, comprend le suisse allemand)",
+      "Anglais (B2)"
+    ],
+    "certifications": [
+      "Brevet fédéral de spécialiste en finance et comptabilité, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

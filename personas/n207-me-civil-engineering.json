@@ -1,0 +1,100 @@
+{
+  "slug": "n207-me-civil-engineering",
+  "level": "intern",
+  "profession": "civil engineering",
+  "band": "0-2",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Practicante Ingeniería Civil"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Modelador BIM"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ejecutivo de ventas"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Diego Navarrete Solís",
+    "headline": "Estudiante de Ingeniería Civil | Supervisión de obra y modelado BIM",
+    "contact": {
+      "email": "diego.navarrete@example.com",
+      "phone": "+52 55 0000 207",
+      "location": "Ciudad de México",
+      "links": []
+    },
+    "summary": "Estudiante de último semestre de Ingeniería Civil en la UNAM con prácticas en supervisión de obra y modelado BIM. Me interesa crecer en obra o en coordinación BIM, y tengo experiencia con Revit y con la normativa de construcción de la CDMX.",
+    "experience": [
+      {
+        "title": "Practicante de Ingeniería Civil",
+        "company": "Constructora Tláloc del Valle",
+        "location": "Ciudad de México",
+        "dates": "feb. 2026 – actualidad",
+        "bullets": [
+          "Apoyo al residente de obra en la supervisión de un edificio de vivienda de 9 niveles",
+          "Elaboración de generadores de obra y números generadores para estimaciones",
+          "Modelado en Revit de las instalaciones hidrosanitarias y detección de interferencias con Navisworks",
+          "Control de pruebas de concreto con el laboratorio y registro en la bitácora"
+        ]
+      },
+      {
+        "title": "Becario de modelado BIM",
+        "company": "Taller Coyoacán Arquitectura e Ingeniería",
+        "location": "Ciudad de México",
+        "dates": "jun. 2025 – dic. 2025",
+        "bullets": [
+          "Modelado estructural en Revit para dos proyectos de remodelación y apoyo en cuantificaciones",
+          "Actualización de la biblioteca de familias del despacho"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Civil (décimo semestre)",
+        "school": "Facultad de Ingeniería, UNAM",
+        "dates": "2021 – actualidad",
+        "details": ""
+      },
+      {
+        "degree": "Diplomado en BIM con Revit",
+        "school": "Centro de Educación Continua, IPN",
+        "dates": "2024",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Revit, Navisworks, AutoCAD Civil 3D",
+      "Normas Técnicas Complementarias CDMX",
+      "Generadores y precios unitarios (Opus)",
+      "Supervisión de obra y control de calidad del concreto",
+      "Excel"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Servicio social: levantamiento de daños estructurales con Protección Civil de Tlalpan (2024)"
+    ]
+  }
+}

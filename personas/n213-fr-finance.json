@@ -1,0 +1,115 @@
+{
+  "slug": "n213-fr-finance",
+  "level": "junior",
+  "profession": "finance",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Analyste financier"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Contrôleur de gestion"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Infirmière"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Inès Pereira",
+    "headline": "Analyste financière FP&A – reconversion depuis l'hôtellerie",
+    "contact": {
+      "email": "ines.pereira@example.com",
+      "phone": "+33 6 0000 213",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Ancienne cheffe de réception dans l'hôtellerie parisienne, reconvertie dans la finance après une licence en cours du soir et un master en alternance. Trois ans d'expérience en analyse financière et en contrôle budgétaire dans la distribution.",
+    "experience": [
+      {
+        "title": "Analyste financière FP&A",
+        "company": "Groupe Valmy Distribution",
+        "location": "Paris",
+        "dates": "sept. 2023 – aujourd'hui",
+        "bullets": [
+          "Préparation du budget annuel et des reprévisions pour un périmètre de 60 magasins",
+          "Analyse mensuelle des écarts entre réel et budget et commentaires pour le comité de direction",
+          "Automatisation du reporting hebdomadaire des ventes avec Power Query, avec deux jours de travail gagnés par mois",
+          "Construction d'un modèle de rentabilité pour les ouvertures de magasins"
+        ]
+      },
+      {
+        "title": "Analyste financière en alternance",
+        "company": "Altaïr Gestion Privée",
+        "location": "Paris",
+        "dates": "sept. 2021 – août 2023",
+        "bullets": [
+          "Suivi des frais de gestion et préparation des tableaux de bord pour la direction financière",
+          "Participation à la clôture mensuelle avec l'équipe comptable"
+        ]
+      },
+      {
+        "title": "Cheffe de réception",
+        "company": "Hôtel Le Marais Saint-Paul",
+        "location": "Paris",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Gestion d'une équipe de six réceptionnistes et suivi du chiffre d'affaires hébergement",
+          "Mise en place d'une politique tarifaire avec le revenue manager"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master 2 Finance d'entreprise (alternance)",
+        "school": "IAE Paris – Sorbonne",
+        "dates": "2021 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "Licence Gestion (cours du soir)",
+        "school": "Cnam Paris",
+        "dates": "2019 – 2021",
+        "details": ""
+      },
+      {
+        "degree": "BTS Management en hôtellerie-restauration",
+        "school": "Lycée hôtelier Guillaume Tirel",
+        "dates": "2014 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Modélisation financière sous Excel",
+      "Budget, reprévisions et analyse des écarts",
+      "Power BI, Power Query",
+      "SAP S/4HANA (CO)",
+      "Normes comptables françaises"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Portugais (courant)",
+      "Anglais (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
