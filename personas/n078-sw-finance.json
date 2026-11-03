@@ -1,0 +1,118 @@
+{
+  "slug": "n078-sw-finance",
+  "level": "senior",
+  "profession": "finance",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Financial Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "FP&A Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Supply Chain Planner"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Tobias Frei",
+    "headline": "Senior Financial Analyst – R&D Portfolio & Pipeline Valuation | ex-Lab Scientist",
+    "contact": {
+      "email": "tobias.frei@example.com",
+      "phone": "+41 79 0000 078",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Former bench scientist who moved into finance after four years in biologics development. Since 2018 I have worked on R&D budgeting, project valuation and portfolio reviews in Basel pharma, combining a CFA charter with a scientist's reading of clinical data.",
+    "experience": [
+      {
+        "title": "Senior Financial Analyst, Pipeline Valuation",
+        "company": "Dreiländer Therapeutics AG",
+        "location": "Basel",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Build rNPV models for 14 clinical-stage assets used in quarterly portfolio decisions",
+          "Partner with clinical and regulatory leads to translate trial timelines into cost forecasts",
+          "Led the budget process for a CHF 210M R&D budget; forecast accuracy within 3% for two years",
+          "Prepared business cases for two in-licensing deals reviewed by the executive committee"
+        ]
+      },
+      {
+        "title": "Financial Analyst, R&D Finance",
+        "company": "Sankt Alban Pharma AG",
+        "location": "Basel",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Monthly accruals and variance analysis for CRO and lab service contracts",
+          "Set up a project cost dashboard in SAP BW and Power BI"
+        ]
+      },
+      {
+        "title": "Scientist, Downstream Processing",
+        "company": "Rheinknie Biologics AG",
+        "location": "Basel",
+        "dates": "2014 – 2018",
+        "bullets": [
+          "Developed purification steps for monoclonal antibodies at pilot scale",
+          "Wrote batch records and supported technology transfer to manufacturing"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Biochemistry",
+        "school": "ETH Zürich",
+        "dates": "2012 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "BSc Biology",
+        "school": "Universität Basel",
+        "dates": "2009 – 2012",
+        "details": ""
+      },
+      {
+        "degree": "CAS Corporate Finance",
+        "school": "Hochschule Luzern",
+        "dates": "2017 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "rNPV and DCF modelling",
+      "Budgeting and forecasting",
+      "SAP FI/CO, SAP BW",
+      "Power BI, Excel/VBA",
+      "IFRS basics",
+      "Clinical development phases and cost drivers"
+    ],
+    "languages": [
+      "German (native, Swiss German)",
+      "English (fluent)",
+      "French (intermediate)"
+    ],
+    "certifications": [
+      "CFA Charterholder, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

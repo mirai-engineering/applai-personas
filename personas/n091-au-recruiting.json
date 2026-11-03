@@ -1,0 +1,97 @@
+{
+  "slug": "n091-au-recruiting",
+  "level": "intern",
+  "profession": "recruiting",
+  "band": "0-2",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Recruitment Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Talent Acquisition Coordinator"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tayla Gorman",
+    "headline": "HR student | Recruitment intern | Sourcing and candidate experience",
+    "contact": {
+      "email": "tayla.gorman@example.com",
+      "phone": "+61 433 0000 091",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "I started a nursing degree, switched to HR after a year and now study business at QUT while interning at a recruitment agency. Hospitality and casual work taught me to talk to anyone and keep things moving.",
+    "experience": [
+      {
+        "title": "Recruitment Intern",
+        "company": "Moreton Talent Partners",
+        "location": "Brisbane",
+        "dates": "Jul 2026 – Present",
+        "bullets": [
+          "Screen applications and book interviews for construction and admin roles",
+          "Source candidates on LinkedIn Recruiter and Seek; around 40 profiles reviewed daily",
+          "Run reference checks and update candidate records in JobAdder"
+        ]
+      },
+      {
+        "title": "Talent Sourcing Assistant (casual)",
+        "company": "QuickShift Hospitality Staffing",
+        "location": "Brisbane",
+        "dates": "Feb 2026 – Jun 2026",
+        "bullets": [
+          "Phone-screened casual staff for events and filled last-minute shifts"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Human Resource Management)",
+        "school": "Queensland University of Technology",
+        "dates": "2024 – 2026",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Nursing (one year completed, transferred)",
+        "school": "Griffith University",
+        "dates": "2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "JobAdder, Seek, LinkedIn Recruiter",
+      "Phone screening",
+      "Reference checks",
+      "Candidate communication",
+      "Microsoft 365",
+      "Fair Work basics"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Previous casual work: barista and events crew, 2021–2025"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "n079-sw-teaching",
+  "level": "junior",
+  "profession": "teaching",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Primarlehrerin"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Lehrperson Deutsch als Zweitsprache"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Sachbearbeiterin Buchhaltung"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Seraina Gubler",
+    "headline": "Primarlehrerin Mittelstufe | Klassenlehrperson | DaZ",
+    "contact": {
+      "email": "seraina.gubler@example.com",
+      "phone": "+41 78 0000 079",
+      "location": "Zürich",
+      "links": []
+    },
+    "summary": "Primarlehrerin mit vier Jahren Erfahrung als Klassenlehrperson in der Stadt Zürich. Ich unterrichte nach Lehrplan 21 mit viel Freude an altersdurchmischtem Lernen und arbeite eng mit der Schulischen Heilpädagogik und den Eltern zusammen.",
+    "experience": [
+      {
+        "title": "Klassenlehrperson 4.–6. Klasse",
+        "company": "Primarschule Riedtli-Hang, Schule Zürich-Nord",
+        "location": "Zürich",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Führung einer altersdurchmischten Mittelstufenklasse mit 22 Kindern in einem 80-%-Pensum",
+          "Planung und Durchführung von Unterricht in Deutsch, Mathematik, NMG und Gestalten nach Lehrplan 21",
+          "Elterngespräche und Standortgespräche gemeinsam mit der SHP und dem Schulsozialdienst",
+          "Aufbau einer Leseförderung mit Lesetandems; Anteil der Kinder mit Grundanforderungen im Lesen deutlich gestiegen",
+          "Mitglied der Steuergruppe Medien und Informatik"
+        ]
+      },
+      {
+        "title": "Lehrperson DaZ (Teilpensum) und Vikariate",
+        "company": "Schulkreis Limmattal",
+        "location": "Zürich",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Förderunterricht Deutsch als Zweitsprache für Kinder der Unterstufe",
+          "Mehrere Vikariate über zwei bis sechs Wochen in verschiedenen Schulhäusern"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Arts in Primary Education (Lehrdiplom Primarstufe)",
+        "school": "Pädagogische Hochschule Zürich",
+        "dates": "2018 – 2021",
+        "details": "Schwerpunkt Deutsch als Zweitsprache und Musik"
+      }
+    ],
+    "skills": [
+      "Lehrplan 21, kompetenzorientierte Beurteilung",
+      "Altersdurchmischtes Lernen",
+      "DaZ-Förderung",
+      "Classroom Management",
+      "Lernplattformen (Microsoft Teams, Schabi)",
+      "Musik und Blockflöte"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Französisch (gut)",
+      "Englisch (gut)",
+      "Rätoromanisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "J+S-Leiterin Kinder- und Jugendsport, Turnverein Oerlikon"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "n090-fr-data-engineering",
+  "level": "junior",
+  "profession": "data engineering",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analytics Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Sales Manager"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Mehdi Ghazali",
+    "headline": "Data Engineer – Industrial and energy data | Spark, Airflow, AWS",
+    "contact": {
+      "email": "mehdi.ghazali@example.com",
+      "phone": "+33 62 0000 090",
+      "location": "Toulouse",
+      "links": []
+    },
+    "summary": "Data engineer with four years in Toulouse, first on aerostructure production data and now on solar plant telemetry. I build batch and streaming pipelines and care about data that operators can trust.",
+    "experience": [
+      {
+        "title": "Data Engineer",
+        "company": "Capitole Énergie Solaire",
+        "location": "Toulouse",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Ingest telemetry from 85 solar plants with Kafka and Spark Structured Streaming",
+          "Orchestrate daily production and availability pipelines in Airflow on AWS",
+          "Designed the data model for performance-ratio reporting used by asset managers",
+          "Implemented data quality checks that catch inverter data gaps before reporting"
+        ]
+      },
+      {
+        "title": "Data Engineer",
+        "company": "Garonne Aérostructures",
+        "location": "Blagnac",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Built pipelines from MES and quality systems into a Snowflake warehouse",
+          "Delivered a non-conformity dataset used to cut rework analysis time by 40%"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur – Computer Science and Networks",
+        "school": "INSA Toulouse",
+        "dates": "2016 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Python, Scala, SQL",
+      "Apache Spark, Kafka",
+      "Airflow",
+      "AWS (S3, Glue, EMR)",
+      "Snowflake",
+      "Docker, Terraform"
+    ],
+    "languages": [
+      "French (native)",
+      "Arabic (native)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "AWS Certified Data Engineer – Associate, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

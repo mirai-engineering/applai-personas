@@ -1,0 +1,119 @@
+{
+  "slug": "n095-ir-clinical-research",
+  "level": "exec",
+  "profession": "clinical research",
+  "band": "12+",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Director of Clinical Operations"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Clinical Research"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Niamh Furlong",
+    "headline": "Director, Clinical Operations | Phase I–III oncology and rare disease",
+    "contact": {
+      "email": "niamh.furlong@example.com",
+      "phone": "+353 86 0000 095",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "Former oncology research nurse with eighteen years in clinical research across CRO, pharmacovigilance and sponsor roles. I have taken a few sideways steps on purpose, and now lead clinical operations for a Cork biotech running trials in Europe and the US.",
+    "experience": [
+      {
+        "title": "Director, Clinical Operations",
+        "company": "Lee Valley Biotherapeutics",
+        "location": "Cork",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Lead a team of 18 across study management, monitoring and clinical supplies",
+          "Accountable for four Phase II/III studies in 11 countries and a €45M clinical budget",
+          "Selected and oversee two CROs; renegotiated a contract saving €3.1M",
+          "Prepared the organisation for an FDA pre-approval inspection with no 483 observations"
+        ]
+      },
+      {
+        "title": "Head of Clinical Monitoring (interim)",
+        "company": "Ballincollig CRO Services",
+        "location": "Cork",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Ten-month interim role rebuilding the monitoring team after a merger"
+        ]
+      },
+      {
+        "title": "Pharmacovigilance Manager",
+        "company": "Shandon Pharma Ltd",
+        "location": "Cork",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Managed case processing and signal detection for marketed products",
+          "Wrote PSURs and supported EU QPPV"
+        ]
+      },
+      {
+        "title": "CRA, then Senior CRA",
+        "company": "Munster Clinical Trials Ltd",
+        "location": "Cork",
+        "dates": "2010 – 2019",
+        "bullets": [
+          "Monitored oncology trials across Ireland and the UK",
+          "Line-managed four CRAs from 2016"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Clinical Research",
+        "school": "University College Cork",
+        "dates": "2008 – 2010",
+        "details": ""
+      },
+      {
+        "degree": "BSc General Nursing",
+        "school": "University College Cork",
+        "dates": "2003 – 2007",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ICH-GCP E6(R3)",
+      "EU CTR 536/2014, CTIS",
+      "CRO and vendor oversight",
+      "Clinical budgets",
+      "Inspection readiness",
+      "Veeva Vault CTMS, Medidata Rave"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Clinical research nurse, Cork University Hospital oncology unit, 2007–2010"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "n076-ge-graphic-design",
+  "level": "senior",
+  "profession": "graphic design",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Graphic Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Art Director"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Manager"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Jana Falkenberg",
+    "headline": "Senior Graphic Designer – Brand Identity, Editorial & Packaging",
+    "contact": {
+      "email": "jana.falkenberg@example.com",
+      "phone": "+49 151 0000 076",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "Graphic designer with eleven years in Frankfurt agencies and in-house brand teams. I build identity systems that hold up across print, packaging and digital, and I enjoy the production side as much as the concept.",
+    "experience": [
+      {
+        "title": "Senior Graphic Designer",
+        "company": "Hessler Brand Partners GmbH",
+        "location": "Frankfurt am Main",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead designer for rebrands of a regional savings bank and a family-owned mineral water producer",
+          "Built a corporate design manual and Figma component library used by 30+ internal marketers",
+          "Redesigned packaging range for 46 SKUs; reprint costs cut by 18% through a reduced colour system",
+          "Mentor two junior designers and review all artwork before print release"
+        ]
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Mainblick Werbeagentur",
+        "location": "Frankfurt am Main",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Annual reports and investor publications for listed mid-cap clients",
+          "Art direction of product shoots and coordination with print houses"
+        ]
+      },
+      {
+        "title": "Junior Designer",
+        "company": "Studio Kranich & Bauer",
+        "location": "Offenbach am Main",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Layout of trade-fair materials and exhibition graphics for Messe Frankfurt exhibitors"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Kommunikationsdesign",
+        "school": "Hochschule für Gestaltung Offenbach",
+        "dates": "2011 – 2015",
+        "details": "Thesis: modular type systems for wayfinding"
+      }
+    ],
+    "skills": [
+      "Adobe InDesign, Illustrator, Photoshop, Acrobat Pro",
+      "Figma, design tokens",
+      "Typography and grid systems",
+      "Prepress, PDF/X-4, colour management (FOGRA39, Pantone)",
+      "Packaging dielines",
+      "Corporate design manuals"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Selected work available as PDF portfolio on request"
+    ]
+  }
+}

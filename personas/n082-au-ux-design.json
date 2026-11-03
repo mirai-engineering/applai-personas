@@ -1,0 +1,111 @@
+{
+  "slug": "n082-au-ux-design",
+  "level": "junior",
+  "profession": "ux design",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "UX Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Payroll Officer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Ganesan",
+    "headline": "UX Designer – Research-led product design for fintech and health",
+    "contact": {
+      "email": "priya.ganesan@example.com",
+      "phone": "+61 412 0000 082",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "UX designer with five years across agency contracts, an early-stage startup and freelance work, now in-house at a superannuation fund. Comfortable running research, shaping flows and handing over clean Figma files to developers.",
+    "experience": [
+      {
+        "title": "UX Designer",
+        "company": "Harbourline Super",
+        "location": "Sydney",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Redesigned the online rollover flow; completion rate rose from 54% to 71%",
+          "Run fortnightly usability sessions with members, including older and low-vision users",
+          "Contributed accessibility patterns to the design system against WCAG 2.2 AA",
+          "Work in a squad with two developers and a product owner using Jira and Figma"
+        ]
+      },
+      {
+        "title": "Freelance UX/UI Designer",
+        "company": "Self-employed",
+        "location": "Sydney",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Projects for a physiotherapy clinic network and a local council's events website"
+        ]
+      },
+      {
+        "title": "Product Designer",
+        "company": "Tallowood Health (startup)",
+        "location": "Sydney",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "First design hire; designed onboarding for a telehealth app before the company paused operations"
+        ]
+      },
+      {
+        "title": "UX Designer (contract)",
+        "company": "Pyrmont Digital Collective",
+        "location": "Sydney",
+        "dates": "2021",
+        "bullets": [
+          "Eight-month contract on wireframes and prototypes for retail clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Design (Visual Communication)",
+        "school": "University of Technology Sydney",
+        "dates": "2017 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Figma, FigJam, Maze",
+      "User interviews, usability testing",
+      "Information architecture",
+      "WCAG 2.2 accessibility",
+      "Prototyping",
+      "Basic HTML/CSS"
+    ],
+    "languages": [
+      "English (native)",
+      "Tamil (conversational)"
+    ],
+    "certifications": [
+      "Nielsen Norman Group UX Certificate, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "n085-ir-project-management",
+  "level": "junior",
+  "profession": "project management",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Project Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Project Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Aoife Gallagher",
+    "headline": "Project Manager – Medical Device New Product Introduction",
+    "contact": {
+      "email": "aoife.gallagher@example.com",
+      "phone": "+353 87 0000 085",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Biomedical engineer with five years in Galway medtech, moving from project coordination to running NPI projects for catheter components. Organised, calm under change control, and fluent in design control language.",
+    "experience": [
+      {
+        "title": "Project Manager, NPI",
+        "company": "Atlantic Ortho Systems",
+        "location": "Galway",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Manage three NPI projects from design transfer to validation with teams of 8–12",
+          "Maintain schedules in MS Project and run weekly cross-functional reviews",
+          "Coordinated IQ/OQ/PQ for a new extrusion line delivered within budget",
+          "Report status and risks to the site leadership monthly"
+        ]
+      },
+      {
+        "title": "Project Coordinator",
+        "company": "Corrib MedTech Devices",
+        "location": "Galway",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Tracked design history file deliverables and change orders in Agile PLM",
+          "Organised supplier qualification visits"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BEng Biomedical Engineering",
+        "school": "University of Galway",
+        "dates": "2017 – 2021",
+        "details": "Final year project: fatigue testing of nitinol stents"
+      }
+    ],
+    "skills": [
+      "MS Project, Smartsheet",
+      "Design controls (ISO 13485, FDA 21 CFR 820)",
+      "Risk management (ISO 14971)",
+      "Process validation IQ/OQ/PQ",
+      "Agile PLM",
+      "Stakeholder reporting"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [
+      "CAPM, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

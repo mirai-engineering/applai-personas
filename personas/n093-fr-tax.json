@@ -1,0 +1,111 @@
+{
+  "slug": "n093-fr-tax",
+  "level": "senior",
+  "profession": "tax",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Tax Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Fiscaliste"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Claire Faure-Delmas",
+    "headline": "Tax Manager | Corporate tax, VAT & transfer pricing | Avocate fiscaliste",
+    "contact": {
+      "email": "claire.faure-delmas@example.com",
+      "phone": "+33 63 0000 093",
+      "location": "Toulouse",
+      "links": []
+    },
+    "summary": "French tax lawyer with eleven years between law firms, an audit network and an in-house aerospace role. I advise on corporate income tax, VAT and transfer pricing and I like translating tax rules for operational teams.",
+    "experience": [
+      {
+        "title": "Tax Manager – M1 / Responsable fiscal",
+        "company": "Airtek Composites SAS",
+        "location": "Colomiers",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Run the French tax function for a group of four entities (€600M revenue)",
+          "Prepare and review CIT returns, CVAE and the R&D tax credit (CIR) files",
+          "Coordinated a tax audit with no material reassessment",
+          "Updated the transfer pricing documentation with external advisers"
+        ]
+      },
+      {
+        "title": "Tax Sr. Associate (Grade A2) → Manager",
+        "company": "Occitanie Expertise & Conseil",
+        "location": "Toulouse",
+        "dates": "2017 – 2022",
+        "bullets": [
+          "Corporate tax compliance and advisory for mid-size companies",
+          "VAT reviews for cross-border e-commerce clients"
+        ]
+      },
+      {
+        "title": "Juriste fiscaliste / Avocate collaboratrice",
+        "company": "Cabinet Saint-Sernin Avocats",
+        "location": "Toulouse",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Research notes and restructuring files (mergers, contributions)"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master 2 Droit fiscal",
+        "school": "Université Toulouse Capitole",
+        "dates": "2013 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "CAPA (Certificat d'aptitude à la profession d'avocat)",
+        "school": "École des Avocats Sud-Ouest Pyrénées",
+        "dates": "2014 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "French corporate tax (IS, CVAE)",
+      "VAT and e-invoicing reform",
+      "Transfer pricing (OECD guidelines)",
+      "Crédit d'impôt recherche",
+      "Tax audits",
+      "SAP FI basics"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "Admitted to the Toulouse Bar, 2015"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

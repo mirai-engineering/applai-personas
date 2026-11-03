@@ -1,0 +1,111 @@
+{
+  "slug": "n100-ir-recruiting",
+  "level": "mid",
+  "profession": "recruiting",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Talent Acquisition Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Recruitment Consultant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Ciarán Flaherty",
+    "headline": "Talent Acquisition Partner | Tech and medtech hiring | Agency, RPO and in-house",
+    "contact": {
+      "email": "ciaran.flaherty@example.com",
+      "phone": "+353 85 0000 100",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Recruiter with seven years across agency, RPO and in-house teams in the west of Ireland. A couple of short stints taught me what I want: in-house partnering with hiring managers on engineering and data roles.",
+    "experience": [
+      {
+        "title": "Talent Acquisition Partner",
+        "company": "Claddagh Data Systems",
+        "location": "Galway",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run full-cycle hiring for engineering, data and product roles; 38 hires in 2025",
+          "Partner with hiring managers on role scoping, interview design and offers",
+          "Cut average time to hire from 52 to 36 days",
+          "Set up the Greenhouse ATS and structured scorecards"
+        ]
+      },
+      {
+        "title": "Recruitment Consultant (contract RPO)",
+        "company": "Shannon Talent Solutions",
+        "location": "Limerick (remote)",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Volume hiring for a medtech client's manufacturing roles"
+        ]
+      },
+      {
+        "title": "Talent Acquisition Specialist",
+        "company": "Connemara Medical Ltd",
+        "location": "Galway",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Ten-month in-house role before the hiring freeze"
+        ]
+      },
+      {
+        "title": "Trainee Recruitment Consultant",
+        "company": "Atlantic People Recruitment",
+        "location": "Galway",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Agency recruitment for hospitality and office support roles"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA Economics and Sociology",
+        "school": "University of Galway",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Greenhouse, Workday Recruiting",
+      "LinkedIn Recruiter",
+      "Boolean sourcing",
+      "Structured interviewing",
+      "Offer negotiation",
+      "Employer branding"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2022–2023: travelled and worked in Australia"
+    ]
+  }
+}

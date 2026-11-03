@@ -1,0 +1,110 @@
+{
+  "slug": "n084-un-quality-management",
+  "level": "junior",
+  "profession": "quality management",
+  "band": "2-5",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Quality Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supplier Quality Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Developer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Callum Garside",
+    "headline": "Quality Engineer | ISO 9001 | Former chef turned manufacturing quality",
+    "contact": {
+      "email": "callum.garside@example.com",
+      "phone": "+44 77 0000 084",
+      "location": "Manchester",
+      "links": []
+    },
+    "summary": "Spent six years running professional kitchens, where HACCP and audits were part of the job, before retraining in mechanical engineering. Now a Quality Engineer in precision machining, handling inspection, NCRs and root-cause work.",
+    "experience": [
+      {
+        "title": "Quality Engineer",
+        "company": "Irwell Precision Components Ltd",
+        "location": "Trafford Park",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own non-conformance reports and 8D investigations for aerospace and rail customers",
+          "Write PPAP and first article inspection packs (AS9102)",
+          "Reduced internal scrap on a high-volume bracket line by 22% through a gauge R&R study and fixture change",
+          "Support ISO 9001 and AS9100 internal audits"
+        ]
+      },
+      {
+        "title": "Quality Inspector",
+        "company": "Trafford Sheet Metal Ltd",
+        "location": "Manchester",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "CMM and manual inspection to drawings; recording results in the QMS",
+          "Started using Minitab for SPC charts on bending operations"
+        ]
+      },
+      {
+        "title": "Sous Chef",
+        "company": "The Copper Kettle Kitchen",
+        "location": "Ancoats, Manchester",
+        "dates": "2015 – 2021",
+        "bullets": [
+          "Ran HACCP records and passed every EHO inspection with a 5 rating",
+          "Managed stock, suppliers and a team of six"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "HNC Mechanical Engineering",
+        "school": "The Manchester College",
+        "dates": "2021 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "NVQ Level 3 Professional Cookery",
+        "school": "Trafford College",
+        "dates": "2012 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISO 9001, AS9100",
+      "8D, 5 Whys, Ishikawa",
+      "FAI (AS9102), PPAP",
+      "CMM (Zeiss Calypso), GD&T",
+      "Minitab, SPC",
+      "HACCP"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2023",
+      "CQI/IRCA Internal Auditor ISO 9001"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

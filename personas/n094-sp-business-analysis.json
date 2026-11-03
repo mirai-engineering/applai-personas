@@ -1,0 +1,112 @@
+{
+  "slug": "n094-sp-business-analysis",
+  "level": "senior",
+  "profession": "business analysis",
+  "band": "8-12",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Business Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analista Funcional"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Enfermero"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Iker Goikoetxea Urrutia",
+    "headline": "Business Analyst Lead | Banca y seguros | Analista funcional",
+    "contact": {
+      "email": "iker.goikoetxea@example.com",
+      "phone": "+34 612 0000 094",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Ingeniero informático con doce años en consultoría y en el sector financiero vasco. He pasado de programar a analizar procesos y definir requisitos, y ahora coordino a un equipo de analistas en proyectos de transformación de seguros.",
+    "experience": [
+      {
+        "title": "Business Analyst Lead",
+        "company": "Ibaizabal Seguros",
+        "location": "Bilbao",
+        "dates": "2021 – actualidad",
+        "bullets": [
+          "Coordinación de cinco analistas en el programa de renovación del sistema de siniestros",
+          "Definición de requisitos y criterios de aceptación con negocio, TI y proveedores",
+          "Reducción del plazo medio de apertura de siniestros de 4 días a 1 día tras rediseñar el proceso",
+          "Facilitación de talleres de priorización y mantenimiento del backlog en Jira"
+        ]
+      },
+      {
+        "title": "BA / PO – Banca",
+        "company": "Nervión Sistemas Bancarios",
+        "location": "Bilbao",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Product owner de la app de banca para empresas y analista de pagos SEPA",
+          "Coordinación de pruebas de aceptación con los usuarios"
+        ]
+      },
+      {
+        "title": "Consultor TI (Nivel C2) / Analista Funcional Sr.",
+        "company": "Bizkaia Consulting Tech",
+        "location": "Bilbao",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Análisis funcional y desarrollo en Java para clientes de banca y energía"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Ingeniería Informática",
+        "school": "Universidad de Deusto",
+        "dates": "2009 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "Máster en Dirección de Proyectos",
+        "school": "Mondragon Unibertsitatea",
+        "dates": "2018 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Análisis de procesos, BPMN 2.0",
+      "Historias de usuario y criterios de aceptación",
+      "Jira, Confluence",
+      "SQL",
+      "Pagos SEPA, normativa de seguros",
+      "Scrum"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Euskera (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "IIBA CBAP, 2020",
+      "Professional Scrum Product Owner I"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "n092-un-accounting",
+  "level": "mid",
+  "profession": "accounting",
+  "band": "5-8",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Accountant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Management Accountant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Project Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Rebecca Fenwick",
+    "headline": "ACCA Senior Accountant | Month-end, statutory accounts and audit",
+    "contact": {
+      "email": "rebecca.fenwick@example.com",
+      "phone": "+44 78 0000 092",
+      "location": "Bristol",
+      "links": []
+    },
+    "summary": "ACCA-qualified accountant with eight years across practice, food and drink manufacturing and the housing sector. I run the month-end close, prepare statutory accounts and look after the audit relationship.",
+    "experience": [
+      {
+        "title": "Senior Accountant",
+        "company": "Severnside Housing Trust",
+        "location": "Bristol",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Lead the month-end close for a group with £140M turnover; close shortened from 9 to 6 working days",
+          "Prepare statutory accounts under FRS 102 and the Housing SORP",
+          "Main contact for external auditors and the audit committee papers",
+          "Supervise two assistant accountants"
+        ]
+      },
+      {
+        "title": "Management Accountant",
+        "company": "Avon Gorge Cider Co.",
+        "location": "Bristol",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Monthly management accounts, stock valuation and margin analysis by product",
+          "Supported the move from Sage 200 to Xero"
+        ]
+      },
+      {
+        "title": "Trainee Accountant",
+        "company": "Hartcliffe & Penrose LLP",
+        "location": "Bristol",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Year-end accounts, VAT returns and corporation tax computations for SME clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Accounting and Finance",
+        "school": "University of Bath",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "FRS 102, Housing SORP",
+      "Statutory accounts",
+      "Month-end close and reconciliations",
+      "Xero, Sage 200, Excel",
+      "VAT",
+      "Audit liaison"
+    ],
+    "languages": [
+      "English (native)",
+      "French (basic)"
+    ],
+    "certifications": [
+      "ACCA, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

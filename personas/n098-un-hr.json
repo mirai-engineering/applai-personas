@@ -1,0 +1,102 @@
+{
+  "slug": "n098-un-hr",
+  "level": "junior",
+  "profession": "hr",
+  "band": "2-5",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "HR Advisor"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Eilidh Graham",
+    "headline": "HR Business Partner (Associate) | Employee relations | CIPD Level 5",
+    "contact": {
+      "email": "eilidh.graham@example.com",
+      "phone": "+44 74 0000 098",
+      "location": "Edinburgh",
+      "links": []
+    },
+    "summary": "HR professional with five years in Scottish financial services, moving from HR assistant to associate business partner. I support managers on employee relations, absence and organisational change.",
+    "experience": [
+      {
+        "title": "Associate HR Business Partner",
+        "company": "Forth Valley Insurance Group",
+        "location": "Edinburgh",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Partner with operations and claims leaders covering 450 colleagues",
+          "Lead employee relations cases including grievances and capability",
+          "Supported a restructure affecting 60 roles with collective consultation",
+          "Use Workday reporting to track absence and attrition by team"
+        ]
+      },
+      {
+        "title": "HR Advisor",
+        "company": "Forth Valley Insurance Group",
+        "location": "Edinburgh",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Advised managers on policy, absence and family leave",
+          "Reduced long-term absence cases by 15% with earlier occupational health referrals"
+        ]
+      },
+      {
+        "title": "HR Assistant",
+        "company": "Lothian Rail Engineering Ltd",
+        "location": "Livingston",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Contracts, onboarding and HR administration for a 300-person workforce"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA (Hons) Psychology and Business",
+        "school": "University of Stirling",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Employee relations",
+      "UK employment law",
+      "Organisational change and consultation",
+      "Workday HCM",
+      "Absence management",
+      "Coaching managers"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "CIPD Level 5 Associate Diploma in People Management, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

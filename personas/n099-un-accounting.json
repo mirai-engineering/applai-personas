@@ -1,0 +1,102 @@
+{
+  "slug": "n099-un-accounting",
+  "level": "mid",
+  "profession": "accounting",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Accountant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "General Ledger Accountant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Recruiter"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Marcus Gaines",
+    "headline": "CPA | Sr. GL Accountant | Month-end close, reconciliations, NetSuite",
+    "contact": {
+      "email": "marcus.gaines@example.com",
+      "phone": "+1 312 0000 099",
+      "location": "Chicago, IL",
+      "links": []
+    },
+    "summary": "CPA with seven years of corporate accounting in Chicago, across cold storage, healthcare and industrial distribution. Strong on close, reconciliations and audit support, and currently covering as acting supervisor.",
+    "experience": [
+      {
+        "title": "Sr. GL Accountant / Acting Supervisor",
+        "company": "Wabash Industrial Supply Co.",
+        "location": "Chicago, IL",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Own the GL close for 6 entities; close cut from 10 to 7 business days",
+          "Review reconciliations and journal entries prepared by two staff accountants",
+          "Lead fixed asset and lease accounting under ASC 842",
+          "PBC lists and walkthroughs for the external audit"
+        ]
+      },
+      {
+        "title": "Accountant II (Grade 22)",
+        "company": "Pilsen Ridge Health Partners",
+        "location": "Chicago, IL",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Revenue and AR reconciliations for outpatient clinics",
+          "Supported the move from Great Plains to NetSuite"
+        ]
+      },
+      {
+        "title": "Staff Acct I",
+        "company": "Lakeshore Cold Storage Inc.",
+        "location": "Chicago, IL",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "AP, accruals and bank reconciliations"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Accountancy",
+        "school": "DePaul University",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "US GAAP, ASC 842",
+      "NetSuite, Great Plains",
+      "BlackLine",
+      "Excel (pivot tables, INDEX/MATCH)",
+      "Account reconciliations",
+      "SOX controls"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Certified Public Accountant (Illinois), 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

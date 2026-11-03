@@ -1,0 +1,112 @@
+{
+  "slug": "n087-fr-software-engineering",
+  "level": "junior",
+  "profession": "software engineering",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Software Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Manager"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Hugo Gautier",
+    "headline": "Software Engineer – Backend (Kotlin, Go) & Platform / DevOps",
+    "contact": {
+      "email": "hugo.gautier@example.com",
+      "phone": "+33 61 0000 087",
+      "location": "Nantes",
+      "links": [
+        "github.com/hugo-gautier-example"
+      ]
+    },
+    "summary": "Engineer from IMT Atlantique with four years of backend and platform work in Nantes. Half my time goes to APIs, the other half to CI/CD, Kubernetes and observability, so I can move into either a software or a DevOps role.",
+    "experience": [
+      {
+        "title": "Software Engineer, Backend & Platform",
+        "company": "Loire Mobility Labs",
+        "location": "Nantes",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Develop booking and pricing APIs in Kotlin/Spring Boot for a regional car-sharing service",
+          "Migrated services from VMs to Kubernetes (GKE) with Helm and Argo CD",
+          "Set up Prometheus and Grafana alerting; on-call incidents per month down by about half",
+          "Write Terraform modules for shared infrastructure"
+        ]
+      },
+      {
+        "title": "Junior Software Engineer",
+        "company": "Erdre Logistique Numérique",
+        "location": "Nantes",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Built Go microservices for warehouse scanning devices",
+          "Maintained GitLab CI pipelines and Docker images"
+        ]
+      },
+      {
+        "title": "Software Engineering Apprentice (alternance)",
+        "company": "Erdre Logistique Numérique",
+        "location": "Nantes",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Worked on internal tools in Python and Vue.js alongside the final years of the engineering degree"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur (MSc) – Software Engineering",
+        "school": "IMT Atlantique",
+        "dates": "2019 – 2022",
+        "details": "Apprenticeship track"
+      },
+      {
+        "degree": "DUT Informatique",
+        "school": "IUT de Nantes",
+        "dates": "2017 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Kotlin, Spring Boot, Go, Python",
+      "PostgreSQL, Redis",
+      "Kubernetes, Helm, Argo CD",
+      "Terraform, GCP",
+      "GitLab CI, Docker",
+      "Prometheus, Grafana"
+    ],
+    "languages": [
+      "French (native)",
+      "English (professional)"
+    ],
+    "certifications": [
+      "Certified Kubernetes Application Developer (CKAD), 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "n088-sw-data-engineering",
+  "level": "junior",
+  "profession": "data engineering",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingénieure BI"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Infirmière"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Léa Girardin",
+    "headline": "Data Engineer | Pipelines Azure et Python | Secteur pharma et logistique",
+    "contact": {
+      "email": "lea.girardin@example.com",
+      "phone": "+41 76 0000 088",
+      "location": "Bâle",
+      "links": []
+    },
+    "summary": "Ingénieure données avec trois ans d'expérience à Bâle, dans la pharma et la logistique portuaire. Je construis des pipelines fiables et je travaille avec les équipes métier pour que les données soient utiles dans les rapports.",
+    "experience": [
+      {
+        "title": "Data Eng. II",
+        "company": "Pharmaplus Dreispitz AG",
+        "location": "Bâle",
+        "dates": "2024 – aujourd'hui",
+        "bullets": [
+          "Conception et maintenance de pipelines Azure Data Factory pour les données de production et de qualité",
+          "Mise en place de tests de données avec dbt et documentation du modèle pour la validation GxP",
+          "Réduction de 30 % du coût mensuel du cluster Databricks grâce à l'optimisation des jobs",
+          "Support aux analystes pour les tableaux de bord Power BI"
+        ]
+      },
+      {
+        "title": "Analyste Data – Grade 7",
+        "company": "Kleinbasel Analytics GmbH",
+        "location": "Bâle",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Préparation de données de suivi de conteneurs pour un client du port rhénan",
+          "Automatisation de rapports avec Python et SQL"
+        ]
+      },
+      {
+        "title": "Ingénieure données / BI (stage → CDI)",
+        "company": "Rhenus Port Services Basel (filiale)",
+        "location": "Bâle",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Stage de fin d'études transformé en contrat; modélisation d'un entrepôt de données pour la facturation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science en statistique",
+        "school": "Université de Neuchâtel",
+        "dates": "2020 – 2022",
+        "details": "Mémoire: détection d'anomalies dans des séries temporelles industrielles"
+      },
+      {
+        "degree": "Bachelor en mathématiques",
+        "school": "Université de Fribourg",
+        "dates": "2017 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Python, SQL, PySpark",
+      "Azure Data Factory, Databricks",
+      "dbt, tests de données",
+      "Power BI",
+      "Git, Azure DevOps",
+      "Notions de GxP et intégrité des données (ALCOA+)"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (B2)",
+      "Anglais (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

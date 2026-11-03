@@ -1,0 +1,104 @@
+{
+  "slug": "n086-ge-sales",
+  "level": "mid",
+  "profession": "sales",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Jonas Freitag",
+    "headline": "Account Executive Mid-Market | B2B SaaS | Former Customer Success Manager",
+    "contact": {
+      "email": "jonas.freitag@example.com",
+      "phone": "+49 157 0000 086",
+      "location": "Berlin",
+      "links": []
+    },
+    "summary": "Seven years in Berlin B2B SaaS, split between closing new business and keeping customers successful. I started as an SDR, spent two years in customer success and now sell workflow software to mid-market companies in DACH.",
+    "experience": [
+      {
+        "title": "Account Executive, Mid-Market DACH",
+        "company": "Lumenhaus Software GmbH",
+        "location": "Berlin",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Full-cycle sales to companies with 200–2,000 employees; average deal size €38k ARR",
+          "Closed 124% of quota in 2024 and 109% in 2025",
+          "Run discovery, demos and procurement negotiations with IT, works councils and purchasing",
+          "Built a partner referral motion with two implementation agencies"
+        ]
+      },
+      {
+        "title": "Customer Success Manager",
+        "company": "Spreeboard GmbH",
+        "location": "Berlin",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Managed a book of 70 SMB accounts; net revenue retention of 112%",
+          "Onboarding, QBRs and renewal negotiations",
+          "Wrote the churn-risk playbook still used by the team"
+        ]
+      },
+      {
+        "title": "Sales Development Representative",
+        "company": "Kiezlog GmbH",
+        "location": "Berlin",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Outbound prospecting in German and English; booked 25+ meetings per month"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Business Administration",
+        "school": "HWR Berlin – Berlin School of Economics and Law",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Salesforce, HubSpot, Gong",
+      "MEDDICC, value selling",
+      "Renewals and expansion",
+      "Onboarding and QBRs",
+      "Contract negotiation",
+      "German and English business correspondence"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "Spanish (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

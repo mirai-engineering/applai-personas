@@ -1,0 +1,92 @@
+{
+  "slug": "n089-au-marketing",
+  "level": "intern",
+  "profession": "marketing",
+  "band": "0-2",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Social Media Coordinator"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Isla Fitzgerald",
+    "headline": "Marketing student | Social content, email and retail campaigns",
+    "contact": {
+      "email": "isla.fitzgerald@example.com",
+      "phone": "+61 421 0000 089",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Final-year marketing student at Macquarie University looking for a graduate or entry-level role. I currently support a skincare brand with social content and email, and I have three years of customer-facing retail work behind me.",
+    "experience": [
+      {
+        "title": "Marketing Intern",
+        "company": "Bondi Bloom Skincare",
+        "location": "Sydney",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Plan and schedule Instagram and TikTok content for two product lines",
+          "Build weekly EDMs in Klaviyo and report open and click rates",
+          "Helped coordinate a pop-up stall at a Bondi market",
+          "Grew TikTok followers from 3,000 to 11,500 over six months"
+        ]
+      },
+      {
+        "title": "Bookseller (casual)",
+        "company": "Glebe Point Books",
+        "location": "Sydney",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Customer service, window displays and the shop's monthly newsletter"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Marketing and Media",
+        "school": "Macquarie University",
+        "dates": "2023 – 2026",
+        "details": "Expected graduation December 2026; WAM 76"
+      }
+    ],
+    "skills": [
+      "Canva, Adobe Express",
+      "Klaviyo, Mailchimp",
+      "Meta Business Suite, TikTok",
+      "Google Analytics 4 basics",
+      "Copywriting",
+      "Customer service"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Uni project: go-to-market plan for a refillable cleaning products startup (High Distinction)"
+    ],
+    "extra_sections": []
+  }
+}

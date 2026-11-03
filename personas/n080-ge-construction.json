@@ -1,0 +1,117 @@
+{
+  "slug": "n080-ge-construction",
+  "level": "exec",
+  "profession": "construction",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Geschäftsführer Bau"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Construction"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Business Partner"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Kemal Gündoğdu",
+    "headline": "Geschäftsführer Technik | Hochbau & Wohnungsbau | Interim-Projektleitung",
+    "contact": {
+      "email": "kemal.gundogdu@example.com",
+      "phone": "+49 160 0000 080",
+      "location": "Köln",
+      "links": []
+    },
+    "summary": "Bauingenieur mit zwanzig Jahren Erfahrung in Ausführung, Projektsteuerung und Geschäftsführung. Ich habe zwischen Bauunternehmen, Bauträgern und eigener Interim-Tätigkeit gewechselt und verantworte heute die Technik eines Hochbauunternehmens mit 180 Mitarbeitenden im Rheinland.",
+    "experience": [
+      {
+        "title": "Geschäftsführer Technik",
+        "company": "Bergheimer Hochbau GmbH & Co. KG",
+        "location": "Bergheim / Köln",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortung für Kalkulation, Arbeitsvorbereitung und Ausführung mit einem Jahresumsatz von ca. 95 Mio. €",
+          "Führung von vier Oberbauleitern und rund 120 gewerblichen Mitarbeitenden",
+          "Einführung von BIM-gestützter Mengenermittlung und digitalem Bautagebuch",
+          "Neuaufstellung des Nachtragsmanagements; Ergebnisbeitrag aus Nachträgen um 2,3 Mio. € verbessert"
+        ]
+      },
+      {
+        "title": "Interim-Projektdirektor (selbstständig)",
+        "company": "Gündoğdu Baumanagement",
+        "location": "Köln",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Übernahme eines in Verzug geratenen Quartiersprojekts mit 240 Wohneinheiten für einen Bauträger",
+          "Restrukturierung des Terminplans und Neuvergabe von zwei Gewerken"
+        ]
+      },
+      {
+        "title": "Bereichsleiter Wohnungsbau",
+        "company": "Rheinbau Kessel GmbH",
+        "location": "Köln",
+        "dates": "2013 – 2021",
+        "bullets": [
+          "Leitung des Bereichs mit 35 Mio. € Jahresleistung und Ergebnisverantwortung",
+          "Schlüsselfertige Ausführung von Mehrfamilienhäusern und Pflegeimmobilien"
+        ]
+      },
+      {
+        "title": "Projektsteuerer, später Bauleiter",
+        "company": "Domblick Projektsteuerung GmbH",
+        "location": "Köln",
+        "dates": "2006 – 2013",
+        "bullets": [
+          "Projektsteuerung nach AHO für öffentliche Auftraggeber, anschließend Wechsel in die Bauleitung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplom-Ingenieur Bauingenieurwesen",
+        "school": "RWTH Aachen",
+        "dates": "2000 – 2006",
+        "details": "Vertiefung Baubetrieb und Projektmanagement"
+      }
+    ],
+    "skills": [
+      "VOB/B, BGB-Bauvertrag, HOAI",
+      "Kalkulation und Arbeitskalkulation (RIB iTWO)",
+      "Nachtragsmanagement",
+      "BIM (Autodesk Revit, Desite)",
+      "Arbeitssicherheit, SiGeKo",
+      "Personalführung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Türkisch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [
+      "SiGeKo nach RAB 30, Anlage B und C"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Mitglied im Prüfungsausschuss der IHK Köln für Bauzeichner"
+    ]
+  }
+}

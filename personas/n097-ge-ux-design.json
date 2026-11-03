@@ -1,0 +1,99 @@
+{
+  "slug": "n097-ge-ux-design",
+  "level": "intern",
+  "profession": "ux design",
+  "band": "0-2",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "UX Design Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Werkstudent UX Design"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Tax Accountant"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Nils Grabowski",
+    "headline": "HCI master's student | UX design and research | Background in architecture",
+    "contact": {
+      "email": "nils.grabowski@example.com",
+      "phone": "+49 176 0000 097",
+      "location": "Munich",
+      "links": []
+    },
+    "summary": "Master's student in Human-Computer Interaction at LMU Munich after a bachelor's in architecture. I have tried research and design roles at two startups and now look for an internship or working-student role in product UX.",
+    "experience": [
+      {
+        "title": "UX Design Intern",
+        "company": "Isarlicht Mobility GmbH",
+        "location": "Munich",
+        "dates": "2026 – Present",
+        "bullets": [
+          "Designing flows for an e-bike subscription app in Figma",
+          "Ran 12 remote usability tests and summarised findings for the product team",
+          "Built a clickable prototype for a new damage-report feature"
+        ]
+      },
+      {
+        "title": "Working Student UX Research",
+        "company": "Bavaria Health Apps GmbH",
+        "location": "Munich",
+        "dates": "2025",
+        "bullets": [
+          "Seven-month role recruiting participants and transcribing interviews for a diabetes app"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Human-Computer Interaction",
+        "school": "Ludwig-Maximilians-Universität München",
+        "dates": "2025 – present",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Architecture",
+        "school": "Technische Universität München",
+        "dates": "2020 – 2024",
+        "details": "Bachelor's thesis: wayfinding in hospital buildings"
+      }
+    ],
+    "skills": [
+      "Figma, ProtoPie",
+      "Usability testing, interview synthesis",
+      "Sketching and spatial thinking",
+      "Rhino, Adobe Creative Cloud",
+      "Basic HTML/CSS and React"
+    ],
+    "languages": [
+      "German (native)",
+      "Polish (conversational)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Course project: voice interface for elderly users, tested in a care home"
+    ],
+    "extra_sections": []
+  }
+}

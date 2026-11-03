@@ -1,0 +1,102 @@
+{
+  "slug": "n083-au-marketing",
+  "level": "senior",
+  "profession": "marketing",
+  "band": "8-12",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mining Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Bronwyn Fairweather",
+    "headline": "Marketing Manager | Brand & Integrated Campaigns | WA consumer and B2B",
+    "contact": {
+      "email": "bronwyn.fairweather@example.com",
+      "phone": "+61 418 0000 083",
+      "location": "Perth, WA",
+      "links": []
+    },
+    "summary": "Marketer with eleven years in Western Australia across a credit union, an equipment hire business and a lifestyle retail group. I like owning the whole plan, from brand positioning to the budget spreadsheet.",
+    "experience": [
+      {
+        "title": "Sr. Marketing Lead (Level 7) / Acting Head of Brand",
+        "company": "Indian Ocean Lifestyle Group",
+        "location": "Perth",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Own a A$3.2M marketing budget across five retail and hospitality brands",
+          "Led the relaunch of the group loyalty program; active members grew to 140,000",
+          "Manage a team of four plus creative and media agencies",
+          "Introduced quarterly brand tracking with an external research partner"
+        ]
+      },
+      {
+        "title": "Brand Mgr – Grade 6",
+        "company": "Pilbara Earthmoving Hire",
+        "location": "Perth",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Repositioned the brand for tier-one mining clients and rebuilt the website",
+          "Coordinated trade show presence at Diggers & Dealers"
+        ]
+      },
+      {
+        "title": "Mktg Coordinator / Marketing Officer",
+        "company": "Swan Coastal Credit Union",
+        "location": "Perth",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Campaigns for home loans and member events; EDM and print production"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Marketing and Management)",
+        "school": "Curtin University",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Integrated campaign planning",
+      "Brand tracking and research briefs",
+      "Budget management",
+      "Salesforce Marketing Cloud",
+      "Google Analytics 4, Meta Ads Manager",
+      "Agency management"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "AMI Certified Practising Marketer (CPM)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

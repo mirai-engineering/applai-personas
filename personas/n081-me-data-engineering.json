@@ -1,0 +1,106 @@
+{
+  "slug": "n081-me-data-engineering",
+  "level": "mid",
+  "profession": "data engineering",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniero de Datos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analista de BI"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ejecutivo de Ventas"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Ricardo Garza Leal",
+    "headline": "Ingeniero de Datos Sr. | Analista BI | Azure · dbt · Power BI",
+    "contact": {
+      "email": "ricardo.garza@example.com",
+      "phone": "+52 81 0000 0081",
+      "location": "Monterrey, N. L.",
+      "links": []
+    },
+    "summary": "Ingeniero en sistemas con siete años de experiencia entre inteligencia de negocios e ingeniería de datos. Construyo pipelines en la nube y también diseño los tableros con los que el negocio toma decisiones, por lo que me muevo con facilidad entre ambos roles.",
+    "experience": [
+      {
+        "title": "Ingeniero de Datos Sr.",
+        "company": "Aceros Cumbre del Norte",
+        "location": "Monterrey",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Diseño del data lakehouse en Azure Databricks para datos de producción y ventas de tres plantas",
+          "Migración de 120 procesos ETL de SSIS a pipelines en Data Factory y dbt",
+          "Reducción del tiempo de carga nocturna de 6 a 1,5 horas",
+          "Definición de estándares de calidad de datos con Great Expectations y revisión de código para el equipo"
+        ]
+      },
+      {
+        "title": "Ingeniero de Datos",
+        "company": "Créditos Sierra Madre",
+        "location": "San Pedro Garza García",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Integración de datos de originación de créditos con Python y PostgreSQL",
+          "Modelado dimensional para reportes regulatorios ante la CNBV"
+        ]
+      },
+      {
+        "title": "Analista de Inteligencia de Negocios",
+        "company": "Distribuidora Regiomontana del Norte",
+        "location": "Monterrey",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Desarrollo de tableros de ventas y rotación de inventario en Power BI para 40 gerentes",
+          "Automatización de reportes semanales que antes se preparaban a mano en Excel"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería en Sistemas Computacionales",
+        "school": "Universidad Autónoma de Nuevo León (FIME)",
+        "dates": "2013 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Python, SQL, PySpark",
+      "Azure Data Factory, Databricks, Synapse",
+      "dbt, Great Expectations",
+      "Power BI, DAX, modelado dimensional",
+      "Git, Azure DevOps",
+      "SQL Server, PostgreSQL"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Azure Data Engineer Associate (DP-203)",
+      "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

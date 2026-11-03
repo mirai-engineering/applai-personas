@@ -1,0 +1,111 @@
+{
+  "slug": "n096-fr-ux-design",
+  "level": "mid",
+  "profession": "ux design",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "UX Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chargée d'études UX"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Élodie Guérin",
+    "headline": "UX/UI Designer | Ex-journaliste | Parcours santé et services en ligne",
+    "contact": {
+      "email": "elodie.guerin@example.com",
+      "phone": "+33 64 0000 096",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Ancienne journaliste web reconvertie dans le design UX en 2020. Mon métier d'origine m'a appris l'écoute, la synthèse et l'écriture claire, que j'utilise aujourd'hui pour concevoir des parcours simples avec les utilisateurs et les équipes produit.",
+    "experience": [
+      {
+        "title": "UX/UI Designer",
+        "company": "Mutuelle Ternes Santé",
+        "location": "Paris",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Refonte du parcours de remboursement en ligne avec l'équipe produit et les développeurs",
+          "Animation d'entretiens et de tests utilisateurs avec des adhérents de tous âges",
+          "Mise en conformité RGAA de l'espace adhérent avec le référent accessibilité",
+          "Contribution au design system dans Figma",
+          "Baisse de 25 % des appels au service client sur les questions de remboursement"
+        ]
+      },
+      {
+        "title": "UX Designer junior",
+        "company": "Agence Pixelor",
+        "location": "Paris",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Wireframes et prototypes pour des sites de collectivités et d'associations",
+          "Rédaction de contenus et microcopie pour les interfaces"
+        ]
+      },
+      {
+        "title": "Journaliste web",
+        "company": "Média Banlieues Ouest",
+        "location": "Nanterre",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Rédaction d'articles locaux, gestion du site et des réseaux sociaux",
+          "Pilotage de la refonte éditoriale de la page d'accueil"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Titre RNCP Concepteur designer UX (niveau 6)",
+        "school": "École Numérique Parisienne",
+        "dates": "2020 – 2021",
+        "details": ""
+      },
+      {
+        "degree": "Master Journalisme",
+        "school": "CELSA Sorbonne Université",
+        "dates": "2014 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Figma, FigJam",
+      "Recherche utilisateur, tests d'utilisabilité",
+      "Accessibilité RGAA",
+      "Architecture de l'information",
+      "UX writing",
+      "Atelier de co-conception"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Italien (notions)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
