@@ -1,0 +1,98 @@
+{
+  "slug": "n236-au-manufacturing",
+  "level": "intern",
+  "profession": "manufacturing",
+  "band": "0-2",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Praktikum Produktion"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Production Management Trainee"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Assistant"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Lukas Stadlober",
+    "headline": "Student Wirtschaftsingenieurwesen-Maschinenbau | Produktion & Lean",
+    "contact": {
+      "email": "lukas.stadlober@example.com",
+      "phone": "+43 650 0000 236",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Masterstudent im Wirtschaftsingenieurwesen mit Praxis in der Fertigung eines Automobilzulieferers. Ich suche einen Einstieg in die Produktionsleitung, zum Beispiel als Trainee oder Junior Produktionsplaner.",
+    "experience": [
+      {
+        "title": "Werkstudent Produktion",
+        "company": "Grazer Präzisionsteile GmbH",
+        "location": "Graz",
+        "dates": "2025 – heute",
+        "bullets": [
+          "Unterstützung der Fertigungsleitung bei der OEE-Auswertung von zwölf CNC-Bearbeitungszentren",
+          "Aufbau eines Excel-Dashboards für Stillstandsgründe, das in der Frühbesprechung genutzt wird",
+          "Mitarbeit an einem SMED-Workshop, Rüstzeit an einer Linie um 22 % reduziert"
+        ]
+      },
+      {
+        "title": "Ferialpraktikant Montage",
+        "company": "Schöckl Fahrzeugtechnik AG",
+        "location": "Gleisdorf",
+        "dates": "Jul – Sep 2024",
+        "bullets": [
+          "Mitarbeit in der Vormontage und Dokumentation von Prozessabweichungen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Wirtschaftsingenieurwesen-Maschinenbau",
+        "school": "Technische Universität Graz",
+        "dates": "2024 – heute",
+        "details": "Schwerpunkt Produktionstechnik"
+      },
+      {
+        "degree": "BSc Wirtschaftsingenieurwesen-Maschinenbau",
+        "school": "Technische Universität Graz",
+        "dates": "2020 – 2024",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lean Production, SMED, Wertstromanalyse",
+      "OEE und Kennzahlen",
+      "SAP PP (Grundlagen)",
+      "Excel, Power Query",
+      "CATIA V5 (Grundlagen)"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Bachelorarbeit: Wertstromdesign für eine Kleinserienfertigung"
+    ],
+    "extra_sections": []
+  }
+}

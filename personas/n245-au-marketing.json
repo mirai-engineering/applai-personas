@@ -1,0 +1,93 @@
+{
+  "slug": "n245-au-marketing",
+  "level": "intern",
+  "profession": "marketing",
+  "band": "0-2",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Praktikum"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Sales Trainee"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Qualitätsingenieur"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Elif Stanić",
+    "headline": "Studentin Marketing & Sales | Content, Kampagnen und Vertriebsunterstützung",
+    "contact": {
+      "email": "elif.stanic@example.com",
+      "phone": "+43 699 0000 245",
+      "location": "Wien",
+      "links": []
+    },
+    "summary": "Studentin an der WU Wien mit Praxis im Marketing und im Vertriebsinnendienst. Ich arbeite gerne mit Kundinnen und Kunden und mit Zahlen und könnte mir den Einstieg sowohl im Marketing als auch im Vertrieb vorstellen.",
+    "experience": [
+      {
+        "title": "Praktikantin Marketing",
+        "company": "Wiener Kaffeerösterei Habsburg GmbH",
+        "location": "Wien",
+        "dates": "Mär 2026 – heute",
+        "bullets": [
+          "Planung von Instagram- und Newsletter-Kampagnen für den Onlineshop",
+          "Auswertung der Kampagnen mit Google Analytics und Erstellung eines Monatsberichts",
+          "Organisation einer Verkostung für Gastronomiekunden mit 80 Gästen"
+        ]
+      },
+      {
+        "title": "Vertriebsassistentin (geringfügig)",
+        "company": "Donau Bürobedarf KG",
+        "location": "Wien",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Angebotserstellung und Nachfassen von Anfragen im Vertriebsinnendienst",
+          "Pflege der Kundendaten im CRM"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Wirtschafts- und Sozialwissenschaften",
+        "school": "Wirtschaftsuniversität Wien",
+        "dates": "2023 – heute",
+        "details": "Spezialisierung Marketing"
+      }
+    ],
+    "skills": [
+      "Social Media, Newsletter (Mailchimp)",
+      "Google Analytics 4",
+      "Pipedrive CRM",
+      "Angebotserstellung",
+      "Excel, PowerPoint",
+      "Canva"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Bosnisch/Kroatisch/Serbisch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

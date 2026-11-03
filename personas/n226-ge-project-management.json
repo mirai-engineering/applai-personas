@@ -1,0 +1,112 @@
+{
+  "slug": "n226-ge-project-management",
+  "level": "senior",
+  "profession": "project management",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Project Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Pharmacist"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Daniel Reinholt",
+    "headline": "Senior Project Manager | Port & Maritime IT | PRINCE2",
+    "contact": {
+      "email": "daniel.reinholt@example.com",
+      "phone": "+49 151 0000 226",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Project manager with ten years in maritime logistics IT, delivering terminal operating system rollouts and customs integrations for container terminals and shipping lines. Comfortable running hybrid delivery with German and international teams.",
+    "experience": [
+      {
+        "title": "Senior Project Manager",
+        "company": "Elbkai Terminal Systems GmbH",
+        "location": "Hamburg",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead the rollout of a new terminal operating system across two container terminals with 1,400 users",
+          "Manage a €9.5M budget and a team of 18 across IT, operations and two external vendors",
+          "Introduced a stage-gate model for change requests, cutting unplanned scope changes by roughly a third",
+          "Coordinate cutover planning with customs authorities and the port community system"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "company": "Nordhafen Logistik IT AG",
+        "location": "Hamburg",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Delivered the integration of the ATLAS customs interface for 60 forwarding clients",
+          "Ran steering committees and reported progress to the board on a monthly basis"
+        ]
+      },
+      {
+        "title": "Junior Project Manager",
+        "company": "Hansalink Consulting",
+        "location": "Bremen",
+        "dates": "2016 – 2018",
+        "bullets": [
+          "Supported ERP migration projects for mid-sized shipping agencies",
+          "Maintained project plans, RAID logs and status reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Logistics Management",
+        "school": "Kühne Logistics University",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Business Informatics",
+        "school": "Universität Bremen",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "PRINCE2, hybrid delivery (Scrum + stage gates)",
+      "Budget and resource planning, vendor management",
+      "Jira, Confluence, MS Project",
+      "Terminal operating systems, EDI, customs interfaces (ATLAS)",
+      "Risk management and cutover planning"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "Danish (basic)"
+    ],
+    "certifications": [
+      "PRINCE2 Practitioner, 2017",
+      "Professional Scrum Master I, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

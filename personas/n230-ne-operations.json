@@ -1,0 +1,113 @@
+{
+  "slug": "n230-ne-operations",
+  "level": "mid",
+  "profession": "operations",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Operations Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Teacher"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Femke Schoonhoven",
+    "headline": "Operations Manager | Supply Chain Planning | Port Logistics",
+    "contact": {
+      "email": "femke.schoonhoven@example.com",
+      "phone": "+31 6 0000 0230",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Operations manager with six years in warehousing and supply chain planning around the port of Rotterdam. Equally at home running a distribution centre floor and building S&OP forecasts, and open to roles on either side.",
+    "experience": [
+      {
+        "title": "Operations Manager",
+        "company": "Maasvlakte Distributie B.V.",
+        "location": "Rotterdam",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run day-to-day operations of a 42,000 m² bonded warehouse with 90 staff and temp workers",
+          "Improved order picking productivity by 18% after re-slotting fast movers",
+          "Own the operational budget, safety programme and client SLA reporting",
+          "Coordinate inbound container planning with terminals and carriers"
+        ]
+      },
+      {
+        "title": "Supply Chain Planner",
+        "company": "Holland Fresh Foods",
+        "location": "Barendrecht",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Prepared demand forecasts and the monthly S&OP cycle for 600 SKUs",
+          "Cut inventory days from 21 to 15 while keeping service level above 97%",
+          "Built planning reports in Power BI fed from SAP APO"
+        ]
+      },
+      {
+        "title": "Logistics Trainee",
+        "company": "Rijnmond Shipping Services",
+        "location": "Rotterdam",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Rotations in customs, freight forwarding and warehouse operations"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Supply Chain Management",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc International Business Administration",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Warehouse operations, WMS (Manhattan, Blue Yonder)",
+      "S&OP, demand and supply planning",
+      "SAP APO, Excel modelling",
+      "Power BI",
+      "Customs (AEO, bonded warehousing)",
+      "People leadership and VCA safety"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (good)"
+    ],
+    "certifications": [
+      "APICS CPIM Part 1, 2021",
+      "VCA Basis"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

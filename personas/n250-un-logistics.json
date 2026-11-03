@@ -1,0 +1,119 @@
+{
+  "slug": "n250-un-logistics",
+  "level": "mid",
+  "profession": "logistics",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Logistics Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Dispatcher"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Marcus Rivera-Sloan",
+    "headline": "Logistics Coordinator | Last-Mile & Distribution | Former restaurant manager",
+    "contact": {
+      "email": "marcus.rivera-sloan@example.com",
+      "phone": "+1 303 0000 250",
+      "location": "Denver, CO",
+      "links": []
+    },
+    "summary": "Logistics coordinator who moved into supply chain in 2023 after five years managing restaurants. Running a busy kitchen taught me scheduling, vendor management and staying calm when the truck is late; I now apply that to last-mile delivery.",
+    "experience": [
+      {
+        "title": "Logistics Coordinator",
+        "company": "Front Range Delivery Co.",
+        "location": "Denver, CO",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Plan daily routes for 25 drivers serving grocery and pharmacy clients",
+          "Raised on-time delivery from 91% to 96% by rebalancing routes in Onfleet",
+          "Track carrier invoices and resolve billing disputes",
+          "Train new dispatchers on the TMS"
+        ]
+      },
+      {
+        "title": "Logistics Associate",
+        "company": "Mile High Wholesale Supply",
+        "location": "Aurora, CO",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Scheduled inbound deliveries and kept inventory records in NetSuite"
+        ]
+      },
+      {
+        "title": "General Manager",
+        "company": "Larimer Street Kitchen",
+        "location": "Denver, CO",
+        "dates": "2018 – 2023",
+        "bullets": [
+          "Managed a 60-seat restaurant with 22 staff and US$2.1M annual sales",
+          "Negotiated with food distributors and cut food cost by 4 points"
+        ]
+      },
+      {
+        "title": "Assistant Manager",
+        "company": "Cherry Creek Bistro",
+        "location": "Denver, CO",
+        "dates": "2016 – 2018",
+        "bullets": [
+          "Handled staff scheduling and vendor orders"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Certificate in Supply Chain Management",
+        "school": "Metropolitan State University of Denver",
+        "dates": "2022 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "BA Hospitality Management",
+        "school": "University of Denver",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Route planning (Onfleet, Route4Me)",
+      "TMS and NetSuite",
+      "Carrier and vendor management",
+      "Excel, Google Sheets",
+      "DOT hours-of-service basics",
+      "Team training"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (fluent)"
+    ],
+    "certifications": [
+      "APICS CLTD (in progress)",
+      "OSHA 10-Hour General Industry"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

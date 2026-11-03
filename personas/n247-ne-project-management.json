@@ -1,0 +1,111 @@
+{
+  "slug": "n247-ne-project-management",
+  "level": "mid",
+  "profession": "project management",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Project Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Implementation Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Recruiter"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Bas Smulders",
+    "headline": "Project Manager | Infra & Energy | PRINCE2",
+    "contact": {
+      "email": "bas.smulders@example.com",
+      "phone": "+31 6 0000 0247",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Project manager with seven years in energy network and infrastructure projects. My titles have changed with every reorganisation, but the work has been the same: plans, budgets, contractors and permits.",
+    "experience": [
+      {
+        "title": "Sr. Projectleider (PL3)",
+        "company": "Deltanet Netwerkbeheer B.V.",
+        "location": "Rotterdam",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Manage grid reinforcement projects of €2–12M from design to commissioning",
+          "Coordinate permits with municipalities and Rijkswaterstaat",
+          "Steer three contractors and an internal team of ten engineers",
+          "Brought a delayed substation project back on schedule within six months"
+        ]
+      },
+      {
+        "title": "Project Mgr. / Contract Mgr.",
+        "company": "Nieuwe Maas Infra",
+        "location": "Dordrecht",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Ran UAV-GC contracts for quay wall renovations",
+          "Handled change requests and contractor claims"
+        ]
+      },
+      {
+        "title": "Medewerker Projectbureau",
+        "company": "Zuid-Holland Engineering",
+        "location": "Delft",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Planning and reporting support for road projects"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Construction Management and Engineering",
+        "school": "Delft University of Technology",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "BSc Civil Engineering",
+        "school": "Delft University of Technology",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "PRINCE2, IPM",
+      "UAV-GC and UAV 2012 contracts",
+      "Primavera P6, Relatics",
+      "Permits and stakeholder management",
+      "Risk management (RISMAN)",
+      "Budget control"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "PRINCE2 Practitioner",
+      "VCA VOL"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

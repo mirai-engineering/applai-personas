@@ -1,0 +1,109 @@
+{
+  "slug": "n248-un-communications",
+  "level": "senior",
+  "profession": "communications",
+  "band": "8-12",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Communications Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Communications"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Olivia Sterling-Ross",
+    "headline": "Communications Manager | Corporate & Internal Comms | Charity and Housing",
+    "contact": {
+      "email": "olivia.sterling-ross@example.com",
+      "phone": "+44 7700 0000 248",
+      "location": "London",
+      "links": []
+    },
+    "summary": "Communications manager with ten years in the housing association and charity sectors. I lead media relations, internal communications and crisis communications, and I write most of the difficult letters myself.",
+    "experience": [
+      {
+        "title": "Communications Manager",
+        "company": "Thamesgate Housing Trust",
+        "location": "London",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Lead a team of five across media, digital and internal communications for 28,000 homes",
+          "Managed communications during a damp and mould review, including resident letters and press enquiries",
+          "Launched a staff intranet used by 1,100 colleagues, replacing weekly email bulletins",
+          "Advise the executive team on reputation and regulatory announcements"
+        ]
+      },
+      {
+        "title": "Senior Communications Officer",
+        "company": "Bright Futures Children's Charity",
+        "location": "London",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Secured national coverage for two fundraising campaigns",
+          "Edited the annual impact report"
+        ]
+      },
+      {
+        "title": "Press Officer",
+        "company": "Camden Arts Network",
+        "location": "London",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Wrote press releases and managed journalist relationships for exhibitions"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA Journalism",
+        "school": "City, University of London",
+        "dates": "2014 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "BA English Literature",
+        "school": "University of Leeds",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Media relations and crisis communications",
+      "Internal communications, intranet (SharePoint)",
+      "Copywriting and editing",
+      "Stakeholder and resident engagement",
+      "Meltwater, Sprout Social",
+      "Plain English"
+    ],
+    "languages": [
+      "English (native)",
+      "Italian (intermediate)"
+    ],
+    "certifications": [
+      "CIPR Diploma in Internal Communication, 2019"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

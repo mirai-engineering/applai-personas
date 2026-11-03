@@ -1,0 +1,118 @@
+{
+  "slug": "n239-fr-key-account-management",
+  "level": "mid",
+  "profession": "key account management",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Responsable grands comptes"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingénieur civil"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Mathilde Sabatier",
+    "headline": "Key Account Manager | Grande distribution & Agroalimentaire",
+    "contact": {
+      "email": "mathilde.sabatier@example.com",
+      "phone": "+33 6 0000 239",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Commerciale grands comptes avec un parcours varié : agroalimentaire, une parenthèse en start-up et un passage en centrale d'achat. Cette double vision fournisseur et distributeur m'aide à préparer les négociations annuelles avec la grande distribution.",
+    "experience": [
+      {
+        "title": "Key Account Manager GMS",
+        "company": "Laiterie des Monts du Lyonnais",
+        "location": "Lyon",
+        "dates": "2024 – aujourd'hui",
+        "bullets": [
+          "Gestion de deux enseignes nationales représentant 11 M€ de chiffre d'affaires",
+          "Préparation et conduite des négociations annuelles dans le cadre de la loi EGalim",
+          "Suivi des plans promotionnels et de la rentabilité par compte avec le contrôle de gestion",
+          "Coordination avec la supply chain sur les taux de service"
+        ]
+      },
+      {
+        "title": "Acheteuse produits frais",
+        "company": "Centrale Rhône Distribution",
+        "location": "Villeurbanne",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Achat d'une gamme de produits laitiers pour 180 magasins",
+          "Négociation des conditions avec une quarantaine de fournisseurs régionaux"
+        ]
+      },
+      {
+        "title": "Business Developer",
+        "company": "Panier Local (start-up)",
+        "location": "Lyon",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Signature de 60 producteurs pour une plateforme de circuits courts, arrêtée après dix mois"
+        ]
+      },
+      {
+        "title": "Chargée de clientèle",
+        "company": "Fromageries Bressanes",
+        "location": "Bourg-en-Bresse",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Administration des ventes et suivi des commandes pour les grossistes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master Management des affaires, parcours Marketing et vente",
+        "school": "IAE Lyon",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Licence Économie-Gestion",
+        "school": "Université Lumière Lyon 2",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Négociation commerciale, loi EGalim",
+      "Plans d'affaires et suivi de la rentabilité",
+      "Nielsen, Circana",
+      "Salesforce, SAP SD",
+      "Trade marketing",
+      "Excel avancé"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Espagnol (intermédiaire)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "n232-ir-data-engineering",
+  "level": "mid",
+  "profession": "data engineering",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analytics Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Business Partner"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Ciarán Scanlon",
+    "headline": "Data Engineer | Python · Spark · Azure | MedTech data platforms",
+    "contact": {
+      "email": "ciaran.scanlon@example.com",
+      "phone": "+353 87 0000 232",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Data engineer with six years building pipelines in medical device manufacturing and fintech. Mostly Python, Spark and SQL on Azure, with a habit of making data quality visible before anyone asks.",
+    "experience": [
+      {
+        "title": "Software Eng. II – Data Platform (Grade 7)",
+        "company": "Corrib MedTech Ltd.",
+        "location": "Galway",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Build and maintain Azure Data Factory and Databricks pipelines for manufacturing and quality data",
+          "Moved 140 legacy SSIS packages to Databricks, reducing nightly load time from 6h to 1.5h",
+          "Introduced Great Expectations checks on validated GxP datasets",
+          "Pair with analysts on dbt models for the supply chain reporting layer"
+        ]
+      },
+      {
+        "title": "Sr. BI Dev / Data Eng",
+        "company": "Atlantic Payments Group",
+        "location": "Galway",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Maintained the Snowflake warehouse and Airflow DAGs for transaction reporting",
+          "Built the first CI/CD pipeline for SQL deployments"
+        ]
+      },
+      {
+        "title": "Graduate Analyst (IT)",
+        "company": "Westbridge Insurance DAC",
+        "location": "Dublin",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "SQL Server reporting and Excel automation for claims analytics"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Data Analytics",
+        "school": "University of Galway",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc Mathematics",
+        "school": "University of Limerick",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Python, PySpark, SQL",
+      "Azure Data Factory, Databricks, Delta Lake",
+      "Snowflake, dbt, Airflow",
+      "Data quality: Great Expectations",
+      "Git, Azure DevOps CI/CD",
+      "GxP / 21 CFR Part 11 data integrity"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Azure Data Engineer Associate (DP-203)"
+    ],
+    "projects": [
+      "Side project: open-source dbt package for ISO week calendars"
+    ],
+    "extra_sections": []
+  }
+}

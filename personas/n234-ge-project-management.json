@@ -1,0 +1,109 @@
+{
+  "slug": "n234-ge-project-management",
+  "level": "senior",
+  "profession": "project management",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektleiter"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Senior Project Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerfachangestellte"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Tobias Schrader",
+    "headline": "Projektleiter Bau & Infrastruktur | Öffentliche Auftraggeber",
+    "contact": {
+      "email": "tobias.schrader@example.com",
+      "phone": "+49 160 0000 234",
+      "location": "Berlin",
+      "links": []
+    },
+    "summary": "Bauingenieur und Projektleiter mit zehn Jahren Erfahrung im Projektmanagement für Schul- und Verwaltungsbauten öffentlicher Auftraggeber. Schwerpunkt auf Kosten- und Terminsteuerung nach AHO sowie der Koordination vieler Planungsbeteiligter.",
+    "experience": [
+      {
+        "title": "Projektleiter",
+        "company": "Spree Projektsteuerung GmbH",
+        "location": "Berlin",
+        "dates": "2020 – heute",
+        "bullets": [
+          "Projektsteuerung für drei Schulneubauten im Rahmen der Berliner Schulbauoffensive (Gesamtvolumen 145 Mio. €)",
+          "Kosten- und Terminsteuerung nach AHO Heft 9 sowie Berichterstattung an den Senat",
+          "Führung eines Teams von vier Projektingenieurinnen und -ingenieuren",
+          "Einhaltung des Kostenrahmens trotz Preissteigerungen durch frühzeitiges Nachtragsmanagement"
+        ]
+      },
+      {
+        "title": "Projektingenieur",
+        "company": "Märkische Bauplanung AG",
+        "location": "Potsdam",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Bauleitung und Ausschreibung nach VOB/A für Sanierungsprojekte in Brandenburg",
+          "Prüfung von Nachträgen und Abrechnungen"
+        ]
+      },
+      {
+        "title": "Bauingenieur (Trainee)",
+        "company": "Havelland Ingenieurbüro",
+        "location": "Potsdam",
+        "dates": "2015 – 2016",
+        "bullets": [
+          "Unterstützung bei Leistungsphasen 5 bis 8 nach HOAI"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Bauingenieurwesen",
+        "school": "Technische Universität Berlin",
+        "dates": "2013 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Bauingenieurwesen",
+        "school": "Brandenburgische Technische Universität Cottbus",
+        "dates": "2009 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Projektsteuerung nach AHO, HOAI, VOB/A und VOB/B",
+      "Kosten- und Terminplanung, Nachtragsmanagement",
+      "MS Project, RIB iTWO, AVA California",
+      "BIM-Koordination (Grundlagen)",
+      "Führung und Moderation von Planungsrunden"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [
+      "IPMA Level C, 2019"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

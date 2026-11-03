@@ -1,0 +1,109 @@
+{
+  "slug": "n244-ir-data-analysis",
+  "level": "mid",
+  "profession": "data analysis",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "BI Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Siobhán Ruane",
+    "headline": "Data Analyst | SQL · Power BI · Python | Healthcare operations",
+    "contact": {
+      "email": "siobhan.ruane@example.com",
+      "phone": "+353 85 0000 244",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Data analyst with six years in hospital and public-sector analytics in the West of Ireland. I turn operational data into reports people actually open, and I like the cleaning part more than most.",
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "Western Health Analytics Unit",
+        "location": "Galway",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Build Power BI reports on emergency department waiting times used by four hospital management teams",
+          "Automated the weekly bed occupancy return, saving about a day of manual work each week",
+          "Write SQL against the patient administration data warehouse",
+          "Support clinicians with ad-hoc analysis for service planning"
+        ]
+      },
+      {
+        "title": "Junior Data Analyst",
+        "company": "Clarinbridge Retail Group",
+        "location": "Galway",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Sales and stock reporting for 35 stores",
+          "Built a basket analysis in Python that informed range changes"
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "company": "University of Galway",
+        "location": "Galway",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Cleaned and analysed survey data in R for a public health study"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Biostatistics",
+        "school": "University College Dublin",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc Mathematical Science",
+        "school": "University of Galway",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (SQL Server, PostgreSQL)",
+      "Power BI, DAX",
+      "Python (pandas), R",
+      "Data cleaning and validation",
+      "GDPR and health data governance",
+      "Excel"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (fluent)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Power BI Data Analyst Associate (PL-300)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

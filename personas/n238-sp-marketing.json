@@ -1,0 +1,110 @@
+{
+  "slug": "n238-sp-marketing",
+  "level": "senior",
+  "profession": "marketing",
+  "band": "8-12",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Coordinator"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Itziar Sarasola",
+    "headline": "Marketing Manager | B2B Industrial | Brand & Product Marketing",
+    "contact": {
+      "email": "itziar.sarasola@example.com",
+      "phone": "+34 612 0000 238",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Marketing manager with ten years in B2B industrial companies in the Basque Country. I have led both brand and demand generation and the product marketing side, from positioning and launches to sales enablement for distributors in 30 countries.",
+    "experience": [
+      {
+        "title": "Marketing Manager",
+        "company": "Nerbioi Industrial Valves S.L.",
+        "location": "Bilbao",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Lead a marketing team of six and a €1.6M budget covering brand, digital and trade shows",
+          "Repositioned the brand for the hydrogen and energy transition markets",
+          "Launched three product lines with positioning, pricing input and distributor training",
+          "Marketing-sourced pipeline grew from €8M to €14M in three years"
+        ]
+      },
+      {
+        "title": "Product Marketing Specialist",
+        "company": "Gorbea Automation",
+        "location": "Vitoria-Gasteiz",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Wrote value propositions, datasheets and competitive battlecards for motion control products",
+          "Coordinated product launches with R&D and sales in Europe and Latin America"
+        ]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "company": "Abra Packaging Group",
+        "location": "Bilbao",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Organised trade fair participation and managed the corporate website"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master in Marketing Management",
+        "school": "Deusto Business School",
+        "dates": "2014 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "Degree in Business Administration",
+        "school": "Universidad del País Vasco (UPV/EHU)",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Brand strategy and positioning",
+      "Go-to-market, product launches, sales enablement",
+      "HubSpot, Salesforce",
+      "Trade shows and distributor marketing",
+      "Budget management",
+      "Market research"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "Basque (native)",
+      "English (fluent, C1)",
+      "French (B1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

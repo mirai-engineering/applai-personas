@@ -1,0 +1,112 @@
+{
+  "slug": "n241-sw-customer-success",
+  "level": "senior",
+  "profession": "customer success",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Bauingenieur"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Reto Stucki",
+    "headline": "Senior Customer Success Manager | Fintech SaaS | Kundenbetreuung DACH & Romandie",
+    "contact": {
+      "email": "reto.stucki@example.com",
+      "phone": "+41 79 0000 241",
+      "location": "Genf",
+      "links": []
+    },
+    "summary": "Customer Success Manager mit neun Jahren Erfahrung bei Software für Banken und Vermögensverwalter. Ich betreue Kunden nach dem Verkauf, verantworte aber auch Vertragsverlängerungen und Upselling, weshalb mich sowohl Customer-Success- als auch Key-Account-Rollen interessieren.",
+    "experience": [
+      {
+        "title": "Senior Customer Success Manager",
+        "company": "Lémanis Wealth Software SA",
+        "location": "Genf",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Betreuung von 22 Privatbanken und Vermögensverwaltern mit einem ARR von CHF 14 Mio.",
+          "Verantwortung für Renewals und Upselling; Net Revenue Retention von 112 % im Jahr 2025",
+          "Aufbau eines Health-Score-Modells in Gainsight zusammen mit dem Data-Team",
+          "Leitung von Quartalsgesprächen mit der Geschäftsleitung der Kunden",
+          "Einarbeitung von drei neuen CSMs"
+        ]
+      },
+      {
+        "title": "Key Account Manager",
+        "company": "Aarebank Informatik AG",
+        "location": "Bern",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Verkauf und Betreuung von Kernbankenlösungen für Kantonalbanken",
+          "Verhandlung von Rahmenverträgen und Serviceleveln"
+        ]
+      },
+      {
+        "title": "Implementation Consultant",
+        "company": "Finovalis AG",
+        "location": "Zürich",
+        "dates": "2016 – 2018",
+        "bullets": [
+          "Einführung einer Portfoliomanagement-Software bei Kunden in der Deutschschweiz"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Wirtschaftsinformatik",
+        "school": "Universität Bern",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "BSc Betriebsökonomie",
+        "school": "Berner Fachhochschule",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Customer Success: Onboarding, Adoption, Renewals",
+      "Gainsight, Salesforce, HubSpot",
+      "Account Planning und Verhandlung",
+      "Banking-Software, FINMA-Rundschreiben (Grundlagen)",
+      "SQL (Grundkenntnisse)",
+      "Präsentation vor Geschäftsleitungen"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Französisch (fliessend)",
+      "Englisch (fliessend)"
+    ],
+    "certifications": [
+      "Gainsight Certified CSM Level 2"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

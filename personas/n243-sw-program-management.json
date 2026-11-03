@@ -1,0 +1,115 @@
+{
+  "slug": "n243-sw-program-management",
+  "level": "mid",
+  "profession": "program management",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Projektleiterin"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalter"
+  ],
+  "output_languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Corinne Rüegg",
+    "headline": "Programmleiterin | Internationale Organisationen & NGO | Wiedereinstieg 2025",
+    "contact": {
+      "email": "corinne.rueegg@example.com",
+      "phone": "+41 78 0000 243",
+      "location": "Genf",
+      "links": []
+    },
+    "summary": "Programmleiterin mit sechs Jahren Erfahrung in der Steuerung von Entwicklungs- und Gesundheitsprogrammen für NGOs und Stiftungen in Genf. Nach einer Familienpause von 2022 bis 2024 bin ich seit 2025 wieder in Teilzeit tätig und suche eine Vollzeitstelle.",
+    "experience": [
+      {
+        "title": "Programme Manager (Teilzeit 60 %)",
+        "company": "Fondation Arve pour la Santé",
+        "location": "Genf",
+        "dates": "2025 – heute",
+        "bullets": [
+          "Koordination eines Programms zur Ausbildung von Gesundheitspersonal in Westafrika mit einem Budget von CHF 2,8 Mio.",
+          "Steuerung der Partnerorganisationen und Prüfung der Quartalsberichte",
+          "Vorbereitung des Jahresberichts für die Geldgeber"
+        ]
+      },
+      {
+        "title": "Program Officer, später Program Manager",
+        "company": "Helvetic Relief Network",
+        "location": "Genf",
+        "dates": "2017 – 2022",
+        "bullets": [
+          "Leitung von drei Programmen in Ostafrika mit insgesamt CHF 6 Mio.",
+          "Einführung eines einheitlichen Logframe- und Monitoring-Ansatzes für alle Länderbüros",
+          "Erfolgreiche Anträge bei der DEZA und der EU über CHF 3,4 Mio."
+        ]
+      },
+      {
+        "title": "Junior Project Officer",
+        "company": "Stiftung Weltwerk",
+        "location": "Bern",
+        "dates": "2016 – 2017",
+        "bullets": [
+          "Unterstützung bei Projektanträgen und Berichten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA Entwicklungsstudien",
+        "school": "Graduate Institute Geneva (IHEID)",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "BA Politikwissenschaft",
+        "school": "Universität Zürich",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Programmsteuerung, Logframe, Theory of Change",
+      "Monitoring und Evaluation",
+      "Mittelbeschaffung und Geldgeberberichte (DEZA, EU)",
+      "Budgetkontrolle",
+      "Asana, Microsoft 365",
+      "Interkulturelle Zusammenarbeit"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Französisch (fliessend)",
+      "Englisch (fliessend)",
+      "Spanisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "PMD Pro Level 1, 2025"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Familienpause 2022 – 2024"
+    ]
+  }
+}

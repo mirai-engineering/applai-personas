@@ -1,0 +1,100 @@
+{
+  "slug": "n246-ge-program-management",
+  "level": "intern",
+  "profession": "program management",
+  "band": "0-2",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Management Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Project Management Working Student"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Tax Advisor"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Jonas Riedmüller",
+    "headline": "Master's student, Management | Program & Project Management",
+    "contact": {
+      "email": "jonas.riedmueller@example.com",
+      "phone": "+49 152 0000 246",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Master's student back at university after a two-year break (2022–2024) in which I worked in my family's hospitality business during a difficult period. Now looking for a program management internship in energy or mobility.",
+    "experience": [
+      {
+        "title": "Working Student, PMO",
+        "company": "Alster Wind Energy GmbH",
+        "location": "Hamburg",
+        "dates": "Jan 2026 – Present",
+        "bullets": [
+          "Maintain the program plan and milestone tracker for an offshore wind portfolio",
+          "Prepare steering committee decks and track action items",
+          "Consolidated risk registers from five projects into one Smartsheet view"
+        ]
+      },
+      {
+        "title": "Operations Assistant (family business)",
+        "company": "Gasthof Riedmüller",
+        "location": "Lüneburg",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Ran staff rotas, purchasing and bookings for a 30-room hotel and restaurant"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Management",
+        "school": "Hamburg University of Technology (TUHH)",
+        "dates": "2024 – Present",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Business Administration",
+        "school": "Leuphana Universität Lüneburg",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Program planning, milestone tracking",
+      "Smartsheet, MS Project, Excel",
+      "RAID logs, steering committee reporting",
+      "Stakeholder communication",
+      "Scrum basics"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "PSM I, 2025"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Break from studies 2022 – 2024: family business"
+    ]
+  }
+}

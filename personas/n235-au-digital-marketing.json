@@ -1,0 +1,105 @@
+{
+  "slug": "n235-au-digital-marketing",
+  "level": "mid",
+  "profession": "digital marketing",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Digital Marketing Specialist"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Performance Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Sandhu",
+    "headline": "Digital Marketing Specialist | Paid Search & Social | Retail and Tourism",
+    "contact": {
+      "email": "priya.sandhu@example.com",
+      "phone": "+61 412 0000 235",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Digital marketer with six years running paid search, social and email programs for retail and tourism brands in Queensland. Hands-on with campaign set-up, tracking and reporting.",
+    "experience": [
+      {
+        "title": "Digital Marketing Specialist",
+        "company": "Moreton Bay Outfitters",
+        "location": "Brisbane",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Manage a A$1.2M annual paid media budget across Google Ads, Meta and TikTok",
+          "Rebuilt GA4 and Google Tag Manager tracking after the Universal Analytics sunset",
+          "Increased email revenue share from 11% to 17% with lifecycle flows in Klaviyo",
+          "Brief creative agencies and report weekly to the head of marketing"
+        ]
+      },
+      {
+        "title": "Digital Marketing Coordinator",
+        "company": "Sunstate Holiday Parks",
+        "location": "Gold Coast",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Ran search and social campaigns for 14 holiday parks",
+          "Coordinated SEO content with an external agency"
+        ]
+      },
+      {
+        "title": "Marketing Assistant",
+        "company": "Riverside Events Co.",
+        "location": "Brisbane",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Scheduled social posts and maintained the events website in WordPress"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "Queensland University of Technology",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads Manager, TikTok Ads",
+      "GA4, Google Tag Manager, Looker Studio",
+      "Klaviyo, Mailchimp",
+      "SEO fundamentals",
+      "A/B testing",
+      "WordPress, Shopify"
+    ],
+    "languages": [
+      "English (native)",
+      "Punjabi (fluent)",
+      "Hindi (conversational)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification",
+      "Meta Certified Media Buying Professional"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

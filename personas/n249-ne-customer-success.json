@@ -1,0 +1,94 @@
+{
+  "slug": "n249-ne-customer-success",
+  "level": "junior",
+  "profession": "customer success",
+  "band": "2-5",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Yara Sanches",
+    "headline": "Customer Success Manager | HR Tech SaaS | Benelux",
+    "contact": {
+      "email": "yara.sanches@example.com",
+      "phone": "+31 6 0000 0249",
+      "location": "Utrecht",
+      "links": []
+    },
+    "summary": "Customer success manager with three years at HR software companies, previously in inside sales. I enjoy onboarding and retention work but have also closed new deals, so I am looking at both CSM and account executive roles.",
+    "experience": [
+      {
+        "title": "Customer Success Manager",
+        "company": "Domstad HR Software B.V.",
+        "location": "Utrecht",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own a portfolio of 70 SMB customers with €1.1M ARR",
+          "Run onboarding and quarterly check-ins; gross retention at 93% in 2025",
+          "Identify expansion opportunities and hand them over or close them myself",
+          "Write help-centre articles for the most common support questions"
+        ]
+      },
+      {
+        "title": "Inside Sales Representative",
+        "company": "Vechtdal Payroll Solutions",
+        "location": "Amersfoort",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Booked demos and closed small payroll deals, reaching 108% of target",
+          "Qualified inbound leads in HubSpot"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Communication and Information Sciences",
+        "school": "Utrecht University",
+        "dates": "2019 – 2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Onboarding and retention",
+      "HubSpot, Intercom, ChurnZero",
+      "Demo and discovery calls",
+      "Upselling and renewals",
+      "Dutch payroll and HR processes",
+      "Excel"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "Portuguese (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

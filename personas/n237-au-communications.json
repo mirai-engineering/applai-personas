@@ -1,0 +1,94 @@
+{
+  "slug": "n237-au-communications",
+  "level": "intern",
+  "profession": "communications",
+  "band": "0-2",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Praktikum Kommunikation"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Junior PR Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Analyst"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Hannah Sonnleitner",
+    "headline": "Studentin Kommunikationswissenschaft | PR, Content & Social Media",
+    "contact": {
+      "email": "hannah.sonnleitner@example.com",
+      "phone": "+43 676 0000 237",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Kommunikationsstudentin mit Erfahrung in Pressearbeit und interner Kommunikation bei einem Industrieunternehmen und einem Kulturverein. Ich schreibe gerne und suche den Einstieg in die Unternehmenskommunikation.",
+    "experience": [
+      {
+        "title": "Praktikantin Unternehmenskommunikation",
+        "company": "Donaustahl Technologie GmbH",
+        "location": "Linz",
+        "dates": "Feb 2026 – heute",
+        "bullets": [
+          "Verfassen von Beiträgen für das Mitarbeitermagazin und das Intranet",
+          "Mitarbeit an der Presseaussendung zur Eröffnung einer neuen Produktionshalle",
+          "Pflege des Pressespiegels und Monitoring mit APA-Comm",
+          "Betreuung der LinkedIn-Seite, Reichweite in drei Monaten um 30 % gesteigert"
+        ]
+      },
+      {
+        "title": "Freie Mitarbeiterin Social Media",
+        "company": "Kulturverein Hafenklang Linz",
+        "location": "Linz",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Planung und Erstellung von Instagram-Inhalten für Konzerte und Lesungen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA Kommunikationswissenschaft",
+        "school": "Paris Lodron Universität Salzburg",
+        "dates": "2023 – heute",
+        "details": "Abschluss voraussichtlich 2027"
+      }
+    ],
+    "skills": [
+      "Pressetexte, Redaktion, Lektorat",
+      "Interne Kommunikation",
+      "Canva, Adobe InDesign (Grundlagen)",
+      "Instagram, LinkedIn, Meta Business Suite",
+      "WordPress"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)",
+      "Französisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Ehrenamt: Redaktion der Studierendenzeitung"
+    ]
+  }
+}

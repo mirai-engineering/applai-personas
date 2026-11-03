@@ -1,0 +1,103 @@
+{
+  "slug": "n242-ge-recruiting",
+  "level": "senior",
+  "profession": "recruiting",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Recruiter"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Talent Acquisition Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Electrical Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Melike Sahin",
+    "headline": "Senior Recruiter | Media, E-Commerce & Tech | DACH",
+    "contact": {
+      "email": "melike.sahin@example.com",
+      "phone": "+49 176 0000 242",
+      "location": "Köln",
+      "links": []
+    },
+    "summary": "Senior recruiter with nine years of in-house and agency experience in media and e-commerce in the Rhineland. I partner closely with hiring managers and run most of my searches end to end, from intake to offer.",
+    "experience": [
+      {
+        "title": "Senior Recruiter",
+        "company": "Rheinmedia Digital GmbH",
+        "location": "Köln",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Own recruiting for product, engineering and data teams across three brands",
+          "Filled 70+ roles in 2025, about half through active sourcing",
+          "Introduced structured interviews and scorecards in Personio",
+          "Run the working student and trainee program with two universities"
+        ]
+      },
+      {
+        "title": "Recruiter",
+        "company": "Domblick Commerce AG",
+        "location": "Köln",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Hired for logistics, customer service and marketing roles in a fast-growing online shop",
+          "Organised recruiting events and career fairs"
+        ]
+      },
+      {
+        "title": "Personalberaterin",
+        "company": "Westfalen Personalpartner",
+        "location": "Düsseldorf",
+        "dates": "2016 – 2018",
+        "bullets": [
+          "Placed sales and finance professionals with mid-sized clients in NRW"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Business Psychology",
+        "school": "Hochschule Fresenius Köln",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Active sourcing (LinkedIn Recruiter, XING TalentManager)",
+      "Personio, SmartRecruiters",
+      "Structured interviews",
+      "Employer branding",
+      "German labour law basics (AGG)",
+      "Stakeholder management"
+    ],
+    "languages": [
+      "German (native)",
+      "Turkish (native)",
+      "English (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

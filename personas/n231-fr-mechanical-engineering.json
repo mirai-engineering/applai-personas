@@ -1,0 +1,106 @@
+{
+  "slug": "n231-fr-mechanical-engineering",
+  "level": "senior",
+  "profession": "mechanical engineering",
+  "band": "8-12",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingénieur mécanique"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chef de projet industriel"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Contrôleur de gestion"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Julien Roussel",
+    "headline": "Ingénieur mécanique senior | Conception & chef de projet | Machines spéciales",
+    "contact": {
+      "email": "julien.roussel@example.com",
+      "phone": "+33 6 0000 231",
+      "location": "Lyon",
+      "links": []
+    },
+    "summary": "Ingénieur en conception mécanique avec onze ans d'expérience dans les machines spéciales et les équipements pour l'industrie pharmaceutique. Depuis quatre ans, je pilote aussi des projets clients de bout en bout, de l'offre technique à la réception sur site.",
+    "experience": [
+      {
+        "title": "Ingénieur mécanique senior / Chef de projet",
+        "company": "Rhodanie Équipements Industriels",
+        "location": "Lyon",
+        "dates": "2020 – aujourd'hui",
+        "bullets": [
+          "Pilotage de projets de lignes de conditionnement pour des laboratoires pharmaceutiques, jusqu'à 3,2 M€",
+          "Encadrement d'une équipe de cinq concepteurs et coordination avec l'automatisme et les achats",
+          "Conception des sous-ensembles critiques sous SolidWorks et calculs de dimensionnement",
+          "Réduction du délai moyen de conception de 14 % grâce à une bibliothèque de modules standardisés",
+          "Rédaction des dossiers de conformité selon la directive Machines 2006/42/CE"
+        ]
+      },
+      {
+        "title": "Ingénieur conception mécanique",
+        "company": "Saônetech Automation",
+        "location": "Villefranche-sur-Saône",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Conception de postes d'assemblage automatisés pour l'automobile",
+          "Analyses AMDEC et suivi des essais de mise au point avec le client"
+        ]
+      },
+      {
+        "title": "Ingénieur bureau d'études",
+        "company": "Mécaplast Rhône-Alpes",
+        "location": "Saint-Étienne",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Plans de définition et cotation fonctionnelle (GPS) pour des pièces usinées"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur, Génie mécanique et conception",
+        "school": "INSA Lyon",
+        "dates": "2009 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SolidWorks, CATIA V5, ANSYS Mechanical",
+      "Cotation GPS (ISO 1101), AMDEC",
+      "Directive Machines 2006/42/CE, analyse de risques",
+      "Gestion de projet, planification MS Project",
+      "Relation client et réception FAT/SAT",
+      "Lean engineering"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Italien (notions)"
+    ],
+    "certifications": [
+      "Certification PMP, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

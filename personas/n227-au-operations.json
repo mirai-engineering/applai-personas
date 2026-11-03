@@ -1,0 +1,111 @@
+{
+  "slug": "n227-au-operations",
+  "level": "mid",
+  "profession": "operations",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Operations Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Leiter Betrieb"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Grafikdesigner"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Sabine Riegler",
+    "headline": "Operations Managerin | Lebensmittelproduktion | Lean & Prozessverbesserung",
+    "contact": {
+      "email": "sabine.riegler@example.com",
+      "phone": "+43 664 0000 227",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Betriebswirtin mit sieben Jahren Erfahrung in der operativen Steuerung von Produktions- und Logistikprozessen in der Lebensmittelindustrie. Ich verbinde Kennzahlensteuerung mit pragmatischer Teamführung auf dem Shopfloor.",
+    "experience": [
+      {
+        "title": "Operations Managerin",
+        "company": "Murtaler Feinkost GmbH",
+        "location": "Graz",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortung für Produktion, Lager und Versand mit 65 Mitarbeitenden im Dreischichtbetrieb",
+          "Einführung von Shopfloor-Boards und täglichen KPI-Runden in allen Abteilungen",
+          "Senkung der Ausschussquote von 4,1 % auf 2,6 % durch Ursachenanalysen mit den Schichtleitungen",
+          "Abstimmung der Kapazitätsplanung mit Vertrieb und Einkauf für den Handel"
+        ]
+      },
+      {
+        "title": "Teamleiterin Supply Chain",
+        "company": "Steirische Molkerei eGen",
+        "location": "Gleisdorf",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Steuerung der Tourenplanung für 120 Handelskunden in der Steiermark und Kärnten",
+          "Mitarbeit bei der Einführung von SAP EWM im Zentrallager"
+        ]
+      },
+      {
+        "title": "Trainee Operations",
+        "company": "Alpenfrisch Handels AG",
+        "location": "Wien",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Rotation durch Einkauf, Logistik und Qualitätsmanagement"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Betriebswirtschaft (Operations Management)",
+        "school": "Karl-Franzens-Universität Graz",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "BSc Betriebswirtschaft",
+        "school": "Karl-Franzens-Universität Graz",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lean Management, 5S, Shopfloor Management",
+      "SAP S/4HANA, SAP EWM",
+      "IFS Food, HACCP",
+      "Kapazitäts- und Schichtplanung",
+      "Power BI",
+      "Mitarbeiterführung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Slowenisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

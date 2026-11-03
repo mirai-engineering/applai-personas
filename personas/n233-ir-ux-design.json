@@ -1,0 +1,113 @@
+{
+  "slug": "n233-ir-ux-design",
+  "level": "junior",
+  "profession": "ux design",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "UX Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Aoife Sheehan",
+    "headline": "UX Designer – Service & Product Design",
+    "contact": {
+      "email": "aoife.sheehan@example.com",
+      "phone": "+353 86 0000 233",
+      "location": "Cork",
+      "links": []
+    },
+    "summary": "UX designer returning to work after a career break caring for a family member (2022–2024). Before that I worked on public-service and e-commerce journeys; I have since completed an accessibility course and a volunteer redesign project.",
+    "experience": [
+      {
+        "title": "UX Designer (contract)",
+        "company": "Lee Valley Digital",
+        "location": "Cork",
+        "dates": "Mar 2025 – Present",
+        "bullets": [
+          "Redesigning the online booking journey for a regional bus operator",
+          "Run moderated usability sessions with 12 participants per round",
+          "Prepare wireframes and prototypes in Figma and hand off to the development team",
+          "Audited the existing site against WCAG 2.2 AA and logged 46 issues"
+        ]
+      },
+      {
+        "title": "Junior UX Designer",
+        "company": "Harbourline Commerce",
+        "location": "Cork",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Designed checkout improvements that lifted mobile conversion by 9%",
+          "Maintained parts of the component library in Figma"
+        ]
+      },
+      {
+        "title": "UX Intern",
+        "company": "Munster County Services",
+        "location": "Cork",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Supported user interviews for a citizen permit application service"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Interaction Design",
+        "school": "University College Cork",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BA Psychology",
+        "school": "University College Cork",
+        "dates": "2015 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Figma, FigJam, Maze",
+      "User interviews, usability testing",
+      "Wireframing and prototyping",
+      "WCAG 2.2, inclusive design",
+      "Journey mapping",
+      "HTML/CSS basics"
+    ],
+    "languages": [
+      "English (native)",
+      "French (intermediate)"
+    ],
+    "certifications": [
+      "IAAP Web Accessibility Specialist (WAS), 2025"
+    ],
+    "projects": [
+      "Volunteer redesign: donation flow for a Cork food bank (2024)"
+    ],
+    "extra_sections": [
+      "Career break 2022 – 2024: full-time carer for a family member"
+    ]
+  }
+}

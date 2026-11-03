@@ -1,0 +1,102 @@
+{
+  "slug": "n229-me-key-account-management",
+  "level": "mid",
+  "profession": "key account management",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Development Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Nurse"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Rodrigo Salcedo Ibarra",
+    "headline": "Key Account Manager | Electronics Manufacturing Services | Nearshoring",
+    "contact": {
+      "email": "rodrigo.salcedo@example.com",
+      "phone": "+52 33 0000 0229",
+      "location": "Guadalajara, Jalisco",
+      "links": []
+    },
+    "summary": "Key account manager with six years managing OEM customers for electronics manufacturing in Jalisco. Experienced with US customers moving production to Mexico, quoting, and coordinating engineering and planning teams for new product introductions.",
+    "experience": [
+      {
+        "title": "Key Account Manager",
+        "company": "Tecnomanufactura del Bajío",
+        "location": "Guadalajara",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Manage four US industrial and medical OEM accounts worth US$38M in annual revenue",
+          "Grew the largest account by 27% through two nearshoring transfers from Asia",
+          "Lead quarterly business reviews and coordinate NPI with engineering and production",
+          "Prepare quotes and cost breakdowns together with the pricing team"
+        ]
+      },
+      {
+        "title": "Account Manager",
+        "company": "Circuitos Occidente S.A. de C.V.",
+        "location": "Zapopan",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Handled 12 mid-sized accounts for PCB assembly, including forecasting and order follow-up",
+          "Resolved quality escalations with customers and the quality department"
+        ]
+      },
+      {
+        "title": "Customer Service Representative",
+        "company": "Logística Arcos",
+        "location": "Guadalajara",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Supported US customers with shipment tracking and IMMEX documentation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Negocios Internacionales",
+        "school": "Universidad Panamericana, Campus Guadalajara",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Account planning and QBRs",
+      "Salesforce, SAP SD",
+      "Quoting and cost breakdowns (BOM, labor, overhead)",
+      "IMMEX, USMCA rules of origin",
+      "NPI coordination",
+      "Negotiation"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (fluent, TOEFL iBT 105)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

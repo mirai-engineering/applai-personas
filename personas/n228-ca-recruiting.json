@@ -1,0 +1,105 @@
+{
+  "slug": "n228-ca-recruiting",
+  "level": "senior",
+  "profession": "recruiting",
+  "band": "8-12",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Recruiter"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Talent Acquisition Partner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Nadia Saint-Amour",
+    "headline": "Senior Talent Acquisition Partner – Tech & Video Games",
+    "contact": {
+      "email": "nadia.saint-amour@example.com",
+      "phone": "+1 514 0000 228",
+      "location": "Montréal, QC",
+      "links": []
+    },
+    "summary": "Bilingual recruiter with nine years of full-cycle recruiting for game studios, SaaS and AI start-ups in Montréal. Known for building calibrated interview loops with hiring managers and keeping candidate experience high in competitive markets.",
+    "experience": [
+      {
+        "title": "Senior Talent Acquisition Partner",
+        "company": "Pixelnord Studios",
+        "location": "Montréal, QC",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Own hiring for engineering and art teams, closing 45–60 roles per year",
+          "Reduced average time-to-fill for senior engineers from 62 to 41 days",
+          "Built structured interview kits and trained 30 hiring managers on bias-aware assessment",
+          "Manage relationships with two specialised agencies and the international mobility provider"
+        ]
+      },
+      {
+        "title": "Technical Recruiter",
+        "company": "Brumelune Software Inc.",
+        "location": "Montréal, QC",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Recruited developers, data scientists and DevOps engineers for a 300-person SaaS company",
+          "Launched an employee referral program that became the top source of hires"
+        ]
+      },
+      {
+        "title": "Recruitment Consultant",
+        "company": "Talentis Québec",
+        "location": "Laval, QC",
+        "dates": "2016 – 2018",
+        "bullets": [
+          "Placed IT and finance contractors with clients across Greater Montréal"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Industrial Relations",
+        "school": "Université de Montréal",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Full-cycle recruiting, sourcing (Boolean, LinkedIn Recruiter)",
+      "Greenhouse, Lever, Workday",
+      "Structured interviewing and scorecards",
+      "Offer negotiation, international mobility",
+      "Employer branding, campus programs",
+      "Quebec labour standards (CNESST)"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "CRHA (Ordre des conseillers en ressources humaines agréés)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

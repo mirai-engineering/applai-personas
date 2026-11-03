@@ -1,0 +1,105 @@
+{
+  "slug": "n240-un-logistics",
+  "level": "senior",
+  "profession": "logistics",
+  "band": "8-12",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Logistics Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Transport Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Gareth Shepherd",
+    "headline": "Senior Logistics Coordinator | Aerospace & Defence Supply Chains",
+    "contact": {
+      "email": "gareth.shepherd@example.com",
+      "phone": "+44 7700 0000 240",
+      "location": "Bristol",
+      "links": []
+    },
+    "summary": "Logistics coordinator with eleven years in aerospace and engineering supply chains in the South West. Experienced in time-critical freight, export controls and coordinating suppliers, carriers and production planners.",
+    "experience": [
+      {
+        "title": "Senior Logistics Coordinator",
+        "company": "Severnside Aero Components Ltd",
+        "location": "Filton, Bristol",
+        "dates": "2019 – Present",
+        "bullets": [
+          "Coordinate inbound and outbound freight for a site supplying wing components to European assembly lines",
+          "Handle AOG and time-critical shipments, often within four hours of a call",
+          "Manage export licences and classifications under UK strategic export controls",
+          "Reduced premium freight spend by £310k a year through better forecasting with planning",
+          "Mentor two logistics coordinators"
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "company": "Avonmouth Freight Services",
+        "location": "Avonmouth",
+        "dates": "2016 – 2019",
+        "bullets": [
+          "Booked road, air and sea freight for engineering customers",
+          "Prepared customs documentation and resolved delivery issues"
+        ]
+      },
+      {
+        "title": "Warehouse Team Leader",
+        "company": "Cotswold Parts Distribution",
+        "location": "Swindon",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Led a team of eight on goods-in and despatch"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Logistics and Supply Chain Management",
+        "school": "University of the West of England",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Freight booking and carrier management",
+      "Incoterms 2020, customs (CDS)",
+      "UK strategic export controls, ITAR awareness",
+      "SAP MM/WM",
+      "Excel, Power BI",
+      "Supplier coordination"
+    ],
+    "languages": [
+      "English (native)",
+      "Welsh (basic)"
+    ],
+    "certifications": [
+      "CILT Diploma in Logistics and Transport, 2018",
+      "IATA Dangerous Goods Regulations (Cat. 6)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}
