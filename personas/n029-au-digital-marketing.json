@@ -1,0 +1,113 @@
+{
+  "slug": "n029-au-digital-marketing",
+  "level": "mid",
+  "profession": "digital marketing",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Digital Marketing Specialist"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Online Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Stefanie Czerny",
+    "headline": "Digital Marketing Specialist | SEA, Social Ads und E-Mail | ex-Hotellerie",
+    "contact": {
+      "email": "stefanie.czerny@example.com",
+      "phone": "+43 664 0000 029",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Nach drei Jahren an der Rezeption und im Front Office eines Hotels bin ich 2021 ins Online-Marketing gewechselt. Seitdem plane und optimiere ich Kampagnen für Agenturkunden und jetzt für eine Outdoor-Marke, mit einem guten Gespür für Gäste und Kundinnen aus der Hotellerie.",
+    "experience": [
+      {
+        "title": "Digital Marketing Specialist",
+        "company": "Pöstling Outdoor GmbH",
+        "location": "Linz",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Verantwortung für Google Ads und Meta Ads im DACH-Raum mit einem Monatsbudget von rund 40.000 €",
+          "Aufbau von E-Mail-Automationen in Klaviyo; Umsatzanteil des Newsletters von 6 % auf 11 % gesteigert",
+          "Abstimmung mit Produktmanagement und Fotografen für saisonale Kampagnen",
+          "Monatliches Reporting in Looker Studio für die Geschäftsführung"
+        ]
+      },
+      {
+        "title": "Online-Marketing-Managerin (Junior)",
+        "company": "Agentur Hafenkante Digital",
+        "location": "Linz",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Betreuung von SEA- und Social-Media-Kampagnen für Tourismus- und Handelskunden",
+          "Keyword-Recherche und Onpage-Optimierung für Hotelwebsites"
+        ]
+      },
+      {
+        "title": "Front Office Mitarbeiterin",
+        "company": "Hotel Seeblick am Traunsee",
+        "location": "Gmunden",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Gästebetreuung, Reservierungen und Pflege der Buchungsplattformen",
+          "Pflege des Instagram-Accounts des Hotels neben dem Front Office"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplomlehrgang Digital Marketing",
+        "school": "WIFI Oberösterreich",
+        "dates": "2020 – 2021",
+        "details": "Abschlussprojekt: Performance-Kampagne für ein Familienhotel"
+      },
+      {
+        "degree": "Matura, Höhere Lehranstalt für Tourismus",
+        "school": "Tourismusschulen Salzburg Klessheim",
+        "dates": "2013 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads Manager",
+      "Klaviyo, Mailchimp",
+      "Google Analytics 4, Looker Studio",
+      "SEO mit Sistrix",
+      "Shopify, WordPress",
+      "Content-Planung und Briefings"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)",
+      "Italienisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification, 2024",
+      "Meta Certified Digital Marketing Associate, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

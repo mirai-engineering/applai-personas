@@ -1,0 +1,92 @@
+{
+  "slug": "n034-me-controlling",
+  "level": "intern",
+  "profession": "controlling",
+  "band": "0-2",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Finance Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Becario Contraloría"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Coordinator"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Diego Cárdenas Ruelas",
+    "headline": "Accounting student | FP&A & Controlling Trainee | SAP FI / Excel",
+    "contact": {
+      "email": "diego.cardenas@example.com",
+      "phone": "+52 33 0000 0034",
+      "location": "Guadalajara, Jal.",
+      "links": []
+    },
+    "summary": "Final-year public accounting student working as a controlling trainee at an electronics manufacturer. I support month-end close, cost reporting and reconciliations, and I want a full-time controlling role after graduation.",
+    "experience": [
+      {
+        "title": "FP&A & Controlling Intern (Trainee T1)",
+        "company": "Electrónica Occidente Manufacturing S. de R.L.",
+        "location": "Tlajomulco, Jal.",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Support month-end close: accruals, intercompany reconciliations and variance commentary for the plant controller",
+          "Built an Excel/Power Query model for scrap cost by production line, used in the weekly ops meeting",
+          "Pull cost center reports from SAP FI/CO for US headquarters reporting under US GAAP",
+          "Helped reduce open reconciling items from 140 to 35 in four months"
+        ]
+      },
+      {
+        "title": "Jr. Accounting Asst. (part-time)",
+        "company": "Despacho Ibarra Contadores",
+        "location": "Guadalajara, Jal.",
+        "dates": "2024 – 2025",
+        "bullets": [
+          "Bank reconciliations and CFDI 4.0 invoice validation for small business clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Contaduría Pública",
+        "school": "ITESO",
+        "dates": "2022 – 2026 (expected)",
+        "details": "Exchange semester planned; finance and tax track"
+      }
+    ],
+    "skills": [
+      "SAP FI/CO (reporting)",
+      "Excel: Power Query, pivot tables, XLOOKUP",
+      "Month-end close and reconciliations",
+      "NIF and US GAAP basics",
+      "CFDI 4.0, SAT portal",
+      "Power BI (beginner)"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

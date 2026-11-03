@@ -1,0 +1,106 @@
+{
+  "slug": "n033-ge-project-management",
+  "level": "junior",
+  "profession": "project management",
+  "band": "2-5",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektmanagerin"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Scrum Master"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerfachangestellte"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Jana Claußen",
+    "headline": "Projektmanagerin IT | Hafenlogistik-Software | PRINCE2",
+    "contact": {
+      "email": "jana.claussen@example.com",
+      "phone": "+49 160 0000 033",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Projektmanagerin mit vier Jahren Erfahrung in IT-Projekten für Hafen- und Terminalbetreiber. Ich plane Releases mit Entwicklung und Fachbereich, halte Termine und Budget im Blick und moderiere die Abstimmung mit den Kunden.",
+    "experience": [
+      {
+        "title": "Projektmanagerin",
+        "company": "Elbkai Systems GmbH",
+        "location": "Hamburg",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Leitung von zwei Kundenprojekten zur Einführung eines Terminal-Betriebssystems mit einem Volumen von 1,2 Mio. €",
+          "Planung der Sprints mit dem Entwicklungsteam und Pflege des Backlogs in Jira",
+          "Risikomanagement und Statusberichte für den Lenkungskreis",
+          "Go-live beim zweiten Kunden zwei Wochen vor Plan"
+        ]
+      },
+      {
+        "title": "Junior Projektmanagerin",
+        "company": "Elbkai Systems GmbH",
+        "location": "Hamburg",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Koordination von Schnittstellen zu Zoll- und Hafensystemen",
+          "Organisation von Abnahmetests mit dem Fachbereich"
+        ]
+      },
+      {
+        "title": "Werkstudentin PMO",
+        "company": "Nordbrücke Versicherung AG",
+        "location": "Hamburg",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Pflege der Projektportfolio-Übersicht und Vorbereitung von Steering-Committee-Unterlagen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Wirtschaftsingenieurwesen",
+        "school": "HAW Hamburg",
+        "dates": "2018 – 2022",
+        "details": "Bachelorarbeit zur agilen Skalierung in KMU"
+      }
+    ],
+    "skills": [
+      "Jira, Confluence, MS Project",
+      "PRINCE2, Scrum",
+      "Budget- und Ressourcenplanung",
+      "Risikomanagement",
+      "Workshop-Moderation",
+      "Abnahme- und Testmanagement"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Dänisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "PRINCE2 Foundation, 2023",
+      "Professional Scrum Master I, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

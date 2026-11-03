@@ -1,0 +1,112 @@
+{
+  "slug": "n048-sw-logistics",
+  "level": "senior",
+  "profession": "logistics",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Logistics Coordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Kindergarten Teacher"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Rui Correia",
+    "headline": "Teamlead Logistics Ops – Air & Ocean | GDP pharma logistics | Log. Coord.",
+    "contact": {
+      "email": "rui.correia@example.com",
+      "phone": "+41 76 0000 048",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Logistics professional with eleven years in freight forwarding and pharma distribution around Basel. I coordinate temperature-controlled air and ocean shipments, keep customs and GDP documentation in order and lead a small operations team.",
+    "experience": [
+      {
+        "title": "Teamlead Logistics Ops – Air/Ocean (GDP)",
+        "company": "Dreiland Freight Services AG",
+        "location": "Basel",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead a team of 6 coordinators handling about 900 pharma shipments per month",
+          "Customs clearance through Passar and e-dec with brokers in Basel and Zurich",
+          "Reduced temperature excursions on air lanes by 40% through new packaging and lane assessments",
+          "Main contact for GDP audits by customers"
+        ]
+      },
+      {
+        "title": "Sr. Logistics Specialist (FG 8)",
+        "company": "Birsfelden Pharma Distribution AG",
+        "location": "Birsfelden",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Planned cold-chain shipments to distributors in 30 countries",
+          "Maintained SAP EWM master data and carrier rates"
+        ]
+      },
+      {
+        "title": "Log. Asst / Disponent",
+        "company": "Kleinhüningen Hafen Logistik AG",
+        "location": "Basel",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Booked barge and truck transports from the Rhine port"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Federal Diploma Logistics Specialist (eidg. FA Logistikfachmann)",
+        "school": "SVBL, Olten",
+        "dates": "2018 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Federal VET Diploma Logistician EFZ",
+        "school": "Berufsfachschule Basel",
+        "dates": "2012 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "GDP (EU 2013/C 343/01)",
+      "IATA DGR and CEIV Pharma",
+      "SAP EWM, CargoWise",
+      "Swiss customs: Passar, e-dec",
+      "Incoterms 2020",
+      "Team leadership"
+    ],
+    "languages": [
+      "Portuguese (native)",
+      "German (fluent)",
+      "English (fluent)",
+      "French (B1)"
+    ],
+    "certifications": [
+      "IATA Dangerous Goods Regulations Cat. 6, 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

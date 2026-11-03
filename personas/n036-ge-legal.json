@@ -1,0 +1,111 @@
+{
+  "slug": "n036-ge-legal",
+  "level": "senior",
+  "profession": "legal",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Legal Counsel"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Syndikusrechtsanwalt"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Vertriebsingenieur"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Felix Cramer",
+    "headline": "Sr. Legal Counsel / Syndikusrechtsanwalt | Vertragsrecht | Gesellschaftsrecht | Compliance",
+    "contact": {
+      "email": "felix.cramer@example.com",
+      "phone": "+49 172 0000 036",
+      "location": "Düsseldorf",
+      "links": []
+    },
+    "summary": "Volljurist mit elf Jahren Erfahrung, zunächst in einer wirtschaftsrechtlichen Kanzlei, dann im Unternehmen. Ich berate Geschäftsführung und Fachbereiche zu Verträgen, Gesellschaftsrecht und Lieferkettenpflichten und steuere externe Kanzleien.",
+    "experience": [
+      {
+        "title": "Sr. Legal Counsel / Syndikusrechtsanwalt (AT)",
+        "company": "Brandt & Voss Chemie AG",
+        "location": "Düsseldorf",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Verhandlung von Liefer-, Rahmen- und Kooperationsverträgen mit Kunden in Europa und Asien",
+          "Begleitung von zwei Unternehmenskäufen inklusive Due Diligence und SPA-Verhandlung",
+          "Aufbau des Vertragsmanagements in einem CLM-Tool; Durchlaufzeit für Standardverträge um 35 % verkürzt",
+          "Umsetzung der Anforderungen aus dem LkSG gemeinsam mit Einkauf und Compliance"
+        ]
+      },
+      {
+        "title": "Referent Recht & Verträge (E13)",
+        "company": "Rhein-Ruhr Netzgesellschaft mbH",
+        "location": "Essen",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Prüfung von Bau- und Dienstleistungsverträgen und Vergabeverfahren nach GWB",
+          "Bearbeitung von Haftungsfällen mit Versicherern"
+        ]
+      },
+      {
+        "title": "Associate (Rechtsanwalt)",
+        "company": "Rheinberg Ostendorf Partnerschaft mbB",
+        "location": "Düsseldorf",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Beratung mittelständischer Mandanten im Handels- und Gesellschaftsrecht",
+          "Vertretung in Verfahren vor Landgerichten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Zweites Juristisches Staatsexamen",
+        "school": "Oberlandesgericht Düsseldorf",
+        "dates": "2013 – 2015",
+        "details": "Referendariat mit Wahlstation in einer Rechtsabteilung"
+      },
+      {
+        "degree": "Erstes Juristisches Staatsexamen",
+        "school": "Heinrich-Heine-Universität Düsseldorf",
+        "dates": "2008 – 2013",
+        "details": "Schwerpunkt Unternehmensrecht"
+      }
+    ],
+    "skills": [
+      "Vertragsrecht, AGB-Recht, HGB",
+      "Gesellschaftsrecht (GmbHG, AktG), M&A",
+      "LkSG, Kartellrecht, DSGVO",
+      "Steuerung externer Kanzleien",
+      "beck-online, juris, CLM-Systeme"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Französisch (gut)"
+    ],
+    "certifications": [
+      "Fachanwaltslehrgang Handels- und Gesellschaftsrecht, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

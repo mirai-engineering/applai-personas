@@ -1,0 +1,113 @@
+{
+  "slug": "n027-ca-construction",
+  "level": "junior",
+  "profession": "construction",
+  "band": "2-5",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Construction Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Site Superintendent"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Kavya Chandran",
+    "headline": "Assistant Construction Manager | Mid-rise residential and modular builds",
+    "contact": {
+      "email": "kavya.chandran@example.com",
+      "phone": "+1 604 0000 027",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Civil engineering graduate with four years on site across wood-frame residential and modular projects. Returned to construction in 2024 after a two-year career break for family care; used the time to finish Gold Seal coursework at BCIT.",
+    "experience": [
+      {
+        "title": "Assistant Construction Manager",
+        "company": "Northshore Modular Construction Ltd.",
+        "location": "North Vancouver, BC",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Coordinate trades and module deliveries for a 6-storey, 88-unit rental building",
+          "Run weekly subcontractor meetings and track RFIs and submittals in Procore",
+          "Prepared three-week look-ahead schedules; crane idle time cut by about 20%",
+          "Support the superintendent with site safety orientations and toolbox talks"
+        ]
+      },
+      {
+        "title": "Field Engineer",
+        "company": "Coast Mountain Builders",
+        "location": "Burnaby, BC",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Layout checks, quantity take-offs and daily reports for two townhouse developments",
+          "Managed deficiency lists through occupancy for 54 units"
+        ]
+      },
+      {
+        "title": "Engineering Co-op Student",
+        "company": "Fraser Delta Civil Contractors",
+        "location": "Surrey, BC",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Assisted with grading and underground servicing inspections"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Applied Science, Civil Engineering",
+        "school": "University of British Columbia",
+        "dates": "2014 – 2019",
+        "details": "Co-op program"
+      },
+      {
+        "degree": "Gold Seal Certification coursework (Construction Management)",
+        "school": "BCIT",
+        "dates": "2022 – 2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Procore, Bluebeam Revu, MS Project",
+      "BC Building Code, WorkSafeBC regulations",
+      "Scheduling and look-aheads",
+      "Subcontractor coordination",
+      "Quantity take-off",
+      "Quality and deficiency management"
+    ],
+    "languages": [
+      "English (native)",
+      "Tamil (conversational)"
+    ],
+    "certifications": [
+      "Construction Safety Officer (BCCSA), 2024",
+      "WHMIS 2015",
+      "First Aid Level 1"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2021 – 2023: full-time family care; part-time BCIT studies"
+    ]
+  }
+}

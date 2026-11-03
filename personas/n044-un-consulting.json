@@ -1,0 +1,107 @@
+{
+  "slug": "n044-un-consulting",
+  "level": "senior",
+  "profession": "consulting",
+  "band": "8-12",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Management Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Strategy Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tasha Crowder",
+    "headline": "Mgr., Strategy & Ops (Band 6) | Operating model and cost transformation | MBA",
+    "contact": {
+      "email": "tasha.crowder@example.com",
+      "phone": "+1 470 0000 044",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Consultant with twelve years in strategy and operations work for healthcare, logistics and consumer clients. I lead engagement teams through diagnostics, operating model redesign and the unglamorous part where changes actually get implemented.",
+    "experience": [
+      {
+        "title": "Mgr., Strategy & Ops (Band 6)",
+        "company": "Kingsbridge & Lowe Consulting",
+        "location": "Atlanta, GA",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead teams of 4–7 consultants on operating model and cost programs for mid-market clients",
+          "Identified $22M in annual savings for a regional hospital system's supply chain",
+          "Business development: co-wrote proposals for 9 engagements, 5 won",
+          "Coach junior consultants on structuring and client communication"
+        ]
+      },
+      {
+        "title": "Consultant II → Sr. Consultant (C3)",
+        "company": "Ponce Street Partners",
+        "location": "Atlanta, GA",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Workstream lead for warehouse network redesign and procurement diagnostics",
+          "Built the firm's first Alteryx workflow library for spend analysis"
+        ]
+      },
+      {
+        "title": "Business Analyst / Assoc.",
+        "company": "Buckhead Advisory Group",
+        "location": "Atlanta, GA",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Market sizing, interviews and financial modelling for due diligence projects"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA (Evening Program)",
+        "school": "Georgia Tech Scheller College of Business",
+        "dates": "2018 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "BBA, Management",
+        "school": "University of Georgia, Terry College of Business",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Operating model design",
+      "Cost reduction and procurement diagnostics",
+      "Financial modelling (Excel)",
+      "Alteryx, Tableau",
+      "Workshop facilitation",
+      "Change management"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "n042-sp-compliance",
+  "level": "mid",
+  "profession": "compliance",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Compliance Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "AML Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Product Designer"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Marta Calvo Herrero",
+    "headline": "Sr. Compliance Spec. / Deputy MLRO | AML, DORA and GDPR",
+    "contact": {
+      "email": "marta.calvo@example.com",
+      "phone": "+34 633 0000 042",
+      "location": "Madrid",
+      "links": []
+    },
+    "summary": "Lawyer by training with eight years in financial crime and regulatory compliance at a private bank, an e-money institution and now an insurtech. I run AML controls day to day and help translate new regulation into processes people can follow.",
+    "experience": [
+      {
+        "title": "Sr. Compliance Specialist / Deputy MLRO",
+        "company": "Atocha Insurtech S.A.",
+        "location": "Madrid",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Second line of defence for AML/CFT: risk assessment, policies and SEPBLAC reporting",
+          "Coordinated the DORA gap analysis with IT and risk",
+          "Run annual compliance training for 220 employees",
+          "Review new products and partners for regulatory and data protection risks"
+        ]
+      },
+      {
+        "title": "AML Officer (Band B2) – 2LoD",
+        "company": "Paymo Iberia E.D.E. S.L.",
+        "location": "Madrid",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Investigated transaction monitoring alerts and filed suspicious activity reports",
+          "Tuned screening rules, cutting false positives by about 30%"
+        ]
+      },
+      {
+        "title": "KYC Analyst",
+        "company": "Banco Castellana Privada",
+        "location": "Madrid",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Onboarding and periodic review of high-risk private banking clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Degree in Law",
+        "school": "Universidad Complutense de Madrid",
+        "dates": "2013 – 2017",
+        "details": ""
+      },
+      {
+        "degree": "Master in Compliance and Corporate Criminal Liability",
+        "school": "Universidad Pontificia Comillas (ICADE)",
+        "dates": "2017 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Ley 10/2010 AML/CFT, SEPBLAC",
+      "DORA, MiCA basics",
+      "GDPR and LOPDGDD",
+      "Transaction monitoring and screening",
+      "Dow Jones Risk & Compliance, ComplyAdvantage",
+      "Policy writing and training"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (C1)",
+      "French (B1)"
+    ],
+    "certifications": [
+      "ICA International Diploma in Anti Money Laundering, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

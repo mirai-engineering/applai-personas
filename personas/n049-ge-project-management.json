@@ -1,0 +1,105 @@
+{
+  "slug": "n049-ge-project-management",
+  "level": "mid",
+  "profession": "project management",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektmanagerin IT"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "IT Projektleiterin"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalterin"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Sophie Cordes",
+    "headline": "Projektmanagerin Krankenhaus-IT | KIS-Einführungen | PMP",
+    "contact": {
+      "email": "sophie.cordes@example.com",
+      "phone": "+49 151 0000 049",
+      "location": "Köln",
+      "links": []
+    },
+    "summary": "Projektmanagerin mit über sieben Jahren Erfahrung in Softwareeinführungen, seit 2023 im Gesundheitswesen. Ich leite Projekte zur Digitalisierung von Kliniken nach dem Krankenhauszukunftsgesetz und koordiniere dabei Ärzteschaft, Pflege, IT und Hersteller.",
+    "experience": [
+      {
+        "title": "Projektmanagerin",
+        "company": "Rheinland Klinikverbund IT-Services GmbH",
+        "location": "Köln",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Leitung der Einführung einer digitalen Pflegedokumentation in drei Kliniken mit 1.400 Betten",
+          "Steuerung eines Projektbudgets von 3,5 Mio. € aus KHZG-Fördermitteln",
+          "Aufbau eines Key-User-Netzwerks mit 60 Pflegekräften für Schulung und Support",
+          "Berichterstattung an Geschäftsführung und Fördermittelgeber"
+        ]
+      },
+      {
+        "title": "Projektmanagerin",
+        "company": "Deutzer Softwarehaus GmbH",
+        "location": "Köln",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Einführung von ERP-Lösungen bei mittelständischen Kunden",
+          "Planung von Migrationswochenenden und Hypercare"
+        ]
+      },
+      {
+        "title": "Junior Projektmanagerin",
+        "company": "Kölner Medienlogistik GmbH",
+        "location": "Köln",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Koordination von Rollouts neuer Lagerverwaltungssoftware an zwei Standorten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Betriebswirtschaftslehre",
+        "school": "Universität zu Köln",
+        "dates": "2015 – 2019",
+        "details": "Schwerpunkt Wirtschaftsinformatik"
+      }
+    ],
+    "skills": [
+      "Projektplanung mit MS Project und Jira",
+      "KIS, Pflegedokumentation, KHZG",
+      "Fördermittel- und Budgetcontrolling",
+      "Change Management und Schulungskonzepte",
+      "Lieferantensteuerung",
+      "Risikomanagement"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Spanisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Project Management Professional (PMP), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

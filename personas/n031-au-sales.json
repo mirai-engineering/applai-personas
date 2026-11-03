@@ -1,0 +1,107 @@
+{
+  "slug": "n031-au-sales",
+  "level": "mid",
+  "profession": "sales",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Lagerlogistiker"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Ayşe Coşkun",
+    "headline": "Account Executive B2B SaaS | Neukundengewinnung Mittelstand | Wiedereinstieg 2024",
+    "contact": {
+      "email": "ayse.coskun@example.com",
+      "phone": "+43 660 0000 031",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Vertriebsprofi mit rund sieben Jahren Erfahrung im B2B-Vertrieb von IT-Lösungen für den oberösterreichischen Mittelstand. Nach einer Karenzzeit von 2021 bis 2024 bin ich wieder im Neukundenvertrieb tätig und baue für einen Cloud-Anbieter die Region Oberösterreich und Salzburg auf.",
+    "experience": [
+      {
+        "title": "Account Executive",
+        "company": "Mühlkreis Cloud Services GmbH",
+        "location": "Linz",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Neukundengewinnung für Cloud- und Managed-Services bei Unternehmen mit 50 bis 500 Mitarbeitenden",
+          "Pipeline-Management in Salesforce und Forecast mit der Vertriebsleitung",
+          "Erstes Jahr mit 112 % Zielerreichung abgeschlossen",
+          "Zusammenarbeit mit Presales bei Demos und Angeboten"
+        ]
+      },
+      {
+        "title": "Account Managerin",
+        "company": "Datacon IT-Systemhaus GmbH",
+        "location": "Linz",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Betreuung von rund 60 Bestandskunden und Ausbau von Wartungsverträgen",
+          "Teilnahme an Messen und Organisation von Kundenevents"
+        ]
+      },
+      {
+        "title": "Vertriebsinnendienst",
+        "company": "Traunsteiner Büroeinrichtung GmbH",
+        "location": "Wels",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Angebotserstellung und Auftragsabwicklung im ERP-System"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor Marketing & Electronic Business",
+        "school": "FH Oberösterreich, Campus Steyr",
+        "dates": "2012 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Neukundenakquise und Kaltakquise",
+      "Salesforce Sales Cloud, HubSpot",
+      "Lösungsvertrieb nach MEDDIC",
+      "Angebots- und Vertragsverhandlung",
+      "Cloud- und IT-Services",
+      "Messe- und Eventvertrieb"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Türkisch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [
+      "Salesforce Administrator Grundkurs, 2024"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Karenz 2021 – 2024 (Betreuung von zwei Kindern)"
+    ]
+  }
+}

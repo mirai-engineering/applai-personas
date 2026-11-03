@@ -1,0 +1,112 @@
+{
+  "slug": "n040-sp-tax",
+  "level": "junior",
+  "profession": "tax",
+  "band": "2-5",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Tax Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Asesor fiscal"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Coordinator"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Javier Castaño Ríos",
+    "headline": "International Tax Consultant | Spanish CIT, VAT and non-resident taxation",
+    "contact": {
+      "email": "javier.castano@example.com",
+      "phone": "+34 622 0000 040",
+      "location": "Madrid",
+      "links": []
+    },
+    "summary": "Tax consultant with about five years across a Big Four firm, an in-house tax team, a stint as a freelancer and now a boutique tax firm. Most of my work is corporate income tax and VAT for foreign groups with Spanish subsidiaries.",
+    "experience": [
+      {
+        "title": "Tax Consultant – International Tax",
+        "company": "Lozano & Ibarra Abogados Tributarios",
+        "location": "Madrid",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Prepare corporate income tax returns (Modelo 200) and VAT filings for 25 subsidiaries of foreign groups",
+          "Draft transfer pricing local files with the senior team",
+          "Answer client queries on withholding tax and double tax treaties",
+          "Helped a client recover €310k of VAT through a corrected SII filing"
+        ]
+      },
+      {
+        "title": "Freelance Tax Advisor",
+        "company": "Self-employed",
+        "location": "Madrid",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Non-resident income tax (Modelo 210) and Beckham-regime filings for expatriates"
+        ]
+      },
+      {
+        "title": "Tax Analyst",
+        "company": "Grupo Hotelero Meseta",
+        "location": "Madrid",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Monthly VAT and withholding tax returns for 14 hotels",
+          "Supported a tax inspection on the 2019–2020 corporate tax years"
+        ]
+      },
+      {
+        "title": "Junior Tax Associate",
+        "company": "Deloitte",
+        "location": "Madrid",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Tax compliance and due diligence support for private equity clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Double Degree in Law and Business Administration",
+        "school": "Universidad Carlos III de Madrid",
+        "dates": "2015 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Spanish corporate income tax and VAT (IVA)",
+      "SII, Modelos 200, 303, 210, 390",
+      "Transfer pricing documentation",
+      "Double tax treaties",
+      "A3 Asesor, Excel",
+      "AEAT electronic filing"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (C1)",
+      "Portuguese (B1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

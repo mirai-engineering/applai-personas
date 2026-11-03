@@ -1,0 +1,115 @@
+{
+  "slug": "n050-un-product-marketing",
+  "level": "senior",
+  "profession": "product marketing",
+  "band": "8-12",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Go-to-Market Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Fiona Cairns",
+    "headline": "Senior Product Marketing Manager | B2B SaaS, payments and climate data",
+    "contact": {
+      "email": "fiona.cairns@example.com",
+      "phone": "+44 7700 0000 050",
+      "location": "Edinburgh",
+      "links": []
+    },
+    "summary": "Product marketer with eleven years in B2B software. I build positioning, launch plans and sales enablement with product teams. Back at work since 2024 after a three-year career break for family reasons.",
+    "experience": [
+      {
+        "title": "Senior Product Marketing Manager",
+        "company": "Granton Climate Data",
+        "location": "Edinburgh",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Own positioning and messaging for the carbon accounting product line",
+          "Planned two product launches with product, sales and customer success",
+          "Rebuilt the sales enablement kit; win rate on competitive deals up from 24% to 31%",
+          "Run customer interviews and win/loss analysis each quarter"
+        ]
+      },
+      {
+        "title": "Senior Product Marketing Manager",
+        "company": "Holyrood Payments",
+        "location": "Edinburgh",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Led go-to-market for the merchant onboarding product in the UK and Ireland",
+          "Managed one product marketing executive"
+        ]
+      },
+      {
+        "title": "Product Marketing Manager",
+        "company": "Firth Analytics",
+        "location": "Edinburgh",
+        "dates": "2014 – 2018",
+        "bullets": [
+          "Wrote launch content, pricing pages and analyst briefings",
+          "Ran the partner marketing programme"
+        ]
+      },
+      {
+        "title": "Marketing Executive",
+        "company": "Leith Software Ltd",
+        "location": "Edinburgh",
+        "dates": "2012 – 2014",
+        "bullets": [
+          "Email campaigns and events for an HR software vendor"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA (Hons) Marketing",
+        "school": "University of Stirling",
+        "dates": "2008 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Positioning and messaging",
+      "Launch planning",
+      "Sales enablement",
+      "Competitive intelligence",
+      "Customer research and win/loss",
+      "HubSpot, Salesforce, Gong"
+    ],
+    "languages": [
+      "English (native)",
+      "French (intermediate)"
+    ],
+    "certifications": [
+      "Pragmatic Institute PMC Level III, 2024"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2021 – 2024: caring for a family member"
+    ]
+  }
+}

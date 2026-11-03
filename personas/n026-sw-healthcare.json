@@ -1,0 +1,112 @@
+{
+  "slug": "n026-sw-healthcare",
+  "level": "senior",
+  "profession": "healthcare",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Infirmière diplômée"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Infirmière cheffe d'unité de soins"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Gestionnaire de paie"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Camille Chappuis",
+    "headline": "Infirmière diplômée HES | Soins intensifs et médecine interne | Infirmière référente",
+    "contact": {
+      "email": "camille.chappuis@example.com",
+      "phone": "+41 79 0000 026",
+      "location": "Genève",
+      "links": []
+    },
+    "summary": "Infirmière diplômée HES avec onze ans d'expérience en EMS, en soins intensifs puis en médecine interne. Je coordonne la prise en charge des patients polymorbides avec les médecins et l'équipe pluridisciplinaire, et j'encadre les étudiantes et les nouvelles collaboratrices.",
+    "experience": [
+      {
+        "title": "Infirmière référente – Médecine interne",
+        "company": "Clinique des Charmilles",
+        "location": "Genève",
+        "dates": "2021 – aujourd'hui",
+        "bullets": [
+          "Responsable de la planification des soins pour une unité de 24 lits et de la coordination avec le service social pour les sorties",
+          "Praticienne formatrice pour les étudiantes HES et les assistantes en soins et santé communautaire (ASSC)",
+          "Mise en place d'un protocole de prévention des chutes avec l'équipe de physiothérapie ; chutes réduites de 30 % en un an",
+          "Participation au déploiement du dossier patient informatisé et formation de 18 collègues"
+        ]
+      },
+      {
+        "title": "Infirmière en soins intensifs",
+        "company": "Hôpital intercommunal du Salève",
+        "location": "Thônex",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Prise en charge de patients ventilés et sous surveillance hémodynamique continue",
+          "Membre du groupe qualité pour la gestion des cathéters veineux centraux"
+        ]
+      },
+      {
+        "title": "Infirmière",
+        "company": "EMS Les Tilleuls",
+        "location": "Carouge",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Soins aux résidents âgés et gestion des traitements pour un étage de 30 résidents"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science HES-SO en Soins infirmiers",
+        "school": "Haute école de santé de Genève (HEdS)",
+        "dates": "2012 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "Diplôme d'expert en soins intensifs EPD ES",
+        "school": "Centre de formation ES en soins intensifs, Lausanne",
+        "dates": "2018 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Soins aigus et soins intensifs, surveillance hémodynamique",
+      "Évaluation clinique, échelles de Braden et de Norton",
+      "Plan de soins, transmissions ciblées",
+      "Formation pratique d'étudiantes et d'ASSC",
+      "Dossier patient informatisé",
+      "Hygiène hospitalière et prévention des infections"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (B2)",
+      "Allemand (B1)"
+    ],
+    "certifications": [
+      "BLS-AED-SRC (Swiss Resuscitation Council), 2025",
+      "Praticienne formatrice (PF), HES-SO, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

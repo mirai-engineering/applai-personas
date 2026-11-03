@@ -1,0 +1,105 @@
+{
+  "slug": "n045-ge-project-management",
+  "level": "junior",
+  "profession": "project management",
+  "band": "2-5",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektmanager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "PMO Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Pflegefachkraft"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Tobias Czarnecki",
+    "headline": "Jr. PM / Projektreferent Digitalisierung | Versicherung | Agile & klassisch",
+    "contact": {
+      "email": "tobias.czarnecki@example.com",
+      "phone": "+49 157 0000 045",
+      "location": "Köln",
+      "links": []
+    },
+    "summary": "Projektmanager mit gut vier Jahren Erfahrung aus Werkstudententätigkeit, einem kommunalen Verkehrsunternehmen und jetzt einer Versicherung. Ich organisiere Digitalisierungsprojekte, halte Planung und Protokolle sauber und bringe Fachbereich und IT an einen Tisch.",
+    "experience": [
+      {
+        "title": "Jr. PM / Projektreferent Digitalisierung",
+        "company": "Domblick Versicherungsgruppe",
+        "location": "Köln",
+        "dates": "2024 – heute",
+        "bullets": [
+          "Projektplanung und -steuerung für die Digitalisierung der Schadenmeldung in der Kfz-Sparte",
+          "Moderation von Anforderungsworkshops mit Fachbereich und Entwicklung",
+          "Pflege von Projektplan, RAID-Log und Budgetübersicht",
+          "Einführung eines Online-Formulars; Bearbeitungszeit pro Schadenfall um 18 % reduziert"
+        ]
+      },
+      {
+        "title": "Projektkoordinator (E9)",
+        "company": "Kölner Verkehrstechnik Gesellschaft mbH",
+        "location": "Köln",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Koordination der Ausstattung von 120 Haltestellen mit digitalen Fahrgastinformationen",
+          "Terminabstimmung mit Lieferanten und Tiefbauamt"
+        ]
+      },
+      {
+        "title": "PMO Werkstudent",
+        "company": "Rheinmedia Broadcast Services GmbH",
+        "location": "Köln",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Pflege von Ressourcenplänen und Statusberichten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Wirtschaftsinformatik",
+        "school": "TH Köln",
+        "dates": "2018 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "MS Project, Jira, Confluence",
+      "Hybrides Projektmanagement (Scrum und Wasserfall)",
+      "Anforderungsmanagement",
+      "Stakeholder-Kommunikation",
+      "Budgetcontrolling",
+      "Power BI (Grundlagen)"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Polnisch (fließend)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [
+      "IPMA Level D, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

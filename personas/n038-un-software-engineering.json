@@ -1,0 +1,114 @@
+{
+  "slug": "n038-un-software-engineering",
+  "level": "exec",
+  "profession": "software engineering",
+  "band": "12+",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "VP of Engineering"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "CTO"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Finance Director"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Owen Carrington",
+    "headline": "VP Engineering | Fintech platforms | Building teams of 60+ engineers",
+    "contact": {
+      "email": "owen.carrington@example.com",
+      "phone": "+44 7700 0000 038",
+      "location": "Bristol",
+      "links": []
+    },
+    "summary": "Engineering leader with seventeen years in software, the last eight running engineering organisations in health tech and fintech. I care about reliable platforms, sensible architecture and managers who grow their people.",
+    "experience": [
+      {
+        "title": "VP Engineering",
+        "company": "Cabot Ledger",
+        "location": "Bristol",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Lead 64 engineers across payments, ledger and platform teams, reporting to the CEO",
+          "Moved core ledger services from a monolith to event-driven services on AWS without customer downtime",
+          "Introduced an on-call and incident review process; P1 incidents down 45% year on year",
+          "Own a £7.5M engineering budget and the hiring plan",
+          "Work with compliance on FCA operational resilience requirements"
+        ]
+      },
+      {
+        "title": "Head of Engineering",
+        "company": "Harbourside Health",
+        "location": "Bristol",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Grew the team from 12 to 38 engineers and set up the engineering manager track",
+          "Delivered NHS-integrated booking platform used by 140 GP practices"
+        ]
+      },
+      {
+        "title": "Lead Software Engineer",
+        "company": "Temple Quay Insurance Tech",
+        "location": "Bristol",
+        "dates": "2013 – 2018",
+        "bullets": [
+          "Tech lead for the quote and pricing engine (Java, Kafka)",
+          "Mentored six engineers, three later promoted to senior"
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Avon Gorge Systems",
+        "location": "Bath",
+        "dates": "2009 – 2013",
+        "bullets": [
+          "Built back-office tooling in C# and SQL Server for logistics clients"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc (Hons) Computer Science",
+        "school": "University of Bath",
+        "dates": "2005 – 2009",
+        "details": "Placement year in industry"
+      }
+    ],
+    "skills": [
+      "Distributed systems and event-driven architecture",
+      "AWS, Kubernetes, Terraform",
+      "Go, Kotlin, Java",
+      "Engineering org design and hiring",
+      "Incident management, SRE practices",
+      "FCA operational resilience"
+    ],
+    "languages": [
+      "English (native)",
+      "Welsh (basic)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Mentor, Bristol Tech Leaders Forum"
+    ],
+    "extra_sections": []
+  }
+}

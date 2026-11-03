@@ -1,0 +1,102 @@
+{
+  "slug": "n043-un-controlling",
+  "level": "mid",
+  "profession": "controlling",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Financial Controller"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Business Intelligence Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Physical Therapist"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Darnell Coleman",
+    "headline": "Controller, CPA | Month-end close, FP&A and BI dashboards",
+    "contact": {
+      "email": "darnell.coleman@example.com",
+      "phone": "+1 404 0000 043",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "CPA with seven years in accounting and finance, split between controllership and analytics. I run the close for a manufacturing company and also build the SQL and Tableau reporting the business uses, so I can work as a controller or as a BI analyst.",
+    "experience": [
+      {
+        "title": "Controller",
+        "company": "Chattahoochee Packaging Co.",
+        "location": "Atlanta, GA",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Own the monthly close, balance sheet reconciliations and audit preparation for a $95M manufacturer",
+          "Shortened close from 10 to 6 business days by redesigning the checklist and automating accruals",
+          "Built standard cost and margin dashboards in Tableau from NetSuite and plant data",
+          "Manage two staff accountants"
+        ]
+      },
+      {
+        "title": "Financial Analyst, Business Intelligence",
+        "company": "Midtown Health Partners",
+        "location": "Atlanta, GA",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Wrote SQL models for clinic productivity and payer mix reporting",
+          "Supported annual budgeting for 30 outpatient clinics"
+        ]
+      },
+      {
+        "title": "Staff Accountant",
+        "company": "Peachtree Freight Lines",
+        "location": "Atlanta, GA",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "AP/AR, fixed assets and bank reconciliations"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BBA, Accounting",
+        "school": "Georgia State University",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "US GAAP, month-end close",
+      "NetSuite, QuickBooks",
+      "SQL, Tableau, Power BI",
+      "Standard costing and inventory",
+      "Budgeting and variance analysis",
+      "Audit coordination"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Certified Public Accountant (Georgia), 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

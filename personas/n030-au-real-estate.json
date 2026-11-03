@@ -1,0 +1,105 @@
+{
+  "slug": "n030-au-real-estate",
+  "level": "senior",
+  "profession": "real estate",
+  "band": "8-12",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Immobilienverwalter"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Asset Manager Immobilien"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Elektrotechniker"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Andreas Csányi",
+    "headline": "Teamleiter Immobilienverwaltung | Wohnungseigentum und Zinshäuser | Immobilientreuhänder",
+    "contact": {
+      "email": "andreas.csanyi@example.com",
+      "phone": "+43 676 0000 030",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Immobilienverwalter mit zwölf Jahren Erfahrung in der Verwaltung von Wohnungseigentumsanlagen, Zinshäusern und gemeinnützigen Wohnbauten in Oberösterreich. Leite ein Team von fünf Verwalterinnen und Verwaltern und bin Ansprechpartner für Eigentümergemeinschaften und Professionisten.",
+    "experience": [
+      {
+        "title": "Teamleiter Immobilienverwaltung",
+        "company": "Donaupark Immobilien Verwaltung GmbH",
+        "location": "Linz",
+        "dates": "2020 – heute",
+        "bullets": [
+          "Führung eines Teams von 5 Verwalter:innen mit einem Bestand von rund 2.100 Einheiten",
+          "Leitung von Eigentümerversammlungen und Umsetzung von Sanierungen nach WEG 2002",
+          "Thermische Sanierung von drei Wohnhausanlagen mit Förderung des Landes OÖ begleitet",
+          "Einführung digitaler Eigentümerportale; telefonische Anfragen um rund ein Drittel gesunken"
+        ]
+      },
+      {
+        "title": "Immobilienverwalter",
+        "company": "Wohnbaugenossenschaft Mühlviertel",
+        "location": "Freistadt",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Verwaltung von 14 Wohnhausanlagen nach WGG inklusive Betriebskostenabrechnung",
+          "Vergabe und Kontrolle von Instandhaltungsarbeiten"
+        ]
+      },
+      {
+        "title": "Assistenz der Hausverwaltung",
+        "company": "Pröll & Partner Immobilientreuhand",
+        "location": "Linz",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Vorbereitung von Abrechnungen und Mieterkorrespondenz"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor Immobilienwirtschaft",
+        "school": "FH Wien der WKW",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "WEG 2002, MRG, WGG",
+      "Betriebskostenabrechnung und Rücklagenplanung",
+      "Instandhaltungs- und Sanierungsplanung",
+      "Ausschreibung und Vergabe an Professionisten",
+      "Hausverwaltungssoftware DOMUS",
+      "Mitarbeiterführung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Ungarisch (gut)",
+      "Englisch (gut)"
+    ],
+    "certifications": [
+      "Befähigungsprüfung Immobilientreuhänder (Immobilienverwalter), 2018"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

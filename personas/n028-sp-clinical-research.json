@@ -1,0 +1,111 @@
+{
+  "slug": "n028-sp-clinical-research",
+  "level": "mid",
+  "profession": "clinical research",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Clinical Research Associate"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Monitor de ensayos clínicos"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Procurement Specialist"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Lucía Cervera Ballester",
+    "headline": "CRA II – Oncology & Haematology | Site monitoring Spain/Portugal",
+    "contact": {
+      "email": "lucia.cervera@example.com",
+      "phone": "+34 611 0000 028",
+      "location": "Valencia",
+      "links": []
+    },
+    "summary": "Clinical research professional with seven years in study start-up and on-site/remote monitoring, mostly phase II–III oncology trials. Comfortable with high-recruiting hospital sites and with the paperwork that keeps them inspection-ready.",
+    "experience": [
+      {
+        "title": "CRA II (Oncology) / Sr. Monitor",
+        "company": "Mediterra Clinical Research S.L.",
+        "location": "Valencia",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Monitor 7 sites in Valencia, Murcia and Alicante for two phase III oncology studies",
+          "Source data verification, drug accountability and query resolution in Medidata Rave",
+          "Prepared two sites for sponsor audits; no critical findings",
+          "Mentor two CRA I colleagues during co-monitoring visits"
+        ]
+      },
+      {
+        "title": "Clinical Monitor – CRA I",
+        "company": "Levante Biopharma Services",
+        "location": "Valencia",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Remote and on-site monitoring visits for haematology trials",
+          "Site activation in 9 weeks on average versus a 12-week target"
+        ]
+      },
+      {
+        "title": "CTA / Study Start-up Assoc.",
+        "company": "Fundación de Investigación Turia",
+        "location": "Valencia",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Ethics committee (CEIm) submissions and contract tracking for investigator-initiated studies",
+          "Maintained the TMF and investigator site files"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Biotecnología",
+        "school": "Universitat Politècnica de València",
+        "dates": "2014 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Máster en Monitorización de Ensayos Clínicos",
+        "school": "Universidad CEU Cardenal Herrera",
+        "dates": "2018 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ICH-GCP E6(R2)/(R3), Real Decreto 1090/2015",
+      "Medidata Rave, Veeva Vault eTMF, CTMS",
+      "Risk-based monitoring",
+      "Site start-up and CEIm submissions",
+      "Drug accountability, SAE reconciliation"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "Valencian (native)",
+      "English (C1)"
+    ],
+    "certifications": [
+      "ICH GCP refresher (TransCelerate), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

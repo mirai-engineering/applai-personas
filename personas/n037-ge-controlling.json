@@ -1,0 +1,109 @@
+{
+  "slug": "n037-ge-controlling",
+  "level": "senior",
+  "profession": "controlling",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Controller"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "FP&A Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "UX Designer"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Merve Çelik",
+    "headline": "Senior Controllerin | Konzerncontrolling | HGB und IFRS | SAP S/4HANA",
+    "contact": {
+      "email": "merve.celik@example.com",
+      "phone": "+49 176 0000 037",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Controllerin mit zehn Jahren Erfahrung im Werks- und Konzerncontrolling von Lebensmittel- und Handelsunternehmen. Ich verantworte Planung, Forecast und Monatsreporting und bringe die Datenbasis mit Power BI und SAP S/4HANA auf einen Stand, mit dem die Geschäftsführung arbeiten kann.",
+    "experience": [
+      {
+        "title": "Senior Controllerin",
+        "company": "Kaiserkai Kaffee Gruppe",
+        "location": "Hamburg",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortung für Budget und Forecast von fünf Gesellschaften mit 310 Mio. € Umsatz",
+          "Fachliche Führung von zwei Controllerinnen und Ansprechpartnerin für die Geschäftsführung",
+          "Einführung eines rollierenden Forecasts in SAP Analytics Cloud",
+          "Monatsabschluss nach HGB in vier statt sechs Arbeitstagen"
+        ]
+      },
+      {
+        "title": "Konzerncontrollerin",
+        "company": "Nordelbe Pharma Distribution GmbH",
+        "location": "Hamburg",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Konsolidierung des Konzernreportings nach IFRS und Abstimmung mit den Wirtschaftsprüfern",
+          "Aufbau von Power-BI-Berichten für Vertrieb und Logistik"
+        ]
+      },
+      {
+        "title": "Controllerin",
+        "company": "Elbmarsch Lebensmittel GmbH",
+        "location": "Buxtehude",
+        "dates": "2016 – 2019",
+        "bullets": [
+          "Kostenstellen- und Produktkalkulation für zwei Werke",
+          "Investitionsrechnungen für neue Abfüllanlagen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Accounting & Finance",
+        "school": "Universität Hamburg",
+        "dates": "2014 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Betriebswirtschaftslehre",
+        "school": "Universität Hamburg",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "HGB, IFRS",
+      "SAP S/4HANA CO, SAP Analytics Cloud",
+      "Power BI, Excel (VBA)",
+      "Planung, Forecast, Abweichungsanalysen",
+      "Produktkalkulation und Investitionsrechnung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Türkisch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

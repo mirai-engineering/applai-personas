@@ -1,0 +1,104 @@
+{
+  "slug": "n046-sw-chemical-engineering",
+  "level": "senior",
+  "profession": "chemical engineering",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingénieure procédés"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "MSAT Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chargée de communication"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Aurélie Chabert",
+    "headline": "Ingénieure procédés senior | MSAT biologiques | Scale-up et validation GMP",
+    "contact": {
+      "email": "aurelie.chabert@example.com",
+      "phone": "+41 78 0000 046",
+      "location": "Bâle",
+      "links": []
+    },
+    "summary": "Ingénieure chimiste avec onze ans d'expérience en développement et industrialisation de procédés, d'abord en chimie fine puis dans les biologiques. Je pilote les transferts de technologie et les validations de procédés entre le développement et la production.",
+    "experience": [
+      {
+        "title": "Responsable technique procédés (MSAT)",
+        "company": "Dreispitz Pharmaservices AG",
+        "location": "Bâle",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Pilotage de trois transferts de technologie de procédés de purification vers la production commerciale",
+          "Rédaction des protocoles et rapports de validation de procédés (PPQ) avec l'assurance qualité",
+          "Analyse des déviations et mise en place des CAPA ; rendement de la chromatographie amélioré de 7 %",
+          "Encadrement de deux ingénieurs juniors"
+        ]
+      },
+      {
+        "title": "Ingénieure procédés senior",
+        "company": "Rosental Biologics AG",
+        "location": "Bâle",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Scale-up de procédés de fermentation de 200 L à 2 000 L",
+          "Plans d'expériences (DoE) pour définir l'espace de conception"
+        ]
+      },
+      {
+        "title": "Ingénieure procédés",
+        "company": "Rhin Chimie Fine SAS",
+        "location": "Huningue",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Optimisation de synthèses en réacteurs batch et études HAZOP",
+          "Suivi des campagnes de production en zone ATEX"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur en chimie",
+        "school": "École nationale supérieure de chimie de Mulhouse (ENSCMu)",
+        "dates": "2012 – 2015",
+        "details": "Option génie des procédés"
+      }
+    ],
+    "skills": [
+      "Scale-up et transfert de technologie",
+      "Validation des procédés, BPF/GMP",
+      "DoE (JMP), PAT",
+      "HAZOP, ATEX",
+      "Aspen Plus",
+      "Gestion des déviations et CAPA"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (courant)",
+      "Anglais (courant)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

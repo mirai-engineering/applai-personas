@@ -1,0 +1,94 @@
+{
+  "slug": "n032-sp-electrical-engineering",
+  "level": "intern",
+  "profession": "electrical engineering",
+  "band": "0-2",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Prácticas ingeniería eléctrica"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Técnico de proyectos eléctricos"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Diseñador gráfico"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Iker Cortázar Etxeberria",
+    "headline": "Estudiante de Ingeniería Eléctrica | Prácticas en subestaciones y media tensión",
+    "contact": {
+      "email": "iker.cortazar@example.com",
+      "phone": "+34 644 0000 032",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Estudiante de último curso de Ingeniería Eléctrica que retomó la carrera en 2023 después de dos años de pausa para trabajar y cuidar de un familiar. Actualmente hago prácticas en una ingeniería de subestaciones y me interesa la integración de renovables en la red.",
+    "experience": [
+      {
+        "title": "Prácticas – Ingeniería eléctrica (subestaciones)",
+        "company": "Elektra Bizkaia Ingeniería S.L.",
+        "location": "Bilbao",
+        "dates": "2025 – actualidad",
+        "bullets": [
+          "Apoyo en el cálculo de cortocircuito y selección de aparamenta para subestaciones de 30 kV",
+          "Elaboración de esquemas unifilares en AutoCAD Electrical y revisión de planos con el equipo",
+          "Preparación de la documentación para la legalización de instalaciones según el RAT",
+          "Visitas a obra con el jefe de proyecto para la puesta en marcha de una planta fotovoltaica"
+        ]
+      },
+      {
+        "title": "Auxiliar técnico (media jornada)",
+        "company": "Instalaciones Eléctricas Arratia",
+        "location": "Igorre",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Ayuda en instalaciones de baja tensión en viviendas y pequeños comercios según el REBT"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Ingeniería Eléctrica",
+        "school": "Escuela de Ingeniería de Bilbao (UPV/EHU)",
+        "dates": "2018 – 2026",
+        "details": "Pausa académica 2021 – 2023; TFG sobre la integración de autoconsumo en redes de baja tensión"
+      }
+    ],
+    "skills": [
+      "AutoCAD Electrical, DIgSILENT PowerFactory (nivel básico)",
+      "Reglamento de alta tensión (RAT) y REBT",
+      "Cálculo de cortocircuito y coordinación de protecciones",
+      "MATLAB/Simulink",
+      "Excel para presupuestos"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Euskera (nativo)",
+      "Inglés (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Pausa 2021 – 2023: trabajo a media jornada y cuidado de un familiar"
+    ]
+  }
+}

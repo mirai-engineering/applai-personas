@@ -1,0 +1,111 @@
+{
+  "slug": "n047-au-tax",
+  "level": "senior",
+  "profession": "tax",
+  "band": "8-12",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Steuerberater"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Tax Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Bauleiter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Philipp Cech",
+    "headline": "Steuerberater | Unternehmensbesteuerung | Gruppenbesteuerung und Verrechnungspreise",
+    "contact": {
+      "email": "philipp.cech@example.com",
+      "phone": "+43 699 0000 047",
+      "location": "Wien",
+      "links": []
+    },
+    "summary": "Steuerberater mit zwölf Jahren Erfahrung in der Beratung von Familienunternehmen und österreichischen Tochtergesellschaften internationaler Konzerne. Schwerpunkte sind Körperschaftsteuer, Gruppenbesteuerung, Umgründungen und Betriebsprüfungen.",
+    "experience": [
+      {
+        "title": "Senior Manager Steuerberatung",
+        "company": "Donaukanal Tax & Audit Steuerberatungs GmbH",
+        "location": "Wien",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Betreuung eines Mandantenportfolios mit rund 2 Mio. € Jahreshonorar",
+          "Begleitung von Umgründungen nach dem UmgrStG und von Unternehmensgruppen nach § 9 KStG",
+          "Vertretung von Mandanten bei Betriebsprüfungen und Beschwerden vor dem BFG",
+          "Fachliche Führung von vier Berufsanwärterinnen und Berufsanwärtern"
+        ]
+      },
+      {
+        "title": "Steuerberater",
+        "company": "Ringstraße Treuhand Steuerberatungs GmbH",
+        "location": "Wien",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Erstellung von Jahresabschlüssen und Steuererklärungen für mittelständische Unternehmen",
+          "Verrechnungspreisdokumentation für österreichische Tochtergesellschaften"
+        ]
+      },
+      {
+        "title": "Berufsanwärter",
+        "company": "Kanzlei Hofbauer Steuerberatung",
+        "location": "Mödling",
+        "dates": "2014 – 2018",
+        "bullets": [
+          "Buchhaltung, Lohnverrechnung und Steuererklärungen für Einzelunternehmen"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Masterstudium Wirtschaftsrecht",
+        "school": "Wirtschaftsuniversität Wien",
+        "dates": "2011 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "Bachelorstudium Wirtschafts- und Sozialwissenschaften",
+        "school": "Wirtschaftsuniversität Wien",
+        "dates": "2008 – 2011",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "KStG, EStG, UStG, BAO",
+      "Gruppenbesteuerung und UmgrStG",
+      "Verrechnungspreise",
+      "Betriebsprüfungen",
+      "BMD NTCS, FinanzOnline",
+      "Mandantenbetreuung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Tschechisch (gut)"
+    ],
+    "certifications": [
+      "Steuerberaterprüfung, Kammer der Steuerberater:innen und Wirtschaftsprüfer:innen, 2018"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

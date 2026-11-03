@@ -1,0 +1,112 @@
+{
+  "slug": "n039-au-logistics",
+  "level": "mid",
+  "profession": "logistics",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Logistikkoordinator"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Disponent"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Grafikdesigner"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Thomas Cerny",
+    "headline": "Logistikkoordinator | Inbound und Outbound | SAP MM/LE | Zollabwicklung",
+    "contact": {
+      "email": "thomas.cerny@example.com",
+      "phone": "+43 664 0000 039",
+      "location": "Linz",
+      "links": []
+    },
+    "summary": "Speditionskaufmann mit acht Jahren Erfahrung in Disposition und Werkslogistik. Ich koordiniere den Warenein- und -ausgang eines Anlagenbauers, plane Transporte mit Speditionen und kümmere mich um Zoll- und Exportdokumente.",
+    "experience": [
+      {
+        "title": "Logistikkoordinator",
+        "company": "Pöstlingberg Industrieanlagen GmbH",
+        "location": "Linz",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Koordination von täglich rund 40 Lkw-Anlieferungen und Versand von Großkomponenten in über 20 Länder",
+          "Ausschreibung von Transportleistungen; Frachtkosten 2024 um 9 % gesenkt",
+          "Erstellung von Exportdokumenten und Abwicklung über e-zoll",
+          "Abstimmung mit Produktion und Einkauf im wöchentlichen Logistik-Meeting"
+        ]
+      },
+      {
+        "title": "Disponent Landverkehr",
+        "company": "Traunviertel Transporte GmbH",
+        "location": "Wels",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Disposition von 25 eigenen Lkw und Partnerfrachtführern im Österreich- und Deutschlandverkehr",
+          "Tourenplanung mit Transporeon und Reklamationsbearbeitung"
+        ]
+      },
+      {
+        "title": "Lehrling Speditionskaufmann",
+        "company": "Donau Cargo Spedition GmbH",
+        "location": "Linz",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Ausbildung in Sammelgut, Luftfracht und Zollabteilung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Lehrabschluss Speditionskaufmann",
+        "school": "Berufsschule Linz 8",
+        "dates": "2015 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "Lehrgang Logistikmanagement",
+        "school": "WIFI Oberösterreich",
+        "dates": "2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SAP MM/LE",
+      "Transporeon, Timocom",
+      "Zollabwicklung mit e-zoll",
+      "Incoterms 2020",
+      "ADR-Grundkenntnisse",
+      "Frachtkostenkalkulation"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (gut)",
+      "Tschechisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Staplerschein",
+      "ADR-Basiskurs, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

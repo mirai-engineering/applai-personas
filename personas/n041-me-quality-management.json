@@ -1,0 +1,107 @@
+{
+  "slug": "n041-me-quality-management",
+  "level": "senior",
+  "profession": "quality management",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniera de Calidad"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supplier Quality Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ejecutivo de ventas"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Gabriela Contreras Íñiguez",
+    "headline": "Ingeniera de Calidad Sr. | Dispositivos médicos y autopartes | ISO 13485 / IATF 16949",
+    "contact": {
+      "email": "gabriela.contreras@example.com",
+      "phone": "+52 33 0000 0041",
+      "location": "Zapopan, Jal.",
+      "links": []
+    },
+    "summary": "Ingeniera industrial con once años de experiencia en calidad para autopartes, electrónica y dispositivos médicos. Me reincorporé en 2022 después de una pausa de dos años por mudanza y cuidado familiar, y lidero la calidad de proveedores y las auditorías en una planta de dispositivos médicos.",
+    "experience": [
+      {
+        "title": "Ingeniera de Calidad Sr.",
+        "company": "Medisur Dispositivos Médicos",
+        "location": "Zapopan, Jal.",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Responsable del sistema de quejas y CAPA para dos líneas de catéteres bajo ISO 13485 y 21 CFR 820",
+          "Lideré la auditoría de recertificación ISO 13485 sin no conformidades mayores",
+          "Validaciones de proceso (IQ/OQ/PQ) con el equipo de manufactura",
+          "Reducción del índice de rechazo de proveedores del 2,1 % al 0,8 %"
+        ]
+      },
+      {
+        "title": "Ingeniera de Calidad de Proveedores",
+        "company": "Componentes Electrónicos Tlaquepaque",
+        "location": "Tlaquepaque, Jal.",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Aprobación de proveedores mediante PPAP y auditorías de proceso",
+          "Seguimiento de reclamos con metodología 8D"
+        ]
+      },
+      {
+        "title": "Ingeniera de Calidad Jr.",
+        "company": "Autopartes del Bajío",
+        "location": "León, Gto.",
+        "dates": "2013 – 2016",
+        "bullets": [
+          "Control estadístico de procesos y planes de control para estampado"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial",
+        "school": "Universidad Autónoma de Guadalajara",
+        "dates": "2008 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISO 13485, ISO 9001, IATF 16949",
+      "APQP, PPAP, PFMEA, planes de control",
+      "8D, CAPA, análisis de causa raíz",
+      "Validación de procesos IQ/OQ/PQ",
+      "Minitab, SPC",
+      "Auditorías internas y a proveedores"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Six Sigma Green Belt, 2017",
+      "Auditora interna ISO 13485:2016, 2023"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Pausa profesional 2020 – 2022: mudanza y cuidado familiar"
+    ]
+  }
+}

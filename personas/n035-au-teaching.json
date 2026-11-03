@@ -1,0 +1,111 @@
+{
+  "slug": "n035-au-teaching",
+  "level": "senior",
+  "profession": "teaching",
+  "band": "8-12",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Lehrerin"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "DaZ Trainerin"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Office Managerin"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Christina Chalupa",
+    "headline": "Lehrerin für Deutsch und Geschichte | Sekundarstufe | Deutsch als Zweitsprache",
+    "contact": {
+      "email": "christina.chalupa@example.com",
+      "phone": "+43 650 0000 035",
+      "location": "Wien",
+      "links": []
+    },
+    "summary": "Lehrerin für Deutsch und Geschichte mit rund zehn Jahren Unterrichtserfahrung an AHS und Mittelschule. Nach einer Pause von 2019 bis 2022 für die Pflege meiner Mutter unterrichte ich an einer Mittelschule mit hohem Anteil an Kindern mit Deutsch als Zweitsprache.",
+    "experience": [
+      {
+        "title": "Lehrerin (Deutsch, Geschichte, DaZ)",
+        "company": "Mittelschule Brigittenau Wallensteinplatz",
+        "location": "Wien",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Unterricht in vier Klassen der Sekundarstufe I und Klassenvorstand einer 3. Klasse",
+          "Aufbau einer Deutschförderklasse nach dem MIKA-D-Testverfahren",
+          "Leseförderprojekt mit der Stadtbücherei; Teilnahme von 120 Schülerinnen und Schülern",
+          "Elterngespräche mit Dolmetschdiensten und Zusammenarbeit mit der Schulsozialarbeit"
+        ]
+      },
+      {
+        "title": "AHS-Lehrerin (Deutsch, Geschichte)",
+        "company": "Privatgymnasium am Wienerberg",
+        "location": "Wien",
+        "dates": "2013 – 2019",
+        "bullets": [
+          "Vorbereitung von Klassen auf die standardisierte Reifeprüfung in Deutsch",
+          "Betreuung von vorwissenschaftlichen Arbeiten und Organisation von Gedenkstättenfahrten"
+        ]
+      },
+      {
+        "title": "Unterrichtspraktikantin",
+        "company": "Bundesrealgymnasium Wien-Ottakring",
+        "location": "Wien",
+        "dates": "2012 – 2013",
+        "bullets": [
+          "Unterrichtspraktikum unter Anleitung einer Betreuungslehrerin"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Lehramtsstudium Deutsch und Geschichte (Mag.a phil.)",
+        "school": "Universität Wien",
+        "dates": "2006 – 2012",
+        "details": ""
+      },
+      {
+        "degree": "Hochschullehrgang Deutsch als Zweitsprache",
+        "school": "Pädagogische Hochschule Wien",
+        "dates": "2022 – 2023",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Kompetenzorientierter Unterricht und Reifeprüfung",
+      "Deutsch als Zweitsprache, MIKA-D",
+      "Leseförderung",
+      "Classroom Management, Klassenvorstand",
+      "MS Teams, LMS.at, Moodle",
+      "Elternarbeit"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)",
+      "Tschechisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Berufspause 2019 – 2022: Pflege einer Angehörigen"
+    ]
+  }
+}
