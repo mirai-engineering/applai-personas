@@ -1,0 +1,116 @@
+{
+  "slug": "n198-ca-graphic-design",
+  "level": "exec",
+  "profession": "graphic design",
+  "band": "12+",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Creative Director"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Directrice artistique"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Sophie Morin",
+    "headline": "Vice-présidente design et directrice de création | Image de marque bilingue",
+    "contact": {
+      "email": "sophie.morin@example.com",
+      "phone": "+1 416 0000 198",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Directrice de création avec dix-huit ans d'expérience en design graphique et en image de marque pour des clients culturels, financiers et publics au Canada. Je dirige une équipe de 22 designers et je défends un design bilingue qui fonctionne aussi bien en français qu'en anglais.",
+    "experience": [
+      {
+        "title": "Vice-présidente design et directrice de création",
+        "company": "Maison Créative Queen Ouest",
+        "location": "Toronto",
+        "dates": "2021 – aujourd'hui",
+        "bullets": [
+          "Direction d'une équipe de 22 designers, rédacteurs et motion designers",
+          "Responsable de la qualité créative pour un portefeuille de 30 clients, dont deux sociétés d'État",
+          "Refonte de l'identité visuelle d'un réseau de caisses populaires francophones en Ontario",
+          "Croissance des revenus de l'agence de 40 % en trois ans avec l'équipe de direction",
+          "Mise en place d'un système de design partagé pour l'équipe"
+        ]
+      },
+      {
+        "title": "Directrice de création associée",
+        "company": "Agence Nord-Sud",
+        "location": "Toronto",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Direction des campagnes bilingues pour des clients financiers et culturels",
+          "Encadrement de trois directeurs artistiques"
+        ]
+      },
+      {
+        "title": "Directrice artistique",
+        "company": "Studio Lakeshore Communications",
+        "location": "Toronto",
+        "dates": "2012 – 2017",
+        "bullets": [
+          "Création d'identités visuelles et de rapports annuels pour des organismes publics"
+        ]
+      },
+      {
+        "title": "Graphiste",
+        "company": "Atelier Bloor Design",
+        "location": "Toronto",
+        "dates": "2008 – 2012",
+        "bullets": [
+          "Mise en page d'imprimés et de publicités pour des clients locaux"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en design graphique",
+        "school": "Université du Québec à Montréal (UQAM)",
+        "dates": "2004 – 2008",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Direction de création et image de marque",
+      "Systèmes de design et chartes graphiques",
+      "Adobe Creative Cloud, Figma",
+      "Typographie bilingue",
+      "Gestion d'équipe et de budget",
+      "Présentation aux clients"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [
+      "Membre de la RGD (Association of Registered Graphic Designers)"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Jurée pour les prix du Art Directors Club of Canada, 2023 et 2024"
+    ]
+  }
+}

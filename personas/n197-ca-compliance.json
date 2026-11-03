@@ -1,0 +1,100 @@
+{
+  "slug": "n197-ca-compliance",
+  "level": "intern",
+  "profession": "compliance",
+  "band": "0-2",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Compliance Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Agente de conformité"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphiste"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Camille Marchand",
+    "headline": "Stagiaire en conformité LRPCFAT | Reconversion après l'hôtellerie",
+    "contact": {
+      "email": "camille.marchand@example.com",
+      "phone": "+1 416 0000 197",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Après cinq ans en restauration et en hôtellerie, je me suis réorientée vers la conformité réglementaire. Je termine un programme postdiplôme et je fais un stage en conformité dans une société de fiducie à Toronto, avec le désir de travailler en lutte contre le blanchiment.",
+    "experience": [
+      {
+        "title": "Stagiaire, Conformité LRPCFAT",
+        "company": "Fiducie Grand-Lac",
+        "location": "Toronto",
+        "dates": "2025 – aujourd'hui",
+        "bullets": [
+          "Vérification des dossiers clients (connaissance du client) pour les nouveaux comptes",
+          "Préparation des déclarations d'opérations importantes en espèces pour le CANAFE",
+          "Mise à jour du registre des formations et des politiques internes",
+          "Participation aux tests trimestriels de surveillance des transactions"
+        ]
+      },
+      {
+        "title": "Gérante adjointe",
+        "company": "Bistro La Distillerie",
+        "location": "Toronto",
+        "dates": "2019 – 2024",
+        "bullets": [
+          "Gestion d'une équipe de 15 personnes, des horaires et de l'inventaire",
+          "Responsable des inspections de santé publique et du permis d'alcool (AGCO)"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Certificat postdiplôme en conformité réglementaire",
+        "school": "Collège Boréal",
+        "dates": "2024 – 2026 (prévu)",
+        "details": ""
+      },
+      {
+        "degree": "Baccalauréat en communication",
+        "school": "Université d'Ottawa",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "LRPCFAT et exigences du CANAFE",
+      "Connaissance du client (KYC), vigilance accrue",
+      "Surveillance des transactions",
+      "Rédaction de politiques et de procédures",
+      "Excel, Microsoft 365"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [
+      "Cours sur le commerce des valeurs mobilières au Canada (CCVM), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

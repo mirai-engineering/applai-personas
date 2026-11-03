@@ -1,0 +1,113 @@
+{
+  "slug": "n184-un-marketing",
+  "level": "mid",
+  "profession": "marketing",
+  "band": "5-8",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Payroll Administrator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Mehta",
+    "headline": "Marketing Manager | B2C brand and CRM | back from a career break",
+    "contact": {
+      "email": "priya.mehta@example.com",
+      "phone": "+44 7700 0000 184",
+      "location": "London",
+      "links": []
+    },
+    "summary": "Marketing manager with around six years of hands-on experience in publishing, food subscription and insurance. Returned in 2024 after a career break to care for my young children, and since then have rebuilt the marketing function at a London insurance broker.",
+    "experience": [
+      {
+        "title": "Marketing Manager",
+        "company": "Brightwater Insurance Brokers",
+        "location": "London",
+        "dates": "Mar 2024 – Present",
+        "bullets": [
+          "Own the marketing plan and a £600k budget for personal and small-business lines",
+          "Relaunched the customer newsletter and CRM journeys in HubSpot",
+          "Work with compliance to sign off financial promotions under FCA rules",
+          "Grew quote requests from organic search by 35% year on year"
+        ]
+      },
+      {
+        "title": "Career break",
+        "company": "Family care",
+        "location": "London",
+        "dates": "Jul 2022 – Feb 2024",
+        "bullets": [
+          "Full-time care for two children; completed the CIM Digital Marketing award during this time"
+        ]
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Larder & Co",
+        "location": "London",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Ran acquisition and retention campaigns for a recipe box subscription service",
+          "Managed two marketing executives and the influencer programme"
+        ]
+      },
+      {
+        "title": "Marketing Executive",
+        "company": "Hartwell & Finch Publishing",
+        "location": "London",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Book launch campaigns, events and trade marketing"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Hons) Marketing",
+        "school": "University of Leeds",
+        "dates": "2012 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Campaign planning and budgeting",
+      "HubSpot, Mailchimp, Google Analytics 4",
+      "SEO and paid social",
+      "CRM journeys and segmentation",
+      "FCA financial promotions",
+      "Agency and freelancer briefing"
+    ],
+    "languages": [
+      "English (native)",
+      "Gujarati (fluent)",
+      "Hindi (conversational)"
+    ],
+    "certifications": [
+      "CIM Award in Digital Marketing, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "n194-ge-real-estate",
+  "level": "exec",
+  "profession": "real estate",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of Property Management"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Geschäftsführer Immobilien"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Scientist"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Jörg Michalski",
+    "headline": "Geschäftsführer Property Management | Büro- und Wohnimmobilien Rhein-Main",
+    "contact": {
+      "email": "joerg.michalski@example.com",
+      "phone": "+49 171 0000 194",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "Immobilienökonom mit zwanzig Jahren Erfahrung im Objekt-, Asset- und Property Management für institutionelle Investoren. Als Geschäftsführer verantworte ich ein Portfolio von 2,8 Mrd. € und ein Team von 140 Mitarbeitenden in der Region Rhein-Main.",
+    "experience": [
+      {
+        "title": "Geschäftsführer",
+        "company": "Rhein-Main Property Services GmbH",
+        "location": "Frankfurt am Main",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Führung von 140 Mitarbeitenden in kaufmännischem und technischem Property Management für 2,8 Mrd. € Assets under Management",
+          "Gewinnung von drei neuen institutionellen Mandaten mit zusammen 600 Mio. € Volumen",
+          "Einführung einer ESG-Datenplattform für Verbrauchsdaten und CO₂-Reporting nach CRREM",
+          "Verantwortung für Budget, Ergebnis und Berichterstattung an die Gesellschafter"
+        ]
+      },
+      {
+        "title": "Leiter Property Management",
+        "company": "Hessische Wohnbau Treuhand",
+        "location": "Wiesbaden",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Leitung von vier Teams für 11.000 Wohneinheiten und Gewerbeflächen",
+          "Umstellung der Objektbuchhaltung auf SAP RE-FX"
+        ]
+      },
+      {
+        "title": "Asset Manager Büro",
+        "company": "Taunus Real Estate Partners",
+        "location": "Frankfurt am Main",
+        "dates": "2011 – 2016",
+        "bullets": [
+          "Asset Management für Büroimmobilien mit Fokus auf Vermietung und Repositionierung"
+        ]
+      },
+      {
+        "title": "Objektmanager",
+        "company": "Mainufer Immobilienverwaltung GmbH",
+        "location": "Offenbach am Main",
+        "dates": "2006 – 2011",
+        "bullets": [
+          "Kaufmännische Betreuung von Gewerbeobjekten und Nebenkostenabrechnung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplom-Kaufmann",
+        "school": "Goethe-Universität Frankfurt am Main",
+        "dates": "2000 – 2005",
+        "details": ""
+      },
+      {
+        "degree": "Immobilienökonom (IREBS)",
+        "school": "IREBS Immobilienakademie",
+        "dates": "2009 – 2010",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Property und Asset Management",
+      "Mietrecht, WEG, BetrKV",
+      "SAP RE-FX, Yardi",
+      "ESG-Reporting, CRREM",
+      "Budget- und Ergebnisverantwortung",
+      "Investorenkommunikation"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Polnisch (gut)"
+    ],
+    "certifications": [
+      "MRICS – Royal Institution of Chartered Surveyors"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

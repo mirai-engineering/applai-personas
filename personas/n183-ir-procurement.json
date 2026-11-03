@@ -1,0 +1,120 @@
+{
+  "slug": "n183-ir-procurement",
+  "level": "exec",
+  "profession": "procurement",
+  "band": "12+",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of Procurement"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Director"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Siobhán McNamara",
+    "headline": "Chief Procurement Officer | MedTech | Strategic Sourcing & Supplier Risk",
+    "contact": {
+      "email": "siobhan.mcnamara@example.com",
+      "phone": "+353 87 0000 183",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Procurement leader with over twenty years in Galway's medical device sector, from buyer to CPO of a multi-site group. I run category strategy, supplier risk and procurement transformation, and sit on the group leadership team.",
+    "experience": [
+      {
+        "title": "Chief Procurement Officer",
+        "company": "Lough Atalia MedTech Group",
+        "location": "Galway",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Lead a 35-person procurement function across four plants in Ireland and Costa Rica with €410M addressable spend",
+          "Launched a dual-sourcing programme for critical resins and electronics after the 2021 shortages",
+          "Delivered €18M in savings over three years while holding supplier quality metrics",
+          "Introduced a supplier sustainability scorecard aligned to CSRD reporting",
+          "Member of the group executive leadership team"
+        ]
+      },
+      {
+        "title": "Head of Procurement",
+        "company": "Connacht Orthopaedics",
+        "location": "Galway",
+        "dates": "2015 – 2020",
+        "bullets": [
+          "Built the strategic sourcing team and moved indirect spend onto a source-to-pay platform",
+          "Negotiated multi-year agreements with titanium and contract sterilisation suppliers"
+        ]
+      },
+      {
+        "title": "Senior Sourcing Manager",
+        "company": "Atlantic Medical Devices",
+        "location": "Galway",
+        "dates": "2009 – 2015",
+        "bullets": [
+          "Category lead for machined components and packaging"
+        ]
+      },
+      {
+        "title": "Buyer",
+        "company": "Corrib Precision Components",
+        "location": "Oranmore",
+        "dates": "2004 – 2009",
+        "bullets": [
+          "Purchasing of raw materials and tooling for a contract manufacturer"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce",
+        "school": "University of Galway",
+        "dates": "2000 – 2003",
+        "details": ""
+      },
+      {
+        "degree": "MSc Strategic Procurement",
+        "school": "Trinity College Dublin",
+        "dates": "2011 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Category management and strategic sourcing",
+      "Supplier risk and dual sourcing",
+      "ISO 13485 supplier controls",
+      "SAP Ariba, Coupa",
+      "Contract negotiation",
+      "Procurement transformation and team leadership"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "MCIPS – Chartered Institute of Procurement & Supply"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

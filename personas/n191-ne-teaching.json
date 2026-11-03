@@ -1,0 +1,95 @@
+{
+  "slug": "n191-ne-teaching",
+  "level": "intern",
+  "profession": "teaching",
+  "band": "0-2",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "English Teacher"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Docent Engels"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Assistant"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Yasmin Mansouri",
+    "headline": "Student Teacher of English | Secondary education (havo/vmbo)",
+    "contact": {
+      "email": "yasmin.mansouri@example.com",
+      "phone": "+31 6 0000 191",
+      "location": "Utrecht",
+      "links": []
+    },
+    "summary": "Final-year student in English teacher education with a long placement at a secondary school in Leidsche Rijn. I enjoy teaching mixed-ability classes and using drama and short projects to get students speaking.",
+    "experience": [
+      {
+        "title": "Student Teacher English (LIO placement)",
+        "company": "Wilhelmina Lyceum Leidsche Rijn",
+        "location": "Utrecht",
+        "dates": "Sep 2025 – Present",
+        "bullets": [
+          "Teach four first- and second-year classes (havo and vmbo-t) under supervision",
+          "Plan lessons and assessments aligned with the school's curriculum and CEFR levels",
+          "Developed a speaking project with short role plays that the department adopted for year 2",
+          "Take part in parent evenings and mentor meetings"
+        ]
+      },
+      {
+        "title": "Homework Support Tutor (part-time)",
+        "company": "Studiehuis Lombok",
+        "location": "Utrecht",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Supported small groups of secondary students with English, planning and exam preparation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Education – English Teacher (second degree)",
+        "school": "HU University of Applied Sciences Utrecht",
+        "dates": "2022 – 2026 (expected)",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lesson planning and differentiation",
+      "CEFR-based assessment",
+      "Classroom management",
+      "Magister, Microsoft Teams",
+      "Drama-based language activities"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (C2)",
+      "Arabic (Moroccan, conversational)",
+      "French (basic)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Volunteer: weekly language café for newcomers at the Utrecht public library"
+    ]
+  }
+}

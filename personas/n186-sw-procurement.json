@@ -1,0 +1,102 @@
+{
+  "slug": "n186-sw-procurement",
+  "level": "junior",
+  "profession": "procurement",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Einkäufer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Procurement Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Sozialarbeiter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Luca Meier",
+    "headline": "Einkäufer Indirect Procurement | Pharma & Life Sciences",
+    "contact": {
+      "email": "luca.meier@example.com",
+      "phone": "+41 78 0000 186",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Einkäufer mit vier Jahren Erfahrung im indirekten Einkauf, zuletzt für einen Pharma-Dienstleister in Basel. Ich führe Ausschreibungen für Dienstleistungen und Laborbedarf durch und arbeite eng mit den Fachbereichen und der Qualitätssicherung zusammen.",
+    "experience": [
+      {
+        "title": "Einkäufer Indirect Procurement",
+        "company": "Birsfelden Pharma Services AG",
+        "location": "Birsfelden",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Verantwortung für die Kategorien Facility Services, Laborbedarf und IT-Hardware mit rund 14 Mio. CHF Volumen",
+          "Durchführung von Ausschreibungen und Lieferantenbewertungen in SAP Ariba",
+          "Neuverhandlung der Reinigungsverträge für zwei Standorte mit 9 % Einsparung",
+          "Zusammenarbeit mit der Qualitätssicherung bei der Qualifizierung von GMP-relevanten Lieferanten"
+        ]
+      },
+      {
+        "title": "Junior Einkäufer",
+        "company": "Rheinhafen Industriebedarf AG",
+        "location": "Basel",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Bestellabwicklung, Preisvergleiche und Lieferantenstammdaten in SAP MM",
+          "Unterstützung bei der jährlichen Lieferantenbewertung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Betriebsökonomie (Vertiefung Supply Chain Management)",
+        "school": "Fachhochschule Nordwestschweiz FHNW",
+        "dates": "2018 – 2022",
+        "details": ""
+      },
+      {
+        "degree": "Kaufmann EFZ (Berufsmatura)",
+        "school": "Handelsschule KV Basel",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SAP MM, SAP Ariba",
+      "Ausschreibungen und Lieferantenbewertung",
+      "Vertragsverhandlung",
+      "GMP-Grundlagen für Lieferanten",
+      "Excel (Pivot, Power Query)"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (C1)",
+      "Französisch (B2)",
+      "Italienisch (A2)"
+    ],
+    "certifications": [
+      "Einkaufsfachmann/-frau mit eidg. Fachausweis (in Ausbildung, procure.ch)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

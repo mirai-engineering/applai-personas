@@ -1,0 +1,107 @@
+{
+  "slug": "n190-sp-program-management",
+  "level": "senior",
+  "profession": "program management",
+  "band": "8-12",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Teacher"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Iker Mendizabal Arregi",
+    "headline": "Senior Program Manager | Offshore Wind | Supply Chain background",
+    "contact": {
+      "email": "iker.mendizabal@example.com",
+      "phone": "+34 6 0000 190",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Industrial engineer with twelve years in the wind energy supply chain in the Basque Country, the last six leading programmes for offshore wind components. My background in supplier development and supply chain management means I can work either as a programme manager or as a supply chain lead.",
+    "experience": [
+      {
+        "title": "Senior Program Manager",
+        "company": "Cantábrico Offshore Wind",
+        "location": "Bilbao",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Lead a €260M programme delivering monopile transition pieces for two North Sea wind farms",
+          "Coordinate engineering, procurement, quality and logistics across five suppliers in Spain and Portugal",
+          "Introduced a stage-gate review and integrated master schedule in Primavera P6",
+          "Recovered a six-week delay on the second project through re-sequencing and supplier support",
+          "Report monthly to the client and the steering committee"
+        ]
+      },
+      {
+        "title": "Supply Chain Manager",
+        "company": "Bizkaia Turbine Systems",
+        "location": "Getxo",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Managed sourcing and supplier capacity for nacelle castings and bearings",
+          "Set up S&OP meetings and reduced inventory by 18% without affecting deliveries"
+        ]
+      },
+      {
+        "title": "Supplier Development Engineer",
+        "company": "Nervión Forgings",
+        "location": "Basauri",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Supplier audits, PPAP and capacity planning for forged components"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial (Grado + Máster)",
+        "school": "Universidad de Deusto",
+        "dates": "2008 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Programme governance and stage-gate",
+      "Integrated master schedule, Primavera P6",
+      "Supplier development, PPAP, audits",
+      "S&OP and inventory planning",
+      "SAP MM/PP",
+      "Risk and change management"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "Basque (fluent)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "PMP – Project Management Professional, 2019",
+      "APICS CPIM, 2018"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

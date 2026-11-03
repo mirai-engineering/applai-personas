@@ -1,0 +1,105 @@
+{
+  "slug": "n182-ne-graphic-design",
+  "level": "junior",
+  "profession": "graphic design",
+  "band": "2-5",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Graphic Designer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Grafisch ontwerper"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Customer Service Representative"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Sanne Meijer",
+    "headline": "Designer – brand identity, packaging & print",
+    "contact": {
+      "email": "sanne.meijer@example.com",
+      "phone": "+31 6 0000 182",
+      "location": "Utrecht",
+      "links": []
+    },
+    "summary": "Graphic designer with five years in print production and brand agencies around Utrecht. Comfortable from first sketch to print-ready files, and increasingly working on motion and social assets for clients.",
+    "experience": [
+      {
+        "title": "Designer – Medior I",
+        "company": "Bolwerk Brand Agency",
+        "location": "Utrecht",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Design brand identities and packaging for food and retail clients",
+          "Prepare print-ready artwork and check proofs with printers",
+          "Create short motion pieces for social campaigns in After Effects",
+          "Redesigned a regional bakery chain's packaging range; the client reported a 12% sales lift in the first quarter"
+        ]
+      },
+      {
+        "title": "Jr. Designer",
+        "company": "Studio Kromme Rijn",
+        "location": "Utrecht",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Layouts for annual reports, brochures and event signage for non-profit clients",
+          "Maintained brand guidelines for three long-term clients"
+        ]
+      },
+      {
+        "title": "DTP-medewerker / Visual",
+        "company": "Drukkerij Vechtstroom",
+        "location": "Maarssen",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Pre-press checks, imposition and small layout jobs for walk-in customers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Design (Graphic Design)",
+        "school": "HKU University of the Arts Utrecht",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Adobe InDesign, Illustrator, Photoshop",
+      "After Effects (basic motion)",
+      "Figma",
+      "Packaging and dielines",
+      "Pre-press and colour management (PDF/X, Pantone)",
+      "Typography and grid systems"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [],
+    "projects": [
+      "Personal: risograph zine series on Utrecht's canals"
+    ],
+    "extra_sections": []
+  }
+}

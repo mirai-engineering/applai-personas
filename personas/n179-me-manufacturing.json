@@ -1,0 +1,104 @@
+{
+  "slug": "n179-me-manufacturing",
+  "level": "senior",
+  "profession": "manufacturing",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Gerente de Producción"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente de Planta"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Contador General"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Ricardo Medina Ochoa",
+    "headline": "Gerente de Producción | Manufactura electrónica (EMS) | Lean Manufacturing",
+    "contact": {
+      "email": "ricardo.medina@example.com",
+      "phone": "+52 33 0000 179",
+      "location": "Guadalajara, Jalisco",
+      "links": []
+    },
+    "summary": "Ingeniero industrial con once años en manufactura electrónica por contrato para clientes automotrices y médicos. He dirigido líneas SMT y de ensamble final con más de 400 operadores, con foco en seguridad, calidad y entregas a tiempo.",
+    "experience": [
+      {
+        "title": "Gerente de Producción",
+        "company": "Manufacturas Electrónicas del Pacífico",
+        "location": "Tlajomulco de Zúñiga",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Responsable de 6 líneas SMT y 3 de ensamble final con 420 colaboradores en tres turnos",
+          "Implementación de tableros de producción por hora y juntas diarias de nivel 1 y 2",
+          "Aumento del OEE de 68 % a 79 % en dieciocho meses",
+          "Coordinación con calidad y planeación para el arranque de dos nuevos números de parte médicos bajo ISO 13485"
+        ]
+      },
+      {
+        "title": "Jefe de Producción",
+        "company": "Ensambles Precisión Bajío",
+        "location": "Zapopan",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Supervisión de líneas de ensamble de arneses y tarjetas para clientes automotrices",
+          "Reducción del scrap mediante proyectos Kaizen con el equipo de ingeniería"
+        ]
+      },
+      {
+        "title": "Supervisor de Producción",
+        "company": "Electrónica Tapatía de Occidente",
+        "location": "Guadalajara",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Supervisión de un turno de 60 operadores y control de indicadores de productividad"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial",
+        "school": "ITESO",
+        "dates": "2010 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lean Manufacturing, 5S, Kaizen, SMED",
+      "OEE y tableros de producción",
+      "IATF 16949, ISO 13485",
+      "SAP PP",
+      "Liderazgo de equipos en tres turnos",
+      "Seguridad industrial (NOM-STPS)"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2017"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

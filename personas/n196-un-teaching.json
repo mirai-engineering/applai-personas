@@ -1,0 +1,108 @@
+{
+  "slug": "n196-un-teaching",
+  "level": "mid",
+  "profession": "teaching",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "High School Chemistry Teacher"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Science Curriculum Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Sales Representative"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Jordan Montgomery",
+    "headline": "Chemistry Teacher (Grades 9–12) | Former QC chemist",
+    "contact": {
+      "email": "jordan.montgomery@example.com",
+      "phone": "+1 512 0000 196",
+      "location": "Austin, TX",
+      "links": []
+    },
+    "summary": "Certified chemistry teacher who moved into education after two years as a quality control chemist. I bring lab experience into the classroom and have taught chemistry and IPC for five years in Central Texas public schools.",
+    "experience": [
+      {
+        "title": "Chemistry Teacher",
+        "company": "Bluebonnet Independent School District",
+        "location": "Pflugerville, TX",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Teach Chemistry and Pre-AP Chemistry to about 150 students in grades 10–11",
+          "Redesigned lab safety training and lab write-ups using real QC procedures",
+          "Raised the share of students meeting grade level on the district chemistry benchmark from 61% to 74%",
+          "Sponsor of the school's Science Olympiad team"
+        ]
+      },
+      {
+        "title": "Science Teacher (IPC)",
+        "company": "Hill Country Leadership Academy",
+        "location": "Austin, TX",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "First-year teacher of Integrated Physics and Chemistry at a charter school"
+        ]
+      },
+      {
+        "title": "Quality Control Chemist",
+        "company": "Hill Country Analytical Labs",
+        "location": "Round Rock, TX",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "HPLC and wet chemistry testing of raw materials under GMP",
+          "Wrote and reviewed SOPs and trained new lab technicians"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Chemistry",
+        "school": "Texas State University",
+        "dates": "2015 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Alternative Certification Program (Science 7–12)",
+        "school": "Region 13 Education Service Center",
+        "dates": "2020 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lesson design aligned to TEKS",
+      "Lab safety and inquiry-based labs",
+      "Google Classroom, Canvas",
+      "Formative assessment and data-driven instruction",
+      "HPLC and analytical chemistry"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Texas Educator Certificate – Chemistry 7–12",
+      "Texas Educator Certificate – Science 7–12"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

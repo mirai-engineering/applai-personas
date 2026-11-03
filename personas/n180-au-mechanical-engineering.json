@@ -1,0 +1,118 @@
+{
+  "slug": "n180-au-mechanical-engineering",
+  "level": "exec",
+  "profession": "mechanical engineering",
+  "band": "12+",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Engineering Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Asset Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Hamish McAllister",
+    "headline": "General Manager Engineering | Mining & Mineral Processing | CPEng",
+    "contact": {
+      "email": "hamish.mcallister@example.com",
+      "phone": "+61 418 0000 180",
+      "location": "Perth, WA",
+      "links": []
+    },
+    "summary": "Chartered mechanical engineer with twenty years in Western Australian mining and mineral processing, from fixed plant maintenance to leading a 60-person engineering function. Focused on asset reliability, sustaining capital and safety.",
+    "experience": [
+      {
+        "title": "General Manager – Engineering",
+        "company": "Coolgardie Minerals",
+        "location": "Perth",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead engineering, reliability and asset management across three gold processing sites (60 staff)",
+          "Own a A$95M annual sustaining capital programme and report to the executive committee",
+          "Rolled out a reliability-centred maintenance strategy; plant availability up from 89% to 94%",
+          "Sponsor of the critical controls programme for isolation and working at heights"
+        ]
+      },
+      {
+        "title": "Engineering Manager",
+        "company": "Goldfields Process Solutions",
+        "location": "Kalgoorlie",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Managed design and shutdown engineering for crushing, grinding and CIL circuits",
+          "Built a contract engineering panel that cut external design spend"
+        ]
+      },
+      {
+        "title": "Principal Mechanical Engineer",
+        "company": "Swan River Engineering",
+        "location": "Perth",
+        "dates": "2011 – 2017",
+        "bullets": [
+          "Led mechanical design packages for conveyor and materials handling projects up to A$120M"
+        ]
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Pilbara Fixed Plant Services",
+        "location": "Port Hedland",
+        "dates": "2006 – 2011",
+        "bullets": [
+          "Fixed plant maintenance engineering on FIFO roster, including mill relines and failure analysis"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (Mechanical)",
+        "school": "The University of Western Australia",
+        "dates": "2002 – 2005",
+        "details": ""
+      },
+      {
+        "degree": "Master of Business Administration",
+        "school": "Curtin University",
+        "dates": "2014 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Asset management (ISO 55000)",
+      "Reliability-centred maintenance, RCA",
+      "Sustaining capital planning",
+      "AS 4024 machine safety, AS 1418 cranes",
+      "SAP PM, Ellipse",
+      "Executive stakeholder management"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Chartered Professional Engineer (CPEng), Engineers Australia",
+      "NER registered"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

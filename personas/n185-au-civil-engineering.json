@@ -1,0 +1,116 @@
+{
+  "slug": "n185-au-civil-engineering",
+  "level": "exec",
+  "profession": "civil engineering",
+  "band": "12+",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Technische Geschäftsführung Bau"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Bereichsleiterin Ingenieurbau"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Manager"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Claudia Moser",
+    "headline": "Technische Geschäftsführerin | Brücken- und Tunnelbau | Ziviltechnikerin",
+    "contact": {
+      "email": "claudia.moser@example.com",
+      "phone": "+43 676 0000 185",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Bauingenieurin und Ziviltechnikerin mit zwanzig Jahren Erfahrung im konstruktiven Ingenieurbau, von der Tragwerksplanung bis zur Geschäftsführung. Ich verantworte heute ein Bauunternehmen mit 280 Mitarbeitenden und lege Wert auf Sicherheit, Termintreue und eine gute Zusammenarbeit mit Auftraggebern.",
+    "experience": [
+      {
+        "title": "Technische Geschäftsführerin",
+        "company": "Grazer Tunnel- und Brückenbau GmbH",
+        "location": "Graz",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Gesamtverantwortung für Technik, Kalkulation und Bauausführung mit 280 Mitarbeitenden und rund 120 Mio. € Jahresleistung",
+          "Strategische Ausrichtung auf Instandsetzung von Brücken und Tunnelsanierungen für ASFINAG und ÖBB",
+          "Einführung von BIM in der Ausführungsplanung für alle Großprojekte",
+          "Senkung der Unfallrate um 40 % durch ein neues Sicherheitsprogramm auf den Baustellen"
+        ]
+      },
+      {
+        "title": "Abteilungsleiterin Konstruktiver Ingenieurbau",
+        "company": "Alpenbau Holding AG",
+        "location": "Graz",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Leitung von drei Projektteams und Verantwortung für Angebote bis 40 Mio. €",
+          "Abwicklung der Generalsanierung einer Autobahnbrücke unter laufendem Verkehr"
+        ]
+      },
+      {
+        "title": "Projektleiterin Brückenbau",
+        "company": "Steirische Infrastrukturbau GmbH",
+        "location": "Leoben",
+        "dates": "2011 – 2017",
+        "bullets": [
+          "Projektleitung für Straßen- und Eisenbahnbrücken von der Ausschreibung bis zur Übergabe"
+        ]
+      },
+      {
+        "title": "Statikerin",
+        "company": "Ziviltechnikerbüro Pölzl & Partner",
+        "location": "Graz",
+        "dates": "2005 – 2011",
+        "bullets": [
+          "Tragwerksplanung für Stahlbeton- und Verbundbrücken nach Eurocode"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. Bauingenieurwesen (Konstruktiver Ingenieurbau)",
+        "school": "Technische Universität Graz",
+        "dates": "1998 – 2005",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Konstruktiver Ingenieurbau, Brücken- und Tunnelbau",
+      "Eurocode, ÖNORM B 4710, RVS",
+      "Kalkulation, Vergabe nach BVergG",
+      "BIM-Einführung, Bauablaufplanung",
+      "Unternehmensführung und Personalverantwortung",
+      "Arbeitssicherheit nach BauKG"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Slowenisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Ziviltechnikerin für Bauingenieurwesen (Befugnis seit 2012)"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Mitglied im Vorstand der Kammer der Ziviltechniker:innen, Sektion Steiermark"
+    ]
+  }
+}

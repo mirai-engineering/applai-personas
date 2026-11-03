@@ -1,0 +1,94 @@
+{
+  "slug": "n181-ge-project-management",
+  "level": "intern",
+  "profession": "project management",
+  "band": "0-2",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Werkstudent Projektmanagement"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Junior Projektmanager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Grafikdesigner"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Lea Möller",
+    "headline": "Werkstudentin PMO | Wirtschaftsingenieurwesen (B.Sc.) | Hafenlogistik",
+    "contact": {
+      "email": "lea.moeller@example.com",
+      "phone": "+49 176 0000 181",
+      "location": "Hamburg",
+      "links": []
+    },
+    "summary": "Studentin des Wirtschaftsingenieurwesens im letzten Semester, mit Praxis im Projektbüro eines Hafenlogistikers und in einer Medienagentur. Ich suche einen Einstieg als Junior Projektmanagerin oder Trainee, gern im Bereich Logistik und Digitalisierung.",
+    "experience": [
+      {
+        "title": "Werkstudentin PMO / Proj.-Assistenz",
+        "company": "Elbkai Hafenlogistik GmbH",
+        "location": "Hamburg",
+        "dates": "2025 – heute",
+        "bullets": [
+          "Pflege der Projektpläne und Ressourcenübersichten für das Programm zur Digitalisierung der Terminalabfertigung",
+          "Vorbereitung der Lenkungskreissitzungen und Protokollführung",
+          "Aufbau eines Statusberichts in Jira und Confluence für sechs Teilprojekte",
+          "Unterstützung bei der Risikoliste und Nachverfolgung der Maßnahmen"
+        ]
+      },
+      {
+        "title": "Pflichtpraktikum – Jr. PM (Trainee-Prog.)",
+        "company": "Nordlicht Medien Agentur",
+        "location": "Hamburg",
+        "dates": "03/2024 – 08/2024",
+        "bullets": [
+          "Koordination von Kampagnenprojekten mit Kunden und Kreativteam; Budgetüberwachung in Excel"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Wirtschaftsingenieurwesen (Logistik)",
+        "school": "HAW Hamburg",
+        "dates": "2022 – 2026 (voraussichtlich)",
+        "details": "Bachelorarbeit: Agile Methoden im Projektgeschäft von Terminalbetreibern"
+      }
+    ],
+    "skills": [
+      "Jira, Confluence, MS Project",
+      "Scrum-Grundlagen, Kanban",
+      "Excel (Pivot, SVERWEIS), Power BI Grundkenntnisse",
+      "Protokollführung und Moderation",
+      "Prozessaufnahme mit BPMN"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (C1)",
+      "Schwedisch (A2)"
+    ],
+    "certifications": [
+      "Professional Scrum Master I (PSM I), 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

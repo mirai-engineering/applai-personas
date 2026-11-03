@@ -1,0 +1,111 @@
+{
+  "slug": "n200-ne-product-marketing",
+  "level": "mid",
+  "profession": "product marketing",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Go-to-Market Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Lotte Mertens",
+    "headline": "Product Marketing Manager | B2B SaaS for energy and logistics",
+    "contact": {
+      "email": "lotte.mertens@example.com",
+      "phone": "+31 6 0000 200",
+      "location": "Rotterdam",
+      "links": []
+    },
+    "summary": "Product marketer with eight years in B2B software in Rotterdam. I turn customer research into positioning, launches and sales enablement, and work closely with product and sales leadership.",
+    "experience": [
+      {
+        "title": "Product Marketing Manager",
+        "company": "Deltaplan Energy Software",
+        "location": "Rotterdam",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Own positioning and messaging for an energy trading and forecasting platform",
+          "Led the launch of a battery storage module, which reached 20 paying customers in six months",
+          "Run win/loss interviews and share findings with product and sales",
+          "Build sales enablement materials and battlecards for a team of 25"
+        ]
+      },
+      {
+        "title": "Product Marketing Specialist",
+        "company": "Havenstad Logistics Software",
+        "location": "Rotterdam",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Wrote product pages, release notes and case studies for a port community platform",
+          "Coordinated webinars with customers and partners"
+        ]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "company": "Havenstad Logistics Software",
+        "location": "Rotterdam",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Events, trade fairs and newsletter campaigns"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Marketing Management",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2017 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "BSc International Business Administration",
+        "school": "Erasmus University Rotterdam",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Positioning and messaging",
+      "Product launches and go-to-market planning",
+      "Customer research and win/loss analysis",
+      "Sales enablement",
+      "HubSpot, Webflow",
+      "Competitive intelligence"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "French (intermediate)"
+    ],
+    "certifications": [
+      "Product Marketing Alliance – PMMC Certified, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

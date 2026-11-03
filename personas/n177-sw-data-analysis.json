@@ -1,0 +1,111 @@
+{
+  "slug": "n177-sw-data-analysis",
+  "level": "senior",
+  "profession": "data analysis",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analyste BI"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Responsable des achats"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Julien Mercier",
+    "headline": "Data Analyst senior | BI & reporting réglementaire | Banque privée",
+    "contact": {
+      "email": "julien.mercier@example.com",
+      "phone": "+41 79 0000 177",
+      "location": "Genève",
+      "links": []
+    },
+    "summary": "Analyste de données avec dix ans d'expérience dans l'assurance et la banque privée à Genève et Lausanne. Je construis des modèles de données et des tableaux de bord pour la direction, et je travaille avec la conformité pour le reporting réglementaire.",
+    "experience": [
+      {
+        "title": "Sr Data Analyst / Lead BI (fonction GF6)",
+        "company": "Banque Privée Rhône & Cie",
+        "location": "Genève",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Responsable du modèle de données clients et portefeuilles utilisé par 120 gestionnaires de fortune",
+          "Migration des rapports Business Objects vers Power BI avec une équipe de trois analystes",
+          "Mise en place de contrôles de qualité des données pour le reporting FINMA; anomalies mensuelles réduites de 60 %",
+          "Accompagnement des équipes métier pour la définition des KPI de rentabilité par client"
+        ]
+      },
+      {
+        "title": "BI Specialist II",
+        "company": "Léman Assurances SA",
+        "location": "Lausanne",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Développement de tableaux de bord sinistres et production en SQL Server et Power BI",
+          "Analyse de la sinistralité pour la tarification de l'assurance ménage"
+        ]
+      },
+      {
+        "title": "Chargé d'études stat. (niv. 3)",
+        "company": "Mutuelle Romande de Prévoyance",
+        "location": "Lausanne",
+        "dates": "2016 – 2019",
+        "bullets": [
+          "Études de mortalité et de rachats pour l'équipe actuarielle, en R et SAS"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master en statistique",
+        "school": "Université de Genève",
+        "dates": "2014 – 2016",
+        "details": "Mémoire : modèles de survie appliqués aux rachats de contrats"
+      },
+      {
+        "degree": "Bachelor en mathématiques",
+        "school": "Université de Neuchâtel",
+        "dates": "2011 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SQL (SQL Server, Snowflake), dbt",
+      "Power BI, DAX, Business Objects",
+      "Python (pandas), R, SAS",
+      "Modélisation dimensionnelle",
+      "Reporting réglementaire FINMA",
+      "Gouvernance et qualité des données"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Allemand (B1)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Power BI Data Analyst Associate, 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

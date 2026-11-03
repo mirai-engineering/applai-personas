@@ -1,0 +1,103 @@
+{
+  "slug": "n195-un-supply-chain",
+  "level": "senior",
+  "profession": "supply chain",
+  "band": "8-12",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Senior Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Planning Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Elementary School Teacher"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Rebecca Morales",
+    "headline": "Lead Supply Chain Analyst – Planning, inventory and network analytics",
+    "contact": {
+      "email": "rebecca.morales@example.com",
+      "phone": "+1 303 0000 195",
+      "location": "Denver, CO",
+      "links": []
+    },
+    "summary": "Supply chain analyst with eleven years in outdoor retail, food manufacturing and medical distribution along the Front Range. I turn messy ERP data into planning decisions and lead analytics projects with operations and finance.",
+    "experience": [
+      {
+        "title": "Lead Supply Chain Analyst",
+        "company": "Arapahoe Medical Supply",
+        "location": "Englewood, CO",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Lead a team of three analysts supporting planning for five distribution centers",
+          "Built a network model that consolidated two DCs and saved $2.3M in annual freight and lease costs",
+          "Own inventory policy and service-level reporting for the VP of Operations",
+          "Partner with IT on the Snowflake data model for supply chain reporting"
+        ]
+      },
+      {
+        "title": "Senior Supply Chain Analyst",
+        "company": "Platte River Foods",
+        "location": "Greeley, CO",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Production and materials planning analytics for three plants",
+          "Automated the weekly fill-rate report with SQL and Tableau"
+        ]
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Front Range Outdoor Gear",
+        "location": "Boulder, CO",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Purchase order planning and vendor lead-time analysis for imported products"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Business Administration – Supply Chain Management",
+        "school": "Colorado State University",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Inventory policy and service levels",
+      "Network modeling (Coupa Supply Chain Guru)",
+      "SQL, Snowflake, Python",
+      "Tableau",
+      "Oracle NetSuite, SAP ECC",
+      "S&OP support"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (fluent)"
+    ],
+    "certifications": [
+      "ASCM Certified Supply Chain Professional (CSCP)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

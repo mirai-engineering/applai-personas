@@ -1,0 +1,93 @@
+{
+  "slug": "n193-un-procurement",
+  "level": "junior",
+  "profession": "procurement",
+  "band": "2-5",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Procurement Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Buyer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Olivia Marsh",
+    "headline": "Procurement Officer | Public sector and facilities procurement",
+    "contact": {
+      "email": "olivia.marsh@example.com",
+      "phone": "+44 7700 0000 193",
+      "location": "Manchester",
+      "links": []
+    },
+    "summary": "Procurement officer with four years in social housing and facilities services. I run tenders under public procurement rules, manage supplier contracts and enjoy getting the details of a specification right.",
+    "experience": [
+      {
+        "title": "Procurement Officer",
+        "company": "Irwell Facilities Group",
+        "location": "Manchester",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Run tenders for cleaning, security and maintenance services up to £2M",
+          "Manage supplier performance reviews and contract KPIs",
+          "Created a contract register that flags renewals six months ahead",
+          "Support the move to a new e-sourcing tool (Proactis)"
+        ]
+      },
+      {
+        "title": "Procurement Assistant",
+        "company": "Pennine Housing Partnership",
+        "location": "Rochdale",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Prepared tender documents and evaluation sheets under the Public Contracts Regulations 2015",
+          "Handled purchase orders and supplier onboarding"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Hons) Business Management",
+        "school": "Manchester Metropolitan University",
+        "dates": "2018 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Public Contracts Regulations 2015 / Procurement Act 2023",
+      "Tender evaluation and specifications",
+      "Supplier and contract management",
+      "Proactis, In-Tend",
+      "Excel and spend analysis"
+    ],
+    "languages": [
+      "English (native)",
+      "French (basic)"
+    ],
+    "certifications": [
+      "CIPS Level 4 Diploma in Procurement and Supply, 2025"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

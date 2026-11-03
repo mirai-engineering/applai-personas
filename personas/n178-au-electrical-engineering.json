@@ -1,0 +1,100 @@
+{
+  "slug": "n178-au-electrical-engineering",
+  "level": "mid",
+  "profession": "electrical engineering",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Elektroingenieur"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Automatisierungstechniker"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Controller"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Stefan Mayrhofer",
+    "headline": "Elektroingenieur | Energietechnik und Schaltanlagen",
+    "contact": {
+      "email": "stefan.mayrhofer@example.com",
+      "phone": "+43 664 0000 178",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Elektroingenieur mit sieben Jahren Erfahrung in der Planung von Niederspannungs- und Mittelspannungsanlagen für Industrie und Energieversorger. Ich begleite Projekte von der Auslegung bis zur Inbetriebnahme und arbeite gerne direkt mit der Montage auf der Baustelle.",
+    "experience": [
+      {
+        "title": "Elektroingenieur Energietechnik",
+        "company": "Murtal Energiesysteme GmbH",
+        "location": "Graz",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Planung und Auslegung von Mittelspannungsschaltanlagen bis 30 kV für Industriekunden und Netzbetreiber",
+          "Erstellung von Schaltplänen in EPLAN Electric P8 und Kurzschlussberechnungen mit NEPLAN",
+          "Technische Abstimmung mit Kunden, Lieferanten und der Montage bei der Inbetriebnahme",
+          "Standardisierung der Schaltplanvorlagen; Planungsaufwand pro Projekt um etwa 25 % gesenkt"
+        ]
+      },
+      {
+        "title": "Entwicklungsingenieur",
+        "company": "Krenn Antriebstechnik GmbH",
+        "location": "Gleisdorf",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Entwicklung von Steuerungen für Frequenzumrichter und Prüfung nach EN 61800",
+          "Betreuung der Prüfstände und Auswertung der Messdaten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. Elektrotechnik (Energietechnik)",
+        "school": "Technische Universität Graz",
+        "dates": "2016 – 2019",
+        "details": "Diplomarbeit: Schutzkonzepte für Industrienetze mit PV-Einspeisung"
+      },
+      {
+        "degree": "BSc Elektrotechnik",
+        "school": "Technische Universität Graz",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Mittel- und Niederspannungstechnik, Schutztechnik",
+      "EPLAN Electric P8, NEPLAN, AutoCAD Electrical",
+      "ÖVE/ÖNORM E 8101, EN 61439",
+      "Siemens S7 / TIA Portal (Grundkenntnisse)",
+      "Inbetriebnahme und Abnahmeprüfung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [
+      "Elektrofachkraft gemäß ESV 2012"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "n187-au-electrical-engineering",
+  "level": "mid",
+  "profession": "electrical engineering",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Electrical Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Electrical Design Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accounts Payable Officer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tegan Matthews",
+    "headline": "Electrical Engineer – HV/LV design for water and resources infrastructure",
+    "contact": {
+      "email": "tegan.matthews@example.com",
+      "phone": "+61 433 0000 187",
+      "location": "Perth, WA",
+      "links": []
+    },
+    "summary": "Electrical engineer with about seven years of design and site experience in power distribution, water treatment and resources projects. Returned to work in 2023 after two years caring for a family member, and now lead electrical design packages for water infrastructure upgrades.",
+    "experience": [
+      {
+        "title": "Electrical Engineer",
+        "company": "Westpoint Water Infrastructure",
+        "location": "Perth",
+        "dates": "Jul 2023 – Present",
+        "bullets": [
+          "Lead LV and HV design for pump station and treatment plant upgrades for a state water utility",
+          "Produce cable sizing, protection settings and arc flash studies in ETAP",
+          "Review contractor drawings and witness FAT and SAT for switchboards and MCCs",
+          "Prepared a design standard template that cut drawing review cycles on recent projects"
+        ]
+      },
+      {
+        "title": "Career break",
+        "company": "Family care",
+        "location": "Perth",
+        "dates": "Apr 2021 – Jun 2023",
+        "bullets": [
+          "Primary carer for a parent; completed an online refresher in AS/NZS 3000:2018 changes"
+        ]
+      },
+      {
+        "title": "Electrical Engineer",
+        "company": "Swan Coastal Electrical Consultants",
+        "location": "Perth",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Design of 22 kV and 415 V distribution for mine site camps and processing plants",
+          "Site supervision during commissioning in the Goldfields"
+        ]
+      },
+      {
+        "title": "Graduate Electrical Engineer",
+        "company": "Kwinana Power Services",
+        "location": "Kwinana",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Rotations through protection, maintenance planning and project engineering"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (Electrical Power)",
+        "school": "Curtin University",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "AS/NZS 3000, AS/NZS 3008, AS 2067",
+      "ETAP, AutoCAD Electrical",
+      "Protection coordination and arc flash studies",
+      "Switchboard and MCC specification",
+      "FAT/SAT and commissioning"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Engineers Australia – Graduate member",
+      "Construction Induction (White Card)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

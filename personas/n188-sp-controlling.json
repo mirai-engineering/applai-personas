@@ -1,0 +1,118 @@
+{
+  "slug": "n188-sp-controlling",
+  "level": "mid",
+  "profession": "controlling",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Controller Financiero"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analista Financiero"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Diseñador Gráfico"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Núria Martí Puig",
+    "headline": "Controller Financiera | Control de gestión | Sector farmacéutico y alimentación",
+    "contact": {
+      "email": "nuria.marti@example.com",
+      "phone": "+34 6 0000 188",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Controller con siete años de experiencia en auditoría y control de gestión en empresas industriales de Cataluña. Me reincorporé en 2023 tras una pausa de dos años por cuidado familiar y desde entonces lidero el cierre mensual y el presupuesto en un laboratorio farmacéutico.",
+    "experience": [
+      {
+        "title": "Controller Financiera",
+        "company": "Laboratorios Montseny",
+        "location": "Sant Cugat del Vallès",
+        "dates": "2023 – actualidad",
+        "bullets": [
+          "Responsable del cierre mensual, del presupuesto anual y del forecast trimestral para la dirección",
+          "Análisis de desviaciones de costes de producción por línea y por producto",
+          "Implantación de un cuadro de mando en Power BI para el comité de dirección",
+          "Reducción del plazo de cierre mensual de ocho a cinco días laborables"
+        ]
+      },
+      {
+        "title": "Pausa profesional",
+        "company": "Cuidado familiar",
+        "location": "Barcelona",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Dedicación al cuidado de un familiar; curso de actualización en NIIF 16 y SAP S/4HANA"
+        ]
+      },
+      {
+        "title": "Analista de Control de Gestión",
+        "company": "Grupo Alimentario Penedès",
+        "location": "Vilafranca del Penedès",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Elaboración de informes de rentabilidad por canal y cliente",
+          "Apoyo en el cálculo de costes estándar de las plantas"
+        ]
+      },
+      {
+        "title": "Auditora junior",
+        "company": "Auditores Diagonal SLP",
+        "location": "Barcelona",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Auditoría de cuentas anuales de pymes industriales y de distribución"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Administración y Dirección de Empresas",
+        "school": "Universitat Pompeu Fabra",
+        "dates": "2013 – 2017",
+        "details": ""
+      },
+      {
+        "degree": "Máster en Dirección Financiera y Control",
+        "school": "EAE Business School",
+        "dates": "2019 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Presupuesto, forecast y cierre mensual",
+      "Contabilidad analítica y costes estándar",
+      "PGC y NIIF",
+      "SAP S/4HANA (FI/CO)",
+      "Power BI, Excel avanzado",
+      "Reporting a dirección"
+    ],
+    "languages": [
+      "Catalán (nativo)",
+      "Español (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "n192-ir-supply-chain",
+  "level": "mid",
+  "profession": "supply chain",
+  "band": "5-8",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Demand Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Conor Mahon",
+    "headline": "Supply Chain Analyst | Pharma distribution | Forecasting & inventory",
+    "contact": {
+      "email": "conor.mahon@example.com",
+      "phone": "+353 86 0000 192",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Supply chain analyst with seven years in retail and pharmaceutical distribution in Dublin. I build forecasts and inventory models and make sure the warehouse and commercial teams work from the same numbers.",
+    "experience": [
+      {
+        "title": "Senior Supply Chain Analyst",
+        "company": "Phoenix Park Pharma Distribution",
+        "location": "Dublin",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Own the demand forecast for around 3,000 SKUs supplied to hospitals and pharmacies",
+          "Built safety stock models in Python that lowered stock-outs on critical lines by a third",
+          "Run the weekly S&OP pack for the operations director",
+          "Work with quality on GDP-compliant handling of cold-chain products"
+        ]
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Tolka Retail Group",
+        "location": "Dublin",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Replenishment planning for 45 stores and reporting in Power BI",
+          "Supported the move to a new warehouse management system"
+        ]
+      },
+      {
+        "title": "Demand Planning Graduate",
+        "company": "Tolka Retail Group",
+        "location": "Dublin",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Graduate programme rotation in demand planning and buying"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Logistics and Supply Chain Management",
+        "school": "Technological University Dublin",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Demand forecasting and S&OP",
+      "Inventory optimisation, safety stock",
+      "SAP APO / IBP",
+      "Python (pandas), SQL",
+      "Power BI, Excel",
+      "Good Distribution Practice (GDP)"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (basic)"
+    ],
+    "certifications": [
+      "APICS CSCP, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

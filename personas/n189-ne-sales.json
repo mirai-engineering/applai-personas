@@ -1,0 +1,111 @@
+{
+  "slug": "n189-ne-sales",
+  "level": "mid",
+  "profession": "sales",
+  "band": "5-8",
+  "location": "Netherlands",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Account Executive"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Planner"
+  ],
+  "output_languages": [
+    "en",
+    "nl"
+  ],
+  "cv": {
+    "name": "Thomas Mulder",
+    "headline": "Account Executive – Mid-Market SaaS | Benelux & DACH",
+    "contact": {
+      "email": "thomas.mulder@example.com",
+      "phone": "+31 6 0000 189",
+      "location": "Amsterdam",
+      "links": []
+    },
+    "summary": "Sales professional with eight years across inside sales, business development and account management in Amsterdam's SaaS and fintech scene. I took some sideways steps along the way, including a stint in customer success, and now close new mid-market business for an analytics company.",
+    "experience": [
+      {
+        "title": "Account Executive, Mid-Market",
+        "company": "Noordzee Analytics BV",
+        "location": "Amsterdam",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Run the full sales cycle for mid-market retail and logistics prospects in Benelux and DACH",
+          "Closed €1.4M in new ARR in 2025, 112% of quota",
+          "Work with solutions engineers on demos and proofs of concept",
+          "Forecast pipeline in Salesforce and coach two SDRs on discovery calls"
+        ]
+      },
+      {
+        "title": "Account Manager / Customer Success",
+        "company": "Keizersgracht Payments",
+        "location": "Amsterdam",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Managed a book of 60 merchants and handled renewals and upsells",
+          "Moved from customer success into account management after one year"
+        ]
+      },
+      {
+        "title": "Business Developer",
+        "company": "Fietsdeal BV",
+        "location": "Amsterdam",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Signed bike shops for a lease marketplace; the company paused expansion after ten months"
+        ]
+      },
+      {
+        "title": "Inside Sales Representative",
+        "company": "Grachten Hospitality Software",
+        "location": "Amsterdam",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Outbound prospecting to hotels and restaurants"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration",
+        "school": "Amsterdam University of Applied Sciences",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Salesforce, HubSpot, Gong",
+      "MEDDICC and value selling",
+      "Pipeline forecasting",
+      "Demos and negotiation",
+      "Renewals and upselling"
+    ],
+    "languages": [
+      "Dutch (native)",
+      "English (fluent)",
+      "German (good)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

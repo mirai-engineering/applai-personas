@@ -1,0 +1,102 @@
+{
+  "slug": "n199-me-chemical-engineering",
+  "level": "junior",
+  "profession": "chemical engineering",
+  "band": "2-5",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniero de Procesos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingeniero de Mejora Continua"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ejecutivo de Ventas"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Valeria Montemayor Garza",
+    "headline": "Ingeniera de Procesos | Química industrial y polímeros",
+    "contact": {
+      "email": "valeria.montemayor@example.com",
+      "phone": "+52 81 0000 199",
+      "location": "Monterrey, Nuevo León",
+      "links": []
+    },
+    "summary": "Ingeniera química con cuatro años de experiencia en plantas de resinas y químicos industriales en el área metropolitana de Monterrey. Me enfoco en el control de procesos, la reducción de mermas y la seguridad de procesos.",
+    "experience": [
+      {
+        "title": "Ingeniera de Procesos",
+        "company": "Química Industrial del Noreste",
+        "location": "Apodaca, N.L.",
+        "dates": "2023 – actualidad",
+        "bullets": [
+          "Seguimiento de variables de proceso en reactores por lotes de resinas alquídicas",
+          "Elaboración de balances de materia y energía para la ampliación de la planta",
+          "Reducción de la merma de solventes en un 12 % mediante ajustes en la destilación",
+          "Participación en análisis HAZOP y en la actualización de procedimientos de operación"
+        ]
+      },
+      {
+        "title": "Ingeniera de Procesos Jr.",
+        "company": "Polímeros Cerro de la Silla",
+        "location": "Santa Catarina, N.L.",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Soporte a producción en líneas de extrusión y control estadístico de proceso"
+        ]
+      },
+      {
+        "title": "Practicante de Ingeniería",
+        "company": "Polímeros Cerro de la Silla",
+        "location": "Santa Catarina, N.L.",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Apoyo en pruebas piloto y documentación de cambios de proceso"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Química",
+        "school": "Universidad Autónoma de Nuevo León (UANL)",
+        "dates": "2017 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Balances de materia y energía",
+      "Aspen HYSYS, Minitab",
+      "Control estadístico de proceso",
+      "HAZOP y seguridad de procesos (NOM-028-STPS)",
+      "SAP PP/QM"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Yellow Belt, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}
