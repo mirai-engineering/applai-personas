@@ -32,10 +32,10 @@
     "en"
   ],
   "cv": {
-    "name": "Priya Ganesan",
+    "name": "Ananya Ganesan",
     "headline": "UX Designer – Research-led product design for fintech and health",
     "contact": {
-      "email": "priya.ganesan@example.com",
+      "email": "ananya.ganesan@example.com",
       "phone": "+61 412 0000 082",
       "location": "Sydney, NSW",
       "links": []
@@ -44,7 +44,7 @@
     "experience": [
       {
         "title": "UX Designer",
-        "company": "Harbourline Super",
+        "company": "Wattle Grove Super",
         "location": "Sydney",
         "dates": "2023 – Present",
         "bullets": [

@@ -32,10 +32,10 @@
     "en"
   ],
   "cv": {
-    "name": "Aoife Sheehan",
+    "name": "Clodagh Sheehan",
     "headline": "UX Designer – Service & Product Design",
     "contact": {
-      "email": "aoife.sheehan@example.com",
+      "email": "clodagh.sheehan@example.com",
       "phone": "+353 86 0000 233",
       "location": "Cork",
       "links": []
@@ -56,7 +56,7 @@
       },
       {
         "title": "Junior UX Designer",
-        "company": "Harbourline Commerce",
+        "company": "Glanmire Commerce",
         "location": "Cork",
         "dates": "2020 – 2022",
         "bullets": [
