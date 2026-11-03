@@ -1,0 +1,267 @@
+slug,profession,seed_role,level,band,country,city,region,cv_language,messiness
+n001-ge-software-engineering,software engineering,Software Engineer,junior,2-5,Germany,Düsseldorf,EU,de,two_roles
+n002-ge-key-account-management,key account management,Key Account Manager,mid,5-8,Germany,Munich,EU,de,noisy_titles
+n003-un-tax,tax,Tax Consultant,mid,5-8,United States,Atlanta,US,en,non_linear
+n004-fr-business-analysis,business analysis,Business Analyst,junior,2-5,France,Paris,EU,en,career_change
+n005-un-product-management,product management,Product Manager,mid,5-8,United Kingdom,London,UK/IE,en,clean
+n006-me-supply-chain,supply chain,Supply Chain Analyst,senior,8-12,Mexico,Guadalajara,LATAM,en,non_linear
+n007-sw-compliance,compliance,Compliance Officer,exec,12+,Switzerland,Zurich,EU,en,noisy_titles
+n008-me-sales,sales,Account Executive,mid,5-8,Mexico,Monterrey,LATAM,es,clean
+n009-au-manufacturing,manufacturing,Production Manager,mid,5-8,Australia,Melbourne,AU,en,returner
+n010-ge-project-management,project management,Project Manager,exec,12+,Germany,Berlin,EU,de,clean
+n011-un-key-account-management,key account management,Key Account Manager,senior,8-12,United States,Chicago,US,en,clean
+n012-au-marketing,marketing,Marketing Manager,junior,2-5,Australia,Brisbane,AU,en,clean
+n013-ge-communications,communications,Communications Manager,senior,8-12,Germany,Frankfurt,EU,de,clean
+n014-sw-mechanical-engineering,mechanical engineering,Mechanical Engineer,mid,5-8,Switzerland,Geneva,EU,en,two_roles
+n015-un-clinical-research,clinical research,Clinical Research Associate,senior,8-12,United States,Seattle,US,en,two_roles
+n016-au-supply-chain,supply chain,Supply Chain Analyst,mid,5-8,Australia,Sydney,AU,en,clean
+n017-sw-product-marketing,product marketing,Product Marketing Manager,senior,8-12,Switzerland,Basel,EU,de,clean
+n018-ca-procurement,procurement,Procurement Specialist,senior,8-12,Canada,Toronto,US,fr,two_roles
+n019-au-data-engineering,data engineering,Data Engineer,mid,5-8,Australia,Sydney,AU,en,two_roles
+n020-sp-customer-success,customer success,Customer Success Manager,junior,2-5,Spain,Barcelona,EU,es,clean
+n021-ir-construction,construction,Construction Manager,junior,2-5,Ireland,Galway,UK/IE,en,returner
+n022-ge-digital-marketing,digital marketing,Digital Marketing Specialist,junior,2-5,Germany,Munich,EU,en,clean
+n023-un-teaching,teaching,Teacher,senior,8-12,United Kingdom,Manchester,UK/IE,en,non_linear
+n024-ca-mechanical-engineering,mechanical engineering,Mechanical Engineer,exec,12+,Canada,Vancouver,US,en,clean
+n025-ca-software-engineering,software engineering,Software Engineer,mid,5-8,Canada,Vancouver,US,fr,clean
+n026-sw-healthcare,healthcare,Registered Nurse,senior,8-12,Switzerland,Geneva,EU,fr,clean
+n027-ca-construction,construction,Construction Manager,junior,2-5,Canada,Vancouver,US,en,returner
+n028-sp-clinical-research,clinical research,Clinical Research Associate,mid,5-8,Spain,Valencia,EU,en,noisy_titles
+n029-au-digital-marketing,digital marketing,Digital Marketing Specialist,mid,5-8,Austria,Linz,EU,de,career_change
+n030-au-real-estate,real estate,Property Manager,senior,8-12,Austria,Linz,EU,de,clean
+n031-au-sales,sales,Account Executive,mid,5-8,Austria,Linz,EU,de,returner
+n032-sp-electrical-engineering,electrical engineering,Electrical Engineer,intern,0-2,Spain,Bilbao,EU,es,returner
+n033-ge-project-management,project management,Project Manager,junior,2-5,Germany,Hamburg,EU,de,clean
+n034-me-controlling,controlling,Financial Controller,intern,0-2,Mexico,Guadalajara,LATAM,en,noisy_titles
+n035-au-teaching,teaching,Teacher,senior,8-12,Austria,Vienna,EU,de,returner
+n036-ge-legal,legal,Legal Counsel,senior,8-12,Germany,Düsseldorf,EU,de,noisy_titles
+n037-ge-controlling,controlling,Financial Controller,senior,8-12,Germany,Hamburg,EU,de,clean
+n038-un-software-engineering,software engineering,Software Engineer,exec,12+,United Kingdom,Bristol,UK/IE,en,clean
+n039-au-logistics,logistics,Logistics Coordinator,mid,5-8,Austria,Linz,EU,de,clean
+n040-sp-tax,tax,Tax Consultant,junior,2-5,Spain,Madrid,EU,en,non_linear
+n041-me-quality-management,quality management,Quality Engineer,senior,8-12,Mexico,Guadalajara,LATAM,es,returner
+n042-sp-compliance,compliance,Compliance Officer,mid,5-8,Spain,Madrid,EU,en,noisy_titles
+n043-un-controlling,controlling,Financial Controller,mid,5-8,United States,Atlanta,US,en,two_roles
+n044-un-consulting,consulting,Management Consultant,senior,8-12,United States,Atlanta,US,en,noisy_titles
+n045-ge-project-management,project management,Project Manager,junior,2-5,Germany,Cologne,EU,de,noisy_titles
+n046-sw-chemical-engineering,chemical engineering,Process Engineer,senior,8-12,Switzerland,Basel,EU,fr,clean
+n047-au-tax,tax,Tax Consultant,senior,8-12,Austria,Vienna,EU,de,clean
+n048-sw-logistics,logistics,Logistics Coordinator,senior,8-12,Switzerland,Basel,EU,en,noisy_titles
+n049-ge-project-management,project management,Project Manager,mid,5-8,Germany,Cologne,EU,de,clean
+n050-un-product-marketing,product marketing,Product Marketing Manager,senior,8-12,United Kingdom,Edinburgh,UK/IE,en,returner
+n051-ir-quality-management,quality management,Quality Engineer,senior,8-12,Ireland,Dublin,UK/IE,en,noisy_titles
+n052-fr-procurement,procurement,Procurement Specialist,junior,2-5,France,Lyon,EU,fr,non_linear
+n053-fr-operations,operations,Operations Manager,exec,12+,France,Lyon,EU,fr,clean
+n054-sw-operations,operations,Operations Manager,mid,5-8,Switzerland,Zurich,EU,en,clean
+n055-au-procurement,procurement,Procurement Specialist,junior,2-5,Austria,Vienna,EU,de,noisy_titles
+n056-ir-teaching,teaching,Teacher,mid,5-8,Ireland,Dublin,UK/IE,en,clean
+n057-ne-compliance,compliance,Compliance Officer,senior,8-12,Netherlands,Rotterdam,EU,en,two_roles
+n058-ge-project-management,project management,Project Manager,intern,0-2,Germany,Munich,EU,de,clean
+n059-me-clinical-research,clinical research,Clinical Research Associate,mid,5-8,Mexico,Monterrey,LATAM,es,clean
+n060-fr-clinical-research,clinical research,Clinical Research Associate,senior,8-12,France,Lyon,EU,fr,clean
+n061-me-product-marketing,product marketing,Product Marketing Manager,junior,2-5,Mexico,Mexico City,LATAM,es,clean
+n062-un-finance,finance,Financial Analyst,junior,2-5,United States,Atlanta,US,en,clean
+n063-au-marketing,marketing,Marketing Manager,senior,8-12,Australia,Melbourne,AU,en,clean
+n064-ir-software-engineering,software engineering,Software Engineer,junior,2-5,Ireland,Cork,UK/IE,en,noisy_titles
+n065-au-marketing,marketing,Marketing Manager,mid,5-8,Australia,Brisbane,AU,en,noisy_titles
+n066-au-consulting,consulting,Management Consultant,mid,5-8,Australia,Perth,AU,en,clean
+n067-sw-consulting,consulting,Management Consultant,junior,2-5,Switzerland,Basel,EU,en,two_roles
+n068-au-graphic-design,graphic design,Graphic Designer,mid,5-8,Australia,Melbourne,AU,en,noisy_titles
+n069-me-tax,tax,Tax Consultant,intern,0-2,Mexico,Guadalajara,LATAM,es,non_linear
+n070-ne-quality-management,quality management,Quality Engineer,intern,0-2,Netherlands,Rotterdam,EU,en,noisy_titles
+n071-ir-mechanical-engineering,mechanical engineering,Mechanical Engineer,intern,0-2,Ireland,Galway,UK/IE,en,returner
+n072-ir-finance,finance,Financial Analyst,mid,5-8,Ireland,Cork,UK/IE,en,clean
+n073-au-operations,operations,Operations Manager,intern,0-2,Australia,Sydney,AU,en,non_linear
+n074-ge-mechanical-engineering,mechanical engineering,Mechanical Engineer,senior,8-12,Germany,Hamburg,EU,de,clean
+n075-me-hr,hr,HR Business Partner,senior,8-12,Mexico,Mexico City,LATAM,es,clean
+n076-ge-graphic-design,graphic design,Graphic Designer,senior,8-12,Germany,Frankfurt,EU,en,clean
+n077-ge-logistics,logistics,Logistics Coordinator,mid,5-8,Germany,Stuttgart,EU,en,noisy_titles
+n078-sw-finance,finance,Financial Analyst,senior,8-12,Switzerland,Basel,EU,en,career_change
+n079-sw-teaching,teaching,Teacher,junior,2-5,Switzerland,Zurich,EU,de,clean
+n080-ge-construction,construction,Construction Manager,exec,12+,Germany,Cologne,EU,de,non_linear
+n081-me-data-engineering,data engineering,Data Engineer,mid,5-8,Mexico,Monterrey,LATAM,es,two_roles
+n082-au-ux-design,ux design,UX Designer,junior,2-5,Australia,Sydney,AU,en,non_linear
+n083-au-marketing,marketing,Marketing Manager,senior,8-12,Australia,Perth,AU,en,noisy_titles
+n084-un-quality-management,quality management,Quality Engineer,junior,2-5,United Kingdom,Manchester,UK/IE,en,career_change
+n085-ir-project-management,project management,Project Manager,junior,2-5,Ireland,Galway,UK/IE,en,clean
+n086-ge-sales,sales,Account Executive,mid,5-8,Germany,Berlin,EU,en,two_roles
+n087-fr-software-engineering,software engineering,Software Engineer,junior,2-5,France,Nantes,EU,en,two_roles
+n088-sw-data-engineering,data engineering,Data Engineer,junior,2-5,Switzerland,Basel,EU,fr,noisy_titles
+n089-au-marketing,marketing,Marketing Manager,intern,0-2,Australia,Sydney,AU,en,clean
+n090-fr-data-engineering,data engineering,Data Engineer,junior,2-5,France,Toulouse,EU,en,clean
+n091-au-recruiting,recruiting,Recruiter,intern,0-2,Australia,Brisbane,AU,en,non_linear
+n092-un-accounting,accounting,Accountant,mid,5-8,United Kingdom,Bristol,UK/IE,en,clean
+n093-fr-tax,tax,Tax Consultant,senior,8-12,France,Toulouse,EU,en,noisy_titles
+n094-sp-business-analysis,business analysis,Business Analyst,senior,8-12,Spain,Bilbao,EU,es,noisy_titles
+n095-ir-clinical-research,clinical research,Clinical Research Associate,exec,12+,Ireland,Cork,UK/IE,en,non_linear
+n096-fr-ux-design,ux design,UX Designer,mid,5-8,France,Paris,EU,fr,career_change
+n097-ge-ux-design,ux design,UX Designer,intern,0-2,Germany,Munich,EU,en,non_linear
+n098-un-hr,hr,HR Business Partner,junior,2-5,United Kingdom,Edinburgh,UK/IE,en,clean
+n099-un-accounting,accounting,Accountant,mid,5-8,United States,Chicago,US,en,noisy_titles
+n100-ir-recruiting,recruiting,Recruiter,mid,5-8,Ireland,Galway,UK/IE,en,non_linear
+n101-sw-business-analysis,business analysis,Business Analyst,senior,8-12,Switzerland,Geneva,EU,fr,career_change
+n102-ca-accounting,accounting,Accountant,intern,0-2,Canada,Toronto,US,fr,clean
+n103-me-legal,legal,Legal Counsel,senior,8-12,Mexico,Monterrey,LATAM,es,noisy_titles
+n104-fr-construction,construction,Construction Manager,junior,2-5,France,Toulouse,EU,fr,clean
+n105-ge-project-management,project management,Project Manager,exec,12+,Germany,Frankfurt,EU,de,noisy_titles
+n106-au-project-management,project management,Project Manager,mid,5-8,Austria,Graz,EU,de,noisy_titles
+n107-au-real-estate,real estate,Property Manager,junior,2-5,Australia,Brisbane,AU,en,clean
+n108-un-legal,legal,Legal Counsel,junior,2-5,United Kingdom,Bristol,UK/IE,en,clean
+n109-sw-quality-management,quality management,Quality Engineer,junior,2-5,Switzerland,Basel,EU,fr,career_change
+n110-sp-chemical-engineering,chemical engineering,Process Engineer,mid,5-8,Spain,Madrid,EU,es,returner
+n111-au-healthcare,healthcare,Registered Nurse,mid,5-8,Australia,Sydney,AU,en,clean
+n112-un-civil-engineering,civil engineering,Civil Engineer,junior,2-5,United Kingdom,London,UK/IE,en,returner
+n113-ir-tax,tax,Tax Consultant,exec,12+,Ireland,Dublin,UK/IE,en,clean
+n114-un-manufacturing,manufacturing,Production Manager,mid,5-8,United States,Atlanta,US,en,noisy_titles
+n115-ir-product-management,product management,Product Manager,junior,2-5,Ireland,Dublin,UK/IE,en,clean
+n116-fr-legal,legal,Legal Counsel,mid,5-8,France,Nantes,EU,fr,two_roles
+n117-ge-civil-engineering,civil engineering,Civil Engineer,senior,8-12,Germany,Stuttgart,EU,de,returner
+n118-ge-project-management,project management,Project Manager,mid,5-8,Germany,Munich,EU,de,noisy_titles
+n119-au-compliance,compliance,Compliance Officer,senior,8-12,Austria,Graz,EU,en,clean
+n120-sp-civil-engineering,civil engineering,Civil Engineer,senior,8-12,Spain,Bilbao,EU,es,career_change
+n121-un-consulting,consulting,Management Consultant,junior,2-5,United Kingdom,Edinburgh,UK/IE,en,clean
+n122-sp-recruiting,recruiting,Recruiter,junior,2-5,Spain,Barcelona,EU,es,non_linear
+n123-sw-digital-marketing,digital marketing,Digital Marketing Specialist,junior,2-5,Switzerland,Zurich,EU,fr,returner
+n124-un-customer-success,customer success,Customer Success Manager,mid,5-8,United Kingdom,Edinburgh,UK/IE,en,clean
+n125-sp-ux-design,ux design,UX Designer,mid,5-8,Spain,Barcelona,EU,es,noisy_titles
+n126-ge-electrical-engineering,electrical engineering,Electrical Engineer,exec,12+,Germany,Berlin,EU,de,non_linear
+n127-un-legal,legal,Legal Counsel,mid,5-8,United States,New York,US,en,career_change
+n128-au-clinical-research,clinical research,Clinical Research Associate,mid,5-8,Australia,Melbourne,AU,en,clean
+n129-ne-construction,construction,Construction Manager,junior,2-5,Netherlands,Amsterdam,EU,en,noisy_titles
+n130-ca-marketing,marketing,Marketing Manager,mid,5-8,Canada,Montreal,US,fr,career_change
+n131-sw-administration,administration,Executive Assistant,mid,5-8,Switzerland,Basel,EU,en,career_change
+n132-un-sales,sales,Account Executive,junior,2-5,United States,Chicago,US,en,two_roles
+n133-me-program-management,program management,Program Manager,mid,5-8,Mexico,Mexico City,LATAM,es,noisy_titles
+n134-fr-data-analysis,data analysis,Data Analyst,senior,8-12,France,Paris,EU,en,non_linear
+n135-un-program-management,program management,Program Manager,junior,2-5,United States,Atlanta,US,en,clean
+n136-sw-communications,communications,Communications Manager,mid,5-8,Switzerland,Geneva,EU,fr,clean
+n137-fr-controlling,controlling,Financial Controller,mid,5-8,France,Lyon,EU,fr,clean
+n138-sp-key-account-management,key account management,Key Account Manager,senior,8-12,Spain,Barcelona,EU,es,two_roles
+n139-fr-digital-marketing,digital marketing,Digital Marketing Specialist,mid,5-8,France,Nantes,EU,fr,non_linear
+n140-au-marketing,marketing,Marketing Manager,intern,0-2,Australia,Sydney,AU,en,noisy_titles
+n141-un-product-management,product management,Product Manager,exec,12+,United States,Atlanta,US,en,clean
+n142-au-program-management,program management,Program Manager,mid,5-8,Austria,Graz,EU,en,non_linear
+n143-sw-key-account-management,key account management,Key Account Manager,senior,8-12,Switzerland,Basel,EU,en,clean
+n144-au-marketing,marketing,Marketing Manager,exec,12+,Australia,Melbourne,AU,en,noisy_titles
+n145-ir-product-marketing,product marketing,Product Marketing Manager,junior,2-5,Ireland,Cork,UK/IE,en,noisy_titles
+n146-au-hr,hr,HR Business Partner,mid,5-8,Australia,Sydney,AU,en,career_change
+n147-sp-supply-chain,supply chain,Supply Chain Analyst,mid,5-8,Spain,Valencia,EU,en,non_linear
+n148-ir-accounting,accounting,Accountant,junior,2-5,Ireland,Cork,UK/IE,en,clean
+n149-au-software-engineering,software engineering,Software Engineer,junior,2-5,Australia,Melbourne,AU,en,non_linear
+n150-un-chemical-engineering,chemical engineering,Process Engineer,mid,5-8,United States,Atlanta,US,en,clean
+n151-ne-electrical-engineering,electrical engineering,Electrical Engineer,mid,5-8,Netherlands,Rotterdam,EU,en,non_linear
+n152-sw-construction,construction,Construction Manager,mid,5-8,Switzerland,Basel,EU,fr,clean
+n153-ge-healthcare,healthcare,Registered Nurse,exec,12+,Germany,Berlin,EU,de,clean
+n154-au-marketing,marketing,Marketing Manager,junior,2-5,Australia,Sydney,AU,en,noisy_titles
+n155-un-administration,administration,Executive Assistant,intern,0-2,United Kingdom,London,UK/IE,en,clean
+n156-sp-consulting,consulting,Management Consultant,mid,5-8,Spain,Barcelona,EU,es,clean
+n157-au-marketing,marketing,Marketing Manager,mid,5-8,Australia,Melbourne,AU,en,clean
+n158-sp-hr,hr,HR Business Partner,intern,0-2,Spain,Valencia,EU,es,returner
+n159-ca-logistics,logistics,Logistics Coordinator,junior,2-5,Canada,Vancouver,US,en,clean
+n160-ca-product-management,product management,Product Manager,junior,2-5,Canada,Toronto,US,fr,clean
+n161-sw-controlling,controlling,Financial Controller,mid,5-8,Switzerland,Geneva,EU,de,career_change
+n162-ge-hr,hr,HR Business Partner,mid,5-8,Germany,Stuttgart,EU,de,noisy_titles
+n163-au-marketing,marketing,Marketing Manager,exec,12+,Australia,Melbourne,AU,en,clean
+n164-ne-accounting,accounting,Accountant,intern,0-2,Netherlands,Utrecht,EU,en,clean
+n165-fr-real-estate,real estate,Property Manager,junior,2-5,France,Nantes,EU,fr,career_change
+n166-au-administration,administration,Executive Assistant,mid,5-8,Australia,Brisbane,AU,en,non_linear
+n167-ge-project-management,project management,Project Manager,senior,8-12,Germany,Frankfurt,EU,de,noisy_titles
+n168-fr-quality-management,quality management,Quality Engineer,mid,5-8,France,Paris,EU,fr,career_change
+n169-ge-customer-success,customer success,Customer Success Manager,senior,8-12,Germany,Cologne,EU,de,returner
+n170-ca-real-estate,real estate,Property Manager,senior,8-12,Canada,Montreal,US,fr,clean
+n171-ca-administration,administration,Executive Assistant,mid,5-8,Canada,Montreal,US,en,non_linear
+n172-ge-product-marketing,product marketing,Product Marketing Manager,mid,5-8,Germany,Stuttgart,EU,de,clean
+n173-fr-supply-chain,supply chain,Supply Chain Analyst,senior,8-12,France,Paris,EU,en,returner
+n174-ge-manufacturing,manufacturing,Production Manager,mid,5-8,Germany,Munich,EU,en,career_change
+n175-au-finance,finance,Financial Analyst,junior,2-5,Australia,Melbourne,AU,en,clean
+n176-au-healthcare,healthcare,Registered Nurse,mid,5-8,Austria,Vienna,EU,en,clean
+n177-sw-data-analysis,data analysis,Data Analyst,senior,8-12,Switzerland,Geneva,EU,fr,noisy_titles
+n178-au-electrical-engineering,electrical engineering,Electrical Engineer,mid,5-8,Austria,Graz,EU,de,clean
+n179-me-manufacturing,manufacturing,Production Manager,senior,8-12,Mexico,Guadalajara,LATAM,es,clean
+n180-au-mechanical-engineering,mechanical engineering,Mechanical Engineer,exec,12+,Australia,Perth,AU,en,clean
+n181-ge-project-management,project management,Project Manager,intern,0-2,Germany,Hamburg,EU,de,noisy_titles
+n182-ne-graphic-design,graphic design,Graphic Designer,junior,2-5,Netherlands,Utrecht,EU,en,noisy_titles
+n183-ir-procurement,procurement,Procurement Specialist,exec,12+,Ireland,Galway,UK/IE,en,clean
+n184-un-marketing,marketing,Marketing Manager,mid,5-8,United Kingdom,London,UK/IE,en,returner
+n185-au-civil-engineering,civil engineering,Civil Engineer,exec,12+,Austria,Graz,EU,de,clean
+n186-sw-procurement,procurement,Procurement Specialist,junior,2-5,Switzerland,Basel,EU,de,clean
+n187-au-electrical-engineering,electrical engineering,Electrical Engineer,mid,5-8,Australia,Perth,AU,en,returner
+n188-sp-controlling,controlling,Financial Controller,mid,5-8,Spain,Barcelona,EU,es,returner
+n189-ne-sales,sales,Account Executive,mid,5-8,Netherlands,Amsterdam,EU,en,non_linear
+n190-sp-program-management,program management,Program Manager,senior,8-12,Spain,Bilbao,EU,en,two_roles
+n191-ne-teaching,teaching,Teacher,intern,0-2,Netherlands,Utrecht,EU,en,clean
+n192-ir-supply-chain,supply chain,Supply Chain Analyst,mid,5-8,Ireland,Dublin,UK/IE,en,clean
+n193-un-procurement,procurement,Procurement Specialist,junior,2-5,United Kingdom,Manchester,UK/IE,en,clean
+n194-ge-real-estate,real estate,Property Manager,exec,12+,Germany,Frankfurt,EU,de,clean
+n195-un-supply-chain,supply chain,Supply Chain Analyst,senior,8-12,United States,Denver,US,en,clean
+n196-un-teaching,teaching,Teacher,mid,5-8,United States,Austin,US,en,career_change
+n197-ca-compliance,compliance,Compliance Officer,intern,0-2,Canada,Toronto,US,fr,career_change
+n198-ca-graphic-design,graphic design,Graphic Designer,exec,12+,Canada,Toronto,US,fr,clean
+n199-me-chemical-engineering,chemical engineering,Process Engineer,junior,2-5,Mexico,Monterrey,LATAM,es,clean
+n200-ne-product-marketing,product marketing,Product Marketing Manager,mid,5-8,Netherlands,Rotterdam,EU,en,clean
+n201-un-compliance,compliance,Compliance Officer,junior,2-5,United States,New York,US,en,clean
+n202-fr-chemical-engineering,chemical engineering,Process Engineer,junior,2-5,France,Paris,EU,fr,clean
+n203-ca-legal,legal,Legal Counsel,senior,8-12,Canada,Toronto,US,en,two_roles
+n204-sw-hr,hr,HR Business Partner,exec,12+,Switzerland,Geneva,EU,fr,noisy_titles
+n205-sw-project-management,project management,Project Manager,intern,0-2,Switzerland,Basel,EU,fr,clean
+n206-un-data-analysis,data analysis,Data Analyst,mid,5-8,United States,Chicago,US,en,career_change
+n207-me-civil-engineering,civil engineering,Civil Engineer,intern,0-2,Mexico,Mexico City,LATAM,es,two_roles
+n208-au-consulting,consulting,Management Consultant,mid,5-8,Austria,Linz,EU,en,career_change
+n209-un-manufacturing,manufacturing,Production Manager,intern,0-2,United Kingdom,Manchester,UK/IE,en,returner
+n210-ca-civil-engineering,civil engineering,Civil Engineer,senior,8-12,Canada,Vancouver,US,en,two_roles
+n211-me-marketing,marketing,Marketing Manager,mid,5-8,Mexico,Monterrey,LATAM,es,two_roles
+n212-un-ux-design,ux design,UX Designer,intern,0-2,United States,Austin,US,en,returner
+n213-fr-finance,finance,Financial Analyst,junior,2-5,France,Paris,EU,fr,career_change
+n214-un-marketing,marketing,Marketing Manager,senior,8-12,United States,New York,US,en,career_change
+n215-sw-accounting,accounting,Accountant,mid,5-8,Switzerland,Zurich,EU,fr,clean
+n216-ne-business-analysis,business analysis,Business Analyst,mid,5-8,Netherlands,Rotterdam,EU,en,clean
+n217-au-customer-success,customer success,Customer Success Manager,intern,0-2,Australia,Sydney,AU,en,two_roles
+n218-un-communications,communications,Communications Manager,intern,0-2,United States,Atlanta,US,en,clean
+n219-me-healthcare,healthcare,Registered Nurse,mid,5-8,Mexico,Monterrey,LATAM,en,clean
+n220-fr-recruiting,recruiting,Recruiter,senior,8-12,France,Lyon,EU,fr,clean
+n221-fr-administration,administration,Executive Assistant,mid,5-8,France,Lyon,EU,fr,noisy_titles
+n222-fr-graphic-design,graphic design,Graphic Designer,junior,2-5,France,Nantes,EU,en,clean
+n223-me-business-analysis,business analysis,Business Analyst,mid,5-8,Mexico,Monterrey,LATAM,es,clean
+n224-ir-graphic-design,graphic design,Graphic Designer,junior,2-5,Ireland,Dublin,UK/IE,en,career_change
+n225-me-product-management,product management,Product Manager,junior,2-5,Mexico,Monterrey,LATAM,en,noisy_titles
+n226-ge-project-management,project management,Project Manager,senior,8-12,Germany,Hamburg,EU,en,clean
+n227-au-operations,operations,Operations Manager,mid,5-8,Austria,Graz,EU,de,clean
+n228-ca-recruiting,recruiting,Recruiter,senior,8-12,Canada,Montreal,US,en,clean
+n229-me-key-account-management,key account management,Key Account Manager,mid,5-8,Mexico,Guadalajara,LATAM,en,clean
+n230-ne-operations,operations,Operations Manager,mid,5-8,Netherlands,Rotterdam,EU,en,two_roles
+n231-fr-mechanical-engineering,mechanical engineering,Mechanical Engineer,senior,8-12,France,Lyon,EU,fr,two_roles
+n232-ir-data-engineering,data engineering,Data Engineer,mid,5-8,Ireland,Galway,UK/IE,en,noisy_titles
+n233-ir-ux-design,ux design,UX Designer,junior,2-5,Ireland,Cork,UK/IE,en,returner
+n234-ge-project-management,project management,Project Manager,senior,8-12,Germany,Berlin,EU,de,clean
+n235-au-digital-marketing,digital marketing,Digital Marketing Specialist,mid,5-8,Australia,Brisbane,AU,en,clean
+n236-au-manufacturing,manufacturing,Production Manager,intern,0-2,Austria,Graz,EU,de,clean
+n237-au-communications,communications,Communications Manager,intern,0-2,Austria,Linz,EU,de,clean
+n238-sp-marketing,marketing,Marketing Manager,senior,8-12,Spain,Bilbao,EU,en,two_roles
+n239-fr-key-account-management,key account management,Key Account Manager,mid,5-8,France,Lyon,EU,fr,non_linear
+n240-un-logistics,logistics,Logistics Coordinator,senior,8-12,United Kingdom,Bristol,UK/IE,en,clean
+n241-sw-customer-success,customer success,Customer Success Manager,senior,8-12,Switzerland,Geneva,EU,de,two_roles
+n242-ge-recruiting,recruiting,Recruiter,senior,8-12,Germany,Cologne,EU,en,clean
+n243-sw-program-management,program management,Program Manager,mid,5-8,Switzerland,Geneva,EU,de,returner
+n244-ir-data-analysis,data analysis,Data Analyst,mid,5-8,Ireland,Galway,UK/IE,en,clean
+n245-au-marketing,marketing,Marketing Manager,intern,0-2,Austria,Vienna,EU,de,two_roles
+n246-ge-program-management,program management,Program Manager,intern,0-2,Germany,Hamburg,EU,en,returner
+n247-ne-project-management,project management,Project Manager,mid,5-8,Netherlands,Rotterdam,EU,en,noisy_titles
+n248-un-communications,communications,Communications Manager,senior,8-12,United Kingdom,London,UK/IE,en,clean
+n249-ne-customer-success,customer success,Customer Success Manager,junior,2-5,Netherlands,Utrecht,EU,en,two_roles
+n250-un-logistics,logistics,Logistics Coordinator,mid,5-8,United States,Denver,US,en,career_change
+n251-ir-business-analysis,business analysis,Business Analyst,junior,2-5,Ireland,Cork,UK/IE,en,returner
+n252-ge-chemical-engineering,chemical engineering,Process Engineer,mid,5-8,Germany,Frankfurt,EU,de,noisy_titles
+n253-au-data-analysis,data analysis,Data Analyst,junior,2-5,Australia,Brisbane,AU,en,clean
+n254-un-real-estate,real estate,Property Manager,mid,5-8,United States,Austin,US,en,returner
+n255-fr-product-management,product management,Product Manager,mid,5-8,France,Nantes,EU,en,clean
+n256-ge-administration,administration,Executive Assistant,mid,5-8,Germany,Hamburg,EU,en,two_roles
+n257-fr-electrical-engineering,electrical engineering,Electrical Engineer,junior,2-5,France,Nantes,EU,fr,non_linear
+n258-un-digital-marketing,digital marketing,Digital Marketing Specialist,mid,5-8,United States,Seattle,US,en,clean
+n259-ca-project-management,project management,Project Manager,intern,0-2,Canada,Toronto,US,fr,non_linear
+n260-sp-data-analysis,data analysis,Data Analyst,mid,5-8,Spain,Barcelona,EU,en,career_change
+n261-ne-healthcare,healthcare,Registered Nurse,senior,8-12,Netherlands,Rotterdam,EU,en,clean
+n262-sp-data-engineering,data engineering,Data Engineer,mid,5-8,Spain,Bilbao,EU,es,clean
+n263-ne-finance,finance,Financial Analyst,mid,5-8,Netherlands,Utrecht,EU,en,clean
+n264-ca-sales,sales,Account Executive,junior,2-5,Canada,Vancouver,US,fr,returner
+n265-ir-operations,operations,Operations Manager,junior,2-5,Ireland,Dublin,UK/IE,en,clean
+n266-au-communications,communications,Communications Manager,junior,2-5,Australia,Perth,AU,en,clean

@@ -1,0 +1,98 @@
+{
+  "slug": "p16-au-construction-pm",
+  "level": "senior",
+  "profession": "project management",
+  "band": "8-12",
+  "location": "Melbourne",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Project Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Construction Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Liam O'Connor",
+    "headline": "Senior Project Manager – Commercial & Infrastructure Construction",
+    "contact": {
+      "email": "liam.oconnor@example.com",
+      "phone": "+61 400 000 905",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Construction project manager with eleven years delivering commercial, health and transport projects up to A$180M. PMP certified, with a record of on-time delivery and strong client and subcontractor relationships.",
+    "experience": [
+      {
+        "title": "Senior Project Manager",
+        "company": "Yarra Build Group",
+        "location": "Melbourne",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Delivered a A$180M hospital expansion two weeks ahead of programme",
+          "Manage project teams of 25 and 40+ subcontractors; responsible for cost, programme and safety",
+          "Negotiated variations recovering A$4.1M on a design-and-construct contract"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "company": "Metro Civil Contracting",
+        "location": "Melbourne",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Delivered rail station upgrades (A$20–60M) under live-rail possession constraints"
+        ]
+      },
+      {
+        "title": "Site Engineer / Project Engineer",
+        "company": "Lendlease",
+        "location": "Sydney",
+        "dates": "2014 – 2016",
+        "bullets": []
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (Civil)",
+        "school": "RMIT University",
+        "dates": "2010 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Project delivery, cost and programme control",
+      "Contract administration (AS4000, AS4300)",
+      "Primavera P6, MS Project, Aconex",
+      "Safety leadership",
+      "Stakeholder management"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Project Management Professional (PMP), 2018",
+      "Construction Induction (White Card)"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

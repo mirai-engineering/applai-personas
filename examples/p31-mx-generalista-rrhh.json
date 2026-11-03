@@ -1,0 +1,97 @@
+{
+  "slug": "p31-mx-generalista-rrhh",
+  "level": "senior",
+  "profession": "human resources",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Generalista de Recursos Humanos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Alejandra Torres Vázquez",
+    "headline": "Generalista de Recursos Humanos | HRBP | Manufactura y servicios",
+    "contact": {
+      "email": "alejandra.torres@example.com",
+      "phone": "+52 55 0000 0031",
+      "location": "Ciudad de México",
+      "links": []
+    },
+    "summary": "Profesional de Recursos Humanos con diez años de experiencia como generalista y HR Business Partner en empresas de manufactura y servicios compartidos. Experiencia en relaciones laborales, reclutamiento masivo, compensaciones y cumplimiento de la NOM-035.",
+    "experience": [
+      {
+        "title": "HR Business Partner",
+        "company": "Grupo Industrial Anáhuac",
+        "location": "Ciudad de México",
+        "dates": "2019 – actualidad",
+        "bullets": [
+          "Socia de negocio de RR. HH. para dos plantas con 1.200 colaboradores",
+          "Reducción de la rotación anual del 38 % al 24 % mediante programas de onboarding y retención",
+          "Negociación del contrato colectivo con el sindicato y manejo de relaciones laborales",
+          "Implementación de la NOM-035 y encuestas de clima laboral"
+        ]
+      },
+      {
+        "title": "Generalista de Recursos Humanos",
+        "company": "Servicios Compartidos Pacífico",
+        "location": "Guadalajara",
+        "dates": "2015 – 2019",
+        "bullets": [
+          "Reclutamiento masivo de hasta 80 vacantes mensuales para centro de atención telefónica",
+          "Administración de nómina, IMSS e INFONAVIT con apoyo del proveedor externo"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Psicología Organizacional",
+        "school": "Universidad de Guadalajara",
+        "dates": "2010 – 2015",
+        "details": ""
+      },
+      {
+        "degree": "Diplomado en Derecho Laboral",
+        "school": "ITAM",
+        "dates": "2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Relaciones laborales, contrato colectivo, Ley Federal del Trabajo",
+      "Reclutamiento y selección, onboarding, retención",
+      "Compensaciones y beneficios, nómina, IMSS, INFONAVIT",
+      "NOM-035, clima laboral, SAP SuccessFactors"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

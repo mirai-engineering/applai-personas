@@ -1,0 +1,109 @@
+{
+  "slug": "p25-de-emobility-pm",
+  "level": "early",
+  "profession": "project management",
+  "band": "2-5",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "project manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Projektleiter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": [
+        "engineer"
+      ]
+    }
+  ],
+  "cross_check_roles": [
+    "Sales Representative"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Lukas Hoffmann",
+    "headline": "Projektleiter Ladeinfrastruktur | Energietechnik | Softwareaffin",
+    "contact": {
+      "email": "lukas.hoffmann@example.com",
+      "phone": "+49 170 0000 2525",
+      "location": "Stuttgart",
+      "links": []
+    },
+    "summary": "Wirtschaftsingenieur mit drei Jahren Erfahrung in der Projektleitung von Schnellladeparks. Verbindet Netzanschlussplanung und Energiesysteme mit Automatisierung in Python und eigenen Web-Tools.",
+    "experience": [
+      {
+        "title": "Projektleiter Ladeinfrastruktur",
+        "company": "Voltwerk Energie GmbH",
+        "location": "Stuttgart",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Technische Projektleitung für 14 Schnellladeparks (bis 2,4 MW) von der Standortprüfung bis zur Inbetriebnahme",
+          "Koordination von Netzbetreibern, Generalunternehmern und Behörden; Planung nach HOAI Leistungsphasen 2–8",
+          "Automatisierung der Netzanschlussanfragen mit Python; Bearbeitungszeit pro Standort um 40 % reduziert",
+          "Entwicklung eines internen Dashboards (React/TypeScript, FastAPI) zur Terminsteuerung aller Baustellen"
+        ]
+      },
+      {
+        "title": "Masterand – R&D Prozessmodellierung",
+        "company": "Kessler Automotive AG",
+        "location": "Ludwigsburg",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Simulation von Lade- und Lastprofilen für Werksflotten in MATLAB/Simulink",
+          "Prozessoptimierung der Testplanung; Durchlaufzeit um 15 % gesenkt"
+        ]
+      },
+      {
+        "title": "Werkstudent Energiemanagement",
+        "company": "Stadtwerke Esslingen",
+        "location": "Esslingen",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Auswertung von Verbrauchsdaten und Erstellung von Berichten für die Netzplanung"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Wirtschaftsingenieurwesen (Energietechnik)",
+        "school": "Universität Stuttgart",
+        "dates": "2021 – 2023",
+        "details": "Masterarbeit: Lastmanagement für Ladeparks"
+      },
+      {
+        "degree": "B.Sc. Wirtschaftsingenieurwesen",
+        "school": "Hochschule Esslingen",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Ladeinfrastruktur, Netzanschluss, Energiesysteme",
+      "Technische Projektleitung, HOAI Leistungsphasen 2–8",
+      "Simulation, Prozessoptimierung, Automatisierung",
+      "Python, MATLAB, React/TypeScript, FastAPI",
+      "Stakeholdermanagement, Terminplanung, Budgetverantwortung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
