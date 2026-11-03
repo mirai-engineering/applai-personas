@@ -1,0 +1,112 @@
+{
+  "slug": "n110-sp-chemical-engineering",
+  "level": "mid",
+  "profession": "chemical engineering",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniero de procesos"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingeniero de producción"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Recruiter"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Lucía Herrero Campos",
+    "headline": "Ingeniera de procesos | Química fina y farmacéutica | Escalado y mejora continua",
+    "contact": {
+      "email": "lucia.herrero@example.com",
+      "phone": "+34 612 0000 110",
+      "location": "Madrid",
+      "links": []
+    },
+    "summary": "Ingeniera química con siete años de experiencia en plantas de química y plásticos y, desde 2024, en una planta farmacéutica. Tras una pausa de tres años para cuidar de un familiar, volví con un curso de simulación de procesos y con ganas de seguir trabajando en escalado y en la optimización de la producción.",
+    "experience": [
+      {
+        "title": "Ingeniera de procesos",
+        "company": "Farmaquímica Tres Cantos, S.L.",
+        "location": "Tres Cantos, Madrid",
+        "dates": "2024 – actualidad",
+        "bullets": [
+          "Soporte a producción de principios activos en reactores de 2.000 a 6.000 litros",
+          "Escalado de dos procesos desde planta piloto hasta producción con el equipo de I+D",
+          "Elaboración de diagramas P&ID y revisión de HAZOP con el departamento de seguridad",
+          "Reducción del tiempo de ciclo de una etapa de cristalización en un 14 %"
+        ]
+      },
+      {
+        "title": "Ingeniera de procesos",
+        "company": "Plásticos Técnicos Getafe, S.A.",
+        "location": "Getafe",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Optimización de parámetros de extrusión y reducción de mermas del 6 % al 4 %",
+          "Implantación de controles estadísticos del proceso con el equipo de calidad"
+        ]
+      },
+      {
+        "title": "Ingeniera de procesos junior",
+        "company": "Química del Henares, S.A.",
+        "location": "Alcalá de Henares",
+        "dates": "2016 – 2019",
+        "bullets": [
+          "Balances de materia y energía y seguimiento de indicadores de planta"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster en Ingeniería Química",
+        "school": "Universidad Politécnica de Madrid",
+        "dates": "2015 – 2016",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Ingeniería Química",
+        "school": "Universidad Complutense de Madrid",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Escalado de procesos, balances de materia y energía",
+      "Aspen Plus, AutoCAD Plant 3D",
+      "P&ID, HAZOP, ATEX",
+      "Normas GMP",
+      "Control estadístico de procesos, Minitab",
+      "Lean manufacturing"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [
+      "Curso de simulación de procesos con Aspen Plus (en línea), 2023"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Pausa profesional (2021 – 2024): cuidado de un familiar; formación en simulación de procesos durante 2023"
+    ]
+  }
+}

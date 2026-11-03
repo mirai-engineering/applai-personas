@@ -1,0 +1,99 @@
+{
+  "slug": "n123-sw-digital-marketing",
+  "level": "junior",
+  "profession": "digital marketing",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Digital Marketing Specialist"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Online Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Coordinator"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Laura Iseli",
+    "headline": "Spécialiste marketing digital | SEA, SEO et e-mailing | E-commerce outdoor",
+    "contact": {
+      "email": "laura.iseli@example.com",
+      "phone": "+41 76 0000 123",
+      "location": "Zurich",
+      "links": []
+    },
+    "summary": "Spécialiste en marketing digital avec quatre ans d'expérience entre une agence lausannoise et un e-commerce zurichois. Après une pause de deux ans pour un congé parental et un déménagement à Zurich, j'ai repris en 2023 avec une mise à jour de mes certifications Google.",
+    "experience": [
+      {
+        "title": "Spécialiste marketing digital",
+        "company": "Limmat Outdoor AG",
+        "location": "Zurich",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Gestion des campagnes Google Ads et Meta Ads pour la Suisse romande et alémanique",
+          "Refonte des newsletters dans Klaviyo ; taux d'ouverture passé de 24 % à 33 %",
+          "Suivi des performances dans GA4 et Looker Studio pour l'équipe e-commerce",
+          "Traduction et adaptation des contenus en français"
+        ]
+      },
+      {
+        "title": "Assistante marketing digital",
+        "company": "Agence Lémanique Web",
+        "location": "Lausanne",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Optimisation SEO et rédaction de contenus pour des PME clientes",
+          "Création des rapports mensuels de campagnes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor HES en économie d'entreprise",
+        "school": "HEIG-VD",
+        "dates": "2015 – 2019",
+        "details": "Orientation marketing"
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads",
+      "SEO, Search Console",
+      "GA4, Looker Studio, Google Tag Manager",
+      "Klaviyo, e-mailing",
+      "Shopify",
+      "Rédaction web"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (C1)",
+      "Anglais (B2)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification, 2023",
+      "Google Analytics Certification, 2023"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Pause professionnelle (2021 – 2023) : congé parental et déménagement à Zurich"
+    ]
+  }
+}

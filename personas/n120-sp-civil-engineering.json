@@ -1,0 +1,110 @@
+{
+  "slug": "n120-sp-civil-engineering",
+  "level": "senior",
+  "profession": "civil engineering",
+  "band": "8-12",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ingeniero civil"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Ingeniero de estructuras"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Analista de datos"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Unai Herrán Etxeberria",
+    "headline": "Ingeniero de Caminos | Obras marítimas y estructuras | Procedente de la ingeniería naval",
+    "contact": {
+      "email": "unai.herran@example.com",
+      "phone": "+34 688 0000 120",
+      "location": "Bilbao",
+      "links": []
+    },
+    "summary": "Empecé mi carrera como ingeniero naval en astilleros del Nervión y en 2017 di el salto a la ingeniería civil con el Máster de Caminos. Desde entonces trabajo en estructuras y obras portuarias, donde aprovecho mi experiencia en hidrodinámica y cálculo estructural para dirigir proyectos de muelles y diques.",
+    "experience": [
+      {
+        "title": "Jefe de proyecto de obras marítimas",
+        "company": "Portuaria Cantábrica Ingeniería, S.L.",
+        "location": "Bilbao",
+        "dates": "2021 – actualidad",
+        "bullets": [
+          "Dirección de proyectos de ampliación de muelles y diques para autoridades portuarias del Cantábrico",
+          "Coordinación de un equipo de cinco ingenieros y delineantes",
+          "Redacción de proyectos constructivos conforme a las ROM y al Código Estructural",
+          "Control de presupuesto y plazo de un proyecto de 14 M€ para un nuevo atraque"
+        ]
+      },
+      {
+        "title": "Ingeniero de estructuras",
+        "company": "Estudios Técnicos Abra, S.L.",
+        "location": "Getxo",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Cálculo de estructuras de hormigón y acero con SAP2000 y CYPE",
+          "Apoyo a la dirección de obra en la rehabilitación de un puente"
+        ]
+      },
+      {
+        "title": "Ingeniero naval",
+        "company": "Astilleros del Nervión, S.A.",
+        "location": "Sestao",
+        "dates": "2014 – 2017",
+        "bullets": [
+          "Cálculo estructural de bloques de casco y seguimiento de construcción en grada"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Máster Universitario en Ingeniería de Caminos, Canales y Puertos",
+        "school": "Universidad de Cantabria",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Ingeniería Marina",
+        "school": "Universidad del País Vasco (UPV/EHU)",
+        "dates": "2009 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Obras marítimas y portuarias, ROM 0.2 y 2.0",
+      "Código Estructural, Eurocódigos",
+      "SAP2000, CYPE, AutoCAD Civil 3D",
+      "Dirección de obra, mediciones y presupuestos (Presto)",
+      "Hidrodinámica y oleaje"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Euskera (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [
+      "Colegiado en el Colegio de Ingenieros de Caminos, Canales y Puertos"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

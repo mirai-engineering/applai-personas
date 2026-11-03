@@ -1,0 +1,112 @@
+{
+  "slug": "n109-sw-quality-management",
+  "level": "junior",
+  "profession": "quality management",
+  "band": "2-5",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Quality Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "QA Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Julien Huguenin",
+    "headline": "Ingénieur qualité dispositifs médicaux | Ancien enseignant de chimie",
+    "contact": {
+      "email": "julien.huguenin@example.com",
+      "phone": "+41 78 0000 109",
+      "location": "Bâle",
+      "links": []
+    },
+    "summary": "Après six ans comme enseignant de chimie au secondaire dans le Jura, je me suis reconverti dans la qualité. Depuis quatre ans je travaille dans l'industrie pharmaceutique puis médicale à Bâle, avec les CAPA, les audits internes et la documentation selon l'ISO 13485.",
+    "experience": [
+      {
+        "title": "Ingénieur qualité",
+        "company": "Dreiländer MedTech AG",
+        "location": "Bâle",
+        "dates": "2024 – aujourd'hui",
+        "bullets": [
+          "Gestion des non-conformités et des CAPA pour une ligne de cathéters ; délai moyen de clôture réduit de 30 %",
+          "Analyse de risques selon l'ISO 14971 et mise à jour des AMDEC process",
+          "Participation à l'audit de certification MDR avec l'organisme notifié",
+          "Rédaction et révision des procédures et des instructions de travail en anglais et en allemand"
+        ]
+      },
+      {
+        "title": "Technicien assurance qualité",
+        "company": "Rheinknie Pharma AG",
+        "location": "Bâle",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Revue des dossiers de lots et libération des matières premières selon les BPF",
+          "Suivi des déviations dans TrackWise"
+        ]
+      },
+      {
+        "title": "Enseignant de chimie et de biologie",
+        "company": "Lycée cantonal de Porrentruy",
+        "location": "Porrentruy",
+        "dates": "2015 – 2021",
+        "bullets": [
+          "Enseignement à des classes de maturité et responsabilité du laboratoire de chimie"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "CAS en management de la qualité et affaires réglementaires",
+        "school": "HES-SO Valais-Wallis",
+        "dates": "2021 – 2022",
+        "details": ""
+      },
+      {
+        "degree": "Master of Science en chimie",
+        "school": "Université de Neuchâtel",
+        "dates": "2010 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ISO 13485, ISO 14971, MDR (UE) 2017/745",
+      "CAPA, gestion des déviations, TrackWise",
+      "BPF / GMP, revue de dossiers de lots",
+      "AMDEC, analyse des causes (5 pourquoi, Ishikawa)",
+      "Minitab, statistiques de base",
+      "Audits internes"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Allemand (B2)",
+      "Anglais (C1)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2023",
+      "Auditeur interne ISO 13485:2016, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

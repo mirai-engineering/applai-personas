@@ -1,0 +1,110 @@
+{
+  "slug": "n122-sp-recruiting",
+  "level": "junior",
+  "profession": "recruiting",
+  "band": "2-5",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Técnico de selección"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Talent Acquisition Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Contable"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Marta Hidalgo Puig",
+    "headline": "Talent Acquisition | Selección IT y perfiles tecnológicos",
+    "contact": {
+      "email": "marta.hidalgo@example.com",
+      "phone": "+34 655 0000 122",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Psicóloga con cuatro años en selección de personal, con un recorrido poco lineal: hostelería, consultoría de selección y freelance antes de entrar en una empresa tecnológica. Me muevo bien en procesos de volumen y en búsquedas de perfiles técnicos difíciles.",
+    "experience": [
+      {
+        "title": "Talent Acquisition Specialist",
+        "company": "Barnaplat Delivery Tech, S.L.",
+        "location": "Barcelona",
+        "dates": "2024 – actualidad",
+        "bullets": [
+          "Gestión completa de 15 a 20 procesos abiertos de perfiles de ingeniería y producto",
+          "Sourcing en LinkedIn Recruiter y GitHub, y entrevistas por competencias con los hiring managers",
+          "Mejora de la employer branding con el equipo de marketing; candidaturas cualificadas en aumento del 30 %",
+          "Uso de Greenhouse como ATS y seguimiento de métricas del embudo"
+        ]
+      },
+      {
+        "title": "Recruiter IT freelance",
+        "company": "Autónoma",
+        "location": "Barcelona",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Selección de desarrolladores para startups y una consultora tecnológica"
+        ]
+      },
+      {
+        "title": "Asistente de RR. HH.",
+        "company": "Hotel Mirador del Port",
+        "location": "Barcelona",
+        "dates": "2022",
+        "bullets": [
+          "Contratación de personal de temporada y gestión de altas en la Seguridad Social"
+        ]
+      },
+      {
+        "title": "Sourcer",
+        "company": "Talentia BCN Consultores",
+        "location": "Barcelona",
+        "dates": "2021",
+        "bullets": [
+          "Búsqueda de candidatos para procesos comerciales y de atención al cliente"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Psicología",
+        "school": "Universitat de Barcelona",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Sourcing (LinkedIn Recruiter, GitHub, Boolean search)",
+      "Entrevista por competencias",
+      "ATS: Greenhouse, Workable",
+      "Employer branding",
+      "Selección de perfiles tecnológicos"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Catalán (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

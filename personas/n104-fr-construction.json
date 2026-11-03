@@ -1,0 +1,95 @@
+{
+  "slug": "n104-fr-construction",
+  "level": "junior",
+  "profession": "construction",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Conducteur de travaux"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Chargé d'affaires BTP"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Inès Hamdani",
+    "headline": "Conductrice de travaux bâtiment | Logements collectifs et tertiaire",
+    "contact": {
+      "email": "ines.hamdani@example.com",
+      "phone": "+33 6 0000 104",
+      "location": "Toulouse",
+      "links": []
+    },
+    "summary": "Ingénieure INSA en génie civil, cinq ans de conduite de travaux sur des opérations de logements collectifs et de bureaux en Occitanie. J'aime la préparation de chantier, la coordination des sous-traitants et le suivi budgétaire au plus près du terrain.",
+    "experience": [
+      {
+        "title": "Conductrice de travaux",
+        "company": "Garonne Bâtir",
+        "location": "Toulouse",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Conduite de deux opérations en parallèle : 84 logements collectifs (RE2020) et un immeuble de bureaux de 3 200 m²",
+          "Préparation de chantier, planning sous MS Project et suivi de 15 corps d'état",
+          "Suivi budgétaire mensuel des opérations (9,5 M€ HT) et des situations de travaux",
+          "Réunions de chantier hebdomadaires avec la maîtrise d'œuvre et le coordinateur SPS"
+        ]
+      },
+      {
+        "title": "Conductrice de travaux adjointe",
+        "company": "Midi Bâtiment Construction",
+        "location": "Colomiers",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Commandes de matériaux et métrés pour une résidence étudiante de 120 chambres",
+          "Suivi des réserves et des OPR ; levée des réserves en six semaines après réception"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplôme d'ingénieur en génie civil",
+        "school": "INSA Toulouse",
+        "dates": "2016 – 2021",
+        "details": "Stage de fin d'études : méthodes gros œuvre"
+      }
+    ],
+    "skills": [
+      "Préparation et planification de chantier (MS Project)",
+      "Métrés, budget, situations de travaux",
+      "DTU, RE2020, normes PMR",
+      "PPSPS, coordination SPS, sécurité chantier",
+      "AutoCAD, lecture de plans, notions Revit"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Arabe (courant)",
+      "Anglais (B2)"
+    ],
+    "certifications": [
+      "SST – Sauveteur secouriste du travail, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

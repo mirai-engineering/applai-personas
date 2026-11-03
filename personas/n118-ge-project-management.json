@@ -1,0 +1,105 @@
+{
+  "slug": "n118-ge-project-management",
+  "level": "mid",
+  "profession": "project management",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektmanager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Scrum Master"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerberater"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Valentin Imhof",
+    "headline": "Projektleiter IT | Leasing & Finanzdienstleistungen | PSM I, IPMA D",
+    "contact": {
+      "email": "valentin.imhof@example.com",
+      "phone": "+49 176 0000 118",
+      "location": "München",
+      "links": []
+    },
+    "summary": "Wirtschaftsinformatiker mit acht Jahren Erfahrung in IT-Projekten, zuerst in der Beratung, dann in einem Softwarehaus und heute bei einer Leasinggesellschaft. Ich leite Projekte mit agilen und klassischen Methoden und sorge für die Abstimmung zwischen Fachbereich und Entwicklung.",
+    "experience": [
+      {
+        "title": "Sen. Referent Projekte (PL)",
+        "company": "Alpenland Leasing AG",
+        "location": "München",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Projektleitung für die Ablösung des Vertragsverwaltungssystems (Budget 3,2 Mio. €)",
+          "Steuerung von zwei externen Dienstleistern und einem internen Team mit sechs Personen",
+          "Einführung eines Kundenportals für Händler; Bearbeitungszeit von Anträgen um 35 % gesenkt",
+          "Risikomanagement und Statusberichte an den Lenkungsausschuss"
+        ]
+      },
+      {
+        "title": "PM / Scrum Master",
+        "company": "Isarwerk Software GmbH",
+        "location": "München",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Scrum Master für zwei Teams und Projektmanagement für Kundenprojekte in der Versicherungsbranche",
+          "Moderation von Retrospektiven und Sprint Reviews"
+        ]
+      },
+      {
+        "title": "Junior Consultant (K1)",
+        "company": "Lindwurm IT-Beratung GmbH",
+        "location": "München",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Anforderungsanalyse und Testkoordination in SAP-Projekten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Wirtschaftsinformatik",
+        "school": "Hochschule München",
+        "dates": "2014 – 2018",
+        "details": "Bachelorarbeit: Agile Skalierung in Mittelstandsprojekten"
+      }
+    ],
+    "skills": [
+      "Agiles und klassisches Projektmanagement",
+      "Scrum, Kanban, Jira, Confluence",
+      "Lieferantensteuerung",
+      "Risikomanagement, Stakeholdermanagement",
+      "SAP FI-CA (Grundlagen)",
+      "MS Project"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [
+      "Professional Scrum Master I (PSM I), 2020",
+      "IPMA Level D, 2019"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

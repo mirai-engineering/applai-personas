@@ -1,0 +1,98 @@
+{
+  "slug": "n107-au-real-estate",
+  "level": "junior",
+  "profession": "real estate",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Property Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Leasing Consultant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Electrical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Chloe Harrington",
+    "headline": "Residential Property Manager | Inner-north Brisbane portfolio",
+    "contact": {
+      "email": "chloe.harrington@example.com",
+      "phone": "+61 412 0000 107",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Licensed property manager with four years in residential real estate across Brisbane's inner north. Comfortable managing a full portfolio from listing to bond refund, and known by landlords for clear communication and tidy arrears.",
+    "experience": [
+      {
+        "title": "Property Manager",
+        "company": "Paddington & Co Property",
+        "location": "Brisbane, QLD",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Manage a portfolio of 165 residential properties for private and SMSF investors",
+          "Routine inspections, entry and exit condition reports, and maintenance coordination with trades",
+          "Kept arrears below 1% for eight consecutive months",
+          "Prepare QCAT applications and attend hearings for bond disputes"
+        ]
+      },
+      {
+        "title": "Leasing Consultant / Assistant Property Manager",
+        "company": "Sunnybank Realty",
+        "location": "Sunnybank, QLD",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Ran up to 20 open homes a week and processed tenancy applications",
+          "Supported two senior property managers with lease renewals and rent reviews"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "Queensland University of Technology",
+        "dates": "2017 – 2020",
+        "details": ""
+      },
+      {
+        "degree": "Certificate IV in Real Estate Practice",
+        "school": "Real Estate Institute of Queensland",
+        "dates": "2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "PropertyMe, REST Professional, Inspection Express",
+      "Residential Tenancies and Rooming Accommodation Act 2008 (Qld)",
+      "Rent reviews and lease renewals",
+      "Arrears and bond management",
+      "Trade and maintenance coordination"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Full Real Estate Licence (Qld), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

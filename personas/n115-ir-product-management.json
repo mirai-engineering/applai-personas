@@ -1,0 +1,92 @@
+{
+  "slug": "n115-ir-product-management",
+  "level": "junior",
+  "profession": "product management",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Procurement Specialist"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Róisín Horgan",
+    "headline": "Product Manager | Healthtech B2B SaaS | Former APM in payments",
+    "contact": {
+      "email": "roisin.horgan@example.com",
+      "phone": "+353 86 0000 115",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Product manager with five years in Dublin start-ups, first in payments and now in healthtech. I work closely with engineering and design on discovery and delivery, and I like to back decisions with user interviews and product analytics.",
+    "experience": [
+      {
+        "title": "Product Manager",
+        "company": "Clinicly Health",
+        "location": "Dublin",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Own the scheduling and patient reminders product used by 600 GP practices in Ireland and the UK",
+          "Run discovery interviews with practice managers and maintain the roadmap with two squads",
+          "Launched SMS reminders with two-way confirmations; no-show rate down 22% at pilot practices",
+          "Write PRDs and track adoption in Amplitude"
+        ]
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "Tillr Payments",
+        "location": "Dublin",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Shipped merchant onboarding improvements and KYC document upload flow",
+          "Managed the backlog and sprint planning for one engineering team"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Mod) Computer Science",
+        "school": "Trinity College Dublin",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Product discovery, user interviews",
+      "Roadmapping and prioritisation (RICE)",
+      "Jira, Linear, Figma",
+      "Amplitude, SQL (intermediate)",
+      "Agile delivery, Scrum"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (conversational)",
+      "French (B1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

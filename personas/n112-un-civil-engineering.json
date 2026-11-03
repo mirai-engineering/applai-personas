@@ -1,0 +1,106 @@
+{
+  "slug": "n112-un-civil-engineering",
+  "level": "junior",
+  "profession": "civil engineering",
+  "band": "2-5",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Civil Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Highways Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Advisor"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Tomasz Hrabowski",
+    "headline": "Civil Engineer | Drainage and highways design | ICE Graduate Member",
+    "contact": {
+      "email": "tomasz.hrabowski@example.com",
+      "phone": "+44 7700 0000 112",
+      "location": "London",
+      "links": []
+    },
+    "summary": "Civil engineer with around five years of experience in highways and drainage design for local authorities and developers. I took a two-year career break to care for a parent in Poland and returned in 2023; I am working towards Chartered status with the ICE.",
+    "experience": [
+      {
+        "title": "Civil Engineer",
+        "company": "Brunel Kerr Consulting",
+        "location": "London",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Drainage design and SuDS strategies for residential schemes of 50 to 400 homes",
+          "Section 278 and Section 38 highway design and technical approval submissions",
+          "Prepare flood risk assessments and drainage reports for planning applications",
+          "Model networks in MicroDrainage and Civil 3D"
+        ]
+      },
+      {
+        "title": "Graduate Civil Engineer",
+        "company": "Thameside Infrastructure Partners",
+        "location": "London",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Supported design of junction improvements for two London boroughs",
+          "Site supervision support on a bus priority scheme"
+        ]
+      },
+      {
+        "title": "Placement Year Student",
+        "company": "Thameside Infrastructure Partners",
+        "location": "London",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Produced drawings and quantities for footway and resurfacing works"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MEng Civil Engineering (with Year in Industry)",
+        "school": "University of Nottingham",
+        "dates": "2015 – 2019",
+        "details": "First Class Honours"
+      }
+    ],
+    "skills": [
+      "Autodesk Civil 3D, AutoCAD",
+      "MicroDrainage / InfoDrainage",
+      "DMRB, CIRIA SuDS Manual",
+      "Section 278 / 38 agreements",
+      "Flood risk assessment",
+      "NEC4 basics"
+    ],
+    "languages": [
+      "English (fluent)",
+      "Polish (native)"
+    ],
+    "certifications": [
+      "ICE Graduate Member",
+      "CSCS Card"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break (2021 – 2023): caring for a family member in Poland; completed an online InfoDrainage course in 2022"
+    ]
+  }
+}

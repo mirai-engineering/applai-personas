@@ -1,0 +1,92 @@
+{
+  "slug": "n121-un-consulting",
+  "level": "junior",
+  "profession": "consulting",
+  "band": "2-5",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Management Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Strategy Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Staff Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Callum Imrie",
+    "headline": "Consultant | Operations and strategy | Public sector and energy",
+    "contact": {
+      "email": "callum.imrie@example.com",
+      "phone": "+44 7700 0000 121",
+      "location": "Edinburgh",
+      "links": []
+    },
+    "summary": "Consultant with four years at an Edinburgh boutique advisory firm, working on operating model, cost and strategy projects for Scottish public bodies and energy companies. Strong in analysis and structured problem solving, and comfortable presenting to senior clients.",
+    "experience": [
+      {
+        "title": "Consultant",
+        "company": "Forthbridge Advisory",
+        "location": "Edinburgh",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Day-to-day lead on an operating model review for a Scottish health board",
+          "Built the cost baseline and savings model for a utility's field services, identifying £6.5M of savings",
+          "Run client workshops and draft steering committee papers"
+        ]
+      },
+      {
+        "title": "Analyst",
+        "company": "Forthbridge Advisory",
+        "location": "Edinburgh",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Market sizing and due diligence support for offshore wind supply chain clients",
+          "Data analysis in Excel and Power BI for benchmarking studies"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MA (Hons) Economics",
+        "school": "University of St Andrews",
+        "dates": "2018 – 2022",
+        "details": "First Class"
+      }
+    ],
+    "skills": [
+      "Financial and cost modelling (Excel)",
+      "Operating model design",
+      "Power BI, Alteryx",
+      "Workshop facilitation",
+      "Market and commercial due diligence"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (B2)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Volunteering: treasurer of a community football club in Leith"
+    ]
+  }
+}

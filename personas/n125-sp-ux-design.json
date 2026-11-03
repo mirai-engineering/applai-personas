@@ -1,0 +1,111 @@
+{
+  "slug": "n125-sp-ux-design",
+  "level": "mid",
+  "profession": "ux design",
+  "band": "5-8",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Diseñador UX"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Designer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Account Executive"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Pau Ibáñez Roca",
+    "headline": "Senior Product Designer | UX/UI | Fintech y movilidad",
+    "contact": {
+      "email": "pau.ibanez@example.com",
+      "phone": "+34 622 0000 125",
+      "location": "Barcelona",
+      "links": [
+        "linkedin.com/in/pau-ibanez-example"
+      ]
+    },
+    "summary": "Diseñador con siete años de experiencia en producto digital, de estudio a startups de movilidad y fintech. Me ocupo de la investigación con usuarios, los flujos y el sistema de diseño, y trabajo de cerca con producto y desarrollo.",
+    "experience": [
+      {
+        "title": "UX Lead (Sr. Designer L3)",
+        "company": "Pagaplus Fintech, S.L.",
+        "location": "Barcelona",
+        "dates": "2023 – actualidad",
+        "bullets": [
+          "Diseño de la app de pagos para autónomos y pymes con un equipo de tres diseñadores",
+          "Creación y mantenimiento del sistema de diseño en Figma con el equipo de front-end",
+          "Rediseño del alta de clientes; conversión del onboarding del 41 % al 58 %",
+          "Entrevistas y pruebas de usabilidad mensuales con usuarios"
+        ]
+      },
+      {
+        "title": "Product Designer II",
+        "company": "Rodalia Mobility",
+        "location": "Barcelona",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Diseño de flujos de reserva para la app de patinetes y bicicletas compartidas",
+          "Pruebas A/B con el equipo de growth"
+        ]
+      },
+      {
+        "title": "Diseñador UI/UX Jr.",
+        "company": "Estudi Gràcia Digital",
+        "location": "Barcelona",
+        "dates": "2019 – 2021",
+        "bullets": [
+          "Diseño de webs y apps para clientes de retail y cultura"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Postgrado en Diseño de Experiencia de Usuario",
+        "school": "IED Barcelona",
+        "dates": "2020",
+        "details": ""
+      },
+      {
+        "degree": "Grado en Diseño",
+        "school": "ELISAVA, Escola Universitària de Disseny i Enginyeria de Barcelona",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Figma, FigJam, Protopie",
+      "Investigación con usuarios, pruebas de usabilidad",
+      "Sistemas de diseño",
+      "Arquitectura de información, wireframes",
+      "Accesibilidad (WCAG 2.2)",
+      "Maze, Hotjar"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Catalán (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

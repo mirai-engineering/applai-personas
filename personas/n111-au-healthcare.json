@@ -1,0 +1,111 @@
+{
+  "slug": "n111-au-healthcare",
+  "level": "mid",
+  "profession": "healthcare",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Registered Nurse"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Clinical Nurse Specialist"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Project Coordinator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Grace Ho",
+    "headline": "Clinical Nurse – Intensive Care | Emergency background",
+    "contact": {
+      "email": "grace.ho@example.com",
+      "phone": "+61 421 0000 111",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Registered nurse with seven years in acute care across emergency and intensive care in Sydney. Calm under pressure, a regular preceptor for new graduates and interested in moving into a clinical nurse specialist role.",
+    "experience": [
+      {
+        "title": "Clinical Nurse – Intensive Care Unit",
+        "company": "Kingsford Metropolitan Hospital",
+        "location": "Sydney, NSW",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Care of ventilated and post-cardiac surgery patients in a 24-bed ICU",
+          "Preceptor for graduate nurses and transition-to-specialty staff",
+          "Team leader on night shift for a pod of six beds",
+          "Contributed to a pressure-injury audit that cut hospital-acquired injuries in the unit by a third"
+        ]
+      },
+      {
+        "title": "Registered Nurse – Emergency Department",
+        "company": "Cumberland General Hospital",
+        "location": "Westmead, NSW",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Triage and care of adult patients in a busy metropolitan ED",
+          "Completed advanced life support and trauma nursing courses"
+        ]
+      },
+      {
+        "title": "Graduate Registered Nurse",
+        "company": "Harbourview Private Hospital",
+        "location": "Sydney, NSW",
+        "dates": "2019 – 2020",
+        "bullets": [
+          "Rotations in surgical and medical wards"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduate Certificate in Intensive Care Nursing",
+        "school": "University of Sydney",
+        "dates": "2022 – 2023",
+        "details": ""
+      },
+      {
+        "degree": "Bachelor of Nursing",
+        "school": "University of Technology Sydney",
+        "dates": "2016 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Ventilator management, arterial lines, CRRT",
+      "Advanced Life Support (ALS)",
+      "Patient deterioration and rapid response",
+      "Cerner eMR",
+      "Clinical teaching and preceptorship",
+      "Infection prevention"
+    ],
+    "languages": [
+      "English (native)",
+      "Cantonese (fluent)"
+    ],
+    "certifications": [
+      "AHPRA Registered Nurse (current)",
+      "Advanced Life Support, 2025",
+      "Trauma Nursing Core Course (TNCC), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

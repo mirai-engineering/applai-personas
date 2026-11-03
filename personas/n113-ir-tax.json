@@ -1,0 +1,113 @@
+{
+  "slug": "n113-ir-tax",
+  "level": "exec",
+  "profession": "tax",
+  "band": "12+",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of Tax"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Tax Director"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Supply Chain Manager"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Siobhán Hennessy",
+    "headline": "Tax Partner | International corporate tax | Chartered Tax Adviser",
+    "contact": {
+      "email": "siobhan.hennessy@example.com",
+      "phone": "+353 87 0000 113",
+      "location": "Dublin",
+      "links": []
+    },
+    "summary": "Chartered accountant and tax adviser with twenty years in Irish and international corporate tax. I lead a tax practice of 30 people, advise multinational groups on their Irish structures and have worked through BEPS, ATAD and Pillar Two with clients.",
+    "experience": [
+      {
+        "title": "Partner, Head of Tax",
+        "company": "Merrion Kerr Advisory",
+        "location": "Dublin",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Lead a tax department of 30 across corporate, international and indirect tax; fee income of €9M",
+          "Advise US-headquartered technology and life sciences groups on Irish holding and IP structures",
+          "Led the firm's Pillar Two readiness offering, now used by more than 40 clients",
+          "Member of the firm's management board"
+        ]
+      },
+      {
+        "title": "Director, International Tax",
+        "company": "Merrion Kerr Advisory",
+        "location": "Dublin",
+        "dates": "2016 – 2021",
+        "bullets": [
+          "Transfer pricing and treaty advice for inbound groups",
+          "Managed Revenue audits and interventions for large-case clients"
+        ]
+      },
+      {
+        "title": "Tax Manager",
+        "company": "Fitzwilliam Partners",
+        "location": "Dublin",
+        "dates": "2010 – 2016",
+        "bullets": [
+          "Corporate tax compliance and R&D tax credit claims for indigenous Irish companies"
+        ]
+      },
+      {
+        "title": "Tax Trainee / Tax Senior",
+        "company": "Liffey Tax & Advisory",
+        "location": "Dublin",
+        "dates": "2006 – 2010",
+        "bullets": [
+          "Corporation tax returns and VAT compliance for a portfolio of SMEs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce",
+        "school": "University College Dublin",
+        "dates": "2002 – 2005",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Irish and international corporate tax",
+      "Pillar Two, ATAD, BEPS",
+      "Transfer pricing",
+      "Revenue audits and interventions",
+      "R&D tax credits",
+      "Practice leadership and business development"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (good)"
+    ],
+    "certifications": [
+      "Chartered Tax Adviser (CTA), Irish Tax Institute, 2009",
+      "Chartered Accountant (FCA), Chartered Accountants Ireland, 2009"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

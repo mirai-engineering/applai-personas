@@ -1,0 +1,99 @@
+{
+  "slug": "n124-un-customer-success",
+  "level": "mid",
+  "profession": "customer success",
+  "band": "5-8",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Rory Henderson",
+    "headline": "Senior Customer Success Manager | B2B SaaS | Mid-market and enterprise",
+    "contact": {
+      "email": "rory.henderson@example.com",
+      "phone": "+44 7700 0000 124",
+      "location": "Edinburgh",
+      "links": []
+    },
+    "summary": "Customer success professional with eight years in B2B software, from support to managing a book of mid-market and enterprise accounts. I focus on adoption, renewals and expansion, and work closely with product and sales.",
+    "experience": [
+      {
+        "title": "Senior Customer Success Manager",
+        "company": "Quernstone Software",
+        "location": "Edinburgh",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Manage 28 mid-market and enterprise accounts worth £3.1M ARR in the UK and Nordics",
+          "Gross revenue retention of 96% across my book in 2025",
+          "Lead quarterly business reviews and success plans with customer stakeholders",
+          "Mentor two new CSMs and wrote the team's onboarding playbook"
+        ]
+      },
+      {
+        "title": "Customer Success Manager",
+        "company": "Quernstone Software",
+        "location": "Edinburgh",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Onboarded new customers and ran product training sessions",
+          "Flagged churn risks using health scores in Gainsight"
+        ]
+      },
+      {
+        "title": "Customer Support Specialist",
+        "company": "Skyline Ledger Ltd",
+        "location": "Edinburgh",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Second-line support for an accounting software product"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BA (Hons) Business Management",
+        "school": "Heriot-Watt University",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Account management, renewals and expansion",
+      "Gainsight, Salesforce, HubSpot",
+      "QBRs and success planning",
+      "Onboarding and training",
+      "Churn analysis"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

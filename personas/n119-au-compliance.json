@@ -1,0 +1,106 @@
+{
+  "slug": "n119-au-compliance",
+  "level": "senior",
+  "profession": "compliance",
+  "band": "8-12",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Compliance Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Compliance Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Elena Hrovat",
+    "headline": "Senior Compliance Officer | AML, anti-bribery and sanctions | Pharma and payments",
+    "contact": {
+      "email": "elena.hrovat@example.com",
+      "phone": "+43 676 0000 119",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Lawyer by training with twelve years in compliance across banking, payments and the pharmaceutical industry in Austria. I build and run compliance programmes, handle investigations and work in English across international groups.",
+    "experience": [
+      {
+        "title": "Senior Compliance Officer",
+        "company": "Schlossberg Pharma Holding GmbH",
+        "location": "Graz",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Run the compliance programme for the Austrian holding and subsidiaries in Slovenia and Croatia",
+          "Review interactions with healthcare professionals under the Pharmig code and EFPIA disclosure",
+          "Introduced a whistleblowing system under the HSchG; 23 cases handled in the first year",
+          "Deliver anti-bribery and sanctions training for sales and procurement"
+        ]
+      },
+      {
+        "title": "Compliance Officer AML",
+        "company": "Murinsel Payments GmbH",
+        "location": "Graz",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Money laundering reporting officer deputy; filing of suspicious activity reports with the FIU",
+          "Updated the AML risk assessment in line with the FM-GwG and FMA guidance"
+        ]
+      },
+      {
+        "title": "Compliance Analyst",
+        "company": "Grazer Handelsbank AG",
+        "location": "Graz",
+        "dates": "2014 – 2018",
+        "bullets": [
+          "Transaction monitoring, sanctions screening and KYC reviews"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Mag. iur. (Master of Laws)",
+        "school": "University of Graz",
+        "dates": "2008 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "AML/CFT (FM-GwG, EU AMLD)",
+      "Anti-bribery and corruption, sanctions",
+      "Whistleblowing (HSchG), internal investigations",
+      "Pharmig and EFPIA codes",
+      "Compliance risk assessment",
+      "Policy writing and training"
+    ],
+    "languages": [
+      "German (native)",
+      "English (C2)",
+      "Slovenian (B2)"
+    ],
+    "certifications": [
+      "Certified Anti-Money Laundering Specialist (CAMS), 2017",
+      "ICA International Diploma in Governance, Risk and Compliance, 2020"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "n103-me-legal",
+  "level": "senior",
+  "profession": "legal",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Abogado Corporativo"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente Jurídico"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero de Calidad"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Rodrigo Ibarra Garza",
+    "headline": "Sr. Legal Counsel LatAm | Derecho corporativo, contratos y comercio exterior",
+    "contact": {
+      "email": "rodrigo.ibarra@example.com",
+      "phone": "+52 81 0000 103",
+      "location": "Monterrey, N.L.",
+      "links": []
+    },
+    "summary": "Abogado con once años de experiencia en despacho y como abogado interno en la industria acerera y logística. Llevo contratos con clientes y proveedores en México y Estados Unidos, el gobierno corporativo de las subsidiarias y la defensa en litigios mercantiles con apoyo de despachos externos.",
+    "experience": [
+      {
+        "title": "Sr. Legal Counsel – LatAm (Banda G7)",
+        "company": "Aceros Planos del Norte, S.A. de C.V.",
+        "location": "San Nicolás de los Garza, N.L.",
+        "dates": "2021 – actualidad",
+        "bullets": [
+          "Responsable jurídico de cuatro subsidiarias en México y una en Texas; reporto al General Counsel",
+          "Negociación de contratos de suministro de largo plazo con clientes automotrices y de línea blanca",
+          "Coordinación de despachos externos en litigios mercantiles y laborales; reducción del gasto externo en 18 %",
+          "Atención de requerimientos en materia de T-MEC, reglas de origen y programas IMMEX",
+          "Capacitación anual en anticorrupción para el área comercial"
+        ]
+      },
+      {
+        "title": "Abogado Corporativo Sr.",
+        "company": "Grupo Logístico Cumbres",
+        "location": "Monterrey, N.L.",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Actas de asamblea, poderes y libros corporativos de doce sociedades del grupo",
+          "Revisión de contratos de arrendamiento de naves industriales y de transporte"
+        ]
+      },
+      {
+        "title": "Asociado Jr.",
+        "company": "Treviño Villarreal Abogados, S.C.",
+        "location": "Monterrey, N.L.",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Apoyo en fusiones y adquisiciones de empresas medianas: due diligence y cierre",
+          "Redacción de demandas y promociones en juicios ejecutivos mercantiles"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Maestría en Derecho Corporativo",
+        "school": "Universidad de Monterrey (UDEM)",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "Licenciatura en Derecho",
+        "school": "Universidad Autónoma de Nuevo León",
+        "dates": "2010 – 2015",
+        "details": "Cédula profesional vigente"
+      }
+    ],
+    "skills": [
+      "Contratos mercantiles y de suministro",
+      "Gobierno corporativo, asambleas y poderes",
+      "Litigio mercantil, Código de Comercio",
+      "T-MEC, IMMEX, comercio exterior",
+      "Compliance anticorrupción, FCPA",
+      "Inglés jurídico, redacción bilingüe"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado, uso diario)"
+    ],
+    "certifications": [
+      "Diplomado en Compliance Corporativo, ITESM, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

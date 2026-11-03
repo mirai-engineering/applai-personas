@@ -1,0 +1,117 @@
+{
+  "slug": "n105-ge-project-management",
+  "level": "exec",
+  "profession": "project management",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of PMO"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Programmleiter"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Vertriebsleiter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Sabine Heinemann",
+    "headline": "Bereichsleiterin Transformation & PMO | Banken und Versicherungen | PMP, SAFe SPC",
+    "contact": {
+      "email": "sabine.heinemann@example.com",
+      "phone": "+49 151 0000 105",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "Führungskraft mit 18 Jahren Erfahrung in Projekt- und Programmleitung für Banken und Versicherungen im Rhein-Main-Gebiet. Ich steuere Portfolios mit zweistelligem Millionenbudget, baue PMO-Strukturen auf und führe Teams aus internen und externen Projektleitern durch regulatorische und digitale Transformationen.",
+    "experience": [
+      {
+        "title": "Bereichsleiterin Transformation & PMO (E1, AT)",
+        "company": "Taunus Privatbank AG",
+        "location": "Frankfurt am Main",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Gesamtverantwortung für das Projektportfolio der Bank (ca. 35 Vorhaben, 42 Mio. € Jahresbudget)",
+          "Führung von 14 Projektleiterinnen und Projektleitern sowie einem externen Dienstleisterpool",
+          "Einführung eines hybriden Vorgehensmodells (SAFe für IT, klassisch für Regulatorik) und eines einheitlichen Reportings an den Vorstand",
+          "Steuerung des Kernbanken-Migrationsprogramms; Livegang ohne Verschiebung im Q2 2024"
+        ]
+      },
+      {
+        "title": "Sr. Mgr. Programm-/Portfoliosteuerung",
+        "company": "Mainbank Direkt AG",
+        "location": "Frankfurt am Main",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Leitung des Programms zur Umsetzung von MaRisk- und BAIT-Anforderungen mit 9 Teilprojekten",
+          "Aufbau des PMO mit Ressourcen- und Budgetplanung in Jira Align"
+        ]
+      },
+      {
+        "title": "Projektleiterin IT (Referentin, TG 8)",
+        "company": "Rhein-Main Versicherung AG",
+        "location": "Wiesbaden",
+        "dates": "2012 – 2017",
+        "bullets": [
+          "Projektleitung für die Einführung eines neuen Schadenportals für Makler",
+          "Koordination von Fachbereich, IT und externen Dienstleistern"
+        ]
+      },
+      {
+        "title": "Consultant / Senior Consultant",
+        "company": "Kontor Beratungsgruppe GmbH",
+        "location": "Frankfurt am Main",
+        "dates": "2008 – 2012",
+        "bullets": [
+          "Fachkonzepte und Testmanagement in Projekten für Landesbanken"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Diplom-Kauffrau",
+        "school": "Goethe-Universität Frankfurt am Main",
+        "dates": "2002 – 2008",
+        "details": "Schwerpunkte: Banken und Wirtschaftsinformatik"
+      }
+    ],
+    "skills": [
+      "Portfolio- und Programmmanagement, PMO-Aufbau",
+      "SAFe, Scrum, hybrides Projektmanagement",
+      "MaRisk, BAIT, DORA",
+      "Jira Align, MS Project, Power BI",
+      "Budget- und Ressourcensteuerung",
+      "Führung, Vorstandsreporting, Lieferantensteuerung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Französisch (Grundkenntnisse)"
+    ],
+    "certifications": [
+      "Project Management Professional (PMP), 2014",
+      "SAFe Program Consultant (SPC), 2020",
+      "PRINCE2 Practitioner, 2011"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

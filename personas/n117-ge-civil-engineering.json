@@ -1,0 +1,113 @@
+{
+  "slug": "n117-ge-civil-engineering",
+  "level": "senior",
+  "profession": "civil engineering",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Bauingenieur"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Tragwerksplaner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Manager"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Fatma Hamurcu",
+    "headline": "Bauingenieurin Tragwerksplanung | Brücken- und Ingenieurbau | Projektleitung",
+    "contact": {
+      "email": "fatma.hamurcu@example.com",
+      "phone": "+49 160 0000 117",
+      "location": "Stuttgart",
+      "links": []
+    },
+    "summary": "Bauingenieurin mit rund elf Jahren Berufserfahrung in der Tragwerksplanung für Hoch- und Brückenbau. Nach drei Jahren Elternzeit bin ich 2023 mit einer Weiterbildung zum Eurocode 2 zurückgekehrt und leite heute Planungsprojekte für kommunale und private Auftraggeber.",
+    "experience": [
+      {
+        "title": "Senior Bauingenieurin / Projektleiterin Tragwerksplanung",
+        "company": "Filder Ingenieure PartG mbB",
+        "location": "Leinfelden-Echterdingen",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Projektleitung der Tragwerksplanung für eine Schulerweiterung und zwei Parkhäuser (LPH 2–6)",
+          "Statische Berechnungen und Bemessung nach Eurocode 2 und 3 mit RFEM und SOFiSTiK",
+          "Abstimmung mit Architekten, Prüfingenieuren und Bauherren",
+          "Betreuung von zwei Nachwuchsingenieurinnen"
+        ]
+      },
+      {
+        "title": "Projektingenieurin Brückenbau",
+        "company": "Schwabenbau Infrastruktur GmbH",
+        "location": "Stuttgart",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Planung und Nachrechnung von Spannbetonbrücken für das Regierungspräsidium",
+          "Bauüberwachung bei zwei Brückenersatzneubauten an Landesstraßen"
+        ]
+      },
+      {
+        "title": "Tragwerksplanerin",
+        "company": "Ingenieurbüro Neckarstatik GmbH",
+        "location": "Esslingen am Neckar",
+        "dates": "2012 – 2016",
+        "bullets": [
+          "Statik und Positionspläne für Wohn- und Gewerbebauten"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Bauingenieurwesen (Konstruktiver Ingenieurbau)",
+        "school": "Karlsruher Institut für Technologie (KIT)",
+        "dates": "2010 – 2012",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Bauingenieurwesen",
+        "school": "Hochschule für Technik Stuttgart",
+        "dates": "2007 – 2010",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Eurocode 0–3, DIN-Fachberichte Brückenbau",
+      "RFEM, SOFiSTiK, Allplan",
+      "HOAI Leistungsphasen 2–8",
+      "Spannbeton- und Stahlbetonbau",
+      "Bauüberwachung, Nachtragsprüfung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Türkisch (Muttersprache)",
+      "Englisch (gut)"
+    ],
+    "certifications": [
+      "Mitglied der Ingenieurkammer Baden-Württemberg",
+      "Weiterbildung Eurocode 2 – Neuerungen, 2023"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Elternzeit 2020 – 2023"
+    ]
+  }
+}

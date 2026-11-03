@@ -1,0 +1,111 @@
+{
+  "slug": "n101-sw-business-analysis",
+  "level": "senior",
+  "profession": "business analysis",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Business Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Analyste fonctionnel"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Infirmier"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Nathalie Humbert",
+    "headline": "Business Analyst senior | Banque privée | Ancienne responsable revenue management",
+    "contact": {
+      "email": "nathalie.humbert@example.com",
+      "phone": "+41 79 0000 101",
+      "location": "Genève",
+      "links": []
+    },
+    "summary": "Business analyst avec quatre ans d'expérience dans la banque privée, après huit ans dans le revenue management hôtelier. Je traduis les besoins des métiers (front office, conformité, opérations) en exigences claires pour les équipes IT et je garde le goût des chiffres et de la tarification acquis dans l'hôtellerie.",
+    "experience": [
+      {
+        "title": "Business Analyst senior",
+        "company": "Banque Privée Cornavin & Cie SA",
+        "location": "Genève",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Recueil et rédaction des exigences pour la refonte du parcours d'ouverture de compte (KYC) avec la conformité et le front office",
+          "Rédaction des user stories et des critères d'acceptation dans Jira pour deux équipes Scrum",
+          "Modélisation des processus en BPMN 2.0 ; délai d'ouverture d'un compte client réduit de 12 à 5 jours",
+          "Animation des ateliers avec les gérants de fortune et préparation des tests d'acceptation (UAT)"
+        ]
+      },
+      {
+        "title": "Responsable revenue management",
+        "company": "Résidences Alpéa SA",
+        "location": "Montreux",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Pilotage de la stratégie tarifaire de six résidences hôtelières avec IDeaS et Excel",
+          "Mise en place d'un tableau de bord Power BI pour la direction ; RevPAR en hausse de 9 % en 2019"
+        ]
+      },
+      {
+        "title": "Revenue Analyst",
+        "company": "Groupe Hôtelier Lac-et-Mont",
+        "location": "Genève",
+        "dates": "2014 – 2018",
+        "bullets": [
+          "Prévisions d'occupation et analyse de la concurrence pour trois hôtels quatre étoiles"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "CAS en Business Analysis",
+        "school": "Haute école de gestion de Genève (HEG)",
+        "dates": "2021 – 2022",
+        "details": "Travail de fin d'études : cartographie des processus KYC"
+      },
+      {
+        "degree": "Bachelor of Science HES-SO en Hospitality Management",
+        "school": "EHL Hospitality Business School",
+        "dates": "2010 – 2014",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Analyse des besoins, user stories, critères d'acceptation",
+      "BPMN 2.0, cartographie des processus",
+      "Jira, Confluence, Miro",
+      "SQL (bases), Power BI, Excel avancé",
+      "KYC, LSFin, processus d'onboarding bancaire",
+      "Animation d'ateliers, tests UAT"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant, C1)",
+      "Allemand (intermédiaire, B1)"
+    ],
+    "certifications": [
+      "IIBA CCBA (Certification of Capability in Business Analysis), 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

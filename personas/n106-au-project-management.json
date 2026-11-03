@@ -1,0 +1,104 @@
+{
+  "slug": "n106-au-project-management",
+  "level": "mid",
+  "profession": "project management",
+  "band": "5-8",
+  "location": "Austria",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Projektleiter"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Launch Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Markus Hölzl",
+    "headline": "Projektleiter Fahrzeugprojekte | SOP & Anlaufmanagement | Automotive",
+    "contact": {
+      "email": "markus.hoelzl@example.com",
+      "phone": "+43 664 0000 106",
+      "location": "Graz",
+      "links": []
+    },
+    "summary": "Maschinenbauer aus der Steiermark mit acht Jahren in der Automobilzulieferung, davon fünf in der Projektleitung. Schwerpunkt sind Serienanläufe von Elektrik- und Antriebskomponenten, die Abstimmung mit OEM-Kunden und die Arbeit nach APQP und VDA-Reifegradabsicherung.",
+    "experience": [
+      {
+        "title": "Project Lead Launch Mgmt. (PL2)",
+        "company": "Grazer Antriebssysteme GmbH",
+        "location": "Graz",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Projektleitung für zwei Serienanläufe von E-Achs-Komponenten bis SOP",
+          "Steuerung eines Kernteams aus Entwicklung, Qualität, Einkauf und Logistik (12 Personen)",
+          "Kundenschnittstelle zum OEM, Änderungsmanagement und Claim-Verfolgung",
+          "Reifegradabsicherung nach VDA MLA; alle Meilensteine termingerecht erreicht"
+        ]
+      },
+      {
+        "title": "TPL Elektrik / Jr. PL",
+        "company": "Murtal Fahrzeugtechnik GmbH",
+        "location": "Zeltweg",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Teilprojektleitung Kabelsätze und Steuergeräte-Integration für einen Kleinserien-SUV",
+          "Pflege des Terminplans in MS Project und der offenen Punkte-Liste"
+        ]
+      },
+      {
+        "title": "Projektingenieur",
+        "company": "Schöckl Engineering GmbH",
+        "location": "Graz",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Konstruktion und Prüfplanung von Halterungen in CATIA V5 für Kundenprojekte"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. Wirtschaftsingenieurwesen-Maschinenbau",
+        "school": "Technische Universität Graz",
+        "dates": "2012 – 2018",
+        "details": "Diplomarbeit: Anlaufkurven in der Kleinserienfertigung"
+      }
+    ],
+    "skills": [
+      "APQP, PPAP, VDA MLA",
+      "Anlauf- und Änderungsmanagement",
+      "MS Project, Jira, SAP PS",
+      "CATIA V5 (Grundlagen)",
+      "Kosten- und Terminverfolgung",
+      "Kundenkommunikation mit OEMs"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)"
+    ],
+    "certifications": [
+      "IPMA Level C (Zertifizierter Projektmanager), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

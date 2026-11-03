@@ -1,0 +1,103 @@
+{
+  "slug": "n114-un-manufacturing",
+  "level": "mid",
+  "profession": "manufacturing",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Production Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Manufacturing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Coordinator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Wesley Holloway",
+    "headline": "Manufacturing / Area Manager | Food & beverage packaging | Lean Six Sigma Green Belt",
+    "contact": {
+      "email": "wesley.holloway@example.com",
+      "phone": "+1 404 0000 114",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "Industrial engineer with eight years on the plant floor in packaging and food manufacturing around Atlanta. I run multi-shift production areas, coach supervisors and use lean tools to hit safety, throughput and cost targets.",
+    "experience": [
+      {
+        "title": "Mfg Mgr (Area Mgr – Packaging)",
+        "company": "Chattahoochee Foods Inc.",
+        "location": "Gainesville, GA",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Own packaging operations for 6 lines across 3 shifts with 4 supervisors and 95 hourly associates",
+          "Raised OEE on the two highest-volume lines from 61% to 72% through changeover reduction (SMED)",
+          "Lead daily tiered meetings and monthly cost reviews with the plant manager",
+          "Partner with maintenance on a preventive maintenance rollout in SAP PM"
+        ]
+      },
+      {
+        "title": "Ops Lead II",
+        "company": "Southern Crescent Molding",
+        "location": "McDonough, GA",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Ran second shift for an injection molding area with 14 presses",
+          "Cut scrap by about 20% with the quality team"
+        ]
+      },
+      {
+        "title": "Prod. Supv. – 2nd Shift",
+        "company": "Peachtree Corrugated Packaging",
+        "location": "Atlanta, GA",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Supervised 25 operators on corrugators and converting lines"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Industrial Engineering",
+        "school": "Georgia Institute of Technology",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lean manufacturing, SMED, 5S, kaizen",
+      "OEE and production KPIs",
+      "SAP PP/PM",
+      "OSHA compliance, SQF",
+      "Labor planning and scheduling",
+      "Root cause analysis"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2021",
+      "OSHA 30-Hour General Industry"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

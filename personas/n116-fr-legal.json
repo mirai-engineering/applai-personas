@@ -1,0 +1,111 @@
+{
+  "slug": "n116-fr-legal",
+  "level": "mid",
+  "profession": "legal",
+  "band": "5-8",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "fr",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Juriste"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Responsable conformité"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chef de produit"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Clémence Hervé",
+    "headline": "Juriste droit des affaires & conformité | DPO | Santé numérique",
+    "contact": {
+      "email": "clemence.herve@example.com",
+      "phone": "+33 6 0000 116",
+      "location": "Nantes",
+      "links": []
+    },
+    "summary": "Juriste en entreprise depuis huit ans, entre droit des contrats et conformité. Je suis aussi déléguée à la protection des données et je peux autant rédiger un contrat de partenariat que piloter un programme RGPD ou Sapin II.",
+    "experience": [
+      {
+        "title": "Juriste senior et DPO",
+        "company": "Océane Digital Santé",
+        "location": "Nantes",
+        "dates": "2023 – aujourd'hui",
+        "bullets": [
+          "Rédaction et négociation des contrats clients (établissements de santé) et partenaires",
+          "Déléguée à la protection des données : registre des traitements, AIPD, réponses aux demandes d'accès",
+          "Accompagnement de la certification HDS et des appels d'offres publics",
+          "Formation des équipes produit au RGPD et à la sécurité des données de santé"
+        ]
+      },
+      {
+        "title": "Juriste corporate et conformité",
+        "company": "Erdre Assurances Mutuelles",
+        "location": "Nantes",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Secrétariat juridique de trois filiales et préparation des conseils d'administration",
+          "Déploiement du dispositif anticorruption Sapin II : cartographie des risques et code de conduite"
+        ]
+      },
+      {
+        "title": "Juriste droit des affaires",
+        "company": "Atlantique Logistique SAS",
+        "location": "Saint-Herblain",
+        "dates": "2018 – 2020",
+        "bullets": [
+          "Contrats de transport et de prestations logistiques, gestion des précontentieux"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "DU Délégué à la protection des données",
+        "school": "Université de Rennes",
+        "dates": "2021",
+        "details": ""
+      },
+      {
+        "degree": "Master 2 Droit des affaires",
+        "school": "Nantes Université",
+        "dates": "2016 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Droit des contrats, contrats commerciaux",
+      "RGPD, AIPD, registre des traitements",
+      "Loi Sapin II, cartographie des risques",
+      "Hébergement de données de santé (HDS)",
+      "Droit des sociétés, secrétariat juridique",
+      "Marchés publics"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)",
+      "Espagnol (notions)"
+    ],
+    "certifications": [
+      "Certification DPO (CNIL, référentiel), 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

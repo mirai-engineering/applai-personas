@@ -1,0 +1,93 @@
+{
+  "slug": "n102-ca-accounting",
+  "level": "intern",
+  "profession": "accounting",
+  "band": "0-2",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Accounting Intern"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Junior Accountant"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Maxime Hébert",
+    "headline": "Étudiant en commerce, concentration comptabilité | Stagiaire en comptabilité",
+    "contact": {
+      "email": "maxime.hebert@example.com",
+      "phone": "+1 416 0000 102",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Étudiant franco-ontarien en dernière année de baccalauréat, en voie vers le titre de CPA. Expérience pratique de la tenue de livres et des rapprochements dans un cabinet comptable et un organisme communautaire, et à l'aise pour travailler avec des clients en français et en anglais.",
+    "experience": [
+      {
+        "title": "Stagiaire en comptabilité (stage d'été)",
+        "company": "Cabinet Lavoie Desrosiers CPA",
+        "location": "Toronto, ON",
+        "dates": "mai 2026 – août 2026",
+        "bullets": [
+          "Préparation de mission d'examen pour une douzaine de PME clientes sous les NCECF",
+          "Rapprochements bancaires mensuels et écritures de régularisation dans QuickBooks Online et Caseware",
+          "Préparation des déclarations de TVH pour quatre clients, vérifiées par le gestionnaire"
+        ]
+      },
+      {
+        "title": "Commis comptable à temps partiel",
+        "company": "Coopérative alimentaire La Fourchette franco",
+        "location": "Toronto, ON",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Saisie des factures fournisseurs et suivi des comptes clients dans Sage 50",
+          "Inventaire trimestriel et soutien à la préparation des états financiers annuels"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat spécialisé en économie et commerce (concentration comptabilité)",
+        "school": "Collège universitaire Glendon, Université York",
+        "dates": "2023 – 2027",
+        "details": "Moyenne : A-; Prix du doyen 2025"
+      }
+    ],
+    "skills": [
+      "Tenue de livres, rapprochements bancaires, comptes fournisseurs",
+      "NCECF (ASPE), notions d'IFRS",
+      "QuickBooks Online, Sage 50, Caseware",
+      "Excel : tableaux croisés, RECHERCHEX",
+      "TVH et retenues à la source"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "Bénévolat : trésorier de l'association étudiante de Glendon (2025 – 2026)"
+    ]
+  }
+}
