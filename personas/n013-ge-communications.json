@@ -1,0 +1,101 @@
+{
+  "slug": "n013-ge-communications",
+  "level": "senior",
+  "profession": "communications",
+  "band": "8-12",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Leiter Unternehmenskommunikation"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Communications"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Engineer"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Felix Arnold",
+    "headline": "Unternehmenskommunikation | Pressearbeit | Finanzbranche",
+    "contact": {
+      "email": "felix.arnold@example.com",
+      "phone": "+49 152 0000 013",
+      "location": "Frankfurt am Main",
+      "links": []
+    },
+    "summary": "Kommunikationsfachmann mit elf Jahren Erfahrung in Journalismus, Kulturstiftung und Versicherungswirtschaft. Ich verantworte die externe und interne Kommunikation eines Rückversicherers und berate den Vorstand in der Pressearbeit.",
+    "experience": [
+      {
+        "title": "Leiter Unternehmenskommunikation",
+        "company": "Taunus Rückversicherung AG",
+        "location": "Frankfurt am Main",
+        "dates": "2020 – heute",
+        "bullets": [
+          "Führung eines Teams von sechs Mitarbeitenden für Presse, Intranet und Social Media",
+          "Neuaufstellung der internen Kommunikation mit einem neuen Intranet für 1.400 Beschäftigte",
+          "Krisenkommunikation bei Großschadenereignissen und Abstimmung mit dem Vorstand",
+          "Erstellung des Geschäftsberichts gemeinsam mit Investor Relations"
+        ]
+      },
+      {
+        "title": "Pressesprecher",
+        "company": "Hessische Kulturstiftung Rhein-Main",
+        "location": "Wiesbaden",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Pressearbeit für Ausstellungen und Förderprogramme; Medienresonanz um 35 % gesteigert",
+          "Redaktion des Jahresberichts und der Website"
+        ]
+      },
+      {
+        "title": "Volontär und Redakteur Wirtschaft",
+        "company": "Offenbacher Rundschau",
+        "location": "Offenbach am Main",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Berichterstattung über Unternehmen und Kommunalpolitik in der Region"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.A. Politikwissenschaft",
+        "school": "Goethe-Universität Frankfurt am Main",
+        "dates": "2010 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Pressearbeit und Krisenkommunikation",
+      "Interne Kommunikation, Change-Kommunikation",
+      "Corporate Publishing, Geschäftsbericht",
+      "LinkedIn, Staffbase, Meltwater"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)",
+      "Französisch (gut)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

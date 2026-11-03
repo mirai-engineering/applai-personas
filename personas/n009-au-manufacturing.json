@@ -1,0 +1,105 @@
+{
+  "slug": "n009-au-manufacturing",
+  "level": "mid",
+  "profession": "manufacturing",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Production Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Operations Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Primary School Teacher"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Hannah Bui",
+    "headline": "Production Manager | Plastics & Food Manufacturing | Lean",
+    "contact": {
+      "email": "hannah.bui@example.com",
+      "phone": "+61 412 0000 009",
+      "location": "Melbourne, VIC",
+      "links": []
+    },
+    "summary": "Production leader with seven years in food and plastics manufacturing. Returned to work in 2025 after a two-year career break caring for a family member, and completed a Lean refresher before taking on my current role.",
+    "experience": [
+      {
+        "title": "Production Manager",
+        "company": "Westgate Polymer Products",
+        "location": "Altona, VIC",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Run three shifts and 48 operators across injection moulding and assembly",
+          "Introduced daily tiered meetings and visual boards on the shop floor",
+          "Reduced scrap on the main line from 4.1% to 2.6% in the first nine months",
+          "Work with maintenance on a preventive schedule for 22 presses"
+        ]
+      },
+      {
+        "title": "Production Supervisor",
+        "company": "Dandenong Precision Foods",
+        "location": "Dandenong South, VIC",
+        "dates": "2018 – 2022",
+        "bullets": [
+          "Supervised a ready-meals line of 25 staff under HACCP and BRC requirements",
+          "Led a changeover reduction project that saved 40 minutes per shift"
+        ]
+      },
+      {
+        "title": "Graduate Process Engineer",
+        "company": "Southbank Packaging Co.",
+        "location": "Port Melbourne, VIC",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Collected OEE data and supported line trials for new packaging formats"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (Mechanical)",
+        "school": "Swinburne University of Technology",
+        "dates": "2013 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Lean manufacturing, 5S, SMED",
+      "OEE and shift reporting",
+      "HACCP, BRCGS",
+      "SAP PP, Excel",
+      "WHS and team leadership"
+    ],
+    "languages": [
+      "English (native)",
+      "Vietnamese (fluent)"
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt, 2019",
+      "Lean Leadership refresher (online), 2024"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2022 – 2024: full-time carer for a family member"
+    ]
+  }
+}

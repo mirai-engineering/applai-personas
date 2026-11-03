@@ -1,0 +1,98 @@
+{
+  "slug": "n016-au-supply-chain",
+  "level": "mid",
+  "profession": "supply chain",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Inventory Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Registered Nurse"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Oliver Barnes",
+    "headline": "Supply Chain Analyst | Pharmaceutical Distribution",
+    "contact": {
+      "email": "oliver.barnes@example.com",
+      "phone": "+61 434 0000 016",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Supply chain analyst with eight years in freight, retail and pharmaceutical distribution. I work on inventory, replenishment and reporting, and like turning messy warehouse data into decisions.",
+    "experience": [
+      {
+        "title": "Supply Chain Analyst",
+        "company": "Harbourline Pharmacy Distribution",
+        "location": "Sydney, NSW",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Maintain replenishment parameters for 12,000 SKUs across two distribution centres",
+          "Built a Power BI service-level dashboard used in the weekly operations meeting",
+          "Analysed stock-outs during PBS listing changes and proposed new buffer rules",
+          "Support the annual network review with freight cost modelling"
+        ]
+      },
+      {
+        "title": "Inventory Analyst",
+        "company": "Parramatta Home & Hardware",
+        "location": "Parramatta, NSW",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Reduced aged stock by A$2.3M through clearance and range reviews",
+          "Coordinated stocktakes across 30 stores"
+        ]
+      },
+      {
+        "title": "Graduate Logistics Coordinator",
+        "company": "Botany Freight Services",
+        "location": "Botany, NSW",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Booked import containers and tracked customs clearance"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Commerce (Business Analytics)",
+        "school": "UNSW Sydney",
+        "dates": "2015 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Inventory optimisation, replenishment",
+      "SAP S/4HANA, Manhattan WMS",
+      "Power BI, SQL, Excel",
+      "Freight cost modelling"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "n017-sw-product-marketing",
+  "level": "senior",
+  "profession": "product marketing",
+  "band": "8-12",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Produktmanager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Projektleiter Bau"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Simone Aebischer",
+    "headline": "Senior Product Marketing Manager | In-vitro-Diagnostik | Go-to-Market",
+    "contact": {
+      "email": "simone.aebischer@example.com",
+      "phone": "+41 79 0000 017",
+      "location": "Basel",
+      "links": []
+    },
+    "summary": "Biologin mit elf Jahren Erfahrung in Produktmanagement und Produktmarketing für Labordiagnostik. Verantwortlich für Positionierung, Markteinführungen und Vertriebsunterlagen in Europa und Asien.",
+    "experience": [
+      {
+        "title": "Senior Product Marketing Manager",
+        "company": "Rheinknie Diagnostics AG",
+        "location": "Basel",
+        "dates": "2021 – heute",
+        "bullets": [
+          "Globale Markteinführung einer Immunoassay-Plattform in 24 Ländern",
+          "Entwicklung von Positionierung, Messaging und Wettbewerbsanalysen für den Aussendienst",
+          "Steigerung der Lead-Konversion aus Fachkongressen um 20 % durch neue Demo-Formate",
+          "Enge Zusammenarbeit mit Regulatory Affairs zur Konformität mit der IVDR"
+        ]
+      },
+      {
+        "title": "Product Marketing Manager",
+        "company": "Birsfelden Labtech AG",
+        "location": "Birsfelden",
+        "dates": "2017 – 2021",
+        "bullets": [
+          "Erstellung von Produktbroschüren, Webinaren und Schulungen für Distributoren",
+          "Marktanalysen für neue Reagenzien-Kits"
+        ]
+      },
+      {
+        "title": "Junior Produktmanagerin",
+        "company": "Jura MedTech GmbH",
+        "location": "Delémont",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Pflege des Produktportfolios und Koordination von Kundenfeedback"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Molekularbiologie",
+        "school": "Universität Basel",
+        "dates": "2012 – 2014",
+        "details": ""
+      },
+      {
+        "degree": "B.Sc. Biologie",
+        "school": "Universität Bern",
+        "dates": "2009 – 2012",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Go-to-Market-Strategie, Positionierung",
+      "Wettbewerbs- und Marktanalyse",
+      "IVDR, Medizinprodukte-Umfeld",
+      "Salesforce, HubSpot",
+      "Sales Enablement"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fliessend)",
+      "Französisch (gut)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

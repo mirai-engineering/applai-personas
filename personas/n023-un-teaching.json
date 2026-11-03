@@ -1,0 +1,117 @@
+{
+  "slug": "n023-un-teaching",
+  "level": "senior",
+  "profession": "teaching",
+  "band": "8-12",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Secondary English Teacher"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Department"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Project Coordinator"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Rachel Ashworth",
+    "headline": "English Teacher & Head of Department | KS3–KS5",
+    "contact": {
+      "email": "rachel.ashworth@example.com",
+      "phone": "+44 7700 0000 023",
+      "location": "Manchester",
+      "links": []
+    },
+    "summary": "Qualified English teacher with eleven years in UK secondary schools, a year teaching English abroad and a stint in edtech curriculum design. Now leading an English department and focused on reading and literacy across the school.",
+    "experience": [
+      {
+        "title": "Head of English",
+        "company": "Salford Quays Academy",
+        "location": "Salford",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Lead a department of 9 teachers across KS3 to A level",
+          "Introduced a whole-school reading programme for Year 7 and 8",
+          "GCSE English Language grade 4+ rose from 58% to 66% in the first year",
+          "Line-manage two early career teachers"
+        ]
+      },
+      {
+        "title": "Teacher of English (supply and maternity cover)",
+        "company": "Various schools via Northern Supply Teachers",
+        "location": "Greater Manchester",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Long-term covers in three schools, including a year 11 exam class"
+        ]
+      },
+      {
+        "title": "Curriculum Developer",
+        "company": "LearnNorth Edtech Ltd",
+        "location": "Manchester",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Wrote online KS3 English units and assessment materials"
+        ]
+      },
+      {
+        "title": "Teacher of English",
+        "company": "Stockport Grange High School",
+        "location": "Stockport",
+        "dates": "2015 – 2021",
+        "bullets": [
+          "Taught KS3–KS5 English Language and Literature; second in department from 2019",
+          "Ran the school debating club"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "PGCE Secondary English",
+        "school": "University of Manchester",
+        "dates": "2014 – 2015",
+        "details": "QTS"
+      },
+      {
+        "degree": "BA English Literature",
+        "school": "University of Leeds",
+        "dates": "2010 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Curriculum planning, KS3–KS5",
+      "Assessment and moderation (AQA)",
+      "Literacy and reading interventions",
+      "Behaviour management",
+      "Google Classroom, Arbor"
+    ],
+    "languages": [
+      "English (native)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": [
+      "TEFL teacher, Valencia, 2013 – 2014"
+    ]
+  }
+}

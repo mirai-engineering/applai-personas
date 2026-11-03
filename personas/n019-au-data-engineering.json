@@ -1,0 +1,107 @@
+{
+  "slug": "n019-au-data-engineering",
+  "level": "mid",
+  "profession": "data engineering",
+  "band": "5-8",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "BI Developer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Mechanical Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Arjun Balasubramanian",
+    "headline": "Data Engineer | Azure, dbt, Spark | BI & Analytics",
+    "contact": {
+      "email": "arjun.balasubramanian@example.com",
+      "phone": "+61 445 0000 019",
+      "location": "Sydney, NSW",
+      "links": []
+    },
+    "summary": "Data engineer with seven years in health insurance, retail and the public sector. I started in BI and reporting, so I can work as a data engineer building pipelines or as a BI developer close to the business.",
+    "experience": [
+      {
+        "title": "Data Engineer",
+        "company": "Coogee Health Insurance",
+        "location": "Sydney, NSW",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Build batch and streaming pipelines in Azure Data Factory, Databricks and Spark",
+          "Modelled the claims data mart in dbt; report refresh time dropped from 6 hours to 40 minutes",
+          "Introduced data quality tests and alerting with Great Expectations",
+          "Work with actuaries on member and claims datasets"
+        ]
+      },
+      {
+        "title": "BI Developer / Data Analyst",
+        "company": "Southern Cross Retail Group",
+        "location": "North Sydney, NSW",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Built Power BI dashboards for store performance used by 200 managers",
+          "Wrote SQL stored procedures for the sales data warehouse"
+        ]
+      },
+      {
+        "title": "Graduate Data Analyst",
+        "company": "Harbour City Water Authority",
+        "location": "Sydney, NSW",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Prepared water usage reports and cleaned meter data"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Data Science",
+        "school": "University of Sydney",
+        "dates": "2016 – 2018",
+        "details": ""
+      },
+      {
+        "degree": "B.Tech Information Technology",
+        "school": "Anna University",
+        "dates": "2012 – 2016",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Azure Data Factory, Databricks, Spark",
+      "dbt, SQL, Python",
+      "Power BI, DAX",
+      "Great Expectations, Git, Azure DevOps"
+    ],
+    "languages": [
+      "English (fluent)",
+      "Tamil (native)"
+    ],
+    "certifications": [
+      "Microsoft Certified: Azure Data Engineer Associate, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

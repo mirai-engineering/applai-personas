@@ -1,0 +1,99 @@
+{
+  "slug": "n011-un-key-account-management",
+  "level": "senior",
+  "profession": "key account management",
+  "band": "8-12",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "National Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Data Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Derek Abernathy",
+    "headline": "Senior Key Account Manager | CPG Snacks | Grocery & Mass Channels",
+    "contact": {
+      "email": "derek.abernathy@example.com",
+      "phone": "+1 312 0000 011",
+      "location": "Chicago, IL",
+      "links": []
+    },
+    "summary": "Consumer goods sales professional with eleven years in snacks and beverages. Manage national grocery accounts, joint business plans and trade spend, working with category, supply and finance teams.",
+    "experience": [
+      {
+        "title": "Senior Key Account Manager",
+        "company": "Lakeshore Snack Brands",
+        "location": "Chicago, IL",
+        "dates": "2020 – Present",
+        "bullets": [
+          "Own two national grocery accounts worth $68M in annual net sales",
+          "Grew distribution by 140 items through a category reset proposal backed by IRI data",
+          "Build joint business plans and manage a $9M trade budget",
+          "Partner with demand planning on promotional volume forecasts"
+        ]
+      },
+      {
+        "title": "Key Account Manager",
+        "company": "Prairie Gold Foods",
+        "location": "Oak Brook, IL",
+        "dates": "2017 – 2020",
+        "bullets": [
+          "Managed regional grocery chains in the Midwest",
+          "Negotiated annual pricing and promotional calendars"
+        ]
+      },
+      {
+        "title": "Territory Sales Representative",
+        "company": "Midwest Beverage Distributors",
+        "location": "Milwaukee, WI",
+        "dates": "2015 – 2017",
+        "bullets": [
+          "Called on 120 convenience and independent grocery stores"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Marketing",
+        "school": "University of Illinois Urbana-Champaign",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Joint business planning",
+      "Trade promotion management",
+      "Circana (IRI), Nielsen",
+      "Salesforce, Excel",
+      "Negotiation"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

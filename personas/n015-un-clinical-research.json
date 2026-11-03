@@ -1,0 +1,103 @@
+{
+  "slug": "n015-un-clinical-research",
+  "level": "senior",
+  "profession": "clinical research",
+  "band": "8-12",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Clinical Research Associate"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Clinical Data Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Product Designer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Grace Ahn",
+    "headline": "Senior CRA | Oncology Trials | Clinical Data Management",
+    "contact": {
+      "email": "grace.ahn@example.com",
+      "phone": "+1 206 0000 015",
+      "location": "Seattle, WA",
+      "links": []
+    },
+    "summary": "Clinical research professional with eleven years in site monitoring and clinical data. I started in data coordination before moving into monitoring, and I am open to senior CRA or clinical data management roles.",
+    "experience": [
+      {
+        "title": "Senior Clinical Research Associate",
+        "company": "Cascadia Clinical Partners",
+        "location": "Seattle, WA",
+        "dates": "2021 – Present",
+        "bullets": [
+          "Monitor Phase II/III oncology studies at 9 sites across WA, OR and ID",
+          "Conduct SIVs, IMVs and close-out visits under ICH-GCP E6(R2)",
+          "Lead source data verification planning with the data management team",
+          "Mentor three CRAs and review their visit reports"
+        ]
+      },
+      {
+        "title": "Clinical Research Associate II",
+        "company": "Puget Sound Oncology Research",
+        "location": "Bellevue, WA",
+        "dates": "2018 – 2021",
+        "bullets": [
+          "Managed site start-up for 6 studies; reduced activation time by 3 weeks on average",
+          "Tracked protocol deviations and CAPAs"
+        ]
+      },
+      {
+        "title": "Clinical Data Coordinator",
+        "company": "Evergreen Medical Center Research Institute",
+        "location": "Seattle, WA",
+        "dates": "2015 – 2018",
+        "bullets": [
+          "Built and cleaned eCRFs in REDCap and Medidata Rave",
+          "Wrote data validation checks and query reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BS Biology",
+        "school": "University of Washington",
+        "dates": "2011 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "ICH-GCP, 21 CFR Part 11",
+      "Medidata Rave, REDCap, Veeva Vault CTMS",
+      "Site monitoring and SDV",
+      "Data cleaning, query management",
+      "SAS (basic)"
+    ],
+    "languages": [
+      "English (native)",
+      "Korean (fluent)"
+    ],
+    "certifications": [
+      "ACRP Certified Professional (ACRP-CP), 2019"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "n005-un-product-management",
+  "level": "mid",
+  "profession": "product management",
+  "band": "5-8",
+  "location": "United Kingdom",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Product Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Senior Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "HR Advisor"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Priya Bhatt",
+    "headline": "Product Manager – Payments & Onboarding",
+    "contact": {
+      "email": "priya.bhatt@example.com",
+      "phone": "+44 7700 0000 005",
+      "location": "London",
+      "links": []
+    },
+    "summary": "Product manager with seven years in fintech and insurance, the last four owning customer onboarding and payments products. I work closely with engineering and design on discovery, experiments and delivery.",
+    "experience": [
+      {
+        "title": "Product Manager",
+        "company": "Kestrel Pay Ltd",
+        "location": "London",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Own the merchant onboarding product for 18,000 small businesses",
+          "Redesigned KYC flow with design and compliance; onboarding completion rose from 61% to 74%",
+          "Run discovery interviews and A/B tests with Amplitude and Optimizely",
+          "Set quarterly OKRs and roadmap with two squads of engineers"
+        ]
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "Brightmoor Insurance Group",
+        "location": "London",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Launched self-service policy amendments in the customer portal",
+          "Wrote PRDs and managed the backlog for a team of six"
+        ]
+      },
+      {
+        "title": "Graduate Business Analyst",
+        "company": "Brightmoor Insurance Group",
+        "location": "Bristol",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Analysed call-centre data to find drivers of policy cancellations"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Economics",
+        "school": "University of Warwick",
+        "dates": "2015 – 2018",
+        "details": "First Class Honours"
+      }
+    ],
+    "skills": [
+      "Product discovery, roadmapping, OKRs",
+      "A/B testing, Amplitude, Optimizely",
+      "Payments, KYC/AML basics, Open Banking",
+      "Jira, Figma, SQL"
+    ],
+    "languages": [
+      "English (native)",
+      "Gujarati (conversational)",
+      "Hindi (conversational)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

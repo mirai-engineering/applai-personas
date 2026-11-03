@@ -1,0 +1,101 @@
+{
+  "slug": "n025-ca-software-engineering",
+  "level": "mid",
+  "profession": "software engineering",
+  "band": "5-8",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Développeur logiciel"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Software Engineer"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Comptable"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Mathilde Beaulieu",
+    "headline": "Développeuse logicielle | TypeScript, Go | Cartographie et géodonnées",
+    "contact": {
+      "email": "mathilde.beaulieu@example.com",
+      "phone": "+1 604 0000 025",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Développeuse avec sept ans d'expérience, d'abord dans le jeu vidéo puis dans les logiciels de cartographie. Je travaille sur le back-end et le front-end et j'aime les problèmes de performance avec de gros volumes de données.",
+    "experience": [
+      {
+        "title": "Développeuse logicielle",
+        "company": "Granville Cartographie inc.",
+        "location": "Vancouver",
+        "dates": "2022 – aujourd'hui",
+        "bullets": [
+          "Développement de services en Go pour le rendu de tuiles vectorielles",
+          "Refonte de l'éditeur de cartes en React et TypeScript avec l'équipe produit",
+          "Réduction de la latence de l'API de recherche de 45 % grâce à PostGIS et à la mise en cache",
+          "Revues de code et mentorat de deux développeurs juniors"
+        ]
+      },
+      {
+        "title": "Développeuse logicielle junior",
+        "company": "Studio Kitsilano Jeux",
+        "location": "Vancouver",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Outils internes en C# pour les équipes de conception de niveaux",
+          "Automatisation des builds avec Jenkins"
+        ]
+      },
+      {
+        "title": "Stagiaire en développement",
+        "company": "Laboratoire Infonuagique Québec",
+        "location": "Montréal",
+        "dates": "2018",
+        "bullets": [
+          "Prototype d'un tableau de bord de supervision pour des serveurs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en génie logiciel",
+        "school": "Polytechnique Montréal",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Go, TypeScript, React",
+      "PostgreSQL, PostGIS, Redis",
+      "Docker, Kubernetes, GitHub Actions",
+      "C#, Jenkins",
+      "Tests automatisés"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

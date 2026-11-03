@@ -1,0 +1,112 @@
+{
+  "slug": "n006-me-supply-chain",
+  "level": "senior",
+  "profession": "supply chain",
+  "band": "8-12",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Demand Planner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Graphic Designer"
+  ],
+  "output_languages": [
+    "en",
+    "es"
+  ],
+  "cv": {
+    "name": "Rodrigo Barragán",
+    "headline": "Senior Supply Chain Analyst | Electronics Manufacturing | S&OP",
+    "contact": {
+      "email": "rodrigo.barragan@example.com",
+      "phone": "+52 33 0000 006",
+      "location": "Guadalajara, Jalisco",
+      "links": []
+    },
+    "summary": "Industrial engineer with eleven years across agro-export, freelance logistics consulting and electronics manufacturing. I move between planning, inventory and import/export roles and bring a hands-on view of the whole chain.",
+    "experience": [
+      {
+        "title": "Senior Supply Chain Analyst",
+        "company": "Occidente Electronics Manufacturing",
+        "location": "Guadalajara",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Run the monthly S&OP data pack for three customer programs",
+          "Built a safety-stock model in Python and Excel that cut excess inventory by USD 1.2M",
+          "Coordinate with buyers and production planning on component shortages",
+          "Maintain MRP parameters in SAP for 4,000+ part numbers"
+        ]
+      },
+      {
+        "title": "Demand Planner",
+        "company": "Flex",
+        "location": "Guadalajara",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Forecasted demand for a telecom customer using statistical models in Kinaxis",
+          "Improved forecast accuracy from 68% to 79% over four quarters"
+        ]
+      },
+      {
+        "title": "Logistics Consultant (freelance)",
+        "company": "Self-employed",
+        "location": "Guadalajara",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Set up warehouse processes and IMMEX compliance for two small exporters"
+        ]
+      },
+      {
+        "title": "Import/Export Coordinator, previously Inventory Analyst",
+        "company": "Agroexportadora Ciénega S.A. de C.V.",
+        "location": "Ocotlán, Jalisco",
+        "dates": "2015 – 2020",
+        "bullets": [
+          "Managed berry export documentation to the US and customs brokers",
+          "Ran cycle counts and inventory reconciliation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ingeniería Industrial",
+        "school": "ITESO",
+        "dates": "2010 – 2015",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "S&OP, demand planning, MRP",
+      "SAP MM/PP, Kinaxis RapidResponse",
+      "Python, SQL, Power BI",
+      "IMMEX, customs, Incoterms 2020"
+    ],
+    "languages": [
+      "Spanish (native)",
+      "English (professional)"
+    ],
+    "certifications": [
+      "APICS CPIM, 2022"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

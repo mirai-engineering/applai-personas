@@ -1,0 +1,120 @@
+{
+  "slug": "n004-fr-business-analysis",
+  "level": "junior",
+  "profession": "business analysis",
+  "band": "2-5",
+  "location": "France",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Business Analyst"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Chef de cuisine"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Camille Arnaud",
+    "headline": "Business Analyst | Insurance & Digital Processes | ex-Hospitality Operations",
+    "contact": {
+      "email": "camille.arnaud@example.com",
+      "phone": "+33 6 12 0000 004",
+      "location": "Paris",
+      "links": []
+    },
+    "summary": "Business analyst with two years in insurance digital projects after six years in hotel operations. I turned a front-office background in guest processes and complaint handling into requirements work, process mapping and SQL reporting.",
+    "experience": [
+      {
+        "title": "Business Analyst",
+        "company": "Batignolles Mutuelle Digitale",
+        "location": "Paris",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Write user stories and acceptance criteria for the online claims journey with a Scrum team of eight",
+          "Mapped the home-insurance claims process in BPMN and cut handover steps from 14 to 9",
+          "Build SQL queries and Power BI views to track claim cycle times",
+          "Run workshops with claims handlers and the IT supplier to prioritise the backlog"
+        ]
+      },
+      {
+        "title": "Junior Business Analyst (fixed-term)",
+        "company": "Septentrion Conseil",
+        "location": "Paris",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Supported requirements gathering for a CRM rollout at a regional bank"
+        ]
+      },
+      {
+        "title": "Front Office Supervisor",
+        "company": "Hôtel Le Marais Céleste",
+        "location": "Paris",
+        "dates": "2018 – 2023",
+        "bullets": [
+          "Supervised a team of 7 receptionists in a 120-room hotel",
+          "Led the switch to a new property management system and trained staff on it"
+        ]
+      },
+      {
+        "title": "Receptionist",
+        "company": "Résidence Opéra Grand Hôtel",
+        "location": "Paris",
+        "dates": "2017 – 2018",
+        "bullets": [
+          "Guest check-in, billing and complaint handling in French, English and Spanish"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Business Analysis Certificate (part-time)",
+        "school": "CNAM Paris",
+        "dates": "2022 – 2023",
+        "details": "Requirements engineering, UML/BPMN, SQL"
+      },
+      {
+        "degree": "BTS Management en Hôtellerie-Restauration",
+        "school": "Lycée Jean Drouant, Paris",
+        "dates": "2015 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Requirements elicitation, user stories",
+      "BPMN 2.0, process mapping",
+      "SQL, Power BI, Excel",
+      "Jira, Confluence",
+      "Workshop facilitation"
+    ],
+    "languages": [
+      "French (native)",
+      "English (fluent, C1)",
+      "Spanish (intermediate)"
+    ],
+    "certifications": [
+      "IIBA ECBA, 2023",
+      "Professional Scrum Product Owner I, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "n021-ir-construction",
+  "level": "junior",
+  "profession": "construction",
+  "band": "2-5",
+  "location": "Ireland",
+  "region": "UK/IE",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Construction Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Site Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Executive"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Aoife Brennan",
+    "headline": "Assistant Construction Manager | Residential & Commercial",
+    "contact": {
+      "email": "aoife.brennan@example.com",
+      "phone": "+353 85 0000 021",
+      "location": "Galway",
+      "links": []
+    },
+    "summary": "Civil engineer with three years on site and a recent return to construction after a career break. Back on site since 2025 on a mixed-use development and keen to grow into a construction manager role.",
+    "experience": [
+      {
+        "title": "Assistant Construction Manager",
+        "company": "Corrib Building Contractors",
+        "location": "Galway",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Coordinate subcontractors on a 64-unit residential and retail scheme",
+          "Prepare the two-week lookahead programme and daily site diaries",
+          "Run toolbox talks and support the safety officer with RAMS reviews"
+        ]
+      },
+      {
+        "title": "Site Engineer",
+        "company": "Connacht Civil Works Ltd",
+        "location": "Athenry, Co. Galway",
+        "dates": "2020 – 2023",
+        "bullets": [
+          "Set out foundations and drainage for school and housing projects",
+          "Managed quality records and snag lists to handover"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BE Civil Engineering",
+        "school": "University of Galway",
+        "dates": "2016 – 2020",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Programme planning (Asta Powerproject)",
+      "Setting out, Leica total station",
+      "Safety management, RAMS",
+      "AutoCAD, Procore"
+    ],
+    "languages": [
+      "English (native)",
+      "Irish (intermediate)"
+    ],
+    "certifications": [
+      "Safe Pass",
+      "Site Safety Management (CIF), 2025"
+    ],
+    "projects": [],
+    "extra_sections": [
+      "Career break 2023 – 2025: travel and family commitments"
+    ]
+  }
+}

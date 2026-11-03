@@ -1,0 +1,100 @@
+{
+  "slug": "n020-sp-customer-success",
+  "level": "junior",
+  "profession": "customer success",
+  "band": "2-5",
+  "location": "Spain",
+  "region": "EU",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Customer Success Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Ingeniero civil"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Laia Bosch Ferrer",
+    "headline": "Customer Success Manager | SaaS para hostelería",
+    "contact": {
+      "email": "laia.bosch@example.com",
+      "phone": "+34 622 0000 020",
+      "location": "Barcelona",
+      "links": []
+    },
+    "summary": "Profesional de Customer Success con cuatro años de experiencia en empresas SaaS de reservas y hostelería. Me encargo de la incorporación de clientes, la adopción del producto y la renovación de contratos, con un trato cercano con cada cuenta.",
+    "experience": [
+      {
+        "title": "Customer Success Manager",
+        "company": "Tramuntana SaaS S.L.",
+        "location": "Barcelona",
+        "dates": "2024 – actualidad",
+        "bullets": [
+          "Gestión de una cartera de 70 cadenas de restaurantes en España y Portugal",
+          "Reducción del churn anual del 14 % al 9 % con revisiones trimestrales de negocio",
+          "Coordinación con el equipo de producto para priorizar las peticiones de los clientes",
+          "Formaciones de onboarding para nuevos clientes en español, catalán e inglés"
+        ]
+      },
+      {
+        "title": "Customer Success Associate",
+        "company": "Gràcia Bookings S.L.",
+        "location": "Barcelona",
+        "dates": "2022 – 2024",
+        "bullets": [
+          "Soporte de segundo nivel y seguimiento de la adopción con Intercom y HubSpot"
+        ]
+      },
+      {
+        "title": "Prácticas en Atención al Cliente",
+        "company": "Gràcia Bookings S.L.",
+        "location": "Barcelona",
+        "dates": "2021 – 2022",
+        "bullets": [
+          "Atención de consultas de hoteles por teléfono y chat"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Grado en Administración y Dirección de Empresas",
+        "school": "Universitat Pompeu Fabra",
+        "dates": "2017 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Onboarding y adopción de producto",
+      "HubSpot, Intercom, Zendesk",
+      "QBRs y gestión de renovaciones",
+      "Análisis de métricas (NRR, churn) en Excel"
+    ],
+    "languages": [
+      "Catalán (nativo)",
+      "Español (nativo)",
+      "Inglés (C1)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

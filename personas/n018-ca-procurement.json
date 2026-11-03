@@ -1,0 +1,103 @@
+{
+  "slug": "n018-ca-procurement",
+  "level": "senior",
+  "profession": "procurement",
+  "band": "8-12",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "fr",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Spécialiste en approvisionnement"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Supply Chain Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Développeur web"
+  ],
+  "output_languages": [
+    "fr",
+    "en"
+  ],
+  "cv": {
+    "name": "Étienne Bouchard",
+    "headline": "Spécialiste principal en approvisionnement | Chaîne d'approvisionnement | Énergie",
+    "contact": {
+      "email": "etienne.bouchard@example.com",
+      "phone": "+1 416 0000 018",
+      "location": "Toronto, ON",
+      "links": []
+    },
+    "summary": "Professionnel des achats et de la chaîne d'approvisionnement avec douze ans d'expérience au Québec et en Ontario. Je combine la négociation de contrats stratégiques avec la planification des stocks et je peux évoluer vers l'un ou l'autre de ces métiers.",
+    "experience": [
+      {
+        "title": "Spécialiste principal en approvisionnement",
+        "company": "Énergie Humber inc.",
+        "location": "Toronto",
+        "dates": "2020 – aujourd'hui",
+        "bullets": [
+          "Gestion des appels d'offres pour les services d'entretien et les pièces de réseau, budget annuel de 85 M$",
+          "Négociation de contrats-cadres sur trois ans avec une économie de 6,4 M$",
+          "Mise en place d'une évaluation des fournisseurs avec des indicateurs de délai et de qualité",
+          "Accompagnement des équipes d'ingénierie pour la rédaction des devis techniques"
+        ]
+      },
+      {
+        "title": "Analyste chaîne d'approvisionnement",
+        "company": "Distribution Alimentaire Laurentienne",
+        "location": "Montréal",
+        "dates": "2016 – 2020",
+        "bullets": [
+          "Planification des stocks pour deux centres de distribution",
+          "Analyse des coûts de transport et révision des itinéraires avec le service logistique"
+        ]
+      },
+      {
+        "title": "Acheteur",
+        "company": "Métallurgie Beauce ltée",
+        "location": "Saint-Georges",
+        "dates": "2014 – 2016",
+        "bullets": [
+          "Achat de matières premières et suivi des commandes auprès des fournisseurs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Baccalauréat en administration des affaires (gestion des opérations)",
+        "school": "HEC Montréal",
+        "dates": "2010 – 2013",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Appels d'offres, négociation de contrats",
+      "Gestion des fournisseurs",
+      "Planification des stocks",
+      "SAP Ariba, SAP MM",
+      "Excel avancé, Power BI"
+    ],
+    "languages": [
+      "Français (langue maternelle)",
+      "Anglais (courant)"
+    ],
+    "certifications": [
+      "SCMP – Supply Chain Canada, 2018"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "n014-sw-mechanical-engineering",
+  "level": "mid",
+  "profession": "mechanical engineering",
+  "band": "5-8",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Mechanical Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Project Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Accountant"
+  ],
+  "output_languages": [
+    "en",
+    "fr"
+  ],
+  "cv": {
+    "name": "Luca Bianchi",
+    "headline": "Mechanical Design Engineer & Technical Project Lead | Precision Instruments",
+    "contact": {
+      "email": "luca.bianchi@example.com",
+      "phone": "+41 78 0000 014",
+      "location": "Geneva",
+      "links": []
+    },
+    "summary": "Mechanical engineer with seven years designing precision mechanisms, and two years leading customer projects end to end. Open to roles in mechanical design or in technical project management.",
+    "experience": [
+      {
+        "title": "Mechanical Design Engineer / Project Lead",
+        "company": "Salève Precision Instruments SA",
+        "location": "Plan-les-Ouates",
+        "dates": "2022 – Present",
+        "bullets": [
+          "Lead customer projects for optical positioning stages from offer to delivery, budgets up to CHF 1.5M",
+          "Design mechanisms in SolidWorks with tolerance stack-ups and FEA in ANSYS",
+          "Coordinate suppliers, assembly and test; on-time delivery rose from 72% to 90%",
+          "Prepare risk registers and weekly reports for customers"
+        ]
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Rhône Microtechnique Sàrl",
+        "location": "Meyrin",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Designed fixtures and small assemblies for watch component production",
+          "Wrote work instructions and supported ISO 9001 audits"
+        ]
+      },
+      {
+        "title": "Technical Student, Mechanical Engineering",
+        "company": "CERN",
+        "location": "Meyrin",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Supported design reviews of vacuum chamber supports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MSc Mechanical Engineering",
+        "school": "EPFL",
+        "dates": "2017 – 2019",
+        "details": ""
+      },
+      {
+        "degree": "BSc Mechanical Engineering",
+        "school": "EPFL",
+        "dates": "2014 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "SolidWorks, Creo, ANSYS",
+      "GD&T, tolerance analysis",
+      "Project planning, MS Project",
+      "Supplier management",
+      "ISO 9001"
+    ],
+    "languages": [
+      "Italian (native)",
+      "French (fluent)",
+      "English (fluent)",
+      "German (basic)"
+    ],
+    "certifications": [
+      "PRINCE2 Foundation, 2023"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

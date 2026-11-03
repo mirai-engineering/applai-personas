@@ -1,0 +1,99 @@
+{
+  "slug": "n012-au-marketing",
+  "level": "junior",
+  "profession": "marketing",
+  "band": "2-5",
+  "location": "Australia",
+  "region": "AU",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Marketing Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Brand Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Civil Engineer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Chloe Atkinson",
+    "headline": "Marketing Manager | Food & Beverage | Tourism",
+    "contact": {
+      "email": "chloe.atkinson@example.com",
+      "phone": "+61 423 0000 012",
+      "location": "Brisbane, QLD",
+      "links": []
+    },
+    "summary": "Marketer with four years in tourism and craft beverages. I run brand, social and events marketing for a growing brewery and enjoy small teams where I can work on everything from campaigns to packaging briefs.",
+    "experience": [
+      {
+        "title": "Marketing Manager",
+        "company": "Moreton Bay Craft Brewing",
+        "location": "Brisbane, QLD",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Own the marketing plan and a A$350K annual budget",
+          "Launched a seasonal range with a social campaign reaching 410K people",
+          "Brief the design agency on packaging and point-of-sale",
+          "Manage the taproom events calendar and partnerships"
+        ]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "company": "Redcliffe Tourism Collective",
+        "location": "Redcliffe, QLD",
+        "dates": "2022 – 2025",
+        "bullets": [
+          "Ran social media and the email newsletter for 60 member businesses",
+          "Coordinated the annual festival campaign with local council"
+        ]
+      },
+      {
+        "title": "Marketing Assistant (part-time)",
+        "company": "Fortitude Valley Arts Centre",
+        "location": "Brisbane, QLD",
+        "dates": "2020 – 2021",
+        "bullets": [
+          "Updated website content and event listings"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business (Marketing)",
+        "school": "Queensland University of Technology",
+        "dates": "2018 – 2021",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Brand and campaign planning",
+      "Meta Ads, Google Ads",
+      "Mailchimp, Canva",
+      "Event marketing",
+      "Budget tracking"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

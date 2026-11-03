@@ -1,0 +1,104 @@
+{
+  "slug": "n010-ge-project-management",
+  "level": "exec",
+  "profession": "project management",
+  "band": "12+",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Head of PMO"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Programmdirektor"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Steuerberater"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Katrin Bergmann",
+    "headline": "Bereichsleiterin Projektmanagement & PMO | Bahn- und Verkehrstechnik",
+    "contact": {
+      "email": "katrin.bergmann@example.com",
+      "phone": "+49 160 0000 010",
+      "location": "Berlin",
+      "links": []
+    },
+    "summary": "Diplom-Ingenieurin mit über siebzehn Jahren Erfahrung in der Leitung großer Infrastrukturprojekte. Verantwortung für das Projektportfolio eines Bahntechnik-Unternehmens, Führung von Projektleitern und Aufbau standardisierter Projektprozesse.",
+    "experience": [
+      {
+        "title": "Bereichsleiterin Projektmanagement / PMO",
+        "company": "Spreeport Verkehrstechnik GmbH",
+        "location": "Berlin",
+        "dates": "2019 – heute",
+        "bullets": [
+          "Leitung des Projektportfolios mit 35 Projekten und einem Volumen von rund 480 Mio. €",
+          "Führung von 18 Projektleiterinnen und Projektleitern sowie dem zentralen PMO",
+          "Einführung eines einheitlichen Projektcontrollings mit Earned-Value-Kennzahlen",
+          "Mitglied der Geschäftsleitung für Angebotsfreigaben und Risikomanagement"
+        ]
+      },
+      {
+        "title": "Senior Projektleiterin",
+        "company": "Havelwerk Bahnsysteme AG",
+        "location": "Hennigsdorf",
+        "dates": "2013 – 2019",
+        "bullets": [
+          "Gesamtprojektleitung für Stellwerkserneuerungen mit Budgets bis 60 Mio. €",
+          "Abstimmung mit Auftraggebern, Eisenbahn-Bundesamt und Subunternehmern"
+        ]
+      },
+      {
+        "title": "Projektleiterin",
+        "company": "Lausitzer Anlagenbau GmbH",
+        "location": "Cottbus",
+        "dates": "2009 – 2013",
+        "bullets": [
+          "Abwicklung von Projekten zur Fahrleitungsmontage nach VOB"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Dipl.-Ing. Verkehrswesen",
+        "school": "Technische Universität Berlin",
+        "dates": "2003 – 2009",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Portfolio- und Multiprojektmanagement",
+      "Earned Value Management, Risikomanagement",
+      "VOB/B, HOAI",
+      "MS Project, Primavera P6",
+      "Führung und Personalentwicklung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [
+      "IPMA Level B – Certified Senior Project Manager, 2015",
+      "PMP, 2012"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

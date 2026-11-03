@@ -1,0 +1,117 @@
+{
+  "slug": "n003-un-tax",
+  "level": "mid",
+  "profession": "tax",
+  "band": "5-8",
+  "location": "United States",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Tax Consultant"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Tax Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Software Developer"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Marcus Bellamy",
+    "headline": "Tax Consultant | Federal & Multistate Income Tax | CPA",
+    "contact": {
+      "email": "marcus.bellamy@example.com",
+      "phone": "+1 404 0000 003",
+      "location": "Atlanta, GA",
+      "links": []
+    },
+    "summary": "CPA with seven years in public accounting, industry tax and freelance preparation. Comfortable with partnership and C-corp returns, multistate nexus reviews and ASC 740 provision work.",
+    "experience": [
+      {
+        "title": "Senior Tax Consultant",
+        "company": "Peachtree Ridge Advisory LLC",
+        "location": "Atlanta, GA",
+        "dates": "2024 – Present",
+        "bullets": [
+          "Prepare and review federal and multistate returns (1065, 1120, 1120-S) for mid-market clients",
+          "Lead state nexus studies for e-commerce clients; identified $310K in voluntary disclosure exposure",
+          "Support quarterly ASC 740 provision for two privately held manufacturers",
+          "Coach two staff associates on workpaper standards"
+        ]
+      },
+      {
+        "title": "Tax Analyst",
+        "company": "Southern Pines Freight Inc.",
+        "location": "Atlanta, GA",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Owned sales and use tax filings across 11 states",
+          "Moved fixed-asset depreciation tracking from spreadsheets into Bloomberg Tax Fixed Assets"
+        ]
+      },
+      {
+        "title": "Independent Tax Preparer",
+        "company": "Self-employed",
+        "location": "Decatur, GA",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Prepared individual and small-business returns for about 90 clients"
+        ]
+      },
+      {
+        "title": "Staff Accountant, Tax",
+        "company": "Harlan & Mercer CPAs",
+        "location": "Marietta, GA",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Prepared partnership and individual returns in CCH ProSystem fx",
+          "Assisted with IRS notice responses"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Taxation",
+        "school": "Georgia State University",
+        "dates": "2020 – 2022",
+        "details": "Part-time, evenings"
+      },
+      {
+        "degree": "BBA, Accounting",
+        "school": "Kennesaw State University",
+        "dates": "2015 – 2019",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Federal and multistate income tax",
+      "ASC 740 / tax provision",
+      "Sales & use tax",
+      "CCH Axcess, ProSystem fx, Bloomberg Tax",
+      "Excel, Alteryx"
+    ],
+    "languages": [
+      "English (native)"
+    ],
+    "certifications": [
+      "Certified Public Accountant (Georgia), 2021"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

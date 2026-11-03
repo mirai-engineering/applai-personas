@@ -1,0 +1,94 @@
+{
+  "slug": "n022-ge-digital-marketing",
+  "level": "junior",
+  "profession": "digital marketing",
+  "band": "2-5",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Digital Marketing Specialist"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Performance Marketing Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Logistics Coordinator"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Mehmet Aydın",
+    "headline": "Digital Marketing Specialist | E-Commerce | SEA & CRM",
+    "contact": {
+      "email": "mehmet.aydin@example.com",
+      "phone": "+49 176 0000 022",
+      "location": "Munich",
+      "links": []
+    },
+    "summary": "Digital marketer with three years in e-commerce for outdoor and travel brands. I run paid search, social ads and email campaigns, and I like working with analytics to decide where the next euro goes.",
+    "experience": [
+      {
+        "title": "Digital Marketing Specialist",
+        "company": "Schwabing Outdoor GmbH",
+        "location": "Munich",
+        "dates": "2023 – Present",
+        "bullets": [
+          "Manage Google Ads and Meta campaigns for the DACH online shop",
+          "Raised ROAS from 3.1 to 4.4 by restructuring Shopping campaigns",
+          "Set up email automation flows in Klaviyo for cart recovery and post-purchase",
+          "Track performance in GA4 and Looker Studio"
+        ]
+      },
+      {
+        "title": "Working Student Online Marketing",
+        "company": "Isar Travel Tech GmbH",
+        "location": "Munich",
+        "dates": "2021 – 2023",
+        "bullets": [
+          "Supported SEO content and keyword research for travel landing pages",
+          "Prepared weekly campaign reports"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. International Business",
+        "school": "Munich Business School",
+        "dates": "2019 – 2022",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Google Ads, Meta Ads Manager",
+      "GA4, Looker Studio, Google Tag Manager",
+      "Klaviyo, Shopify",
+      "SEO basics, A/B testing"
+    ],
+    "languages": [
+      "German (native)",
+      "Turkish (native)",
+      "English (fluent)"
+    ],
+    "certifications": [
+      "Google Ads Search Certification, 2024"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "n008-me-sales",
+  "level": "mid",
+  "profession": "sales",
+  "band": "5-8",
+  "location": "Mexico",
+  "region": "LATAM",
+  "cv_language": "es",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Ejecutivo de Cuentas"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Gerente de Ventas"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Contador"
+  ],
+  "output_languages": [
+    "es",
+    "en"
+  ],
+  "cv": {
+    "name": "Daniela Benavides Garza",
+    "headline": "Ejecutiva de Cuentas | Software B2B para manufactura",
+    "contact": {
+      "email": "daniela.benavides@example.com",
+      "phone": "+52 81 0000 008",
+      "location": "Monterrey, Nuevo León",
+      "links": []
+    },
+    "summary": "Ejecutiva comercial con ocho años de experiencia en ventas B2B, primero en empaques industriales y después en software de gestión para plantas. Manejo el ciclo completo de venta, desde la prospección hasta el cierre y la renovación con el cliente.",
+    "experience": [
+      {
+        "title": "Ejecutiva de Cuentas",
+        "company": "Nubra Software de Gestión",
+        "location": "Monterrey",
+        "dates": "2022 – actualidad",
+        "bullets": [
+          "Gestión de una cartera de 45 clientes del sector manufactura en el noreste del país",
+          "Cumplimiento de la cuota anual al 118 % en 2024 y al 104 % en 2025",
+          "Demostraciones del producto y negociación de contratos con gerentes de planta y compras",
+          "Seguimiento del pipeline en HubSpot con el equipo de preventa"
+        ]
+      },
+      {
+        "title": "Ejecutiva de Ventas",
+        "company": "Empaques Regiomontanos S.A. de C.V.",
+        "location": "San Nicolás de los Garza",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Atención de clientes de la industria de alimentos y bebidas con pedidos recurrentes",
+          "Apertura de 12 cuentas nuevas en Saltillo y Reynosa"
+        ]
+      },
+      {
+        "title": "Representante de Desarrollo de Negocio",
+        "company": "Empaques Regiomontanos S.A. de C.V.",
+        "location": "San Nicolás de los Garza",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Prospección telefónica y calificación de prospectos para el equipo de ventas"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licenciatura en Mercadotecnia",
+        "school": "Universidad Autónoma de Nuevo León",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Venta consultiva B2B, negociación",
+      "HubSpot CRM, Salesforce",
+      "Prospección y gestión de pipeline",
+      "Presentaciones ejecutivas"
+    ],
+    "languages": [
+      "Español (nativo)",
+      "Inglés (avanzado)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

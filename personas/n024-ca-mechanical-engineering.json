@@ -1,0 +1,108 @@
+{
+  "slug": "n024-ca-mechanical-engineering",
+  "level": "exec",
+  "profession": "mechanical engineering",
+  "band": "12+",
+  "location": "Canada",
+  "region": "US",
+  "cv_language": "en",
+  "layout": "dense",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "VP Engineering"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Director of Engineering"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Financial Analyst"
+  ],
+  "output_languages": [
+    "en"
+  ],
+  "cv": {
+    "name": "Nathan Boyd",
+    "headline": "VP Engineering | Marine & Hydraulic Systems | P.Eng.",
+    "contact": {
+      "email": "nathan.boyd@example.com",
+      "phone": "+1 604 0000 024",
+      "location": "Vancouver, BC",
+      "links": []
+    },
+    "summary": "Mechanical engineer and engineering executive with eighteen years in marine, hydraulic and forestry equipment. Lead multidisciplinary engineering teams and own product development budgets and certification.",
+    "experience": [
+      {
+        "title": "VP Engineering",
+        "company": "Fraser River Marine Systems",
+        "location": "Delta, BC",
+        "dates": "2019 – Present",
+        "bullets": [
+          "Lead 60 engineers and technicians across mechanical, electrical and controls",
+          "Own an annual R&D budget of C$11M and the product roadmap with the CEO",
+          "Delivered a hybrid-electric winch line now 25% of revenue",
+          "Set up stage-gate development and DNV certification processes"
+        ]
+      },
+      {
+        "title": "Director of Mechanical Engineering",
+        "company": "Coast Mountain Hydraulics",
+        "location": "Burnaby, BC",
+        "dates": "2013 – 2019",
+        "bullets": [
+          "Built the mechanical design group from 8 to 22 engineers",
+          "Moved CAD and PDM to SolidWorks and SOLIDWORKS PDM"
+        ]
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Pacific Rim Forestry Equipment",
+        "location": "Surrey, BC",
+        "dates": "2008 – 2013",
+        "bullets": [
+          "Designed boom and hydraulic components for log loaders"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BASc Mechanical Engineering",
+        "school": "University of British Columbia",
+        "dates": "2004 – 2008",
+        "details": ""
+      },
+      {
+        "degree": "MBA (part-time)",
+        "school": "Simon Fraser University",
+        "dates": "2015 – 2017",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Engineering leadership, budgeting",
+      "Stage-gate product development",
+      "Hydraulics, marine systems",
+      "DNV, CSA standards",
+      "SolidWorks, PDM"
+    ],
+    "languages": [
+      "English (native)",
+      "French (basic)"
+    ],
+    "certifications": [
+      "P.Eng., Engineers and Geoscientists BC"
+    ],
+    "projects": [],
+    "extra_sections": []
+  }
+}

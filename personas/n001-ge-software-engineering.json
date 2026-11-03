@@ -1,0 +1,101 @@
+{
+  "slug": "n001-ge-software-engineering",
+  "level": "junior",
+  "profession": "software engineering",
+  "band": "2-5",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Software Engineer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Vertriebsmitarbeiter"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Jonas Albrecht",
+    "headline": "Softwareentwickler Backend | Python & Java | Datenanalyse",
+    "contact": {
+      "email": "jonas.albrecht@example.com",
+      "phone": "+49 157 0000 001",
+      "location": "Düsseldorf",
+      "links": []
+    },
+    "summary": "Informatiker mit gut drei Jahren Berufserfahrung in der Backend-Entwicklung für Logistiksoftware. Davor zwei Jahre als Werkstudent in der Datenanalyse eines Energieversorgers – ich bewerbe mich sowohl auf Entwickler- als auch auf Data-Analyst-Stellen.",
+    "experience": [
+      {
+        "title": "Softwareentwickler Backend",
+        "company": "Rheinkurve Logistiksoftware GmbH",
+        "location": "Düsseldorf",
+        "dates": "2023 – heute",
+        "bullets": [
+          "Entwicklung von REST-Services in Java/Spring Boot für die Tourenplanung von rund 300 Speditionskunden",
+          "Migration der Sendungsverfolgung von einem Monolithen auf Microservices mit Kafka und Docker",
+          "Aufbau eines Reporting-Moduls mit SQL und Python, das die manuelle Auswertung im Kundenservice ersetzt",
+          "Code-Reviews und Einarbeitung von zwei Werkstudierenden im Team"
+        ]
+      },
+      {
+        "title": "Junior Softwareentwickler",
+        "company": "Rheinkurve Logistiksoftware GmbH",
+        "location": "Düsseldorf",
+        "dates": "2022 – 2023",
+        "bullets": [
+          "Pflege der Schnittstellen zu Telematik-Anbietern; Fehlerquote bei Importen um 30 % gesenkt"
+        ]
+      },
+      {
+        "title": "Werkstudent Datenanalyse",
+        "company": "Niederrhein Energie AG",
+        "location": "Neuss",
+        "dates": "2020 – 2022",
+        "bullets": [
+          "Auswertung von Zählerdaten mit Python (pandas) und Aufbereitung in Power BI für die Netzplanung",
+          "Automatisierung eines monatlichen Excel-Berichts für den Vertrieb"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. Informatik",
+        "school": "Heinrich-Heine-Universität Düsseldorf",
+        "dates": "2018 – 2022",
+        "details": "Bachelorarbeit: Anomalieerkennung in Lastprofilen"
+      }
+    ],
+    "skills": [
+      "Java, Spring Boot, Python",
+      "SQL (PostgreSQL), pandas, Power BI",
+      "Kafka, Docker, GitLab CI",
+      "Scrum, Jira",
+      "Datenmodellierung"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (verhandlungssicher)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

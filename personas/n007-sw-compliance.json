@@ -1,0 +1,108 @@
+{
+  "slug": "n007-sw-compliance",
+  "level": "exec",
+  "profession": "compliance",
+  "band": "12+",
+  "location": "Switzerland",
+  "region": "EU",
+  "cv_language": "en",
+  "layout": "classic",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Chief Compliance Officer"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "Head of Regulatory Affairs"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Marketing Director"
+  ],
+  "output_languages": [
+    "en",
+    "de"
+  ],
+  "cv": {
+    "name": "Thomas Baumgartner",
+    "headline": "Head of Compliance | Private Banking & Trade Finance | AML, FINMA",
+    "contact": {
+      "email": "thomas.baumgartner@example.com",
+      "phone": "+41 79 0000 007",
+      "location": "Zurich",
+      "links": []
+    },
+    "summary": "Compliance leader with eighteen years in Swiss banking. Built and led compliance functions under FINMA supervision covering AML, sanctions, cross-border and conduct risk, and represented the bank with regulators and auditors.",
+    "experience": [
+      {
+        "title": "Head Compliance (MD, ExCo-1)",
+        "company": "Limmat Privatbank AG",
+        "location": "Zurich",
+        "dates": "2019 – Present",
+        "bullets": [
+          "Lead a compliance and AML team of 22 across Zurich, Geneva and Lugano",
+          "Steered the remediation programme after a FINMA on-site review; all findings closed within 14 months",
+          "Introduced a risk-based client review model covering 9,000 relationships",
+          "Report quarterly to the Board's Audit & Risk Committee"
+        ]
+      },
+      {
+        "title": "Director, Regulatory Compliance / Dep. CCO",
+        "company": "Helvetic Trade Finance SA",
+        "location": "Geneva",
+        "dates": "2013 – 2019",
+        "bullets": [
+          "Built the sanctions screening framework for commodity trade finance",
+          "Managed the relationship with the external audit firm"
+        ]
+      },
+      {
+        "title": "VP – Compliance Advisory (AML Officer)",
+        "company": "UBS",
+        "location": "Zurich",
+        "dates": "2008 – 2013",
+        "bullets": [
+          "Advised wealth management desks on cross-border rules and KYC"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Law (MLaw)",
+        "school": "University of Zurich",
+        "dates": "2003 – 2008",
+        "details": ""
+      },
+      {
+        "degree": "CAS Compliance Management",
+        "school": "HWZ Hochschule für Wirtschaft Zürich",
+        "dates": "2011",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "FINMA circulars, AMLA/GwG",
+      "Sanctions (SECO, OFAC, EU)",
+      "Cross-border and conduct risk",
+      "Regulatory change management",
+      "Board reporting"
+    ],
+    "languages": [
+      "German (native)",
+      "English (fluent)",
+      "French (fluent)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}

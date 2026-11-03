@@ -1,0 +1,102 @@
+{
+  "slug": "n002-ge-key-account-management",
+  "level": "mid",
+  "profession": "key account management",
+  "band": "5-8",
+  "location": "Germany",
+  "region": "EU",
+  "cv_language": "de",
+  "layout": "sidebar",
+  "searches": [
+    {
+      "name": "primary",
+      "roles": [
+        "Key Account Manager"
+      ]
+    },
+    {
+      "name": "adjacent",
+      "roles": [
+        "National Account Manager"
+      ]
+    },
+    {
+      "name": "open",
+      "roles": []
+    }
+  ],
+  "cross_check_roles": [
+    "Buchhalterin"
+  ],
+  "output_languages": [
+    "de",
+    "en"
+  ],
+  "cv": {
+    "name": "Sabine Brandl",
+    "headline": "Key Account Management LEH | Molkerei- und Getränkeprodukte | DACH",
+    "contact": {
+      "email": "sabine.brandl@example.com",
+      "phone": "+49 171 0000 002",
+      "location": "München",
+      "links": []
+    },
+    "summary": "Vertriebsprofi mit sieben Jahren Erfahrung im Lebensmitteleinzelhandel. Betreue Handelszentralen in Deutschland und Österreich für Jahresgespräche, Listungen und Aktionsplanung und arbeite eng mit Category Management und Marketing zusammen.",
+    "experience": [
+      {
+        "title": "Sr. Key Account Mgr. LEH / Teamlead DACH (AT-Angestellte)",
+        "company": "Alpenmolkerei Berchtold GmbH",
+        "location": "München",
+        "dates": "2022 – heute",
+        "bullets": [
+          "Verantwortung für drei Handelszentralen mit einem Nettoumsatz von rund 42 Mio. €",
+          "Führung der Jahresgespräche und Konditionsverhandlungen; Umsatzplus von 9 % im Jahr 2024",
+          "Neulistung der Bio-Linie in über 1.100 Filialen",
+          "Fachliche Führung von zwei Junior KAMs"
+        ]
+      },
+      {
+        "title": "KAM Getränkefachgroßhandel – Referentin Vertrieb",
+        "company": "Isarfrisch Getränke AG",
+        "location": "Freising",
+        "dates": "2019 – 2022",
+        "bullets": [
+          "Betreuung von 14 Großhandelskunden in Bayern und Baden-Württemberg",
+          "Planung und Nachverfolgung von Verkaufsförderungsaktionen mit Nielsen-Daten"
+        ]
+      },
+      {
+        "title": "Trainee Vertrieb / Jr. Key Acc.",
+        "company": "Isarfrisch Getränke AG",
+        "location": "Freising",
+        "dates": "2018 – 2019",
+        "bullets": [
+          "Rotation durch Außendienst, Category Management und Supply Chain"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Betriebswirtschaft (Schwerpunkt Marketing & Vertrieb)",
+        "school": "Hochschule München",
+        "dates": "2014 – 2018",
+        "details": ""
+      }
+    ],
+    "skills": [
+      "Jahresgespräche, Konditionssysteme, Listungsverhandlungen",
+      "Category Management, Nielsen, GfK",
+      "SAP SD, Salesforce",
+      "Trade-Marketing und Aktionsplanung",
+      "Excel (Pivot, SVERWEIS)"
+    ],
+    "languages": [
+      "Deutsch (Muttersprache)",
+      "Englisch (fließend)",
+      "Italienisch (Grundkenntnisse)"
+    ],
+    "certifications": [],
+    "projects": [],
+    "extra_sections": []
+  }
+}
